@@ -1,0 +1,835 @@
+---
+layout: page
+permalink: /articles/
+title: articles
+description: 
+nav: false
+---
+
+categories: [migration and forced displacements](/mfd/), [ICTs for better governance](/ict-bettergov/), [political economy](/political-economy/), [democratic erosion](/democratic-erosion/), [government fragmentation](/government-fragmentation/), [Identity](/identity/), and [conflict and crime](/conflict-and-crime/)
+
+
+
+
+#### All Papers
+(year wise order)
+
+
+<!---2022 Paper #1--->
+[44] **Locked Down, Lashing Out: Situational Triggers and Hateful Behavior Towards Minority Ethnic Immigrants.** (with Gemma Dipoppa, Stephanie Zonszein)   
+[***Journal of Politics***](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789339), 2022, accepted.
+<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3984521_code4588233.pdf?abstractid=3789339&mirid=1">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Covid-19 caused a significant health and economic crisis, a condition identified as conducive to stigmatization and hateful behavior against minority groups. It is however unclear whether the threat of infection triggers violence in addition to stigmatization, and whether a violent reaction can happen at the onset of an unexpected economic shock before social hierarchies can be disrupted. Using a novel database of hate crimes across Italy, we show that (i) hate crimes against Asians increased substantially at the pandemic onset, and that (ii) the increase was concentrated in cities with higher expected unemployment, but not higher mortality. We then examine individual, local and national mobilization as mechanisms. We find that (iii) a xenophobic national discourse and local far-right institutions motivate hate crimes, while we find no support for the role of individual prejudice. Our study identifies new conditions triggering hateful behavior, advancing our understanding of factors hindering migrant integration.
+</details>
+
+
+<br />
+
+
+<!---2022 Paper #2--->
+[43] **Liberal Displacement Policies Attract Forced Migrants in the Global South.** (with Christopher W. Blair, Jeremy M. Weinstein)   
+[***American Political Science Review***](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/liberal-displacement-policies-attract-forced-migrants-in-the-global-south/F6872E76FBB27F61B96B90193BDE9A1D), 2022, 116(1): pp.351-358.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/08/liberal-displacement-policies-attract-forced-migrants-in-the-global-south.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2021/08/BGW_APSR_SI.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AYBXMJ">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Most forced migrants around the world are displaced within the Global South. We study whether and how de jure policies on forced displacement affect where forced migrants flee in the developing world. Recent evidence from the Global North suggests migrants gravitate toward liberal policy environments. However, existing analyses expect de jure policies to have little effect in the developing world, given strong presumptions that policy enforcement is poor and policy knowledge is low. Using original data on de jure displacement policies for 92 developing countries and interviews with 126 refugees and policy makers, we document a robust association between liberal de jure policies and forced migrant flows. Gravitation toward liberal environments is conditional on factors that facilitate the diffusion of policy knowledge, such as transnational ethnic kin. Policies for free movement, services, and livelihoods are especially attractive. Utility-maximizing models of migrant decision making must take de jure policy provisions into account.
+</details>
+
+
+<br />
+
+
+<!---2022 Paper #3--->
+[42] **Government Responsiveness in Developing Countries.** (with Tara Slough)   
+[***Annual Review of Political Science***](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501), 2022, in-print.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/11/GS-annurev-polisci-2022.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+When and how do governments deliver public goods and services in response to citizen preferences? We review the current literature on government responsiveness, with a focus on public goods and service delivery in developing countries. We identify three types of actors that are commonly present in these accounts: politicians, bureaucrats, and citizens. Much of this literature examines interactions between dyads of these actors. The study of electoral accountability and constituency services emphasizes relationships between citizens (or voters) and politicians. Studies of bureaucratic incentives and political oversight of bureaucrats emphasize interactions between politicians and bureaucrats. Finally, studies of bureaucratic embeddedness and citizen oversight of bureaucrats elaborate the interactions between bureaucrats and citizens. We argue that an emerging literature that considers interactions between all three types of actors provides rich theoretical and empirical terrain for developing our understanding of responsiveness and accountability in low- and middle-income countries and beyond.
+</details>
+
+
+<br />
+
+
+<!---2022 Paper #4--->
+[41] **How the Ultra-Rich Use Media Ownership as a Political Investment.** (with Yotam Margalit, Tamar Mitts)   
+[***Journal of Politics***](https://www.journals.uchicago.edu/doi/10.1086/719415), 2022, forthcoming.
+<a href="https://web.sas.upenn.edu/ggros/files/2022/01/Manuscript-8.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2022/01/Online-appendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LJMNV9&faces-redirect=true">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Can the ultra-rich shape electoral results by controlling media outlets that openly propagate their political interests? How consumers discount slanted media coverage is a question gaining urgency as a growing number of billionaires mix ownership of major media outlets with business interests and political agendas. We study this question in the context of Israel, where billionaire Sheldon Adelson launched in 2007 Israel Hayom, a right-leaning newspaper. Handed out for free, it soon became the most widely read newspaper nationally. Utilizing local media exposure data since the launch, our analysis indicates that the newspaper exerted significant electoral influence, primarily benefiting Netanyahu and his Likud party. This shift helped bring about a sea-change in the right’s dominance of national politics. The findings highlight the immense impact the ultra-rich can exert in shaping politics through media ownership.
+</details>
+
+
+<br />
+
+
+<!---2022 Paper #5--->
+[40] **Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
+[***Comparative Political Studies***](https://journals.sagepub.com/doi/abs/10.1177/00104140211036048), 2022, forthcoming.
+<a href="https://web.sas.upenn.edu/ggros/files/2022/02/00104140211036048.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YEFRPC">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Who registers to vote? Although extensive research has examined the question of who votes, our understanding of the determinants of political participation will be limited until we know who is missing from the voter register. Studying voter registration in lower-income settings is particularly challenging due to data constraints. We link the official voter register with a complete social network census of 16 villages to analyze the correlates of voter registration in rural Uganda, examining the role of individual-level attributes and social ties. We find evidence that social ties are important for explaining registration status within and across households. Village leaders—and through them, household heads—play an important role in explaining the registration status of others in the village, suggesting a diffuse process of social influence. Socioeconomic factors such as income and education do not explain registration in this setting. Together these findings suggest an alternate theory of participation is required.
+</details>
+
+
+<br />
+
+
+<!---2022 Paper #6--->
+[39] **The Majoritarian Threat to Liberal Democracy.** (with Dorothy Kronick, Matthew Levendusky, Marc Meredith)   
+[***Journal of Experimental Political Science***](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85), 2022, 9(1): pp.36-45.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/01/the-majoritarian-threat-to-liberal-democracy.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2020/11/GKLM_JEPS_appendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4ECFT">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Incumbents often seek to wield power in ways that are formally legal but informally pro- scribed. Why do voters endorse these power grabs? Prior literature focuses on polarization. We propose instead that many voters are majoritarian, in that they view popularly elected leaders’ actions as inherently democratic – even when those actions undermine liberal democracy. We find support for this claim in two original survey experiments, arguing that majoritarians’ desire to give wide latitude to elected officials is an important but understudied threat to liberal democracy in the United States.
+</details>
+
+<br />
+
+
+<!---2021 Paper #1--->
+[37] **Forced Displacement and Asylum Policy in the Developing World.** (with Christopher W. Blair, Jeremy M. Weinstein)   
+[***International Organization***](https://www.cambridge.org/core/journals/international-organization/article/abs/forced-displacement-and-asylum-policy-in-the-developing-world/B89E49C17B0C96E9B9F5D234F190E77D), 2021, in-print.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/08/forced-displacement-and-asylum-policy-in-the-developing-world.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2021/04/DWRAP_Appendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OB6FHX">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Little theoretical or empirical work examines migration policy in the developing world. We develop and test a theory that distinguishes the drivers of policy reform and factors influencing the direction of reform. We introduce an original data set of de jure asylum and refugee policies covering more than ninety developing countries that are presently excluded from existing indices of migration policy. Examining descriptive trends in the data, we find that unlike in the global North, forced displacement policies in the global South have become more liberal over time. Empirically, we test the determinants of asylum policymaking, bolstering our quantitative results with qualitative evidence from interviews in Uganda. A number of key findings emerge. Intense, proximate civil wars are the primary impetus for asylum policy change in the global South. Liberalizing changes are made by regimes led by political elites whose ethnic kin confront discrimination or violence in neighboring countries. There is no generalizable evidence that developing countries liberalize asylum policy in exchange for economic assistance from Western actors. Distinct frameworks are needed to understand migration policymaking in developing versus developed countries.
+</details>
+
+<br />
+
+
+
+<!---2021 Paper #2--->
+[36] **Viral Voting: Social Networks and Political Participation.** (with Nicholas Eubank, Melina R. Platas, Jonathan Rodden)   
+[***Quarterly Journal of Political Science***](https://www.nowpublishers.com/article/Details/QJPS-19092), 2021, 16(3): pp. 265-284.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/07/EGPR_QJPS_2021.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://github.com/nickeubank/EGPR_SocialNetworksAndPoliticalParticipation">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Social context theory suggests that an important driver of political participation is the behavior of family, friends, co-workers and neighbors. How do social ties between individuals shape equilibrium behavior in larger populations? Despite theoretical inroads into this question, direct empirical tests remain scarce due to data limitations. We fill this gap using full social network data from 15 villages in rural Uganda, where village-level turnout is the outcome of interest. We find that levels of participation predicted by structural features of village networks are strongly associated with actual village-level turnout in low-salience local elections, and weakly associated in high-salience presidential elections. We also find that these features predict other forms of political participation, including attending village meetings and contributing to village projects. In addition to demonstrating that networks help explain political participation, we provide evidence that the mechanism of influence is that proposed by social context theory rather than alternative mechanisms like the presence of central brokers or the ability of networks to diffuse information.
+</details>
+
+<br />
+
+
+
+<!---2021 Paper #3--->
+[35] **The Americas: When Do Voters Support Power Grabs?** (with Michael Albertus)   
+[***Journal of Democracy***](https://muse.jhu.edu/article/787840), 2021, 32(2): pp. 116-131.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/04/AG_JoD_2021.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2021/01/AG_OnlineAppendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+This article examines the nature of democratic fragilities in the Americas through survey experiments in Argentina, Brazil, Mexico, and the United States. Encouragingly, strong majorities of citizens recognize violations of democratic principles, laws, and norms. Moreover, how incumbents justify antidemocratic actions has little impact on how citizens view them. Yet there are minorities, ranging from 10 to 35 percent of the population, who support efforts to erode democracy. And partisanship matters: Many individuals are seemingly "conditional democrats" who support antidemocratic actions if they voted for the incumbent. People are also reluctant to support impeachment for democratic violations, which creates an opening that would-be authoritarians can exploit.
+</details>
+
+
+
+<br />
+
+
+<!---2021 Paper #4--->
+[34] **Community policing does not build citizen trust in police or reduce crime in the Global South.** (with Graeme Blair, et al.)   
+[***Science***](https://www.science.org/doi/10.1126/science.abd3446), 2021, 374(6571): pp. 1046-1047.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/11/science.abd3446.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2021/11/science.abd3446_sm.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://osf.io/2juyz/">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Is it possible to reduce crime without exacerbating adversarial relationships between police and citizens? Community policing is a celebrated reform with that aim, which is now adopted on six continents. However, the evidence base is limited, studying reform components in isolation in a limited set of countries, and remaining largely silent on citizen-police trust. We designed six field experiments with Global South police agencies to study locally designed models of community policing using coordinated measures of crime and the attitudes and behaviors of citizens and police. In a preregistered meta-analysis, we found that these interventions led to mixed implementation, largely failed to improve citizen-police relations, and did not reduce crime. Societies may need to implement structural changes first for incremental police reforms such as community policing to succeed.
+</details>
+
+
+
+<br />
+
+
+
+
+<!---2020 Paper #1--->
+[33] **Information Technology and Political Engagement: Mixed Evidence from Uganda.** (with Macartan Humphreys, Gabriella Sacramone-Lutz)   
+[***Journal of Politics***](https://www.journals.uchicago.edu/doi/10.1086/708339), 2020, 82(4): pp. 1321-1336.
+<a href="https://web.sas.upenn.edu/ggros/files/2020/07/GHS_JoP_2020.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2019/05/GHS_OnlineAppendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<a href="https://egap.org/resource/brief-49-information-technology-and-political-engagement-in-uganda/">
+  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+This study integrates three related field experiments to learn about how information communications technology (ICT) innovations can affect who communicates with politicians. We implemented a nationwide experiment in Uganda following a smaller-scale framed field experiment that suggested that ICTs can lead to significant “flattening”: marginalized populations used short message service (SMS) based communication at relatively higher rates compared to existing political communication channels. We find no evidence for these effects in the national experiment. Instead, participation rates are extremely low, and marginalized populations engage at especially low rates. We examine possible reasons for these differences between the more controlled and the scaled-up experiments. The evidence suggests that even when citizens have issues they want to raise, technological fixes to communication deficits can be easily undercut by structural weaknesses in political systems.
+</details>
+
+
+
+<br />
+
+
+
+<!---2020 Paper #2--->
+[32] **The Effect of Election Proximity on Government Responsiveness and Citizens’ Participation: Evidence from English Local Elections.** (with Gemma Dipoppa)   
+[***Comparative Political Studies***](https://journals.sagepub.com/eprint/GV3U7V9SCKVJJJJNZBHP/full), 2020, 53(4): pp. 2183-2212.
+<a href="https://web.sas.upenn.edu/ggros/files/2020/05/Dipoppa_Grossman_CPS_2020.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://journals.sagepub.com/doi/suppl/10.1177/0010414020912290/suppl_file/DG_SI.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDAS7N">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Does political engagement depend on government responsiveness? Identifying the drivers of political action is challenging because it requires disentangling instrumental from expressive motives for engagement and because government responsiveness is likely endogenous. We overcome the first challenge by studying citizens’ reporting of street-problems—a form of participation arguably driven by instrumental considerations. We overcome the second challenge by taking advantage of variation in local elections timing in England’s district authorities. We report three key results. First, local governments address requests faster in the months leading to elections. Second, street-problem reporting increases in (pre)electoral periods. Third, the increase in requests sent in preelection periods is driven by districts in which government responsiveness is higher. These findings show that, individuals consider expected benefits when choosing to undertake at least some instrumental forms of participation. Our results also underscore the importance of temporal factors that increase the perceived benefits of one’s political engagement.
+</details>
+
+
+
+
+<br />
+
+
+<!---2020 Paper #3--->
+[31] **Political partisanship influences behavioral responses to governors’ recommendations for COVID-19 prevention in the United States.** (with Soojong Kim, Jonah M. Rexer, Harsha Thirumurthy)   
+[***Proceedings of the National Academy of Sciences***](https://www.pnas.org/content/early/2020/09/14/2007835117), 2020, 117(39): pp. 24144-24153.
+<a href="https://web.sas.upenn.edu/ggros/files/2020/09/GKRT_PNAS_2020.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2020/07/GKRT_OnlineAppendix.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataverse/COVID19governors/">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Voluntary physical distancing is essential for preventing the spread of COVID-19. We assessed the role of political partisanship in individuals’ compliance with physical distancing recommendations of political leaders using data on mobility from a sample of mobile phones in 3,100 counties in the United States during March 2020, county-level partisan preferences, information about the political affiliation of state governors, and the timing of their communications about COVID-19 prevention. Regression analyses examined how political preferences influenced the association between governors’ COVID-19 communications and residents’ mobility patterns. Governors’ recommendations for residents to stay at home preceded stay-at-home orders and led to a significant reduction in mobility that was comparable to the effect of the orders themselves. Effects were larger in Democratic- than in Republican-leaning counties, a pattern more pronounced under Republican governors. Democratic-leaning counties also responded more strongly to recommendations from Republican than from Democratic governors. Political partisanship influences citizens’ decisions to voluntarily engage in physical distancing in response to communications by their governor.
+</details>
+
+<br />
+
+
+
+<!---2019 Paper #1--->
+[30] **It Takes a Village: Peer Effects and Externalities in Technology Adoption.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
+[***American Journal of Political Science***](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471?campaign=wolearlyview), 2019, 64(3): pp. 536-553.
+<a href="https://web.sas.upenn.edu/ggros/files/2019/10/FGPR_AJPS_2019.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2019/10/FGPR_AJPS_SI.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NOYBCQ">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Do social networks matter for the adoption of new forms of political participation? We develop a formal model showing that the quality of communication that takes place in social networks is central to understanding whether a community will adopt forms of political participation where benefits are uncertain and where there are positive externalities associated with participation. Early adopters may exaggerate benefits, leading others to discount information about the technology's value. Thus, peer effects are likely to emerge only when informal institutions support truthful communication. We collect social network data for 16 Ugandan villages where an innovative mobile-based reporting platform was introduced. Consistent with our model, we find variation across villages in the extent of peer effects on technology adoption, as well as evidence supporting additional observable implications. Impediments to social diffusion may help explain the varied uptake of new and increasingly common political communication technologies around the world.
+</details>
+
+
+
+<br />
+
+
+
+<!---2019 Paper #2--->
+[29] **Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials.** (with Thad Dunning, et al.)   
+[***Science Advances***](https://www.science.org/doi/10.1126/sciadv.aaw2612), 2019, 5(7): pp. 1188-1192.
+<a href="https://web.sas.upenn.edu/ggros/files/2019/07/Dunning_eaaw2612_2019.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.science.org/doi/suppl/10.1126/sciadv.aaw2612/suppl_file/aaw2612_sm.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://github.com/egap/metaketa-i">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<a href="https://egap.org/resource/brief-59-information-and-accountability/">
+  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Voters may be unable to hold politicians to account if they lack basic information about their representatives’ performance. Civil society groups and international donors therefore advocate using voter information campaigns to improve democratic accountability. Yet, are these campaigns effective? Limited replication, measurement heterogeneity, and publication biases may undermine the reliability of published research. We implemented a new approach to cumulative learning, coordinating the design of seven randomized controlled trials to be fielded in six countries by independent research teams. Uncommon for multisite trials in the social sciences, we jointly preregistered a meta-analysis of results in advance of seeing the data. We find no evidence overall that typical, nonpartisan voter information campaigns shape voter behavior, although exploratory and subgroup analyses suggest conditions under which informational campaigns could be more effective. Such null estimated effects are too seldom published, yet they can be critical for scientific progress and cumulative, policy-relevant learning.
+</details>
+
+
+
+<br />
+
+
+<!---2019 Paper #4--->
+[28] **A Signaling Theory of Distributive Policy Choice: Evidence From Senegal.** (with Jessica Gottlieb, Horacio Larreguy, Benjamin Marx)   
+[*** Journal of Politics***](https://www.journals.uchicago.edu/doi/abs/10.1086/701833), 2019, 81(2): pp. 631-647.
+<a href="https://web.sas.upenn.edu/ggros/files/2019/09/GGLM_JoP_2019.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJ9E9M">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+A recent literature emphasizes political economy factors behind the wave of administrative splits across the developing world. While previous studies have focused on why some groups are more likely to obtain new administrative units, they do not explain why vote-maximizing incumbents use this arguably less efficient policy in the first place. We contribute to this literature by embedding administrative splits within incumbents’ broader electoral strategy of distributive policies. We develop a model in which incumbents target local public goods to groups for whom this is a credible signal of commitment, namely, those with a history of reciprocal relationship. When incumbents face increased electoral competition, however, other groups require a stronger signal, which is emitted by the costly creation of new units that reduces the cost of future transfers to those groups. We test our theory using electoral and public goods data from Senegal and find robust support for its predictions.
+</details>
+
+
+<br />
+
+
+<!---2019 Paper #5--->
+[27] **Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory.** (with Devorah Manekin, Tamar Mitts)   
+[***Political Science Research and Methods***](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/contested-ground-disentangling-material-and-symbolic-attachment-to-disputed-territory/51547A284177A0B4E84B76E1929A0C51), 2019, 7(4): pp. 679-697.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/MGM_PSRM_2018-14d7xw2.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GMM_Conjoint_SI_final-2jj5veu.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INCWQN">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Territorial disputes are prone to conflict because of the value of territory to publics, whether due to its strategic and material worth, or to its intangible, symbolic value. Yet despite the implications of the distinction for both theory and policy, empirically disentangling the material from the symbolic has posed formidable methodological challenges. We propose a set of tools for assessing the nature of individual territorial attachment, drawing on a series of survey experiments in Israel. Using these tools, we find that a substantial segment of the Jewish population is attached to the disputed West Bank territory for intangible reasons, consisting not only of far-right voters but also of voters of moderate-right and centrist parties. This distribution considerably narrows the bargaining space of leaders regardless of coalitional configurations. Our empirical analysis thus illustrates how the distribution of territorial preferences in the domestic population can have powerful implications for conflict and its resolution.
+</details>
+
+
+<br />
+
+
+<!---2019 Paper #6--->
+[26] **Border Walls and Smuggling Spillovers.** (with Anna Getmanskyn, Austin L. Wright)   
+[***Quarterly Journal of Political Science***](https://www.nowpublishers.com/article/Details/QJPS-18094), 2019, 14(3): pp. 329-347.
+<a href="https://web.sas.upenn.edu/ggros/files/2019/07/GGW_QJPS_2019.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2019/07/GGW_QJPS_app.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+A growing number of states are erecting physical barriers along their borders to stem the illicit flow of goods and people. Though border fortification policies are both controversial and politically salient, their distributional consequences remain largely unexplored. We study the impact of a border wall project on smuggling in Israel. We use the initial phase of the wall construction to causally estimate spillover effects on cross-border smuggling, especially vehicle theft. We find a large decrease in smuggling of stolen vehicles in protected towns and a similar substantial increase in not-yet-protected towns. For some protected towns, fortification also arbitrarily increased the length of smuggling routes. These township-level shocks further deterred smuggling (6% per kilometer). Our findings suggest that border fortification may have uneven distributional consequences, creating unintended winners and losers.
+</details>
+
+
+<br />
+
+
+
+<!---2019 Paper #7--->
+[25] **Information and electoral accountability.** (with Macartan Humphreys, Valerie Mueller)   
+[***Quarterly Journal of Political Science***](https://www.theigc.org/publication/information-and-electoral-accountability/), 2019, 14(3): pp. 329-347.
+<a href="https://www.theigc.org/wp-content/uploads/2019/12/IGCJ7744-IGC-Electoral-accountability-WEB.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Democracy is said to give citizens agency, as elections make it possible for them to remove poorly performing politicians. However, this only works if voters know how politicians are performing and are willing to base their vote on this information. This brief presents evidence on whether providing voters with better information on candidate performance affects their behaviour and strengthens electoral channels to better politician performance. Surprisingly, the evidence on the effects of information campaigns is very mixed.
+</details>
+
+
+
+<br />
+
+
+
+<!---2019 Paper #8--->
+[24] **Information, Accountability, and Cumulative Learning: Lessons from Metaketa I.** (with Thad Dunning, Macartan Humphreys, Susan D. Hyde, Craig McIntosh, Gareth Nellis)   
+[***Cambridge University Press (Cambridge Studies in Com- parative Politics series)***](https://www.cambridge.org/core/books/information-accountability-and-cumulative-learning/45DD58C16ED29DFFA9D69F0CF740EFB4), 2019.
+<details>
+  <summary>Description</summary>
+Throughout the world, voters lack access to information about politicians, government performance, and public services. Efforts to remedy these informational deficits are numerous. Yet do informational campaigns influence voter behavior and increase democratic accountability? Through the first project of the Metaketa Initiative, sponsored by the Evidence in Governance and Politics (EGAP) research network, this book aims to address this substantive question and at the same time introduce a new model for cumulative learning that increases coordination among otherwise independent researcher teams. It presents the overall results (using meta-analysis) from six independently conducted but coordinated field experimental studies, the results from each individual study, and the findings from a related evaluation of whether practitioners utilize this information as expected. It also discusses lessons learned from EGAP's efforts to coordinate field experiments, increase replication of theoretically important studies across contexts, and increase the external validity of field experimental research.
+</details>
+
+
+
+<br />
+
+
+
+[23] <!---2019 Book chapters #1--->
+**Leadership Selection Rules and Decentralized Governance.**    
+[***Decentralized Governance and Accountability: Academic Research and the Future of Donor Programming***](https://www.cambridge.org/core/books/decentralized-governance-and-accountability/F1766AE315D63C1935B82A69074DAEA1), eds. Erik Wibbles and Jonathan Rodden, 2019, chapter 3: pp. 40-60.
+<a href="https://web.sas.upenn.edu/ggros/files/2021/01/leadership_selection_rules_and_decentralized_governance.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+
+
+<br />
+
+
+
+<!---2018 Paper #3--->
+[22] **How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel.** (with Devorah Manekin, Yotam Margalit)   
+[***Comparative Political Studies***](https://journals.sagepub.com/eprint/FNVxKbKXwaPcIKUaPSnt/full), 2018, 51(14): pp. 1823–1857.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GMM_CPS_2018-1tmm0h5.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+How do economic sanctions affect the political attitudes of individuals in targeted countries? Do they reduce or increase support for policy change? Are targeted, “smart” sanctions more effective in generating public support? Despite the importance of these questions for understanding the effectiveness of sanctions, they have received little systematic attention. We address them drawing on original data from Israel, where the threat of economic sanctions has sparked a contentious policy debate. We first examine the political effects of the European Union’s (EU) 2015 decision to label goods produced in the West Bank, and then expand our analysis by employing a survey experiment that allows us to test the differential impact of sanction type and sender identity. We find that the EU’s decision produced a backlash effect, increasing support for hardline policies and raising hostility toward Europe. Our findings further reveal that individuals are likely to support concessions only in the most extreme and unlikely of circumstances—a comprehensive boycott imposed by a sender perceived as a key strategic ally. These results offer theoretical and policy implications for the study of the effects of economic sanctions.
+</details>
+
+
+<br />
+
+
+
+<!---2018 Paper #4--->
+[21] **Do Men and Women Have Different Policy Preferences in Africa? Determinants and Implications of Gender Gaps in Policy Prioritization.** (with Jessica Gottlieb, Amanda Lea Robinson)   
+[***British Journal of Political Science***](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/do-men-and-women-have-different-policy-preferences-in-africa-determinants-and-implications-of-gender-gaps-in-policy-prioritization/CE824A46AE39D05FC79900C50DCEC0C4), 2018, 48(3): pp. 611-638.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GGR_BJPS_2016-1sfw45k.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/bitl8mm9i8mkfvi/Appendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIWLCJ">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Policies designed to increase women’s representation in Africa are often motivated by the assumption that men and women have different policy preferences. This article finds that gender differences in policy priorities are actually quite small on average, but vary significantly across policy domains and countries. The study leverages this variation to show that the economic and social empowerment of women influences the size of gender gaps in the prioritization of two important domains. In particular, women’s participation in the labor force – an indicator of economic empowerment – narrows the gender gap in the prioritization of infrastructure investment and access to clean water, while social vulnerability widens the gap on prioritizing infrastructure investment. Finally, the article shows that the places where women and men have the most divergent policy preferences – and thus where formal representation is most important – are precisely the places where women are currently the most poorly represented and least active in formal politics.
+</details>
+
+
+
+<br />
+
+
+
+<!---2018 Paper #5--->
+[20] **Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.** (with Kristin Michelitch)   
+[***American Political Science Review***](http://bit.ly/2FTkhR6), 2018, 112(2): pp. 280-301.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GM_APSR_2018-1cw841a.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GM_APSR_SI-rfkjjc.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AI3VM8">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<a href="https://egap.org/resource/strengthening-local-political-accountability-through-information-in-uganda/">
+  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Politicians shirk when their performance is obscure to constituents. We theorize that when politician performance information is disseminated early in the electoral term, politicians will subsequently improve their performance in anticipation of changes in citizens’ evaluative criteria and possible challenger entry in the next election. However, politicians may only respond in constituencies where opposition has previously mounted. We test these predictions in partnership with a Ugandan civil society organization in a multiyear field experiment conducted in 20 district governments between the 2011 and 2016 elections. While the organization published yearly job duty performance scorecards for all incumbents, it disseminated the scorecards to constituents for randomly selected politicians. These dissemination efforts induced politicians to improve performance across a range of measures, but only in competitive constituencies. Service delivery was unaffected. We conclude that, conditional on electoral pressure, transparency can improve politicians’ performance between elections but not outcomes outside of their control.
+</details>
+
+
+
+<br />
+
+
+<!---2018 Paper #6--->
+[19] **Crowdsourcing Accountability: ICT for Service Delivery.** (with Melina R.Platas, Jonathan Roddenc)   
+[***World Development***](https://www.sciencedirect.com/science/article/pii/S0305750X18302286), 2018, 112: pp. 74-87.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GPR_WorldDevelopmwnt_2018-2cq65ir.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GPR_SI-17f4zpp.pdf">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FFBNBU">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+We examine the effect on service delivery outcomes of a new information communication technology (ICT) platform that allows citizens to send free and anonymous messages to local government officials, thus reducing the cost and increasing the efficiency of communication about public services. In particular, we use a field experiment to assess the extent to which the introduction of this ICT platform improved monitoring by the district, effort by service providers, and inputs at service points in health, education and water in Arua District, Uganda. We find suggestive evidence of a short-term improvement in some education services, but these effects deteriorate by year two of the program, and we find little or no evidence of an effect on health and water services at any period. Despite relatively high levels of system uptake, enthusiasm of district officials, and anecdotal success stories, we find that relatively few messages from citizens provided specific, actionable information about service provision within the purview and resource constraints of district officials, and users were often discouraged by officials’ responses. Our findings suggest that for crowd-sourced ICT programs to move from isolated success stories to long-term accountability enhancement, the quality and specific content of reports and responses provided by users and officials is centrally important.
+</details>
+
+
+<br />
+
+
+<!---2018 Paper #1--->
+[18] **Reflections on Challenges in Cumulative Learning from the Metaketa Initiative.** (with Thad Dunning, Macartan Humphreys, Susan D. Hyde, Craig McIntos)   
+[***The Political Economist***], 2018, Newsletter for APSA’s Political Economy Section.
+
+
+<br />
+
+
+<!---2018 Paper #2--->
+[17] **Does Information Technology Improve Public Service Delivery?** (with Melina Platas, Jonathan Rodden)   
+[***EGAP Policy Brief1***](https://egap.org/resource/does-information-technology-improve-public-service-delivery-lessons-from-uganda/), 2018, #51.
+
+<br />
+
+
+
+<!---2017 Paper #1--->
+[16] **Texting Complaints to Politicians: Name Personalization and Politicians’ Encouragement in Citizen Mobilization.** (with Kristin Michelitch, Marta Santamaria)   
+[***Comparative Political Studies***](https://journals.sagepub.com/doi/abs/10.1177/0010414016666862) 2017, 50(10): pp. 1325-1357.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GMS_CPS_2016-1p2x1ch.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Poor public service provision and government accountability is commonplace in low-income countries. Although mobile phone–based platforms have emerged to allow constituents to report service deficiencies to government officials, they have been plagued by low citizen participation. We question whether low participation may root in low political efficacy to politically participate. In the context of a text message–reporting platform in Uganda, we investigate the impact of adding efficacy-boosting language to mobilization texts—(a) citizen name personalization and (b) politician encouragement—on citizens’ willingness to report service deficiencies to politicians via text messages. Both treatments, designed to increase internal and external efficacy, respectively, have a large, positive effect on participation. The results are driven by traditionally less internally efficacious constituents (females) and less externally efficacious constituents (those represented by opposition party members), respectively.
+</details>
+
+
+<br />
+
+
+<!---2017 Paper #2--->
+[15] **Government Fragmentation and Public Goods Provision.** (with Jan H. Pierskalla, Emma Boswell Dean)   
+[***Journal of Politics***](https://www.journals.uchicago.edu/doi/abs/10.1086/690305) 2017, 79(3): pp. 823-840.
+<a href="https://web.sas.upenn.edu/ggros/files/2017/05/JPD_JoP_2017-26e525l.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/v6wa1cizvtjhw7i/OnlineAppendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VS3CG6">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+We investigate the effects of territorial government fragmentation on the quality of public services. We argue that an increase in the number of regional governments has two effects: (1) it redistributes fiscal and administrative resources to underserved regions and (2) encourages yardstick competition. Extreme government fragmentation, however, limits efficiency gains by reducing administrative capacity, economies of scale, and enabling capture. We test this argument using original data on the number of regional governments in sub-Saharan Africa (1960–2012). Consistent with our theoretical expectations, we find robust evidence for an initial increase in the quality of services provision following regional government splits, which levels off at high levels of regional fragmentation. Three distinct difference-in-difference analyses of microlevel, georeferenced data on health outcomes in Malawi, Nigeria, and Uganda further support our theoretical argument.
+</details>
+
+<br />
+
+
+
+
+<!---2016 Paper #1--->
+[14] **Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes.** (with Keven Croke, Horacio A. Larreguy, John Marshall)   
+[***American Political Science Review***](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218), 2016, 110(3): pp. 579-600.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/CGLM_APSR_2016_final-1zk0r8z.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/enai4pestr4pomi/Zimbabwe_APSR_Revision_Appendix_v7.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Replication_APSR_2016-1r83kld.zip">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+A large literature examining advanced and consolidating democracies suggests that education increases political participation. However, in electoral authoritarian regimes, educated voters may instead deliberately disengage. If education increases critical capacities, political awareness, and support for democracy, educated citizens may believe that participation is futile or legitimizes autocrats. We test this argument in Zimbabwe—a paradigmatic electoral authoritarian regime—by exploiting cross-cohort variation in access to education following a major educational reform. We find that education decreases political participation, substantially reducing the likelihood that better-educated citizens vote, contact politicians, or attend community meetings. Consistent with deliberate disengagement, education’s negative effect on participation dissipated following 2008’s more competitive election, which (temporarily) initiated unprecedented power sharing. Supporting the mechanisms underpinning our hypothesis, educated citizens experience better economic outcomes, are more interested in politics, and are more supportive of democracy, but are also more likely to criticize the government and support opposition parties.
+</details>
+
+
+
+<br />
+
+
+<!---2016 Paper #2--->
+[13] **Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies.** (with Oren Gazal-Ayal, Samuel D. Pimentel, Jeremy M. Weinstein)   
+[***American Journal of Political Science***](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12187), 2016, 60(1): pp. 44–69.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GGPW_AJPS_2016-2j55od2.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/zijx54c1ykhy7ye/appendix_v6_w_corrected_tables.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28870">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+The extent to which judicial outcomes depend on judges' identities is a central question in multiethnic societies. Past work on the impact of the racial composition of appellate courts has narrowly focused on civil rights cases in the United States. We expand this literature by testing for ethnicity-based panel effects in criminal appeals in Israel. Using randomness in the assignment of cases to panels, we find that appeal outcomes for Jewish defendants are independent of panels' ethnic composition. By contrast, panel composition is highly consequential for Arab defendants, who receive more lenient punishments when their case is heard by a panel that includes at least one Arab judge, compared to all-Jewish panels. The magnitude of these effects is sizable: a 14–20% reduction in incarceration and a 15–26% reduction in prison sentencing. These findings contribute to recent debates on the relationship between descriptive representation and substantive outcomes in judicial bodies.
+</details>
+
+
+
+<br />
+
+
+<!---2015 Paper #1--->
+[12] **Renewalist Christianity and the Political Saliency of LGBTs: Theory and Evidence from Sub-Saharan Africa.**  
+[*** Journal of Politics***](https://www.journals.uchicago.edu/doi/abs/10.1086/679596), 2015, 77(2): pp. 337-351.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Grossman_JoP_2015-12k6ner.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/4wi56wd2ix9b3n9/OnlineAppendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I7KXPA">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+One key political development in the past decade in many, but not all, countries across Africa has been the growing saliency of morality politics in general, and of lesbian, gay, bisexual, and transgender (LGBT) politics in particular. I argue that the uneven upward trend in the political saliency of LGBTs is closely related to two recent political processes: (1) a rapid growth of Pentecostal, Evangelical, and related Renewalist or Spirit-filled churches (demand-side factor) and (2) a democratization process leading to heightened political competition (supply side). To evaluate the above proposition, I created an original, fine-grained longitudinal dataset of media coverage of LGBTs in Africa, which I use as a measure of issue saliency. Using a series of negative binomial regression models, I find robust evidence that the saliency of LGBTs increases with a country’s population share of Renewalist Christians and that this effect increases with rising levels of political competition.
+</details>
+
+
+<br />
+
+
+<!---2015 Paper #2--->
+[11] **The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants.** (with Devorah Manekin, Dan Miodownik)   
+[***International Organizationrnal***](https://www.cambridge.org/core/journals/international-organization/article/abs/the-political-legacies-of-combat-attitudes-toward-war-and-peace-among-israeli-ex-combatants/88C560C9B90473AC1D7DFDFEF685AEE0#article), 2015, 69(4): pp. 981–1009.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GMM_IO_final_2015-22b0b9n.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S002081831500020X/resource/name/S002081831500020Xsup001.zip">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Replication_IO_2015-t3xm5e.zip">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Recent research has highlighted combat's positive effects for political behavior, but it is unclear whether they extend to attitudes toward the conflict itself. We exploit the assignment of health rankings determining combat eligibility in the Israel Defense Forces to examine the effect of combat exposure on support for peaceful conflict resolution. Given the centrality of the Israeli-Palestinian conflict to global affairs, and its apparent intractability, the political consequences of combat become all the more pressing. We find that exposure to combat hardens attitudes toward the rival and reduces support for negotiation and compromise. Importantly, these attitudes translate into voting behavior: combatants are likely to vote for more hawkish parties. These findings call for caution in emphasizing the benign effects of combat and underscore the importance of reintegrating combatants during the transition from conflict to peace.
+</details>
+
+
+<br />
+
+
+
+<!---2015 Book chapters #1--->
+[10] **Using Experiments to Study Political Institutions.** (with Laura Paler)       
+[***Handbook of Comparative Political Institutions***](https://www.routledge.com/Routledge-Handbook-of-Comparative-Political-Institutions/Gandhi-Ruiz-Rufino/p/book/9780415630887), eds. Jennifer Gandhi and Rubén Ruiz-Rufino, 2015, Routledge: pp. 84-97.
+<a href="https://www.dropbox.com/s/khefxz4uq8doq02/GrossmanPaler_FINAL.pdf?dl=0">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+
+
+<br />
+
+
+
+<!---2014 Paper #1--->
+[9] **I would like u WMP to extend electricity 2 our village”: On Information Technology and Interest Articulation.** (with Macartan Humphreys, Gabriella Sacramone-Lutz)   
+[***American Political Science Review***](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/i-wld-like-u-wmp-to-extend-electricity-2-our-village-on-information-technology-and-interest-articulation/2F7F012EED269B795DF642ECFC3830AC), 2014, 108(3): pp. 688-705.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GHS_APSR_2014-2j227v1.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/h1dn8j1ug3pnbbi/20140903_Appendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27192">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+How does access to information communication technology (ICT) affect who gets heard and what gets communicated to politicians? On the one hand, ICT can lower communication costs for poorer constituents; on the other, technological channels may be used disproportionately more by the already well connected. To assess the flattening effects of ICTs, we presented a representative sample of constituents in Uganda with an opportunity to send a text message to their representatives at one of three randomly assigned prices. Critically, and contrary to concerns that technological innovations benefit the privileged, we find evidence that ICT can lead to significant flattening: a greater share of marginalized populations use this channel compared to existing political communication channels. Price plays a more complex role. Subsidizing the full cost of messaging increases uptake by over 40%. Surprisingly however, subsidy-induced increases in uptake do not yield further flattening since free channels are not used at higher rates by more marginalized constituents.
+</details>
+
+
+
+<br />
+
+
+<!---2014 Paper #2--->
+[8] **Do better monitoring institutions increase leadership quality in community organizations? Evidence from Uganda.** (with W. Walker Hanlon)   
+[***American Journal of Political Science***](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12071), Year, 58(3): pp. 669–686.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Grossman_Hanlon_AJPS_2014-2164lb9.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/aowwits5cnddo4t/Online_appendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22124">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+We offer a framework for analyzing the impact of monitoring—a commonly recommended solution to poor leadership—on the quality of democratically elected leaders in community organizations in low-income countries. In our model, groups may face a trade-off between leader ability and effort. If the group's ability to monitor the leader is low, then the leader may exert too little effort. A higher level of monitoring increases leader effort, raising the value of the public good. However, more intense monitoring may also drive higher-ability members to opt out of candidacy, reducing public-goods value. The result is an inverted U-shaped relationship between the level of monitoring and the value of the public good. The trade-off between leader effort and ability, however, only exists in the presence of sufficient private-income opportunities. These predictions are assessed using original data gathered from Ugandan farmer associations.
+</details>
+
+
+
+<br />
+
+
+<!---2014 Paper #3--->
+[7] **Do Selection Rules Affect Leader Responsiveness? Evidence from Rural Uganda.**    
+[***Quarterly Journal of Political Science***](https://www.nowpublishers.com/article/Details/QJPS-13012), 2014, 9(1): pp. 1-44 *lead article*.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Grossman_qjps_2014-2gi8yiz.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/stfxh79spd0fnhv/Online%20appendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22201">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Community organizations in developing countries often suffer from selfserving elites. This study examines whether the responsiveness and accountability of local leaders can be strengthened through the introduction of more inclusive and participatory leader selection rules. To address identification problems, I take advantage of natural conditions that resulted in exogenous variation in the rules for selecting leaders of farmer associations in Uganda. I find that compared to leaders appointed by the community elites, directly elected leaders are significantly more responsive to group members, leading to greater cooperative behavior. Analyzing possible mechanisms, I find that community organizations using appointments are less likely to develop monitoring institutions that are vital for constraining the behavior of local elites. Unique social network data provides evidence that close friendship ties between appointed and appointers substitute for formal monitoring institutions, leading to loss of confidence by community members and, subsequently, to a decline in public goods contributions.
+</details>
+
+
+<br />
+
+
+<!---2014 Paper #4--->
+[6] **Administrative Unit Proliferation.** (with Janet I. Lewis)   
+[***American Political Science Review***](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/administrative-unit-proliferation/28FB2861D809344D840B245100151918), 2014, 108(1): pp. 196-217.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/GrossmanLewis_APSR_EarlyView-zh2hr3.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/m39zcd3sgxfv0td/OnlineAppendix.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26937">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Numerous developing countries have substantially increased their number of subnational administrative units in recent years. The literature on this phenomenon is, nonetheless, small and suffers from several theoretical and methodological shortcomings: in particular, a unit of analysis problem that causes past studies to mistakenly de-emphasize the importance of local actors. We posit that administrative unit proliferation occurs where and when there is a confluence of interests between the national executive and local citizens and elites from areas that are politically, economically, and ethnically marginalized. We argue further that although the proliferation of administrative units often accompanies or follows far-reaching decentralization reforms, it likely results in a recentralization of power; the proliferation of new local governments fragments existing units into smaller ones with lower relative intergovernmental bargaining power and administrative capacity. We find support for these arguments using original data from Uganda.
+</details>
+
+
+
+<br />
+
+
+
+[5] <!---2013 Paper #1--->
+**The Effect of Group Attachment and Social Position on Prosocial Behavior. Evidence from Lab-in-the-Field Experiments.** (with Delia Baldassarri)   
+[***PLoS ONE***](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058750), Year, 8(3): e58750.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/PLOSONE_2013-2i7mzwu.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://ndownloader.figstatic.com/files/997086">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Social life is regulated by norms of fairness that constrain selfish behavior. While a substantial body of scholarship on prosocial behavior has provided evidence of such norms, large inter- and intra-personal variation in prosocial behavior still needs to be explained. The article identifies two social-structural dimensions along which people's generosity varies systematically: group attachment and social position. We conducted lab-in-the-field experiments involving 2,597 members of producer organizations in rural Uganda. Using different variants of the dictator game, we demonstrate that group attachment positively affects prosocial behavior, and that this effect is not simply the by-product of the degree of proximity between individuals. Second, we show that occupying a formal position in an organization or community leads to greater generosity toward in-group members. Taken together, our findings show that prosocial behavior is not an invariant social trait; rather, it varies according to individuals' relative position in the social structure.
+</details>
+
+
+
+<br />
+
+
+
+<!---2012 Paper #1--->
+[4] **The Impact of Elections on Cooperation: Evidence from a Lab-in-the-Field Experiment in Uganda.** (with Delia Baldassarri)   
+[***American Journal of Political Science***](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2012.00596.x), 2012, 56(4): pp. 964-985.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/Grossman_Baldassarri_ajps_2012-2l6ylw4.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fj.1540-5907.2012.00596.x&file=AJPS_596_sm_suppmat.docx">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18334">
+  <img alt="replication" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Communities often rely on sanctioning to induce public goods contributions. Past studies focus on how external agencies or peer sanctioning induce cooperation. In this article, we focus instead on the role played by centralized authorities, internal to the community. Combining “lab-in-the-field” experiments with observational data on 1,541 Ugandan farmers from 50 communities, we demonstrate the positive effect of internal centralized sanctioning authorities on cooperative behavior. We also show that the size of this effect depends on the political process by which authority is granted: subjects electing leaders contribute more to public goods than subjects who were assigned leaders through a lottery. To test the ecological validity of our findings, we relate farmers’ behavior in the experiment to their level of cooperation in their community organization. We show that deference to authority in the controlled setting predicts cooperative behavior in the farmers’ natural environment, in which they face a similar social dilemma.
+</details>
+
+
+
+<br />
+
+
+
+<!---2011 Paper #1--->
+[3] **Centralized Sanctioning and Legitimate Authority Promote Cooperation in Humans.** (with Delia Baldassarri)   
+[***Proceedings of the National Academy of Sciences***](https://www.pnas.org/doi/abs/10.1073/pnas.1105456108), Year, 27(108): pp. 11023–11027.
+<a href="https://web.sas.upenn.edu/ggros/files/2016/09/PNAS-2011-1ghh2ef.pdf">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.dropbox.com/s/8mhntvo21szchep/Baldassarri_Grossman%20SupportingInformation%20PNAS.pdf?dl=0">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Social sanctioning is widely considered a successful strategy to promote cooperation among humans. In situations in which individual and collective interests are at odds, incentives to free-ride induce individuals to refrain from contributing to public goods provision. Experimental evidence from public goods games shows that when endowed with sanctioning powers, conditional cooperators can discipline defectors, thus leading to greater levels of cooperation. However, extant evidence is based on peer punishment institutions, whereas in complex societies, systems of control are often centralized: for instance, we do not sanction our neighbors for driving too fast, the police do. Here we show the effect of centralized sanctioning and legitimate authority on cooperation. We designed an adaptation of the public goods game in which sanctioning power is given to a single monitor, and we experimentally manipulated the process by which the monitor is chosen. To increase the external validity of the study, we conducted lab-in-the-field experiments involving 1,543 Ugandan farmers from 50 producer cooperatives. This research provides evidence of the effectiveness of centralized sanctioning and demonstrates the causal effect of legitimacy on cooperation: participants are more responsive to the authority of an elected monitor than a randomly chosen monitor. Our essay contributes to the literature on the evolution of cooperation by introducing the idea of role differentiation. In complex societies, cooperative behavior is not only sustained by mechanisms of selection and reciprocity among peers, but also by the legitimacy that certain actors derive from their position in the social hierarchy.
+</details>
+
+
+
+<br />
+
+
+
+<!---2011 Paper #2--->
+[2] **Lab-in-the-field Experiments.**   
+[***Newsletter of the APSA Experimental Section***](https://www.dropbox.com/s/0eaebq403pozlec/APSA_Newletter_Fall2011.pdf?dl=0), 2011, 2(2): pp. 13-19.
+
+
+<br />
+
+
+<!---2006 Paper #1--->
+[1] **Courage to Refuse.** (with Rami Kaplan)   
+[***Peace Review***](https://www.tandfonline.com/doi/abs/10.1080/10402650600692391?journalCode=cper20), 2006, 18(2): pp. 189-197.
+<a href="https://www.dropbox.com/s/00lmnr8eaxc9s7v/GK_2006.pdf?dl=0">
+  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+
+
+
+
+
