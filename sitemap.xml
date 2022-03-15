@@ -59,6 +59,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/articles/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/books/</loc>
 </url>
 <url>
@@ -87,9 +90,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/political-economy/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
