@@ -17,7 +17,7 @@ nav: false
 <a href="/assets/pdf/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
-<a href="/assets/pdf/Appendix-turnout-turnaround.pdf" target="_blank" rel="noopener noreferrer">
+<a href="/assets/pdf/PSR2300103_Supplementary_Materials.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
