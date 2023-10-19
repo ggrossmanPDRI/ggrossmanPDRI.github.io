@@ -7,10 +7,10 @@ nav: true
 display_categories: [work, fun]
 ---
 
-- **Democratic Erosion (senior seminar)**
+- **Democratic Erosion (undergraduate seminar)**
     - Last offered: Spring 2023 [syllabus](https://guygrossman.com/assets/pdf/syllabus_dem_erosion_fall2023.pdf)
 
-- **Migration and Forced Displacement (undergraduate seminar)** 
+- **Migration and Forced Displacement (undergraduate lecture)** 
     - Last offered: Fall 2023 [syllabus](https://guygrossman.com/assets/pdf/Syllabus_Migration_Fall2023.pdf)
 
 - **Information and Communication Technologies for Development (undergrad seminar)** 
