@@ -7,6 +7,9 @@ nav: true
 display_categories: [work, fun]
 ---
 
+- **Political Economy of Developing Countries (graduate seminar)**
+    - Last offered: Spring 2024 [syllabus](https://web.sas.upenn.edu/ggros/files/2021/08/Grossman_Polit_Econ_Dev_Fall2021.pdf)
+
 - **Democratic Erosion (undergraduate seminar)**
     - Last offered: Spring 2023 [syllabus](https://guygrossman.com/assets/pdf/syllabus_dem_erosion_fall2023.pdf)
 
@@ -18,9 +21,6 @@ display_categories: [work, fun]
 
 - **Migration and Forced Displacement in Comparative Perspective (graduate seminar)**
     - Last offered: Spring 2021 [syllabus](https://web.sas.upenn.edu/ggros/files/2021/01/Syllabus_Migration_Spring2021_Final.pdf)
-
-- **Political Economy of Development (graduate seminar)**
-    - Last offered: Fall 2021 [syllabus](https://web.sas.upenn.edu/ggros/files/2021/08/Grossman_Polit_Econ_Dev_Fall2021.pdf)
 
 - **Contemporary African Politics (undergrad lecture)**
      - Last offered: Fall 2020 [syllabus](https://web.sas.upenn.edu/ggros/files/2020/09/Syllabus_African_politics_Fall2020.pdf)
