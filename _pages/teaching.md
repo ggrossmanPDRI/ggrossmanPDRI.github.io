@@ -8,7 +8,7 @@ display_categories: [work, fun]
 ---
 
 - **Political Economy of Developing Countries (graduate seminar)**
-    - Last offered: Spring 2024 [syllabus](https://web.sas.upenn.edu/ggros/files/2021/08/Grossman_Polit_Econ_Dev_Fall2021.pdf)
+    - Last offered: Spring 2024 [syllabus](https://guygrossman.com/assets/pdf/Grossman_Polit_Econ_Dev_Spring2024.pdf)
 
 - **Democratic Erosion (undergraduate seminar)**
     - Last offered: Spring 2023 [syllabus](https://guygrossman.com/assets/pdf/syllabus_dem_erosion_fall2023.pdf)

@@ -7,7 +7,7 @@ nav: true
 ---
 
 <p style='text-align: left;'> 
-<a href="/assets/pdf/Grossman_cv_Oct2023.pdf" target="_blank" rel="noopener noreferrer">[download pdf]</a>
+<a href="/assets/pdf/Grossman_cv_Jan2024.pdf" target="_blank" rel="noopener noreferrer">[download pdf]</a>
 </p>
 
 
@@ -31,8 +31,8 @@ PA 19104-6215.
 #### Education
 ---------
 
-- Columbia Uninversity Ph.D. Political Science, 2011 (with *distinction*)
-- Columbia Uninversity M.A., Political Science, 2006
+- Columbia University Ph.D. Political Science, 2011 (with *distinction*)
+- Columbia University M.A., Political Science, 2006
 - Tel Aviv University, M.A., History and Philosophy of Science and Ideas, 2004 (*cum laude*)
 - Tel Aviv University, L.L.B., Law, 1999 (*cum laude*)
 
@@ -74,6 +74,7 @@ See: [research-articles](/articles/)
 #### Honors & Awards
 ----- 
 
+- 2023: "Community policing does not build citizen trust in police or reduce crime in the Global South", has won honorable mention for the Luebbert best article prize in comparative politics awarded by APSA's Comparative Politics section.
 - 2022: “Viral Voting: Social Networks and Political Participation” has won Political Ties Award for Best Published Article in the previous calendar year, awarded by APSA’s Political Networks Section.
 - 2021: "Information Technology and Political Engagement: Mixed Evidence from Uganda," has won APSA's Information Technology & Politics section award given to the best article published in the previous calendar year. 
 - 2020: "It Takes a Village: Peer Effects and Externalities in Technology Adoption," is the recipient of APSA's Political Networks Section's Best Conference Paper Award. 
@@ -92,8 +93,9 @@ See: [research-articles](/articles/)
 --------
 
 **2023**
-
-- UNHCR-World Bank Joint Data Center: “Developing World Refugee and Asy- lum Policy (DWRAP) Online Data Platform” ($204,725)
+- Department internal grant toward organizing PECE pre-APSA conference ($3,000)
+- IPA and J-PAL's Displaced Livelihoods Initiative (DLI): "Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts through a Regression Discontinuity Study in Uganda" ($299,220)
+- UNHCR-World Bank Joint Data Center: “Developing World Refugee and Asy- lum Policy (DWRAP) Online Data Platform" ($204,725)
 - Hilton Foundation: “Improving refugee integration in Uganda.” ($100,000)
 - Penn URF: “Broadcasting Tolerance: Using Radio to Promote Inclusion of
 Marginalized Groups in Uganda” ($60,000)
@@ -137,7 +139,7 @@ Low-Income Countries", ($4800)
 #### Invited Talks (past 5 years)
 -------
 
-- 2023: **Seminars**: USAID: Evidence & Learning seminar; University of Rochester’s Riker seminar; LSE Political Behavior seminar; World Bank’s WDR speaker series; Georgetown’s McCourt School of Public Policy; Princeton’s Center for International Security Studies seminar series; Columbia University; **Conferences**: EGAP London.
+- 2023: **Seminars**: UNHCR: Learning from the Evidence on Forced Displacement; (lecture); Purdue University's Department Seminar; USAID: Evidence & Learning seminar; University of Rochester’s Riker seminar; LSE Political Behavior seminar; World Bank’s WDR speaker series; Georgetown’s McCourt School of Public Policy; Princeton’s Center for International Security Studies seminar series; Columbia University; **Conferences**: ESOC-PDRI migration and forced displacement conference (DC); ESOC annual conference (DC); NEWEPS (Boston); APSA annual conference (LA); EGAP London.
 - 2022: UC Irvine (Labor Public seminar); UC Santa Barbara (Political Economy seminar); UC Berkeley (CP seminar); UVA’s Frank Batten School of Leadership and Public Policy (department seminar); American University; Harvard University; University of Michigan; ITAM; Texas A&M; Houston University; Tafra Morocco; Petralia Sicily; Stanford Institute for Theoretical Economics (SITE).
 - 2021: Stanford IPL; Penn PDRI; EDI (Oxford University); Hebrew University; Tel Aviv University (Public Policy school).
 - 2020: University of Washington; Stanford Graduate School of Business; Northwestern University; Chicago Harris Public Policy School; UCLA
