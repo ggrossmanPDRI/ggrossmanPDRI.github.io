@@ -36,6 +36,7 @@ What is the reaction of the host society to immigrants’ political integration?
 <a href="/assets/pdf/PSR2300103_Supplementary_Materials.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UKVOPE">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
 In many countries, the number of ethnic minority representatives has been steadily increasing. How is such a trend shaping electoral behavior? Past work has generally focused on the political engagement of ethnic minorities as a response to having a co-ethnic on the ballot. In contrast, less attention has been devoted to assessing whether an ethnic minority incumbent shapes the electoral behavior of majority-group members. We argue that increased political representation of minorities can be experienced as an external threat to a historically white dominant political context. This in turn may politically activate white constituents aiming to revert their (perceived) disempowerment. We test this argument employing a novel dataset that characterizes candidates' ethnicity, covering four UK Parliamentary general elections, and a regression discontinuity design of close elections between ethnic minority and majority-group candidates. Comparing constituencies that are otherwise identical, except for being represented by a minority Member of Parliament (MP), we find that an MP's ethnicity matters for electoral participation: turnout in constituencies narrowly represented by an ethnic minority MP is 3.6 percentage points larger than in constituencies narrowly represented by a white MP. Consistent with our argument, we find that such difference in turnout is driven by majority-white constituencies, and that voters in these constituencies choose the party of the minority incumbent’s strongest white opponent. However, this dynamic does not overpower minorities' incumbency advantage, but it contributes to polarizing the electorate along ethnic lines. Our findings have important implications for intergroup relations, political behavior, and recent political dynamics more broadly.
@@ -58,6 +59,7 @@ In many countries, the number of ethnic minority representatives has been steadi
 <a href="https://egap.org/resource/brief-71-regular-and-sustained-information-on-incumbent-performance-improves-electoral-accountability/?utm_source=EGAP+Community&utm_campaign=cda5cd5073-EMAIL_CAMPAIGN_2019_07_16_10_20_COPY_01&utm_medium=email&utm_term=0_847cab4af0-cda5cd5073-106618351">
   <img alt="polycybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2E4MOZ">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
 Transparency is expected to strengthen electoral accountability. Yet, initiatives disseminating politician performance information directly prior to elections have reported disappointing results. We argue that to be effective transparency needs to be sustained: the dissemination of politician performance information needs to occur early, regularly, and predictably throughout the term. Using a formal model of electoral accountability under non-programmatic and uneven party competition, we study how sustained transparency impacts a string of decisions by various actors in advance of elections: incumbents' running choices, party nomination strategies, and potential challengers' entry decisions. We show how these effects shape the candidate slate and ultimately electoral outcomes, conditional on incumbent performance and the incumbent party's relative strength. We test our theory using a field experiment involving 354 subnational constituencies in Uganda, and find robust support to the idea that sustained transparency can improve electoral accountability even in weakly institutionalized electoral settings.
@@ -77,6 +79,7 @@ Transparency is expected to strengthen electoral accountability. Yet, initiative
 <a href="/assets/pdf/2023_PSRM_Oil_discoveries_appendix.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGNJ10 "> <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
 Oil discoveries, paired with delays in production, have created a new phenomenon: sustained post-discovery, pre-production periods. While research on the resource curse has debated the effects of oil on governance and conflict, less is known about the political effects of oil discoveries absent production. Using comprehensive electoral data from Uganda and a difference-in-difference design with heterogeneous effects, we show that oil discoveries increased electoral support for the incumbent chief executive in localities proximate to discoveries, even prior to production. Moreover, the biggest effects occurred in localities that were historically most electorally competitive. Overall, we show that the political effects of oil discoveries vary subnationally depending on local political context and prior to production, with important implications for understanding the roots of the political and conflict curses.
@@ -93,6 +96,9 @@ Oil discoveries, paired with delays in production, have created a new phenomenon
 </a>
 <a href="/assets/pdf/2023_SciAdv_Lowcost_online_interventions.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://osf.io/m5rwn/">
+  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
