@@ -71,6 +71,7 @@ Territorial disputes are prone to conflict because of the value of territory to 
 <a href="/assets/pdf/2019_QJPS_Conflict_border_walls_appendix.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
+<a href="https://www.nowpublishers.com/article/details/supplementary-info/100.00018094_supp.zip">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
 A growing number of states are erecting physical barriers along their borders to stem the illicit flow of goods and people. Though border fortification policies are both controversial and politically salient, their distributional consequences remain largely unexplored. We study the impact of a border wall project on smuggling in Israel. We use the initial phase of the wall construction to causally estimate spillover effects on cross-border smuggling, especially vehicle theft. We find a large decrease in smuggling of stolen vehicles in protected towns and a similar substantial increase in not-yet-protected towns. For some protected towns, fortification also arbitrarily increased the length of smuggling routes. These township-level shocks further deterred smuggling (6% per kilometer). Our findings suggest that border fortification may have uneven distributional consequences, creating unintended winners and losers.
@@ -90,13 +91,13 @@ A growing number of states are erecting physical barriers along their borders to
 <a href="/assets/pdf/2018_CPS_Conflict_how_sanctions.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
+<a href="https://journals.sagepub.com/doi/suppl/10.1177/0010414018774370/suppl_file/replication.zip">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
 How do economic sanctions affect the political attitudes of individuals in targeted countries? Do they reduce or increase support for policy change? Are targeted, "smart" sanctions more effective in generating public support? Despite the importance of these questions for understanding the effectiveness of sanctions, they have received little systematic attention. We address them drawing on original data from Israel, where the threat of economic sanctions has sparked a contentious policy debate. We first examine the political effects of the European Union’s (EU) 2015 decision to label goods produced in the West Bank, and then expand our analysis by employing a survey experiment that allows us to test the differential impact of sanction type and sender identity. We find that the EU’s decision produced a backlash effect, increasing support for hardline policies and raising hostility toward Europe. Our findings further reveal that individuals are likely to support concessions only in the most extreme and unlikely of circumstances—a comprehensive boycott imposed by a sender perceived as a key strategic ally. These results offer theoretical and policy implications for the study of the effects of economic sanctions.
 </details>
 
 <br />
-
 
 
 <!---2015 Paper #2--->
