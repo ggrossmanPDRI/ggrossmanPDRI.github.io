@@ -7,7 +7,7 @@ nav: true
 ---
 
 <p style='text-align: left;'> 
-<a href="/assets/pdf/Grossman_cv_Jan2024.pdf" target="_blank" rel="noopener noreferrer">[download pdf]</a>
+<a href="/assets/pdf/Grossman_cv_CURRENT.pdf" target="_blank" rel="noopener noreferrer">[download pdf]</a>
 </p>
 
 

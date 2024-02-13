@@ -25,4 +25,4 @@ At Penn, I am also a Faculty Affiliate at The Center for the Study of Ethnicity,
 
 My work has appeared in Science magazine, the Proceedings of the National Academy of Sciences, Science Advances, the American Political Science Review, the American Journal of Political Science, International Organization, and the Journal of Politics, among other journals. I hold a PhD in Political Science from Columbia University (2011, with distinction) as well as MA in Political Philosophy (2004, Summa cum laude) and LLB in Law (1999, Magna cum laude) both from Tel-Aviv University.
 
-You can access my [CV](/assets/pdf/Grossman_cv_Jan2024.pdf) here.
+You can access my [CV](/assets/pdf/Grossman_cv_CURRENT.pdf) here.
