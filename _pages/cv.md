@@ -93,6 +93,7 @@ See: [research-articles](/articles/)
 --------
 
 **2023**
+- Penn Global: "Disrupted Aid, Displaced Lives" ($125,00)
 - Department internal grant toward organizing PECE pre-APSA conference ($3,000)
 - IPA and J-PAL's Displaced Livelihoods Initiative (DLI): "Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts through a Regression Discontinuity Study in Uganda" ($299,220)
 - UNHCR-World Bank Joint Data Center: “Developing World Refugee and Asy- lum Policy (DWRAP) Online Data Platform" ($204,725)
