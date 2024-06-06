@@ -41,6 +41,7 @@ PA 19104-6215.
 -----
 
 - University of Pennsylvania, [Department of political science](http://www.sas.upenn.edu/polisci/):
+     - David M. Knott Professor of Global Politics and International Relations 2024–present
      - Professor 2020-present
      - Associate Professor 2018-2020
      - Assistant Professor 2012-2018
