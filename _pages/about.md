@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a professor at the [political science department](http://www.sas.upenn.edu/polisci/) at the [University of Pennsylvania](http://www.upenn.edu/). My research is in applied political economy, with a substantive focus on governance, migration and forced displacement, human trafficking, and conflict processes, (mostly) in the context of developing countries.
+I am the David M. Knott Professor of Global Politics and International Relations at the [political science department](http://www.sas.upenn.edu/polisci/) at the [University of Pennsylvania](http://www.upenn.edu/). My research is in applied political economy, with a substantive focus on governance, migration and forced displacement, human trafficking, and conflict processes, (mostly) in the context of developing countries.
 
 I am the founder and co-director of Penn’s Development Research Initiative (PDRI-DevLab). Launched in 2020, [PDRI-DevLab](https://pdri-devlab.upenn.edu/) brings together faculty and graduate students from across Penn whose research seeks to identify solutions to the challenges facing low- and middle-income countries. PDRI seeks to foster impactful international development research by harnessing the expertise of its affiliates from various disciplines and utilizing diverse methodological approaches.
 
