@@ -13,13 +13,15 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 <!---2023 Paper #4--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
-***American Journal of Political Science***, 2023, forthcoming.
-<a href="https://osf.io/xd4wk/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+***American Journal of Political Science***, 2023, early view.
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12877">
+  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJ2DW4">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
+
 <details>
   <summary>Abstract</summary>
-What is the reaction of the host society to immigrants’ political integration? We argue that when they win political office, immigrants pose a threat to natives’ dominant position, triggering hostility from a violent-prone fringe, the mass public and the elites. We test these dynamics across UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 newspaper articles. We identify the public’s reactions with a regression discontinuity design of close elections between minority-immigrant and dominant group candidates. Our findings suggest a public backlash against ethnic minority immigrants’ integration into majority settings.
+How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.
 </details>
 
 <br />
