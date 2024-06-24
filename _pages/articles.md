@@ -17,6 +17,12 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12877">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
+<a href="/assets/pdf/Voted-in-standing-out-Public-response-to-immigrants-political-accession.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="/assets/pdf/ajps12877-sup-0001-suppmat.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJ2DW4">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 
 <details>
