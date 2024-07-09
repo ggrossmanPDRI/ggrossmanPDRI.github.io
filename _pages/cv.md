@@ -92,15 +92,23 @@ See: [research-articles](/articles/)
 
 #### Grants (past 5 years)
 --------
+**2024**
+- Making a Difference in Global Communities Grant from Penn's School of Arts and Sciences ($20,515)
+- Evidence in Governance and Politics (EGAP): Return Migration: Reducing Barriers and Risks for Social Cohesion in South Sudan ($15,000)
+- IPA's Displaced Livelihoods Initiative (DLI): Return Migration: Reducing Barriers and Risks for Social Cohesion in South Sudan ($10,000)
+- Penn Global: "Disrupted Aid, Displaced Lives" ($125,000)
+- UPenn internal grants towards organizing the 2024 Political Economy of Climate Change and the Environment conference ($15,000)
+- Browne Center for International Politics "Refugee Perceptions of Resettlement Policy and Investments in Local Integration in Uganda" ($3,500)
+
 
 **2023**
 - Penn Global: "Disrupted Aid, Displaced Lives" ($125,00)
 - Department internal grant toward organizing PECE pre-APSA conference ($3,000)
 - IPA and J-PAL's Displaced Livelihoods Initiative (DLI): "Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts through a Regression Discontinuity Study in Uganda" ($299,220)
 - UNHCR-World Bank Joint Data Center: “Developing World Refugee and Asy- lum Policy (DWRAP) Online Data Platform" ($204,725)
-- Hilton Foundation: “Improving refugee integration in Uganda.” ($100,000)
-- Penn URF: “Broadcasting Tolerance: Using Radio to Promote Inclusion of
-Marginalized Groups in Uganda” ($60,000)
+- Hilton Foundation: “Improving refugee integration in Uganda" ($100,000)
+- Penn URF: “Broadcasting Tolerance: Using Radio to Promote Inclusion of Marginalized Groups in Uganda” ($60,000)
+
 
 **2022**
 
@@ -141,6 +149,7 @@ Low-Income Countries", ($4800)
 #### Invited Talks (past 5 years)
 -------
 
+- 2024: **Seminars**: International Meeting on Experimental and Behavioral Social Sciences (IMEBESS) in Riga, Latvia (keynote); Penn's School of Arts and Sciences Board of Advisors meeting; Penn's PWH weekly seminar; Penn's CIND lab weekly seminar; Penn's Political Science department IR seminar; Wharton's Lauder seminar; Penn State University department seminar; **Conferences**: Forced Displacement Working Group (DC); EGAP (DC); NEWEPS (Princeton); WZB's Meeting on the Political Economy of Development (Berlin, Germany).
 - 2023: **Seminars**: UNHCR: Learning from the Evidence on Forced Displacement; (lecture); Purdue University's Department Seminar; USAID: Evidence & Learning seminar; University of Rochester’s Riker seminar; LSE Political Behavior seminar; World Bank’s WDR speaker series; Georgetown’s McCourt School of Public Policy; Princeton’s Center for International Security Studies seminar series; Columbia University; **Conferences**: ESOC-PDRI migration and forced displacement conference (DC); ESOC annual conference (DC); NEWEPS (Boston); APSA annual conference (LA); EGAP London.
 - 2022: UC Irvine (Labor Public seminar); UC Santa Barbara (Political Economy seminar); UC Berkeley (CP seminar); UVA’s Frank Batten School of Leadership and Public Policy (department seminar); American University; Harvard University; University of Michigan; ITAM; Texas A&M; Houston University; Tafra Morocco; Petralia Sicily; Stanford Institute for Theoretical Economics (SITE).
 - 2021: Stanford IPL; Penn PDRI; EDI (Oxford University); Hebrew University; Tel Aviv University (Public Policy school).
