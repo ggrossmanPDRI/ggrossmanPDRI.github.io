@@ -31,7 +31,7 @@ In many countries, the number of ethnic minority representatives has been steadi
 
 <!---2022 Paper--->
 [19] **The Effect of Sustained Transparency on Electoral Accountability.** (with Kristin Michelitch, Carlo Prato)   
-***American Journal of Political Science***, 2023, early view.
+***American Journal of Political Science***, 2023, 68(3): 1022-1040.
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12787">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
