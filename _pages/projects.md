@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: 
-nav: false
+nav: true
 ---
 
 [8] **Program to End Modern Slavery (PEMS) Bangladesh** 
