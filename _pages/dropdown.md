@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: writing
 nav: true
 dropdown: true
 children: 
