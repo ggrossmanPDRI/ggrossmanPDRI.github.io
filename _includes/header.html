@@ -44,13 +44,8 @@
               {%- endif %}
 
               <!-- Other pages -->
-              
-                  <!-- custom page sorting -->
-              {%- assign custom_order = "about,cv,writing,projects,teaching" | split: "," -%}
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
-              {%- assign ordered_pages = sorted_pages | sort: "custom_order" -%}
-
-              {%- for p in ordered_pages -%}
+              {%- assign sorted_pages = site.pages | sort: "order" -%}
+              {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
