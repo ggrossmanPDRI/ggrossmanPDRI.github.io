@@ -24,7 +24,6 @@
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
-
               <!-- About -->
               <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">about
@@ -45,7 +44,14 @@
               {%- endif %}
 
               <!-- Other pages -->
+              
+                  <!-- custom page sorting -->
+              {%- assign custom_order = "about,cv,writing,projects,teaching" | split: "," -%}
               {%- assign sorted_pages = site.pages | sort: "title" -%}
+              {%- assign ordered_pages = sorted_pages | sort: "custom_order" -%}
+              {%- assign ordered_pages = ordered_pages | map: "title" | join: "," -%}
+
+
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
