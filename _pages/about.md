@@ -2,6 +2,7 @@
 layout: about
 title: Guy Grossman
 permalink: /
+order: 1
 subtitle: <a href='http://www.upenn.edu/'>University of Pennsylvania</a>.
 
 profile:

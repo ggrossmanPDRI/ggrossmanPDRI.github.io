@@ -3,6 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: 
+order: 5
 nav: true
 display_categories: [work, fun]
 ---
