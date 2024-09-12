@@ -468,7 +468,7 @@ Does political engagement depend on government responsiveness? Identifying the d
 <a href="/assets/pdf/2020_NAS_PE_political_partisanship.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
-<a href="/assets/pdf/2020_NAS_PE_political_partisanship_appendix.pdf" target="_blank" rel="noopener noreferrer">
+<a href="/assets/pdf/political_partisanship_online_appendix.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataverse/COVID19governors/">
