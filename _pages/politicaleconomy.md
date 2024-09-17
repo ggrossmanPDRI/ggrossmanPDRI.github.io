@@ -82,6 +82,9 @@ Oil discoveries, paired with delays in production, have created a new phenomenon
 <a href="/assets/pdf/2023_SciAdv_Lowcost_online_interventions.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
+<a href="/assets/pdf/41_SA-Supplementary-information.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
 <a href="https://osf.io/m5rwn/">
   <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
 </a>
