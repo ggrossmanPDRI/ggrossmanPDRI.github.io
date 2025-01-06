@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /cv/
+# permalink: /cv/ # uncomment this if you want to rebuild the cv page
+external_link: /assets/pdf/Grossman_cv_CURRENT.pdf
 title: cv 
 nav: true
 order: 2
