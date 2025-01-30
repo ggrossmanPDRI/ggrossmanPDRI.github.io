@@ -27,29 +27,10 @@ nav: false
 
 </details>
 
---->
 
 <!---Working Paper #8--->
-**The Electoral Consequences of Cellphone Coverage Expansion.** (with Shuning Ge, Katrina Kosec, Apoorva Lal, Benjamin Laughlin)   
-Revise & Resubmit at ***Political Science Research and Methods***, 2023.
-<a href="https://osf.io/y94d5/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-Using the case of Ghana, we analyze the electoral effects of cellphone coverage expansion in a developing country setting. We construct constituency-level panel data of electoral results for Ghana’s six general elections during 1996--2016 and combine these with high-resolution geocoded annual coverage information using a difference-in-differences design. We find that cellphone coverage benefited incumbents in both presidential and parliamentary elections. This effect appears to be due to cellphone coverage expansion improving both citizens' wealth and faith in the economy as opposed to general perceptions of government performance, political knowledge, or vote-buying. The results highlight the potential for even basic information and communications technologies to make retrospective voting more common in settings where ethnic voting, clientelism, and vote-buying are common.
-</details>
-
-<br />
-
-
-<!---Working Paper #4--->
-
-<!---Working Paper #5--->
-
-<!---Working Paper #8--->
-**Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge)   
-2023.
+**Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
+R&R at ***British Journal of Political Science***.
 <a href="https://osf.io/dqt6c/">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -60,9 +41,35 @@ It has been argued that the level at which electoral results are published can a
 
 
 <br />
+
+
+<!---Working Paper #6--->
+**Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
+<a href="https://osf.io/hfm35/">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+A vast body of work shows that ethnic and racial minority legislators are more likely to represent their group’s interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivation or electoral incentives. We argue that previous research designs cannot answer this question. Conversely, we use a regression discontinuity design (RDD) to analyze the increase in minority representation in the UK Parliament after 2010. By comparing white MPs who narrowly beat minority candidates to minority MPs who narrowly beat white candidates, the RDD controls for electoral incentives since it holds constant constituency factors correlated with a minority parliamentary win. Analyzing over 1 million parliamentary speeches and questions, we find that minority MPs are more likely than white MPs to discuss issues important to ethnic minorities. Our findings suggest that minority substantive representation is likely driven, at least in part, by minority MPs’ intrinsic motivation.
+</details>
+
+<br />
+
+<!-- -Working Paper #8- -->
+**The Effects of Cellphone Coverage Expansion on Wealth and Political Behavior.** (with Shuning Ge, Katrina Kosec, Apoorva Lal, Benjamin Laughlin)   
+Revise & Resubmit at ***Political Science Research and Methods***.
+<a href="https://osf.io/y94d5/">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Using the case of Ghana, we analyze the electoral effects of cellphone coverage expansion in a developing country setting. We construct constituency-level panel data of electoral results for Ghana’s six general elections during 1996--2016 and combine these with high-resolution geocoded annual coverage information using a difference-in-differences design. We find that cellphone coverage benefited incumbents in both presidential and parliamentary elections. This effect appears to be due to cellphone coverage expansion improving both citizens' wealth and faith in the economy as opposed to general perceptions of government performance, political knowledge, or vote-buying. The results highlight the potential for even basic information and communications technologies to make retrospective voting more common in settings where ethnic voting, clientelism, and vote-buying are common.
+</details>
+
+<br /> -->
+
 <!---Working Paper #7--->
-**Can Community Policing Improve Police - Community Relations in an Authoritarian Regime?** (with Rob Blair, Anna Wilke)   
-2023.
+**Can Community Policing Improve Police - Community Relations in an Authoritarian Regime?** (with Rob Blair, Anna Wilke).
 <a href="https://osf.io/wkrcm/">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -71,24 +78,5 @@ It has been argued that the level at which electoral results are published can a
 Throughout the developing world, citizens distrust the police and hesitate to bring crimes to their attention — a suboptimal equilibrium that makes it difficult for the police to effectively combat crime and violence. Community policing has been touted as one solution to this problem, but evidence on its efficacy in developing country contexts is sparse. We present results from a large-scale field experiment that randomly assigned a home-grown community policing intervention to police stations throughout rural Uganda. Drawing on administrative crime data and close to 4,000 interviews with citizens, police officers, and local authorities, we show that community policing had limited effects on core outcomes such as crime, insecurity, and perceptions of the police. We attribute these findings to a combination of turnover, treatment non-compliance, and resource constraints. Our study draws attention to the limits of community policing’s potential to reduce crime and build trust in the developing world.
 
 </details>
-
-
-<br />
-
-
-<!---Working Paper #6--->
-**When Refugee Exposure Increases Incumbent Support through Development: Evidence from Uganda.** (with Yang-Yang Zhou)     
-2022.
-<a href="https://osf.io/94tpy/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<a href="https://osf.io/aw7zk/">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-In higher-income democracies, studies have found that refugee shocks cause voters to punish incumbents and turn to far-right parties. Yet there is a dearth of studies on the electoral consequences of refugee-hosting in low-income countries, where most refugees reside. Combining information on refugee settlements with four waves of national elections data in Uganda, we find that a one standard deviation increase in refugee presence leads to a 7.4 percentage point increase in incumbent support. Original longitudinal data on healthcare, schools, and roads coupled with national survey data suggest that the mechanism is positive externalities of refugee-hosting on local public goods.
-</details>
-
 
 
