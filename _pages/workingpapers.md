@@ -55,7 +55,7 @@ A vast body of work shows that ethnic and racial minority legislators are more l
 
 <br />
 
-<!-- -Working Paper #8- -->
+<!-- -Working Paper #8-
 **The Effects of Cellphone Coverage Expansion on Wealth and Political Behavior.** (with Shuning Ge, Katrina Kosec, Apoorva Lal, Benjamin Laughlin)   
 Revise & Resubmit at ***Political Science Research and Methods***.
 <a href="https://osf.io/y94d5/">
@@ -64,7 +64,7 @@ Revise & Resubmit at ***Political Science Research and Methods***.
 <details>
   <summary>Abstract</summary>
 Using the case of Ghana, we analyze the electoral effects of cellphone coverage expansion in a developing country setting. We construct constituency-level panel data of electoral results for Ghana’s six general elections during 1996--2016 and combine these with high-resolution geocoded annual coverage information using a difference-in-differences design. We find that cellphone coverage benefited incumbents in both presidential and parliamentary elections. This effect appears to be due to cellphone coverage expansion improving both citizens' wealth and faith in the economy as opposed to general perceptions of government performance, political knowledge, or vote-buying. The results highlight the potential for even basic information and communications technologies to make retrospective voting more common in settings where ethnic voting, clientelism, and vote-buying are common.
-</details>
+</details> -->
 
 <br /> -->
 
