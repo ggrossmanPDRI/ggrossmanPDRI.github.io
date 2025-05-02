@@ -29,18 +29,6 @@ nav: false
 
 
 <!---Working Paper #8--->
-**Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
-R&R at ***British Journal of Political Science***.
-<a href="https://osf.io/dqt6c/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-It has been argued that the level at which electoral results are published can affect the election integrity. Publishing more granular results (e.g., at the polling station level) can allow citizens to verify the vote totals that determine election outcomes, thereby deterring voting aggregation fraud. While this logic undergirds the recommendations of international organizations monitoring elections to publish disaggregated electoral results, to date there have not been systematic assessments of how variation in aggregation is linked to electoral miscounting. We address this lacuna by constructing a new dataset of the level at which electoral results are reported in 125 low- and middle-income countries since 2000. We find a clear negative association between the granularity of published electoral results and perceptions of counting irregularities. We do not observe substitution of election malpractice: increased granularity is not linked to perceptions of other forms of manipulation like electoral violence, opposition harassment, or clientelism.
-</details>
-
-
-<br />
 
 
 <!---Working Paper #6--->

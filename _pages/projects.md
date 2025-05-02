@@ -7,16 +7,7 @@ description:
 nav: true
 ---
 
-[1] **Program to End Modern Slavery (PEMS) Bangladesh** 
-*With Dev Patel (Harvard), Carlos Schmidt-Padilla (UC Berkeley), Harsha Thirumurthy (UPenn), Catalina Udani (UPenn), and Nudrat Faria*   
-<details>
-  <summary>Description</summary>
-B-PEMS is a five-year (2022-2027), $7.9 million collaborative project between Winrock International and PDRI-DevLab. The project is funded by the US Department of State’s Program to End Modern Slavery (PEMS). The project’s primary goal is to reduce the prevalence of Trafficking in Persons in Bangladeshi farming and fishing households vulnerable to climate change. Winrock International provides technical assistance to farmers, fishers, and fish farmers in climate-change affected regions to conduct climate-smart agriculture and aquaculture and to link them to skills training, job placement, and micro-enterprise development for alternative livelihoods. Using a randomized controlled trial (RCT) study design, we are evaluating the effect of Winrock’s community-level activities on the prevalence of climate change-induced human trafficking and associated risk factors.
-</details>
-
-<br />
-
-[2] **Planning for Productive Migration (PPM) in Niger** 
+[1] **Planning for Productive Migration (PPM) in Niger** 
 *With Jeremy Weinstein (Harvard), Darin Christensen (UCLA), Allison Grossman (Tulane), Jessica Sadye Wolff (Stanford, IPL), and Jon Kurtz (Mercy Corps)*   
 <details>
   <summary>Description</summary>
@@ -25,7 +16,7 @@ In collaboration with Mercy Corps and Stanford's Immigration Policy Lab (IPL), t
 
 <br />
 
-[3] **Evaluating scalable approaches to reducing sexual violence towards children in Liberia** 
+[2] **Evaluating scalable approaches to reducing sexual violence towards children in Liberia** 
 *With Alex Hartman (UCL) and Cecilia Mo (UC Berkeley)*   
 <details>
   <summary>Description</summary>
@@ -34,16 +25,16 @@ Funded by the Fund for Innovation in Development (FID), this collaborative proje
 
 <br />
 
-[4] **Broadcasting Tolerance in Kenya** 
+<!-- [3] **Broadcasting Tolerance in Kenya** 
 *With Erik Wibbels (UPenn), Yotam Margalit (Tel Aviv University and King's College), and Carolina Torreblanca (UPenn)*   
 <details>
   <summary>Description</summary>
 In 2023, 1.5% of the world's population (117.3 million) was forcibly displaced, nearly doubling the rate from a decade ago. The majority of the displaced are hosted in the Global South, where the surge of refugees and asylum seekers places considerable strain on host communities already facing resource constraints, exacerbating socio-economic disparities and fueling tensions and resentment. Focusing on Kenya, our study tests a highly scalable intervention designed to increase the acceptance of refugees and support for inclusive refugee policies through a serialized radio drama featuring relatable refugee characters. The radio show is explicitly designed to foster empathy and increase support for inclusive refugee policies by employing messaging and plot lines informed by social psychological theories, such as perspective-taking. We are using three sources of exogenous variation to evaluate this intervention across Kenyan villages with varying radio coverage and listener engagement levels, thereby contributing valuable insights to global efforts toward effective refugee integration and social cohesion. 
 </details>
 
-<br />
+<br /> -->
 
-[5] **Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts in Uganda** 
+[3] **Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts in Uganda** 
 *With Yang-Yang Zhou (Dartmouth) and Shelby Carvalho (Harvard)*   
 <details>
   <summary>Description</summary>
@@ -52,7 +43,7 @@ Funded by the Conrad N. Hilton Foundation, Innovations for Poverty Action’s La
 
 <br />
 
-[6] **Return Migration: Reducing Barriers and Risks for Social Cohesion in South Sudan** 
+[4] **Return Migration: Reducing Barriers and Risks for Social Cohesion in South Sudan** 
 *With Erik Wibbels (UPenn), Kyilah Terry (UPenn)*   
 <details>
   <summary>Description</summary>
@@ -61,7 +52,7 @@ Funded by Evidence in Governance and Politics (EGAP) and Penn's <i>Making a Diff
 
 <br />
 
-[7] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
+[5] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
 *With Darin Christensen (UCLA) and Cecilia Mo (UC Berkeley)*  
 <details>
   <summary>Description</summary>
@@ -70,11 +61,22 @@ This pilot study, funded by IPA's HTRI, addresses the need for formal finance fo
 
 <br />
 
-[8] **Does the hidden college contribute to a gender gap in academic success?**
-*With Sandra González-Bailón (UPenn), William Dinneen (UPenn), and Shuning Ge (MIT)*
+[6] **The Discipline of Political Science: Structural Changes, Informal Networks, and Methodological Revolution**
+*With Sandra González-Bailón (UPenn), William Dinneen (UPenn), Yiqing Xu (Stanford), Lluís Danús (UPenn), and Carolina Torreblanca (UPenn)*
 <details>
   <summary>Description</summary>
-Across disciplines, a gender gap in academic success---measured as the number of publications, journal placement, and citation counts---has long been documented. A parallel Scientometrics literature has documented the substantial importance of embeddedness in informal professional networks for academic success, using acknowledgments in publications as novel measures of such embeddedness. Combining these hitherto disjoint strands of research, we investigate 1) the effect of embeddedness in informal collaboration networks on academic success; 2) whether gender differences in network embeddedness exist; and ultimately 3) the extent to which informal collaboration network embeddedness can account for gender gaps in academic success. To explore these questions, we collected detailed information on 95,662 unique scholars (including both authors and commentors) from 152,580 peer-reviewed articles published in 185 political science journals from 2003 to 2023. We construct network measures at both the ego-centric and meso-scale levels to capture scholars’ positions in political science's informal collaboration network.  With this project, we improve our understanding of academic gender disparities as well as of the gendered nature of network embeddedness as a correlate of academic success.
+Leveraging a corpus of 140,000+ articles from 174 political science journals published between 2003 and 2023, this project charts the discipline’s evolution, examining how informal collaboration, methodological credibility, and structural changes shape scholarly impact. Using text-as-data analysis, netowrk science, and bibliometric approaches, the project measures publication growth and shifting productivity norms, maps the "hidden college" of informal collaboration to gauge its influence on scholarly reach, tracks the rise of credibility-oriented research designs and evolving causal rhetoric, and examines how structural pressures—tight job markets and metric-driven evaluation—shape collaboration patterns, topic selection, and career trajectories.
 </details>
 
 <br />
+
+
+[7] **Program to End Modern Slavery (PEMS) Bangladesh** 
+
+<span style="color:red;">Funding by DoS has been terminated midway through the project's lifecycle.</span>
+
+*With Dev Patel (Harvard), Carlos Schmidt-Padilla (UC Berkeley), Harsha Thirumurthy (UPenn), Catalina Udani (UPenn), and Nudrat Faria*   
+<details>
+  <summary>Description</summary>
+B-PEMS is a five-year (2022-2027), $7.9 million collaborative project between Winrock International and PDRI-DevLab. The project is funded by the US Department of State’s Program to End Modern Slavery (PEMS). The project’s primary goal is to reduce the prevalence of Trafficking in Persons in Bangladeshi farming and fishing households vulnerable to climate change. Winrock International provides technical assistance to farmers, fishers, and fish farmers in climate-change affected regions to conduct climate-smart agriculture and aquaculture and to link them to skills training, job placement, and micro-enterprise development for alternative livelihoods. Using a randomized controlled trial (RCT) study design, we are evaluating the effect of Winrock’s community-level activities on the prevalence of climate change-induced human trafficking and associated risk factors.
+</details>
