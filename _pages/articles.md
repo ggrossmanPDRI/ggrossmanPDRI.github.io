@@ -12,7 +12,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 
 <!---2025 Paper #1--->
-**Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
+[46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
 ***British Journal of Political Science***, forthcoming.
 <a href="https://osf.io/dqt6c/">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
