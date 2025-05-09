@@ -31,7 +31,7 @@ nav: false
 <!---Working Paper #8--->
 
 <!---Working Paper #1--->
-**Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan´us Llu´ıs, William Dinneen, Carolina Torreblanca & Sandra Gonz´alez-Bail´on).
+**Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz´alez-Bail´on).
 
 
 <br />
