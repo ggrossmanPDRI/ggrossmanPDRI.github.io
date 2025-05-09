@@ -30,10 +30,28 @@ nav: false
 
 <!---Working Paper #8--->
 
+<!---Working Paper #1--->
+**Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan´us Llu´ıs, William Dinneen, Carolina Torreblanca & Sandra Gonz´alez-Bail´on).
+
+
+<br />
+
+<!---Working Paper #2--->
+**Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
+<a href="https://osf.io/preprints/osf/94tpy_v2">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+
+<details>
+<summary>Abstract</summary>
+Inclusive refugee policies -- granting refugees the right to work, use public services, and move freely -- benefit both refugees and host countries' economies. Yet many governments hesitate to liberalize such policies, fearing electoral backlash. Can governments avoid backlash by pairing refugee rights expansions with policies that reduce burdens on host communities? We examine this question in Uganda, Africa's largest refugee-hosting country. Alongside refugee policy liberalization, Uganda mandated reallocating a share of refugee aid to communities near refugee centers. Combining refugee settlement data with election returns (2001-2021), we show that the incumbent government faced no backlash, but only after implementing these compensation schemes. Using public goods data, public opinion surveys, newspapers data, and parliamentary speech records, we find that investments in hosting communities and the reluctance of opposition parties to rally against popular policies account for our 'no backlash' findings.
+</details>
+
+<br />
 
 <!---Working Paper #6--->
 **Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
-<a href="https://osf.io/hfm35/">
+<a href="https://osf.io/preprints/osf/hfm35_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
@@ -45,12 +63,12 @@ A vast body of work shows that ethnic and racial minority legislators are more l
 
 <!---Working Paper #6--->
 **The Evolving Landscape of Political Science: Two Decades of Scholarship in a Growing Discipline.** (with William Dinneen and Carolina Torreblanca).
-<a href="https://osf.io/tmy37_v2/">
+<a href="https://osf.io/preprints/osf/tmy37_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
-This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studiedand how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature ofintellectual progress in the discipline.
+This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
 </details>
 
 <br />
@@ -68,12 +86,12 @@ Social scientists not only conduct impact evaluations but also participate in th
 <br />
 
 **The Effects of Cellphone Coverage Expansion on Wealth and Political Behavior.** (with Katrina Kosec, Shuning Ge, Apoorva Lal, and Benjamin Laughlin).
-<a href="https://osf.io/y94d5_v1/">
+<a href="https://osf.io/y94d5/">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
-Taking advantage of Ghana’s gradual extension of cellphone towers in theearly 2000s, we analyze the wealth effects of cellphone coverage expansion ina developing country setting using a difference-in-differences (event study)research design. We proxy local wealth using night-time light density over 1996–2016 and an asset ownership-based index from the 2000 and 2010 censuses. We find that cellphone coverage expansion significantly raised wealthin Ghana. We then explore possible downstream effects of cellphone coverage expansion on electoral outcomes.  We find no evidence that better-off citizens reward incumbents, either in presidential or parliamentary elections. Using Afrobarometer survey data, this null finding appears to be be-cause citizens do not give the government credit for economic improvements that are due to decisions made by private telecommunications companies. Further, increases in cellphone coverage significantly decrease vote-buying, which may be due to voters being harder to buy off when they are better off.
+Taking advantage of Ghana’s gradual extension of cellphone towers in the early 2000s, we analyze the wealth effects of cellphone coverage expansion in a developing country setting using a difference-in-differences (event study)research design. We proxy local wealth using night-time light density over 1996–2016 and an asset ownership-based index from the 2000 and 2010 censuses. We find that cellphone coverage expansion significantly raised wealth in Ghana. We then explore possible downstream effects of cellphone coverage expansion on electoral outcomes.  We find no evidence that better-off citizens reward incumbents, either in presidential or parliamentary elections. Using Afrobarometer survey data, this null finding appears to be be-cause citizens do not give the government credit for economic improvements that are due to decisions made by private telecommunications companies. Further, increases in cellphone coverage significantly decrease vote-buying, which may be due to voters being harder to buy off when they are better off.
 </details>
 
 <br />
