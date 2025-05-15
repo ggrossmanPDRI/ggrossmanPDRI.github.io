@@ -32,6 +32,11 @@ nav: false
 
 <!---Working Paper #1--->
 **Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz&aacute;lez-Bail&oacute;n).
+<details>
+  <summary>Abstract</summary>
+Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include $N \sim 130,000$ articles authored by $N \sim 86,000$ scholars from the period 2003-2023. We analyze scholars’ embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.
+</details>
+
 
 
 <br />
