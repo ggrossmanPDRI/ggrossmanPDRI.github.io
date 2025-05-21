@@ -113,4 +113,20 @@ Taking advantage of Ghana’s gradual extension of cellphone towers in the early
 Throughout the developing world, citizens distrust the police and hesitate to bring crimes to their attention — a suboptimal equilibrium that makes it difficult for the police to effectively combat crime and violence. Community policing has been touted as one solution to this problem, but evidence on its efficacy in developing country contexts is sparse. We present results from a large-scale field experiment that randomly assigned a home-grown community policing intervention to police stations throughout rural Uganda. Drawing on administrative crime data and close to 4,000 interviews with citizens, police officers, and local authorities, we show that community policing had limited effects on core outcomes such as crime, insecurity, and perceptions of the police. We attribute these findings to a combination of turnover, treatment non-compliance, and resource constraints. Our study draws attention to the limits of community policing’s potential to reduce crime and build trust in the developing world.
 </details>
 
+<br />
+
+<!---Working Paper #8--->
+**Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour).
+<a href="https://osf.io/preprints/osf/mc6u3_v1">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of
+speech and the target’s identity strongly influence support for disciplinary actions in response to objectionable speech. Students generally oppose punishing objectionable speech unless it is deemed highly harmful. Hateful rhetoric targeting minority groups, such as
+Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive responses than identical statements directed at White students. While students, on average, afford greater protections to minority groups, there is notable variation. Exploratory analysis
+reveals that students’ responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target’s identity. These  principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.
+</details>
+
+
 
