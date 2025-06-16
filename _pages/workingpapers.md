@@ -95,12 +95,12 @@ Inclusive refugee policies -- granting refugees the right to work, use public se
 
 <!---Working Paper #6--->
 **Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
-<a href="https://osf.io/preprints/osf/hfm35_v1">
+<a href="https://osf.io/preprints/osf/hfm35_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
-A vast body of work shows that ethnic and racial minority legislators are more likely to represent their group’s interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivation or electoral incentives. We argue that previous research designs cannot answer this question. Conversely, we use a regression discontinuity design (RDD) to analyze the increase in minority representation in the UK Parliament after 2010. By comparing white MPs who narrowly beat minority candidates to minority MPs who narrowly beat white candidates, the RDD controls for electoral incentives since it holds constant constituency factors correlated with a minority parliamentary win. Analyzing over 1 million parliamentary speeches and questions, we find that minority MPs are more likely than white MPs to discuss issues important to ethnic minorities. Our findings suggest that minority substantive representation is likely driven, at least in part, by minority MPs’ intrinsic motivation.
+A vast body of work shows that minority legislators are more likely to represent their group's interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivations or electoral incentives. We use a regression discontinuity design (RDD) to analyze ethnic minority representation in the UK Parliament. By comparing white MPs who narrowly beat minority candidates to minority MPs who narrowly beat white candidates, the RDD controls for electoral incentives since it holds constant constituency factors correlated with a minority parliamentary win. Analyzing over 1 million parliamentary questions and speeches, we find that minority MPs are more likely than white MPs to discuss issues important to ethnic minorities. Additional evidence supports that narrowly elected MPs face similar electoral incentives, and that minority MPs representing minorities face reelection penalties. Our findings suggest that minority substantive representation is driven at least in part by intrinsic motivations.
 </details>
 
 <br />
