@@ -82,7 +82,7 @@ Social scientists not only conduct impact evaluations but also participate in th
 
 <!---Working Paper #5--->
 **Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
-<a href="https://osf.io/preprints/osf/94tpy_v2">
+<a href="https://osf.io/preprints/osf/94tpy_v4">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 
