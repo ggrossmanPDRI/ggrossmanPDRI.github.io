@@ -58,7 +58,7 @@ Research has documented the importance of teamwork in the form of co-authorship 
 
 <!---Working Paper #3--->
 **The Evolving Landscape of Political Science: Two Decades of Scholarship in a Growing Discipline.** (with William Dinneen and Carolina Torreblanca).
-<a href="https://osf.io/preprints/osf/tmy37_v2">
+<a href="https://osf.io/preprints/osf/tmy37_v3">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
