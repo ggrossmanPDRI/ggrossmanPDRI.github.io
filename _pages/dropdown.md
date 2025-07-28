@@ -9,7 +9,7 @@ children:
       permalink: /books/
     - title: articles
       permalink: /articles/
-    - title: working papers
+    - title: under review
       permalink: /wp/
     - title: policy reports
       permalink: /pr/

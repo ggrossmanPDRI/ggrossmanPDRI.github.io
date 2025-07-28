@@ -65,7 +65,7 @@ Throughout the developing world, citizens distrust the police and hesitate to br
 <br>
 
 <!---Working Paper #4--->
-**The Politics of Climate Change in the Developing World*** (with Audrey Sacks and Alice Xu).
+**The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
 <a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -146,7 +146,6 @@ A vast body of work shows that minority legislators are more likely to represent
 Taking advantage of Ghana’s gradual extension of cellphone towers in the early 2000s, we analyze the wealth effects of cellphone coverage expansion in a developing country setting using a difference-in-differences (event study)research design. We proxy local wealth using night-time light density over 1996–2016 and an asset ownership-based index from the 2000 and 2010 censuses. We find that cellphone coverage expansion significantly raised wealth in Ghana. We then explore possible downstream effects of cellphone coverage expansion on electoral outcomes.  We find no evidence that better-off citizens reward incumbents, either in presidential or parliamentary elections. Using Afrobarometer survey data, this null finding appears to be be-cause citizens do not give the government credit for economic improvements that are due to decisions made by private telecommunications companies. Further, increases in cellphone coverage significantly decrease vote-buying, which may be due to voters being harder to buy off when they are better off.
 </details>
 <br />
-
 -->
 
 
