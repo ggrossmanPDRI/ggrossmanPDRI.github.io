@@ -27,8 +27,8 @@ It has been argued that the level at which electoral results are published can a
 
 <!---2023 Paper #4--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
-***American Journal of Political Science***, 2023, early view.
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12877">
+***American Journal of Political Science***,2024. 69(2): 718–733. 
+<a href="https://doi.org/10.1111/ajps.12877">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/Voted-in-standing-out-Public-response-to-immigrants-political-accession.pdf" target="_blank" rel="noopener noreferrer">
@@ -48,8 +48,8 @@ How do dominant-group natives react to immigrants' political integration? We arg
 
 <!---2023 Paper #3--->
 [44] **Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters.** (with Stephanie Zonszein)   
-***American Political Science Review***, 2023, early view.
-<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters/2691D0ED674802DF7A9A71FA49A5A807">
+***American Political Science Review***, 2024, 118(3): 1556–1562.
+<a href="https://doi.org/10.1017/S000305542300103X">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters.pdf" target="_blank" rel="noopener noreferrer">
@@ -61,7 +61,7 @@ How do dominant-group natives react to immigrants' political integration? We arg
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UKVOPE">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
 <details>
   <summary>Abstract</summary>
-In many countries, the number of ethnic minority representatives has been steadily increasing. How is such a trend shaping electoral behavior? Past work has generally focused on the political engagement of ethnic minorities as a response to having a co-ethnic on the ballot. In contrast, less attention has been devoted to assessing whether an ethnic minority incumbent shapes the electoral behavior of majority-group members. We argue that increased political representation of minorities can be experienced as an external threat to a historically white dominant political context. This in turn may politically activate white constituents aiming to revert their (perceived) disempowerment. We test this argument employing a novel dataset that characterizes candidates' ethnicity, covering four UK Parliamentary general elections, and a regression discontinuity design of close elections between ethnic minority and majority-group candidates. Comparing constituencies that are otherwise identical, except for being represented by a minority Member of Parliament (MP), we find that an MP's ethnicity matters for electoral participation: turnout in constituencies narrowly represented by an ethnic minority MP is 3.6 percentage points larger than in constituencies narrowly represented by a white MP. Consistent with our argument, we find that such difference in turnout is driven by majority-white constituencies, and that voters in these constituencies choose the party of the minority incumbent’s strongest white opponent. However, this dynamic does not overpower minorities' incumbency advantage, but it contributes to polarizing the electorate along ethnic lines. Our findings have important implications for intergroup relations, political behavior, and recent political dynamics more broadly.
+In Western democracies, like the United States, the United Kingdom, and Germany, the number of ethnic minority representatives has been steadily increasing. How is this trend shaping electoral behavior? Past work has focused on the effects of minority representation on ethnic minorities’ political engagement, with less attention to the electoral behavior of majority-group members. We argue that increased minorities’ representation can be experienced as a threat to a historically white-dominant political context. This, in turn, politically activates white constituents. Using data from four U.K. general elections and a regression discontinuity design, we find that the next election’s turnout in constituencies narrowly won by an ethnic minority candidate is 4.3 percentage points larger than in constituencies narrowly won by a white candidate. Consistent with our argument, this turnout difference is driven by majority-white constituencies. Our findings have implications for intergroup relations and party politics and help explain recent political dynamics.
 </details>
 
 <br />
