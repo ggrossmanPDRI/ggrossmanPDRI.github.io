@@ -13,7 +13,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 <!---2025 Paper #1--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
-***British Journal of Political Science***, forthcoming.
+***British Journal of Political Science***, 2025,  forthcoming.
 <a href="https://osf.io/dqt6c/">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -25,9 +25,9 @@ It has been argued that the level at which electoral results are published can a
 
 <br />
 
-<!---2023 Paper #4--->
+<!---2025 Paper #2--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
-***American Journal of Political Science***, 2024. 69(2): 718–733. 
+***American Journal of Political Science***, 2025. 69(2): 718–733. 
 <a href="https://doi.org/10.1111/ajps.12877">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
@@ -46,7 +46,7 @@ How do dominant-group natives react to immigrants' political integration? We arg
 
 <br />
 
-<!---2023 Paper #3--->
+<!---2024 Paper #1--->
 [44] **Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters.** (with Stephanie Zonszein)   
 ***American Political Science Review***, 2024, 118(3): 1556–1562.
 <a href="https://doi.org/10.1017/S000305542300103X">
@@ -66,9 +66,9 @@ In Western democracies, like the United States, the United Kingdom, and Germany,
 
 <br />
 
-<!---2023 Paper 4--->
+<!---2024 Paper #2--->
 [43] **The Effect of Sustained Transparency on Electoral Accountability.** (with Kristin Michelitch, Carlo Prato)   
-***American Journal of Political Science***, 2023, 68(3): 1022-1040.
+***American Journal of Political Science***, 2024, 68(3): 1022-1040.
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12787">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
@@ -89,7 +89,7 @@ Transparency is expected to strengthen electoral accountability. Yet, initiative
 
 <br />
 
-<!---2023 Paper #2--->
+<!---2023 Paper #1--->
 [42] **Oil discoveries and political windfalls: Evidence on presidential support in Uganda.** (with Laura Paler, Jeremy Springman, Jan Pierskalla)   
 ***Political Science Research and Methods***, 2023, 11(4): 903-912.
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265">
@@ -109,7 +109,7 @@ Oil discoveries, paired with delays in production, have created a new phenomenon
 
 <br />
 
-<!---2023 #1--->
+<!---2023 #2--->
 [41] **Can low-cost, scalable, online intervention increase youth informed political participation in electoral authoritarian contexts?** (with Romain Ferrali, Horacio Larreguy)   
 ***Science Advances***, 2023, 9(26): eadf1222.
 <a href="https://www.science.org/doi/10.1126/sciadv.adf1222">
@@ -133,7 +133,7 @@ Young citizens in many democracies, and more so in electoral autocracies, turn o
 
 
 
-<!---2023 Paper #2--->
+<!---2023 Paper #3--->
 [40] **Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy.** (with Gemma Dipoppa, Stephanie Zonszein)   
 ***Journal of Politics***, 2023, 85(2): pp.389-404.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722346">
@@ -182,7 +182,7 @@ Large arrivals of refugees raise concerns about potential tensions with host com
 
 
 
-<!---2022 Paper #4--->
+<!---2022 Paper #1--->
 [38] **How the Ultra-Rich Use Media Ownership as a Political Investment.** (with Yotam Margalit, Tamar Mitts)   
 ***Journal of Politics***, 2022, 84(4): pp.1913-1931.
 <a href="https://www.journals.uchicago.edu/doi/10.1086/719415">
@@ -206,7 +206,7 @@ Can the ultra-rich shape electoral results by controlling media outlets that ope
 <br />
 
 
-<!---2022 Paper #3--->
+<!---2022 Paper #2--->
 [37] **Government Responsiveness in Developing Countries.** (with Tara Slough)   
 ***Annual Review of Political Science***, 2022, 25: pp.131-153.
 <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501">
@@ -225,7 +225,7 @@ When and how do governments deliver public goods and services in response to cit
 
 
 
-<!---2022 Paper #5--->
+<!---2022 Paper #3--->
 [36] **Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
 ***Comparative Political Studies***, 2022, 55(6): pp.899-932.
 <a href="https://journals.sagepub.com/doi/abs/10.1177/00104140211036048">
@@ -248,7 +248,7 @@ Who registers to vote? Although extensive research has examined the question of 
 
 
 
-<!---2022 Paper #2--->
+<!---2022 Paper #4--->
 [35] **Liberal Displacement Policies Attract Forced Migrants in the Global South.** (with Christopher W. Blair, Jeremy M. Weinstein)   
 ***American Political Science Review***, 2022, 116(1): pp.351-358.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/liberal-displacement-policies-attract-forced-migrants-in-the-global-south/F6872E76FBB27F61B96B90193BDE9A1D">
@@ -274,7 +274,7 @@ Most forced migrants around the world are displaced within the Global South. We 
 
 
 
-<!---2022 Paper #6--->
+<!---2022 Paper #5--->
 [34] **The Majoritarian Threat to Liberal Democracy.** (with Dorothy Kronick, Matthew Levendusky, Marc Meredith)   
 ***Journal of Experimental Political Science***, 2022, 9(1): pp.36-45.
 <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85">
@@ -296,7 +296,7 @@ Incumbents often seek to wield power in ways that are formally legal but informa
 
 <br />
 
-<!---2021 Paper #1--->
+<!---2021 Paper #6--->
 [33] **Forced Displacement and Asylum Policy in the Developing World.** (with Christopher W. Blair, Jeremy M. Weinstein)   
 ***International Organization***, 2022, 76(2): pp.337-378.
 <a href="https://www.cambridge.org/core/journals/international-organization/article/abs/forced-displacement-and-asylum-policy-in-the-developing-world/B89E49C17B0C96E9B9F5D234F190E77D">
@@ -320,7 +320,7 @@ Little theoretical or empirical work examines migration policy in the developing
 
 
 
-<!---2021 Paper--->
+<!---2022 Paper #7--->
 [32] **Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime.**(with Rob Blair, Travis Curtice, David Dow)       
 ***Social Science and Medicine***, 2022, 305: 115045.
 <a href="https://www.sciencedirect.com/science/article/pii/S0277953622003513?via%3Dihub">
@@ -350,7 +350,7 @@ We examine how trust shapes compliance with public health restrictions during th
 
 
 
-<!---2021 Paper #2--->
+<!---2021 Paper #1--->
 [31] **Viral Voting: Social Networks and Political Participation.** (with Nicholas Eubank, Melina R. Platas, Jonathan Rodden)   
 ***Quarterly Journal of Political Science***, 2021, 16(3): pp. 265-284.
 <a href="https://www.nowpublishers.com/article/Details/QJPS-19092">
@@ -371,7 +371,7 @@ Social context theory suggests that an important driver of political participati
 
 
 
-<!---2021 Paper #3--->
+<!---2021 Paper #2--->
 [30] **The Americas: When Do Voters Support Power Grabs?** (with Michael Albertus)   
 ***Journal of Democracy***, 2021, 32(2): pp. 116-131.
 <a href="https://muse.jhu.edu/article/787840">
@@ -393,7 +393,7 @@ This article examines the nature of democratic fragilities in the Americas throu
 <br />
 
 
-<!---2021 Paper #4--->
+<!---2021 Paper #3--->
 [29] **Community policing does not build citizen trust in police or reduce crime in the Global South.** (with Graeme Blair, et al.)   
 ***Science***, 2021, 374(6571): pp. 1046-1047.
 <a href="https://www.science.org/doi/10.1126/science.abd3446">
