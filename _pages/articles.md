@@ -27,7 +27,7 @@ It has been argued that the level at which electoral results are published can a
 
 <!---2023 Paper #4--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
-***American Journal of Political Science***,2024. 69(2): 718–733. 
+***American Journal of Political Science***, 2024. 69(2): 718–733. 
 <a href="https://doi.org/10.1111/ajps.12877">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
