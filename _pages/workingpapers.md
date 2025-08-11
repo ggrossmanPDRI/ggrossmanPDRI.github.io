@@ -40,6 +40,17 @@ Social scientists not only conduct impact evaluations but also participate in th
 
 <br>
 <!---Working Paper #2--->
+**Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?** (with Robert A. Blair and Anna M. Wilke) (__revise and resubmit__).
+<a href="https://osf.io/preprints/osf/wkrcm_v1">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve. But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate COP in the Global South. The COP initiative we study was locally designed and funded by the Ugandan government. We find no evidence that the program reduced crime, enhanced perceptions of safety, improved attitudes towards the police, or strengthened norms of cooperation with the police. We explore a variety of potential explanations for these results, including both supply-side factors (e.g. resource constraints within the Ugandan police) and demand-side factors (e.g. low baseline trust). We find no evidence that overcoming these obstacles would make COP more effective. Taken together, our findings point to important limitations of COP in low-income countries.
+</details>
+
+<br>
+<!---Working Paper #3--->
 **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) (__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/tmy37_v3">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -48,20 +59,20 @@ Social scientists not only conduct impact evaluations but also participate in th
   <summary>Abstract</summary>
 This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
 </details>
-<br />
 
-<!---Working Paper #3--->
-**Can Community Policing Improve Police - Community Relations in an Authoritarian Regime?** (with Rob Blair, Anna Wilke) (__revise and resubmit__).
-<a href="https://osf.io/wkrcm/">
+<br>
+<!---Working Paper #4--->
+**Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz&aacute;lez-Bail&oacute;n) (__revise and resubmit__).
+<a href="/assets/pdf/2025_Informal_Connections_Outweigh_Co_authorship.pdf" target="_blank" rel="noopener noreferrer">[download pdf]
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
-Throughout the developing world, citizens distrust the police and hesitate to bring crimes to their attention — a suboptimal equilibrium that makes it difficult for the police to effectively combat crime and violence. Community policing has been touted as one solution to this problem, but evidence on its efficacy in developing country contexts is sparse. We present results from a large-scale field experiment that randomly assigned a home-grown community policing intervention to police stations throughout rural Uganda. Drawing on administrative crime data and close to 4,000 interviews with citizens, police officers, and local authorities, we show that community policing had limited effects on core outcomes such as crime, insecurity, and perceptions of the police. We attribute these findings to a combination of turnover, treatment non-compliance, and resource constraints. Our study draws attention to the limits of community policing’s potential to reduce crime and build trust in the developing world.
+Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars’ embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.
 </details>
 
 <br>
-<!---Working Paper #4--->
+<!---Working Paper #5--->
 **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
 <a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -77,7 +88,7 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
 </details>
 
 <br>
-<!---Working Paper #5--->
+<!---Working Paper #6--->
 **Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour).
 <a href="https://osf.io/preprints/osf/mc6u3_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -90,13 +101,6 @@ Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive re
 reveals that students’ responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target’s identity. These  principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.
 </details>
 
-<br>
-<!---Working Paper #6--->
-**Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz&aacute;lez-Bail&oacute;n).
-<details>
-  <summary>Abstract</summary>
-Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars’ embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.
-</details>
 
 <br>
 <!---Working Paper #7--->
