@@ -63,7 +63,7 @@ This study analyzes the evolution of political science (PS) scholarship using 14
 <br>
 <!---Working Paper #4--->
 **Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz&aacute;lez-Bail&oacute;n) (__revise and resubmit__).
-<a href="/assets/pdf/2025_Informal_Connections_Outweigh_Co_authorship.pdf" target="_blank" rel="noopener noreferrer">[download pdf]
+<a href="/assets/pdf/2025_Informal_Connections_Outweigh_Co_authorship.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
