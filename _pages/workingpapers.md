@@ -71,21 +71,7 @@ This study analyzes the evolution of political science (PS) scholarship using 14
 Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars’ embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.
 </details>
 
-<br>
-<!---Working Paper #5--->
-**The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
-<a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-Climate change politics in the developing world remains understudied, despite the region’s acute vulnerability and centrality to climate futures. 
-This review synthesizes emerging research across three domains: public opinion and climate
-salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. 
-We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution. Yet the literatures on climate and environmental politics have developed along separate tracks, limiting conceptual integration and obscuring how local environmental decline mediates climate risk. Turning upstream,
-we examine how institutions shape climate exposure itself. 
-Climate vulnerability, we argue, is not simply inherited but politically constructed and unequally distributed through institutions that govern carbon sinks, build adaptive capacity, and determine political voice. We identify critical gaps around the distributive politics of adaptation, representation, and institutional sources of vulnerability.
-</details>
+
 
 <br>
 <!---Working Paper #6--->

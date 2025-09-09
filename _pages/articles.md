@@ -10,8 +10,25 @@ nav: false
 
 categories: [migration](/mfd/), [information technology](/ict-bettergov/), [political economy](/political-economy/), [democratic erosion](/democratic-erosion/), [government fragmentation](/government-fragmentation/), [identity](/identity/) and [conflict and crime](/conflict-and-crime/).
 
-
 <!---2025 Paper #1--->
+[47] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
+***Annual Review of Political Science***, 2026,  forthcoming.
+<a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Climate change politics in the developing world remains understudied, despite the region’s acute vulnerability and centrality to climate futures. 
+This review synthesizes emerging research across three domains: public opinion and climate
+salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. 
+We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution. Yet the literatures on climate and environmental politics have developed along separate tracks, limiting conceptual integration and obscuring how local environmental decline mediates climate risk. Turning upstream,
+we examine how institutions shape climate exposure itself. 
+Climate vulnerability, we argue, is not simply inherited but politically constructed and unequally distributed through institutions that govern carbon sinks, build adaptive capacity, and determine political voice. We identify critical gaps around the distributive politics of adaptation, representation, and institutional sources of vulnerability.
+</details>
+
+<br>
+
+<!---2025 Paper #2--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
 ***British Journal of Political Science***, 2025,  forthcoming.
 <a href="https://osf.io/dqt6c/">
@@ -25,7 +42,7 @@ It has been argued that the level at which electoral results are published can a
 
 <br />
 
-<!---2025 Paper #2--->
+<!---2025 Paper #3--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
 ***American Journal of Political Science***, 2025. 69(2): 718–733. 
 <a href="https://doi.org/10.1111/ajps.12877">
