@@ -74,8 +74,8 @@ Research has documented the importance of teamwork in the form of co-authorship 
 
 
 <br>
-<!---Working Paper #6--->
-**Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour).
+<!---Working Paper #5--->
+**Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour)(__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/mc6u3_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -89,7 +89,7 @@ reveals that students’ responses are shaped by normative principles: about two
 
 
 <br>
-<!---Working Paper #7--->
+<!---Working Paper #6--->
 **Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
 <a href="https://osf.io/preprints/osf/94tpy_v4">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -100,7 +100,7 @@ Inclusive refugee policies -- granting refugees the right to work, use public se
 </details>
 
 <br>
-<!---Working Paper #8--->
+<!---Working Paper #7--->
 **Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
 <a href="https://osf.io/preprints/osf/hfm35_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
