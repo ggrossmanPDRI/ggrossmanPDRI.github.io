@@ -75,7 +75,7 @@ Research has documented the importance of teamwork in the form of co-authorship 
 
 <br>
 <!---Working Paper #5--->
-**Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour)(__revise and resubmit__).
+**Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour) (__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/mc6u3_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
