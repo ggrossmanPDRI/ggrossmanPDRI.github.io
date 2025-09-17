@@ -41,7 +41,7 @@ Social scientists not only conduct impact evaluations but also participate in th
 <br>
 <!---Working Paper #2--->
 **Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?** (with Robert A. Blair and Anna M. Wilke) (__revise and resubmit__).
-<a href="https://osf.io/preprints/osf/wkrcm_v1">
+<a href="https://osf.io/preprints/osf/wkrcm_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
