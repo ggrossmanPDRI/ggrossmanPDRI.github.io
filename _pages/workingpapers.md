@@ -49,16 +49,6 @@ Social scientists not only conduct impact evaluations but also participate in th
 Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve. But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate COP in the Global South. The COP initiative we study was locally designed and funded by the Ugandan government. We find no evidence that the program reduced crime, enhanced perceptions of safety, improved attitudes towards the police, or strengthened norms of cooperation with the police. We explore a variety of potential explanations for these results, including both supply-side factors (e.g. resource constraints within the Ugandan police) and demand-side factors (e.g. low baseline trust). We find no evidence that overcoming these obstacles would make COP more effective. Taken together, our findings point to important limitations of COP in low-income countries.
 </details>
 
-<br>
-<!---Working Paper #3--->
-**Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) (__revise and resubmit__).
-<a href="https://osf.io/preprints/osf/tmy37_v3">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
-</details>
 
 <br>
 <!---Working Paper #4--->

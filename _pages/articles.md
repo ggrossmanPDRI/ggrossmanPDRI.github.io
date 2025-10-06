@@ -10,7 +10,18 @@ nav: false
 
 categories: [migration](/mfd/), [information technology](/ict-bettergov/), [political economy](/political-economy/), [democratic erosion](/democratic-erosion/), [government fragmentation](/government-fragmentation/), [identity](/identity/) and [conflict and crime](/conflict-and-crime/).
 
+
 <!---2025 Paper #1--->
+[48] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2025, forthcoming
+<a href="https://osf.io/preprints/osf/tmy37_v3">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
+</details>
+
+<!---2025 Paper #2--->
 [47] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
 ***Annual Review of Political Science***, 2026,  forthcoming.
 <a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
@@ -28,7 +39,7 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
 
 <br>
 
-<!---2025 Paper #2--->
+<!---2025 Paper #3--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
 ***British Journal of Political Science***, 2025,  forthcoming.
 <a href="https://osf.io/dqt6c/">
@@ -42,7 +53,7 @@ It has been argued that the level at which electoral results are published can a
 
 <br />
 
-<!---2025 Paper #3--->
+<!---2025 Paper #4--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
 ***American Journal of Political Science***, 2025. 69(2): 718–733. 
 <a href="https://doi.org/10.1111/ajps.12877">
