@@ -12,6 +12,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 
 <!---2025 Paper #1--->
+<br>
 [48] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2025, forthcoming
 <a href="https://osf.io/preprints/osf/tmy37_v3">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -20,6 +21,10 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
   <summary>Abstract</summary>
 This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
 </details>
+
+<br />
+
+<br>
 
 <!---2025 Paper #2--->
 [47] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
