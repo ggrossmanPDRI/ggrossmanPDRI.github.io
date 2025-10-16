@@ -28,18 +28,8 @@ nav: false
 </details>
 
 
-<!---Working Paper #1--->
-**Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) (__revise and resubmit__).
-<a href="https://darinchristensen.com/files/eac-niger.pdf">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks. EACs complement IRBs by focusing on potential harms to participants and communities, offering dynamic risk assessments, and advising on program adaptations or termination. By providing impartial expertise, EACs help address potential conflicts of interest that may arise when researchers and implementers are invested in a program’s continuation. We illustrate the value of EACs through our experience implementing a cross-border labor migration program in Niger. Our EAC provided crucial guidance on scaling up the intervention after a pilot study and adapting the program following an unexpected military coup. While EACs introduce additional costs and may limit researcher autonomy, they generate accountability and are particularly valuable for novel and politically sensitive interventions in fragile environments.
-</details>
-
 <br>
-<!---Working Paper #2--->
+<!---Working Paper #1--->
 **Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?** (with Robert A. Blair and Anna M. Wilke) (__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/wkrcm_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -51,7 +41,7 @@ Community-oriented policing (COP) is one of the most widely touted mechanisms fo
 
 
 <br>
-<!---Working Paper #4--->
+<!---Working Paper #2--->
 **Informal Connections Outweigh Co-authorship Ties in Academic Impact.** (with Dan&uacute;s Llu&iacute;s, William Dinneen, Carolina Torreblanca & Sandra Gonz&aacute;lez-Bail&oacute;n) (__revise and resubmit__).
 <details>
   <summary>Abstract</summary>
@@ -61,7 +51,7 @@ Research has documented the importance of teamwork in the form of co-authorship 
 
 
 <br>
-<!---Working Paper #5--->
+<!---Working Paper #3--->
 **Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis** (with Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour) (__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/mc6u3_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -76,7 +66,7 @@ reveals that students’ responses are shaped by normative principles: about two
 
 
 <br>
-<!---Working Paper #6--->
+<!---Working Paper #4--->
 **Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
 <a href="https://osf.io/preprints/osf/94tpy_v4">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -87,7 +77,7 @@ Inclusive refugee policies -- granting refugees the right to work, use public se
 </details>
 
 <br>
-<!---Working Paper #7--->
+<!---Working Paper #5--->
 **Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
 <a href="https://osf.io/preprints/osf/hfm35_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
