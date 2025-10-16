@@ -21,8 +21,6 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks. EACs complement IRBs by focusing on potential harms to participants and communities, offering dynamic risk assessments, and advising on program adaptations or termination. By providing impartial expertise, EACs help address potential conflicts of interest that may arise when researchers and implementers are invested in a program’s continuation. We illustrate the value of EACs through our experience implementing a cross-border labor migration program in Niger. Our EAC provided crucial guidance on scaling up the intervention after a pilot study and adapting the program following an unexpected military coup. While EACs introduce additional costs and may limit researcher autonomy, they generate accountability and are particularly valuable for novel and politically sensitive interventions in fragile environments.
 </details>
 
-<br>
-
 <!---2025 Paper #2--->
 <br>
 [48] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2026, forthcoming
