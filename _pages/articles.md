@@ -13,7 +13,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 <!---2026 Paper #1--->
 [49] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences***, 2026, forthcoming
-<a href="https://darinchristensen.com/files/eac-niger.pdf">
+<a href="/assets/pdf/EAC_Paper_Oct2025.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
