@@ -55,8 +55,17 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
 ***British Journal of Political Science***, 2025,  forthcoming.
 <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE">
+  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+</a>
+<a href="/assets/pdf/2025_do_more_disaggregated_electoral_results_deter_aggregation_fraud.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
+<a href="/assets/pdf/2025_deter_aggregation_S0007123425100665sup001.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<a href="https://doi.org/10.7910/DVN/LPSUBC">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
+
+
 <details>
   <summary>Abstract</summary>
 It has been argued that the level at which electoral results are published can affect the election integrity. Publishing more granular results (e.g., at the polling station level) can allow citizens to verify the vote totals that determine election outcomes, thereby deterring voting aggregation fraud. While this logic undergirds the recommendations of international organizations monitoring elections to publish disaggregated electoral results, to date there have not been systematic assessments of how variation in aggregation is linked to electoral miscounting. We address this lacuna by constructing a new dataset of the level at which electoral results are reported in 125 low- and middle-income countries since 2000. We find a clear negative association between the granularity of published electoral results and perceptions of counting irregularities. We do not observe substitution of election malpractice: increased granularity is not linked to perceptions of other forms of manipulation like electoral violence, opposition harassment, or clientelism.
