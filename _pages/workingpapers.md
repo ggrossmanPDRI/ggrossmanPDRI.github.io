@@ -78,7 +78,7 @@ Inclusive refugee policies -- granting refugees the right to work, use public se
 
 <br>
 <!---Working Paper #5--->
-**Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein).
+**Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities.** (with Apurav Bhatiya, William Dinneen, Stephanie Zonszein) (__revise and resubmit__).
 <a href="https://osf.io/preprints/osf/hfm35_v2">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
