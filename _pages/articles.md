@@ -38,12 +38,14 @@ We highlight a core paradox widespread public concern often coexists with limite
 we examine how institutions shape climate exposure itself. 
 Climate vulnerability, we argue, is not simply inherited but politically constructed and unequally distributed through institutions that govern carbon sinks, build adaptive capacity, and determine political voice. We identify critical gaps around the distributive politics of adaptation, representation, and institutional sources of vulnerability.
 </details>
-
 <br>
 
 <!---2026 Paper #1--->
 [47] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences***, 2025. 122(47): e2509773122
 <a href="https://www.pnas.org/doi/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
+  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://www.pnas.org/doi/suppl/10.1073/pnas.2509773122/suppl_file/pnas.2509773122.sapp.pdf" target="_blank" rel="noopener noreferrer">
@@ -53,7 +55,7 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
   <summary>Abstract</summary>
 Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks. EACs complement IRBs by focusing on potential harms to participants and communities, offering dynamic risk assessments, and advising on program adaptations or termination. By providing impartial expertise, EACs help address potential conflicts of interest that may arise when researchers and implementers are invested in a program’s continuation. We illustrate the value of EACs through our experience implementing a cross-border labor migration program in Niger. Our EAC provided crucial guidance on scaling up the intervention after a pilot study and adapting the program following an unexpected military coup. While EACs introduce additional costs and may limit researcher autonomy, they generate accountability and are particularly valuable for novel and politically sensitive interventions in fragile environments.
 </details>
-
+<br>
 <!---2025 Paper #3--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
 ***British Journal of Political Science***, 2025,  early view.
@@ -67,16 +69,12 @@ Social scientists not only conduct impact evaluations but also participate in th
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://doi.org/10.7910/DVN/LPSUBC">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
-
-
+<br>
 <details>
   <summary>Abstract</summary>
 It has been argued that the level at which electoral results are published can affect the election integrity. Publishing more granular results (e.g., at the polling station level) can allow citizens to verify the vote totals that determine election outcomes, thereby deterring voting aggregation fraud. While this logic undergirds the recommendations of international organizations monitoring elections to publish disaggregated electoral results, to date there have not been systematic assessments of how variation in aggregation is linked to electoral miscounting. We address this lacuna by constructing a new dataset of the level at which electoral results are reported in 125 low- and middle-income countries since 2000. We find a clear negative association between the granularity of published electoral results and perceptions of counting irregularities. We do not observe substitution of election malpractice: increased granularity is not linked to perceptions of other forms of manipulation like electoral violence, opposition harassment, or clientelism.
 </details>
-
-
-<br />
-
+<br>
 <!---2025 Paper #4--->
 [45] **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
 ***American Journal of Political Science***, 2025. 69(2): 718–733. 
@@ -95,9 +93,7 @@ It has been argued that the level at which electoral results are published can a
   <summary>Abstract</summary>
 How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.
 </details>
-
-<br />
-
+<br>
 <!---2024 Paper #1--->
 [44] **Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters.** (with Stephanie Zonszein)   
 ***American Political Science Review***, 2024, 118(3): 1556–1562.
