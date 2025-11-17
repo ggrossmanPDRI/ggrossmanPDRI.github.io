@@ -12,7 +12,6 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 
 
 <!---2025 Paper #2--->
-<br>
 [49] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2026, forthcoming
 <a href="https://osf.io/preprints/osf/tmy37_v3">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -21,8 +20,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
   <summary>Abstract</summary>
 This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.
 </details>
-<br />
-
+<br>
 <!---2025 Paper #2--->
 [48] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
 ***Annual Review of Political Science***, 2026,  forthcoming.
@@ -39,7 +37,6 @@ we examine how institutions shape climate exposure itself.
 Climate vulnerability, we argue, is not simply inherited but politically constructed and unequally distributed through institutions that govern carbon sinks, build adaptive capacity, and determine political voice. We identify critical gaps around the distributive politics of adaptation, representation, and institutional sources of vulnerability.
 </details>
 <br>
-
 <!---2026 Paper #1--->
 [47] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences***, 2025. 122(47): e2509773122
 <a href="https://www.pnas.org/doi/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
@@ -69,7 +66,6 @@ Social scientists not only conduct impact evaluations but also participate in th
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://doi.org/10.7910/DVN/LPSUBC">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
-<br>
 <details>
   <summary>Abstract</summary>
 It has been argued that the level at which electoral results are published can affect the election integrity. Publishing more granular results (e.g., at the polling station level) can allow citizens to verify the vote totals that determine election outcomes, thereby deterring voting aggregation fraud. While this logic undergirds the recommendations of international organizations monitoring elections to publish disaggregated electoral results, to date there have not been systematic assessments of how variation in aggregation is linked to electoral miscounting. We address this lacuna by constructing a new dataset of the level at which electoral results are reported in 125 low- and middle-income countries since 2000. We find a clear negative association between the granularity of published electoral results and perceptions of counting irregularities. We do not observe substitution of election malpractice: increased granularity is not linked to perceptions of other forms of manipulation like electoral violence, opposition harassment, or clientelism.
@@ -88,7 +84,6 @@ It has been argued that the level at which electoral results are published can a
   <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJ2DW4">  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/></a>
-
 <details>
   <summary>Abstract</summary>
 How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.
@@ -111,9 +106,7 @@ How do dominant-group natives react to immigrants' political integration? We arg
   <summary>Abstract</summary>
 In Western democracies, like the United States, the United Kingdom, and Germany, the number of ethnic minority representatives has been steadily increasing. How is this trend shaping electoral behavior? Past work has focused on the effects of minority representation on ethnic minorities’ political engagement, with less attention to the electoral behavior of majority-group members. We argue that increased minorities’ representation can be experienced as a threat to a historically white-dominant political context. This, in turn, politically activates white constituents. Using data from four U.K. general elections and a regression discontinuity design, we find that the next election’s turnout in constituencies narrowly won by an ethnic minority candidate is 4.3 percentage points larger than in constituencies narrowly won by a white candidate. Consistent with our argument, this turnout difference is driven by majority-white constituencies. Our findings have implications for intergroup relations and party politics and help explain recent political dynamics.
 </details>
-
-<br />
-
+<br>
 <!---2024 Paper #2--->
 [43] **The Effect of Sustained Transparency on Electoral Accountability.** (with Kristin Michelitch, Carlo Prato)   
 ***American Journal of Political Science***, 2024, 68(3): 1022-1040.
@@ -134,9 +127,7 @@ In Western democracies, like the United States, the United Kingdom, and Germany,
   <summary>Abstract</summary>
 Transparency is expected to strengthen electoral accountability. Yet, initiatives disseminating politician performance information directly prior to elections have reported disappointing results. We argue that to be effective transparency needs to be sustained: the dissemination of politician performance information needs to occur early, regularly, and predictably throughout the term. Using a formal model of electoral accountability under non-programmatic and uneven party competition, we study how sustained transparency impacts a string of decisions by various actors in advance of elections: incumbents' running choices, party nomination strategies, and potential challengers' entry decisions. We show how these effects shape the candidate slate and ultimately electoral outcomes, conditional on incumbent performance and the incumbent party's relative strength. We test our theory using a field experiment involving 354 subnational constituencies in Uganda, and find robust support to the idea that sustained transparency can improve electoral accountability even in weakly institutionalized electoral settings.
 </details>
-
-<br />
-
+<br>
 <!---2023 Paper #1--->
 [42] **Oil discoveries and political windfalls: Evidence on presidential support in Uganda.** (with Laura Paler, Jeremy Springman, Jan Pierskalla)   
 ***Political Science Research and Methods***, 2023, 11(4): 903-912.
@@ -154,9 +145,7 @@ Transparency is expected to strengthen electoral accountability. Yet, initiative
   <summary>Abstract</summary>
 Oil discoveries, paired with delays in production, have created a new phenomenon: sustained post-discovery, pre-production periods. While research on the resource curse has debated the effects of oil on governance and conflict, less is known about the political effects of oil discoveries absent production. Using comprehensive electoral data from Uganda and a difference-in-difference design with heterogeneous effects, we show that oil discoveries increased electoral support for the incumbent chief executive in localities proximate to discoveries, even prior to production. Moreover, the biggest effects occurred in localities that were historically most electorally competitive. Overall, we show that the political effects of oil discoveries vary subnationally depending on local political context and prior to production, with important implications for understanding the roots of the political and conflict curses.
 </details>
-
-<br />
-
+<br>
 <!---2023 #2--->
 [41] **Can low-cost, scalable, online intervention increase youth informed political participation in electoral authoritarian contexts?** (with Romain Ferrali, Horacio Larreguy)   
 ***Science Advances***, 2023, 9(26): eadf1222.
@@ -176,11 +165,7 @@ Oil discoveries, paired with delays in production, have created a new phenomenon
   <summary>Abstract</summary>
 Young citizens in many democracies, and more so in electoral autocracies, turn out to vote at relatively low rates. Low youth participation arguably contributes to political parties' tendency to de-prioritize the youth's policy preferences. We analyze the effect of three low-cost, scalable, theoretically-grounded, online interventions designed to encourage young Moroccans to turn out and cast an informed vote ahead of the 2021 parliamentary elections. Those interventions aimed at (1) lowering the cost of participation by providing information about the voting registration process, (2) increasing the expected benefit of voting by providing information about the stakes of the election, and about (3) the distance between respondents’ policy preferences and political parties' policy platforms. We find that while all three interventions failed to increase youth turnout on average, the two treatments designed to increase expected benefits increased turnout intentions for likely "compliers:" those who, prior to treatment assignment, were unsure about whether to vote. Moreover, providing information about parties' policy platforms durably increased their support for the party that best represented their preferences, ultimately leading to better-informed voting. Consistent with probabilistic voting models with voting costs, the effect of the party-platforms treatment is concentrated among those who rated the party that our treatment deemed most congruent from a policy perspective as one of their two favorite parties. Contributing to information processing theories, we also find that party updating followed a form of motivated reasoning even in a context with weak party institutionalization.
 </details>
-
-<br />
-
-
-
+<br>
 <!---2023 Paper #3--->
 [40] **Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy.** (with Gemma Dipoppa, Stephanie Zonszein)   
 ***Journal of Politics***, 2023, 85(2): pp.389-404.
@@ -200,12 +185,7 @@ Young citizens in many democracies, and more so in electoral autocracies, turn o
   <summary>Abstract</summary>
 Covid-19 caused a significant health and economic crisis, a condition identified as conducive to stigmatization and hateful behavior against minority groups. It is however unclear whether the threat of infection triggers violence in addition to stigmatization, and whether a violent reaction can happen at the onset of an unexpected economic shock before social hierarchies can be disrupted. Using a novel database of hate crimes across Italy, we show that (i) hate crimes against Asians increased substantially at the pandemic onset, and that (ii) the increase was concentrated in cities with higher expected unemployment, but not higher mortality. We then examine individual, local and national mobilization as mechanisms. We find that (iii) a xenophobic national discourse and local far-right institutions motivate hate crimes, while we find no support for the role of individual prejudice. Our study identifies new conditions triggering hateful behavior, advancing our understanding of factors hindering migrant integration.
 </details>
-
-
-<br />
-
-
-
+<br>
 [39] **Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash.** (with Yang-Yang Zhou, Shuning Ge)   
 ***World Development***, 2023, 166: pp.106-203.
 <a href="https://www.sciencedirect.com/science/article/pii/S0305750X23000219">
@@ -222,14 +202,7 @@ Covid-19 caused a significant health and economic crisis, a condition identified
   <summary>Abstract</summary>
 Large arrivals of refugees raise concerns about potential tensions with host communities, particularly if refugees are viewed as an out-group competing for limited material resources and crowding out public services. To address these concerns, calls have increased to allocate humanitarian aid in ways that also benefit host communities. This study tests whether the increased presence of refugees, when coupled with humanitarian aid, improves public service delivery for host communities and dampens potential social conflict. We study this question in Uganda, one of the largest and most inclusive refugee-hosting countries. The data combines geospatial information on refugee settlements with original longitudinal data on primary and secondary schools, road density, health clinics, and health utilization. We report two key findings. First, even after the 2014 arrival of over 1 million South Sudanese refugees, host communities with greater refugee presence experienced substantial improvements in local development. Second, using public opinion data, we find no evidence that refugee presence has been associated with more negative (or positive) attitudes towards migrants or migration policy.
 </details>
-
-
-
-<br />
-
-
-
-
+<br>
 <!---2022 Paper #1--->
 [38] **How the Ultra-Rich Use Media Ownership as a Political Investment.** (with Yotam Margalit, Tamar Mitts)   
 ***Journal of Politics***, 2022, 84(4): pp.1913-1931.
@@ -249,11 +222,7 @@ Large arrivals of refugees raise concerns about potential tensions with host com
   <summary>Abstract</summary>
 Can the ultra-rich shape electoral results by controlling media outlets that openly propagate their political interests? How consumers discount slanted media coverage is a question gaining urgency as a growing number of billionaires mix ownership of major media outlets with business interests and political agendas. We study this question in the context of Israel, where billionaire Sheldon Adelson launched in 2007 Israel Hayom, a right-leaning newspaper. Handed out for free, it soon became the most widely read newspaper nationally. Utilizing local media exposure data since the launch, our analysis indicates that the newspaper exerted significant electoral influence, primarily benefiting Netanyahu and his Likud party. This shift helped bring about a sea-change in the right’s dominance of national politics. The findings highlight the immense impact the ultra-rich can exert in shaping politics through media ownership.
 </details>
-
-
-<br />
-
-
+<br>
 <!---2022 Paper #2--->
 [37] **Government Responsiveness in Developing Countries.** (with Tara Slough)   
 ***Annual Review of Political Science***, 2022, 25: pp.131-153.
@@ -267,12 +236,7 @@ Can the ultra-rich shape electoral results by controlling media outlets that ope
   <summary>Abstract</summary>
 When and how do governments deliver public goods and services in response to citizen preferences? We review the current literature on government responsiveness, with a focus on public goods and service delivery in developing countries. We identify three types of actors that are commonly present in these accounts: politicians, bureaucrats, and citizens. Much of this literature examines interactions between dyads of these actors. The study of electoral accountability and constituency services emphasizes relationships between citizens (or voters) and politicians. Studies of bureaucratic incentives and political oversight of bureaucrats emphasize interactions between politicians and bureaucrats. Finally, studies of bureaucratic embeddedness and citizen oversight of bureaucrats elaborate the interactions between bureaucrats and citizens. We argue that an emerging literature that considers interactions between all three types of actors provides rich theoretical and empirical terrain for developing our understanding of responsiveness and accountability in low- and middle-income countries and beyond.
 </details>
-
-
-<br />
-
-
-
+<br>
 <!---2022 Paper #3--->
 [36] **Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
 ***Comparative Political Studies***, 2022, 55(6): pp.899-932.
@@ -289,13 +253,7 @@ When and how do governments deliver public goods and services in response to cit
   <summary>Abstract</summary>
 Who registers to vote? Although extensive research has examined the question of who votes, our understanding of the determinants of political participation will be limited until we know who is missing from the voter register. Studying voter registration in lower-income settings is particularly challenging due to data constraints. We link the official voter register with a complete social network census of 16 villages to analyze the correlates of voter registration in rural Uganda, examining the role of individual-level attributes and social ties. We find evidence that social ties are important for explaining registration status within and across households. Village leaders—and through them, household heads—play an important role in explaining the registration status of others in the village, suggesting a diffuse process of social influence. Socioeconomic factors such as income and education do not explain registration in this setting. Together these findings suggest an alternate theory of participation is required.
 </details>
-
-
-<br />
-
-
-
-
+<br>
 <!---2022 Paper #4--->
 [35] **Liberal Displacement Policies Attract Forced Migrants in the Global South.** (with Christopher W. Blair, Jeremy M. Weinstein)   
 ***American Political Science Review***, 2022, 116(1): pp.351-358.
