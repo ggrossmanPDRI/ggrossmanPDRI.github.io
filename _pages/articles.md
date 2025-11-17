@@ -42,7 +42,7 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
 <br>
 
 <!---2026 Paper #1--->
-[47] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences 122(47): e2509773122***, 2025
+[47] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences***, 2025. 122(47): e2509773122
 <a href="https://www.pnas.org/doi/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
