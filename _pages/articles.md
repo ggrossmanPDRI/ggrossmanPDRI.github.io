@@ -11,22 +11,9 @@ nav: false
 categories: [migration](/mfd/), [information technology](/ict-bettergov/), [political economy](/political-economy/), [democratic erosion](/democratic-erosion/), [government fragmentation](/government-fragmentation/), [identity](/identity/) and [conflict and crime](/conflict-and-crime/).
 
 
-<!---2026 Paper #1--->
-[49] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences***, 2026, forthcoming
-<a href="https://www.pnas.org/doi/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
-</a>
-<a href="https://www.pnas.org/doi/suppl/10.1073/pnas.2509773122/suppl_file/pnas.2509773122.sapp.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
-</a>
-<details>
-  <summary>Abstract</summary>
-Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks. EACs complement IRBs by focusing on potential harms to participants and communities, offering dynamic risk assessments, and advising on program adaptations or termination. By providing impartial expertise, EACs help address potential conflicts of interest that may arise when researchers and implementers are invested in a program’s continuation. We illustrate the value of EACs through our experience implementing a cross-border labor migration program in Niger. Our EAC provided crucial guidance on scaling up the intervention after a pilot study and adapting the program following an unexpected military coup. While EACs introduce additional costs and may limit researcher autonomy, they generate accountability and are particularly valuable for novel and politically sensitive interventions in fragile environments.
-</details>
-
 <!---2025 Paper #2--->
 <br>
-[48] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2026, forthcoming
+[49] **Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023** (with William Dinneen and Carolina Torreblanca) ***Perspective on Politics***, 2026, forthcoming
 <a href="https://osf.io/preprints/osf/tmy37_v3">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
@@ -37,7 +24,7 @@ This study analyzes the evolution of political science (PS) scholarship using 14
 <br />
 
 <!---2025 Paper #2--->
-[47] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
+[48] **The Politics of Climate Change in the Developing World** (with Audrey Sacks and Alice Xu).
 ***Annual Review of Political Science***, 2026,  forthcoming.
 <a href="/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf" target="_blank" rel="noopener noreferrer">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
@@ -54,9 +41,22 @@ Climate vulnerability, we argue, is not simply inherited but politically constru
 
 <br>
 
+<!---2026 Paper #1--->
+[47] **Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks.** (with Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremey Weinstein, and Jessica Wolff) ***Proceedings of the National Academy of Sciences 122(47): e2509773122***, 2025
+<a href="https://www.pnas.org/doi/10.1073/pnas.2509773122" target="_blank" rel="noopener noreferrer">
+  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+</a>
+<a href="https://www.pnas.org/doi/suppl/10.1073/pnas.2509773122/suppl_file/pnas.2509773122.sapp.pdf" target="_blank" rel="noopener noreferrer">
+  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+</a>
+<details>
+  <summary>Abstract</summary>
+Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks. EACs complement IRBs by focusing on potential harms to participants and communities, offering dynamic risk assessments, and advising on program adaptations or termination. By providing impartial expertise, EACs help address potential conflicts of interest that may arise when researchers and implementers are invested in a program’s continuation. We illustrate the value of EACs through our experience implementing a cross-border labor migration program in Niger. Our EAC provided crucial guidance on scaling up the intervention after a pilot study and adapting the program following an unexpected military coup. While EACs introduce additional costs and may limit researcher autonomy, they generate accountability and are particularly valuable for novel and politically sensitive interventions in fragile environments.
+</details>
+
 <!---2025 Paper #3--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
-***British Journal of Political Science***, 2025,  forthcoming.
+***British Journal of Political Science***, 2025,  early view.
 <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
