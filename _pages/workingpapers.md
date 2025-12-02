@@ -70,8 +70,6 @@ reveals that students’ responses are shaped by normative principles: about two
 A vast body of work shows that minority legislators are more likely to represent their group's interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivations or electoral incentives. We use a regression discontinuity design (RDD) to analyze ethnic minority representation in the UK Parliament. By comparing white MPs who narrowly beat minority candidates to minority MPs who narrowly beat white candidates, the RDD controls for electoral incentives since it holds constant constituency factors correlated with a minority parliamentary win. Analyzing over 1 million parliamentary questions and speeches, we find that minority MPs are more likely than white MPs to discuss issues important to ethnic minorities. Additional evidence supports that narrowly elected MPs face similar electoral incentives, and that minority MPs representing minorities face reelection penalties. Our findings suggest that minority substantive representation is driven at least in part by intrinsic motivations.
 </details>
 <br>
-
-<br>
 <!---Working Paper #4--->
 **The Credibility Revolution in Political Science** (with Carolina Torreblanca William Dinneen and Yiqing Xu).
 <a href="https://osf.io/preprints/socarxiv/w2kmc_v1">
@@ -82,7 +80,7 @@ A vast body of work shows that minority legislators are more likely to represent
 How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns. Design-based studies—research strategies that explicitly a research design and the assumptions required for causal identification—have become increasingly common, displacing regression-based analyses that rely primarily on modeling assumptions.  Yet as of 2023, studies without an explicit identification
 strategy still constitute nearly 40% of empirical quantitative work. Within design-based research, survey experiments dominate, while field experiments and quasi-experimental approaches have grown more modestly. Transparency practices such as placebo tests and power analysis remain rare.  Design-based studies are concentrated in top journals and among authors at highly ranked institutions, and enjoy a persistent citation premium. The credibility revolution has meaningfully reshaped the discipline, though unevenly and incompletely.
 </details>
-
+<br>
 <!---Working Paper #5--->
 **Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
 <a href="https://osf.io/preprints/osf/94tpy_v4">
