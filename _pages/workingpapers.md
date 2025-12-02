@@ -71,7 +71,7 @@ A vast body of work shows that minority legislators are more likely to represent
 </details>
 <br>
 <!---Working Paper #4--->
-**The Credibility Revolution in Political Science** (with Carolina Torreblanca William Dinneen and Yiqing Xu).
+**The Credibility Revolution in Political Science** (with Carolina Torreblanca, William Dinneen and Yiqing Xu).
 <a href="https://osf.io/preprints/socarxiv/w2kmc_v1">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
