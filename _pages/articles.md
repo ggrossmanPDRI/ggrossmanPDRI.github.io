@@ -55,7 +55,7 @@ Social scientists not only conduct impact evaluations but also participate in th
 <br>
 <!---2025 Paper #3--->
 [46] **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge).
-***British Journal of Political Science***, 2025,  early view.
+***British Journal of Political Science***, 2025.  55 (e140): 1-11
 <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE">
   <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
