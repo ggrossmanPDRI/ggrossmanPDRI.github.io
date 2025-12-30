@@ -83,7 +83,7 @@ strategy still constitute nearly 40% of empirical quantitative work. Within desi
 <br>
 <!---Working Paper #5--->
 **Liberalizing Refugee Hosting Policies without Losing the Vote.** (with Zhou, Yang-Yang, Naijia Liu, & Shuning Ge).
-<a href="https://osf.io/preprints/osf/94tpy_v4">
+<a href="https://osf.io/preprints/osf/94tpy_v5">
   <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
