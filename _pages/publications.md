@@ -1,4 +1,5 @@
 ---
+---
 layout: page
 permalink: /publications/
 nav: true
@@ -63,9 +64,8 @@ const BookOpen = () => (
 );
 
 const PapersWidget = () => {
-  const [selectedYear, setSelectedYear] = useState('all');
+  const [selectedYear, setSelectedYear] = useState('all'); // keep as string always
   const [activeTab, setActiveTab] = useState('published');
-
   const publications = [
     {
       id: 49,
@@ -773,22 +773,23 @@ const PapersWidget = () => {
   ];
 
   const years = useMemo(() => {
-    const uniqueYears = [...new Set(publications.map(p => p.year))].sort((a, b) => b - a);
+    const uniqueYears = [...new Set(publications.map(p => String(p.year)))].sort((a, b) => Number(b) - Number(a));
     return ['all', ...uniqueYears];
   }, []);
 
   const filteredPublications = useMemo(() => {
     if (selectedYear === 'all') return publications;
-    return publications.filter(p => p.year === selectedYear);
-  }, [selectedYear]);
+    return publications.filter(p => String(p.year) === selectedYear);
+  }, [selectedYear, publications]);
 
   const yearCounts = useMemo(() => {
     const counts = {};
     publications.forEach(p => {
-      counts[p.year] = (counts[p.year] || 0) + 1;
+      const y = String(p.year);
+      counts[y] = (counts[y] || 0) + 1;
     });
     return counts;
-  }, []);
+  }, [publications]);
 
   const ActionButton = ({ icon: Icon, label, onClick, disabled }) => (
     <button
@@ -798,7 +799,7 @@ const PapersWidget = () => {
         disabled
           ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
           : 'bg-white/80 text-gray-700 hover:bg-blue-50 hover:text-blue-700 border border-gray-200 hover:border-blue-300'
-      }}
+      }`}
     >
       <Icon />
       {label}
@@ -815,15 +816,15 @@ const PapersWidget = () => {
           {showYear && paper.year && (
             <div className="text-sm font-semibold text-blue-600">{paper.year}</div>
           )}
-          
+
           <h3 className="text-lg font-bold text-gray-900 leading-tight">{paper.title}</h3>
-          
+
           <div className="text-sm text-gray-600">with {paper.authors}</div>
-          
+
           {paper.journal && (
             <div className="text-sm font-medium text-gray-700">
               {paper.journal}
-              {paper.volume && `, ${paper.volume}}
+              {paper.volume ? `, ${paper.volume}` : ''} {/* ✅ FIXED */}
               {paper.status && (
                 <span className="ml-2 px-2 py-0.5 bg-yellow-100 text-yellow-800 rounded text-xs">
                   {paper.status}
@@ -841,16 +842,16 @@ const PapersWidget = () => {
           )}
 
           <div className="flex flex-wrap gap-2 pt-2">
-            {paper.links.pdf && (
+            {paper.links?.pdf && (
               <ActionButton icon={Download} label="PDF" onClick={() => window.open(paper.links.pdf, '_blank')} />
             )}
-            {paper.links.journal && (
+            {paper.links?.journal && (
               <ActionButton icon={ExternalLink} label="Journal" onClick={() => window.open(paper.links.journal, '_blank')} />
             )}
-            {paper.links.appendix && (
+            {paper.links?.appendix && (
               <ActionButton icon={FileText} label="Appendix" onClick={() => window.open(paper.links.appendix, '_blank')} />
             )}
-            {paper.links.replication && (
+            {paper.links?.replication && (
               <ActionButton icon={Database} label="Data" onClick={() => window.open(paper.links.replication, '_blank')} />
             )}
             <ActionButton icon={Quote} label="BibTeX" onClick={() => setShowBibtex(!showBibtex)} />
@@ -865,7 +866,7 @@ const PapersWidget = () => {
             </div>
           )}
 
-          {showBibtex && paper.links.bibtex && (
+          {showBibtex && paper.links?.bibtex && (
             <div className="mt-4 relative">
               <pre className="p-4 bg-gray-900 text-gray-100 rounded-lg text-xs overflow-x-auto">
                 {paper.links.bibtex}
@@ -896,7 +897,7 @@ const PapersWidget = () => {
             onClick={() => setActiveTab('published')}
             className={`px-6 py-3 font-medium transition-all ${
               activeTab === 'published' ? 'text-blue-600 border-b-2 border-blue-600' : 'text-gray-500'
-            }}
+            }`}
           >
             Published Papers ({publications.length})
           </button>
@@ -904,7 +905,7 @@ const PapersWidget = () => {
             onClick={() => setActiveTab('working')}
             className={`px-6 py-3 font-medium transition-all ${
               activeTab === 'working' ? 'text-blue-600 border-b-2 border-blue-600' : 'text-gray-500'
-            }}
+            }`}
           >
             Under Review ({workingPapers.length})
           </button>
@@ -920,7 +921,7 @@ const PapersWidget = () => {
                     onClick={() => setSelectedYear(year)}
                     className={`px-3 py-2 rounded-lg font-medium text-sm transition-all ${
                       selectedYear === year ? 'bg-blue-600 text-white shadow-md' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                    }}
+                    }`}
                   >
                     <div>{year === 'all' ? 'All' : year}</div>
                     {year !== 'all' && (
@@ -949,7 +950,8 @@ const PapersWidget = () => {
   );
 };
 
-const root = ReactDOM.createRoot(document.getElementById('react-publications-root'));
+const mount = document.getElementById('react-publications-root');
+const root = ReactDOM.createRoot(mount);
 root.render(<PapersWidget />);
 </script>
 
