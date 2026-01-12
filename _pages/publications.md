@@ -78,13 +78,13 @@ const PapersWidget = () => {
       abstract: "This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references.",
       links: {
         pdf: "https://osf.io/preprints/osf/tmy37_v3",
-        bibtex: `@article{grossman2026political,
+        bibtex: "@article{grossman2026political,
   title={Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023},
   author={Grossman, Guy and Dinneen, William and Torreblanca, Carolina},
   journal={Perspective on Politics},
   year={2026},
   status={forthcoming}
-}
+}"
       }
     },
     {
@@ -97,13 +97,13 @@ const PapersWidget = () => {
       abstract: "Climate change politics in the developing world remains understudied, despite the region's acute vulnerability and centrality to climate futures. This review synthesizes emerging research across three domains: public opinion and climate salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution.",
       links: {
         pdf: "/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf",
-        bibtex: `@article{grossman2026climate,
+        bibtex: "@article{grossman2026climate,
   title={The Politics of Climate Change in the Developing World},
   author={Grossman, Guy and Sacks, Audrey and Xu, Alice},
   journal={Annual Review of Political Science},
   year={2026},
   status={forthcoming}
-}
+}"
       }
     },
     {
@@ -118,7 +118,7 @@ const PapersWidget = () => {
         pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2509773122",
         journal: "https://www.pnas.org/doi/10.1073/pnas.2509773122",
         appendix: "https://www.pnas.org/doi/suppl/10.1073/pnas.2509773122/suppl_file/pnas.2509773122.sapp.pdf",
-        bibtex: `@article{grossman2025ethical,
+        bibtex: "@article{grossman2025ethical,
   title={Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks},
   author={Grossman, Guy and Christensen, Darin and Grossman, Allison N. and Kurtz, Jon and Weinstein, Jeremy and Wolff, Jessica},
   journal={Proceedings of the National Academy of Sciences},
@@ -126,7 +126,7 @@ const PapersWidget = () => {
   number={47},
   pages={e2509773122},
   year={2025}
-}
+}"
       }
     },
     {
@@ -142,7 +142,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE",
         appendix: "/assets/pdf/2025_deter_aggregation_S0007123425100665sup001.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C",
-        bibtex: `@article{grossman2020ict,
+        bibtex: "@article{grossman2020ict,
   title={Information Technology and Political Engagement: Mixed Evidence from Uganda},
   author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
   journal={Journal of Politics},
@@ -150,7 +150,7 @@ const PapersWidget = () => {
   number={4},
   pages={1321--1336},
   year={2020}
-}
+}"
       }
     },
     {
@@ -166,7 +166,7 @@ const PapersWidget = () => {
         journal: "https://journals.sagepub.com/eprint/GV3U7V9SCKVJJJJNZBHP/full",
         appendix: "/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDAS7N",
-        bibtex: `@article{grossman2020election,
+        bibtex: "@article{grossman2020election,
   title={The Effect of Election Proximity on Government Responsiveness and Citizens' Participation},
   author={Grossman, Guy and Dipoppa, Gemma},
   journal={Comparative Political Studies},
@@ -174,7 +174,7 @@ const PapersWidget = () => {
   number={4},
   pages={2183--2212},
   year={2020}
-}
+}"
       }
     },
     {
@@ -190,7 +190,7 @@ const PapersWidget = () => {
         journal: "https://www.pnas.org/content/early/2020/09/14/2007835117",
         appendix: "/assets/pdf/political_partisanship_online_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataverse/COVID19governors/",
-        bibtex: `@article{grossman2020partisanship,
+        bibtex: "@article{grossman2020partisanship,
   title={Political partisanship influences behavioral responses to governors' recommendations for COVID-19 prevention in the United States},
   author={Grossman, Guy and Kim, Soojong and Rexer, Jonah M. and Thirumurthy, Harsha},
   journal={Proceedings of the National Academy of Sciences},
@@ -198,7 +198,7 @@ const PapersWidget = () => {
   number={39},
   pages={24144--24153},
   year={2020}
-}
+}"
       }
     },
     {
@@ -214,7 +214,7 @@ const PapersWidget = () => {
         journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471",
         appendix: "/assets/pdf/2019_AJPS_ICT_it_takes_a_village_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NOYBCQ",
-        bibtex: `@article{grossman2019village,
+        bibtex: "@article{grossman2019village,
   title={It Takes a Village: Peer Effects and Externalities in Technology Adoption},
   author={Grossman, Guy and Ferrali, Romain and Platas, Melina R. and Rodden, Jonathan},
   journal={American Journal of Political Science},
@@ -222,7 +222,7 @@ const PapersWidget = () => {
   number={3},
   pages={536--553},
   year={2019}
-}
+}"
       }
     },
     {
@@ -238,7 +238,7 @@ const PapersWidget = () => {
         journal: "https://www.science.org/doi/10.1126/sciadv.aaw2612",
         appendix: "/assets/pdf/2019_Science_PE_voter_information_campaigns_appendix.pdf",
         replication: "https://github.com/egap/metaketa-i",
-        bibtex: `@article{grossman2019voter,
+        bibtex: "@article{grossman2019voter,
   title={Voter information campaigns and political accountability},
   author={Dunning, Thad and others},
   journal={Science Advances},
@@ -246,7 +246,7 @@ const PapersWidget = () => {
   number={7},
   pages={1188--1192},
   year={2019}
-}
+}"
       }
     },
     {
@@ -261,7 +261,7 @@ const PapersWidget = () => {
         pdf: "/assets/pdf/2019_JoP_Government_a_signaling_theory.pdf",
         journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/701833",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJ9E9M",
-        bibtex: `@article{grossman2019signaling,
+        bibtex: "@article{grossman2019signaling,
   title={A Signaling Theory of Distributive Policy Choice: Evidence From Senegal},
   author={Grossman, Guy and Gottlieb, Jessica and Larreguy, Horacio and Marx, Benjamin},
   journal={Journal of Politics},
@@ -269,7 +269,7 @@ const PapersWidget = () => {
   number={2},
   pages={631--647},
   year={2019}
-}
+}"
       }
     },
     {
@@ -285,7 +285,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/contested-ground-disentangling-material-and-symbolic-attachment-to-disputed-territory/51547A284177A0B4E84B76E1929A0C51",
         appendix: "/assets/pdf/2019_PSRM_Conflict_contested_ground_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INCWQN",
-        bibtex: `@article{grossman2019contested,
+        bibtex: "@article{grossman2019contested,
   title={Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory},
   author={Grossman, Guy and Manekin, Devorah and Mitts, Tamar},
   journal={Political Science Research and Methods},
@@ -293,7 +293,7 @@ const PapersWidget = () => {
   number={4},
   pages={679--697},
   year={2019}
-}
+}"
       }
     },
     {
@@ -309,7 +309,7 @@ const PapersWidget = () => {
         journal: "https://www.nowpublishers.com/article/Details/QJPS-18094",
         appendix: "/assets/pdf/2019_QJPS_Conflict_border_walls_appendix.pdf",
         replication: "https://www.nowpublishers.com/article/details/supplementary-info/100.00018094_supp.zip",
-        bibtex: `@article{grossman2019border,
+        bibtex: "@article{grossman2019border,
   title={Border Walls and Smuggling Spillovers},
   author={Grossman, Guy and Getmansky, Anna and Wright, Austin L.},
   journal={Quarterly Journal of Political Science},
@@ -317,7 +317,7 @@ const PapersWidget = () => {
   number={3},
   pages={329--347},
   year={2019}
-}
+}"
       }
     },
     {
@@ -332,7 +332,7 @@ const PapersWidget = () => {
         pdf: "/assets/pdf/2018_CPS_Conflict_how_sanctions.pdf",
         journal: "https://journals.sagepub.com/eprint/FNVxKbKXwaPcIKUaPSnt/full",
         replication: "https://journals.sagepub.com/doi/suppl/10.1177/0010414018774370/suppl_file/replication.zip",
-        bibtex: `@article{grossman2018sanctions,
+        bibtex: "@article{grossman2018sanctions,
   title={How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel},
   author={Grossman, Guy and Manekin, Devorah and Margalit, Yotam},
   journal={Comparative Political Studies},
@@ -340,7 +340,7 @@ const PapersWidget = () => {
   number={14},
   pages={1823--1857},
   year={2018}
-}
+}"
       }
     },
     {
@@ -356,7 +356,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/do-men-and-women-have-different-policy-preferences-in-africa-determinants-and-implications-of-gender-gaps-in-policy-prioritization/CE824A46AE39D05FC79900C50DCEC0C4",
         appendix: "/assets/pdf/2018_BJPS_Identity_do_men_and_women_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIWLCJ",
-        bibtex: `@article{grossman2018gender,
+        bibtex: "@article{grossman2018gender,
   title={Do Men and Women Have Different Policy Preferences in Africa? Determinants and Implications of Gender Gaps in Policy Prioritization},
   author={Grossman, Guy and Gottlieb, Jessica and Robinson, Amanda Lea},
   journal={British Journal of Political Science},
@@ -364,7 +364,7 @@ const PapersWidget = () => {
   number={3},
   pages={611--638},
   year={2018}
-}
+}"
       }
     },
     {
@@ -380,7 +380,7 @@ const PapersWidget = () => {
         journal: "http://bit.ly/2FTkhR6",
         appendix: "/assets/pdf/2018_APSR_PE_information_dissemination_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AI3VM8",
-        bibtex: `@article{grossman2018information,
+        bibtex: "@article{grossman2018information,
   title={Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda},
   author={Grossman, Guy and Michelitch, Kristin},
   journal={American Political Science Review},
@@ -388,7 +388,7 @@ const PapersWidget = () => {
   number={2},
   pages={280--301},
   year={2018}
-}
+}"
       }
     },
     {
@@ -404,14 +404,14 @@ const PapersWidget = () => {
         journal: "https://www.sciencedirect.com/science/article/pii/S0305750X18302286",
         appendix: "/assets/pdf/2018_WD_ICT_crowdsourcing_accountability_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FFBNBU",
-        bibtex: `@article{grossman2018crowdsourcing,
+        bibtex: "@article{grossman2018crowdsourcing,
   title={Crowdsourcing Accountability: ICT for Service Delivery},
   author={Grossman, Guy and Platas, Melina R. and Rodden, Jonathan},
   journal={World Development},
   volume={112},
   pages={74--87},
   year={2018}
-}
+}"
       }
     },
     {
@@ -425,7 +425,7 @@ const PapersWidget = () => {
       links: {
         pdf: "/assets/pdf/2017_CPS_ICT_texting_commplaints.pdf",
         journal: "https://journals.sagepub.com/doi/abs/10.1177/0010414016666862",
-        bibtex: `@article{grossman2017texting,
+        bibtex: "@article{grossman2017texting,
   title={Texting Complaints to Politicians: Name Personalization and Politicians' Encouragement in Citizen Mobilization},
   author={Grossman, Guy and Michelitch, Kristin and Santamaria, Marta},
   journal={Comparative Political Studies},
@@ -433,7 +433,7 @@ const PapersWidget = () => {
   number={10},
   pages={1325--1357},
   year={2017}
-}
+}"
       }
     },
     {
@@ -449,7 +449,7 @@ const PapersWidget = () => {
         journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/690305",
         appendix: "/assets/pdf/2017_JoP_Government_government_fragmentation_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VS3CG6",
-        bibtex: `@article{grossman2017fragmentation,
+        bibtex: "@article{grossman2017fragmentation,
   title={Government Fragmentation and Public Goods Provision},
   author={Grossman, Guy and Pierskalla, Jan H. and Dean, Emma Boswell},
   journal={Journal of Politics},
@@ -457,7 +457,7 @@ const PapersWidget = () => {
   number={3},
   pages={823--840},
   year={2017}
-}
+}"
       }
     },
     {
@@ -473,7 +473,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218",
         appendix: "/assets/pdf/2016_APSR_PE_deliberate_disengagement_appendix.pdf",
         replication: "/assets/pdf/2016_APSR_PE_deliberate_disengagement_replication.zip",
-        bibtex: `@article{grossman2016deliberate,
+        bibtex: "@article{grossman2016deliberate,
   title={Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes},
   author={Grossman, Guy and Croke, Keven and Larreguy, Horacio A. and Marshall, John},
   journal={American Political Science Review},
@@ -481,7 +481,7 @@ const PapersWidget = () => {
   number={3},
   pages={579--600},
   year={2016}
-}
+}"
       }
     },
     {
@@ -497,7 +497,7 @@ const PapersWidget = () => {
         journal: "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12187",
         appendix: "/assets/pdf/2016_AJPS_Identity_descriptive_representation_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28870",
-        bibtex: `@article{grossman2016descriptive,
+        bibtex: "@article{grossman2016descriptive,
   title={Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies},
   author={Grossman, Guy and Gazal-Ayal, Oren and Pimentel, Samuel D. and Weinstein, Jeremy M.},
   journal={American Journal of Political Science},
@@ -505,7 +505,7 @@ const PapersWidget = () => {
   number={1},
   pages={44--69},
   year={2016}
-}
+}"
       }
     },
     {
@@ -521,7 +521,7 @@ const PapersWidget = () => {
         journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/679596",
         appendix: "/assets/pdf/2015_JoP_Identity_renewalist_christianity_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I7KXPA",
-        bibtex: `@article{grossman2015renewalist,
+        bibtex: "@article{grossman2015renewalist,
   title={Renewalist Christianity and the Political Saliency of LGBTs: Theory and Evidence from Sub-Saharan Africa},
   author={Grossman, Guy},
   journal={Journal of Politics},
@@ -529,7 +529,7 @@ const PapersWidget = () => {
   number={2},
   pages={337--351},
   year={2015}
-}
+}"
       }
     },
     {
@@ -544,7 +544,7 @@ const PapersWidget = () => {
         pdf: "/assets/pdf/2015_IO_Conflict_the_political_legacies.pdf",
         journal: "https://www.cambridge.org/core/journals/international-organization/article/abs/the-political-legacies-of-combat-attitudes-toward-war-and-peace-among-israeli-ex-combatants/88C560C9B90473AC1D7DFDFEF685AEE0",
         replication: "/assets/pdf/2015_IO_Conflict_the_political_legacies_replication.zip",
-        bibtex: `@article{grossman2015political,
+        bibtex: "@article{grossman2015political,
   title={The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants},
   author={Grossman, Guy and Manekin, Devorah and Miodownik, Dan},
   journal={International Organization},
@@ -552,7 +552,7 @@ const PapersWidget = () => {
   number={4},
   pages={981--1009},
   year={2015}
-}
+}"
       }
     },
     {
@@ -568,7 +568,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/i-wld-like-u-wmp-to-extend-electricity-2-our-village-on-information-technology-and-interest-articulation/2F7F012EED269B795DF642ECFC3830AC",
         appendix: "/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27192",
-        bibtex: `@article{grossman2014ict,
+        bibtex: "@article{grossman2014ict,
   title={I would like u WMP to extend electricity 2 our village: On Information Technology and Interest Articulation},
   author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
   journal={American Political Science Review},
@@ -576,7 +576,7 @@ const PapersWidget = () => {
   number={3},
   pages={688--705},
   year={2014}
-}
+}"
       }
     },
     {
@@ -592,7 +592,7 @@ const PapersWidget = () => {
         journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12071",
         appendix: "/assets/pdf/2014_AJPS_PE_do_better_monitoring_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22124",
-        bibtex: `@article{grossman2014monitoring,
+        bibtex: "@article{grossman2014monitoring,
   title={Do better monitoring institutions increase leadership quality in community organizations? Evidence from Uganda},
   author={Grossman, Guy and Hanlon, W. Walker},
   journal={American Journal of Political Science},
@@ -600,7 +600,7 @@ const PapersWidget = () => {
   number={3},
   pages={669--686},
   year={2014}
-}
+}"
       }
     },
     {
@@ -616,7 +616,7 @@ const PapersWidget = () => {
         journal: "https://www.nowpublishers.com/article/Details/QJPS-13012",
         appendix: "/assets/pdf/2014_QJPS_PE_do_selection_rules_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22201",
-        bibtex: `@article{grossman2014selection,
+        bibtex: "@article{grossman2014selection,
   title={Do Selection Rules Affect Leader Responsiveness? Evidence from Rural Uganda},
   author={Grossman, Guy},
   journal={Quarterly Journal of Political Science},
@@ -624,7 +624,7 @@ const PapersWidget = () => {
   number={1},
   pages={1--44},
   year={2014}
-}
+}"
       }
     },
     {
@@ -640,7 +640,7 @@ const PapersWidget = () => {
         journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/administrative-unit-proliferation/28FB2861D809344D840B245100151918",
         appendix: "/assets/pdf/2014_APSR_Government_administrative_unit_proliferation_appendix.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26937",
-        bibtex: `@article{grossman2014administrative,
+        bibtex: "@article{grossman2014administrative,
   title={Administrative Unit Proliferation},
   author={Grossman, Guy and Lewis, Janet I.},
   journal={American Political Science Review},
@@ -648,7 +648,7 @@ const PapersWidget = () => {
   number={1},
   pages={196--217},
   year={2014}
-}
+}"
       }
     },
     {
@@ -663,7 +663,7 @@ const PapersWidget = () => {
         pdf: "/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment.pdf",
         journal: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058750",
         appendix: "/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment_appendix.pdf",
-        bibtex: `@article{grossman2013group,
+        bibtex: "@article{grossman2013group,
   title={The Effect of Group Attachment and Social Position on Prosocial Behavior. Evidence from Lab-in-the-Field Experiments},
   author={Grossman, Guy and Baldassarri, Delia},
   journal={PLoS ONE},
@@ -671,7 +671,7 @@ const PapersWidget = () => {
   number={3},
   pages={e58750},
   year={2013}
-}
+}"
       }
     },
     {
@@ -687,9 +687,17 @@ const PapersWidget = () => {
         journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2012.00596.x",
         appendix: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections_appendix.docx",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18334",
-        bibtex: `@article{grossman2012elections,
-  title={The Impact of Elections on
-
+        bibtex: "@article{grossman2012elections,
+  title={The Impact of Elections on},
+  author={},
+  journal={},
+  volume ={},
+  number ={},
+  year={}
+}"
+}
+}
+];
   const workingPapers = [
     {
       id: 1,
@@ -699,7 +707,7 @@ const PapersWidget = () => {
       abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve. But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate COP in the Global South.",
       links: {
         pdf: "https://osf.io/preprints/osf/wkrcm_v2",
-        bibtex: `@unpublished{grossman2024community,
+        bibtex: "@unpublished{grossman2024community,
   title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
   author={Grossman, Guy and Blair, Robert A. and Wilke, Anna M.},
   note={Revise and resubmit},
@@ -714,7 +722,7 @@ const PapersWidget = () => {
       status: "revise and resubmit",
       abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars.",
       links: {
-        bibtex: `@unpublished{grossman2024informal,
+        bibtex: "@unpublished{grossman2024informal,
   title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
   author={Grossman, Guy and Danús, Lluís and Dinneen, William and Torreblanca, Carolina and González-Bailón, Sandra},
   note={Revise and resubmit},
@@ -730,7 +738,7 @@ const PapersWidget = () => {
       abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target's identity strongly influence support for disciplinary actions.",
       links: {
         pdf: "https://osf.io/preprints/osf/mc6u3_v2",
-        bibtex: `@unpublished{grossman2024expression,
+        bibtex: "@unpublished{grossman2024expression,
   title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
   author={Grossman, Guy and Lelkes, Yphtach and Abramitzky, Ran and Mitts, Tamar and Mansour, Hani},
   note={Revise and resubmit},
@@ -746,7 +754,7 @@ const PapersWidget = () => {
       abstract: "A vast body of work shows that minority legislators are more likely to represent their group's interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivations or electoral incentives. We use a regression discontinuity design (RDD) to analyze ethnic minority representation in the UK Parliament.",
       links: {
         pdf: "https://osf.io/preprints/osf/hfm35_v2",
-        bibtex: `@unpublished{grossman2024calculation,
+        bibtex: "@unpublished{grossman2024calculation,
   title={Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities},
   author={Grossman, Guy and Bhatiya, Apurav and Dinneen, William and Zonszein, Stephanie},
   note={Revise and resubmit},
@@ -762,7 +770,7 @@ const PapersWidget = () => {
       abstract: "How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns.",
       links: {
         pdf: "https://osf.io/preprints/socarxiv/w2kmc_v1",
-        bibtex: `@unpublished{grossman2024credibility,
+        bibtex: "@unpublished{grossman2024credibility,
   title={The Credibility Revolution in Political Science},
   author={Grossman, Guy and Torreblanca, Carolina and Dinneen, William and Xu, Yiqing},
   note={Under review},
@@ -778,7 +786,7 @@ const PapersWidget = () => {
       abstract: "Inclusive refugee policies -- granting refugees the right to work, use public services, and move freely -- benefit both refugees and host countries' economies. Yet many governments hesitate to liberalize such policies, fearing electoral backlash.",
       links: {
         pdf: "https://osf.io/preprints/osf/94tpy_v5",
-        bibtex: `@unpublished{grossman2024liberalizing,
+        bibtex: "@unpublished{grossman2024liberalizing,
   title={Liberalizing Refugee Hosting Policies without Losing the Vote},
   author={Grossman, Guy and Zhou, Yang-Yang and Liu, Naijia and Ge, Shuning},
   note={Under review},
