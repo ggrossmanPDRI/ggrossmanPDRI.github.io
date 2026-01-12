@@ -823,7 +823,7 @@ const PapersWidget = () => {
           {paper.journal && (
             <div className="text-sm font-medium text-gray-700">
               {paper.journal}
-              {paper.volume ? `, ${paper.volume}` : ''} {/* ✅ FIXED */}
+              {paper.volume ? `, ${paper.volume}` : ''}
               {paper.status && (
                 <span className="ml-2 px-2 py-0.5 bg-yellow-100 text-yellow-800 rounded text-xs">
                   {paper.status}
