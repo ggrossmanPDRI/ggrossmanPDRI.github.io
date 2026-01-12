@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
 nav: true
 order: 2
 ---
@@ -673,30 +672,7 @@ const PapersWidget = () => {
   year={2013}
 }"
       }
-    },
-    {
-      id: 5,
-      year: 2012,
-      title: "The Impact of Elections on Cooperation: Evidence from a Lab-in-the-Field Experiment in Uganda",
-      authors: "Delia Baldassarri",
-      journal: "American Journal of Political Science",
-      volume: "56(4): 964-985",
-      abstract: "Communities often rely on sanctioning to induce public goods contributions. Past studies focus on how external agencies or peer sanctioning induce cooperation. In this article, we focus instead on the role played by centralized authorities, internal to the community. Combining 'lab-in-the-field' experiments with observational data on 1,541 Ugandan farmers from 50 communities, we demonstrate the positive effect of internal centralized sanctioning authorities on cooperative behavior.",
-      links: {
-        pdf: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections.pdf",
-        journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2012.00596.x",
-        appendix: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections_appendix.docx",
-        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18334",
-        bibtex: "@article{grossman2012elections,
-  title={The Impact of Elections on},
-  author={},
-  journal={},
-  volume ={},
-  number ={},
-  year={}
-}"
-}
-}
+    }
 ];
   const workingPapers = [
     {
