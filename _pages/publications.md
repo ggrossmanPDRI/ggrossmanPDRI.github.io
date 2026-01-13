@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
 nav: true
 order: 2
 ---
@@ -685,12 +684,92 @@ const PapersWidget = () => {
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
       authors: "Robert A. Blair and Anna M. Wilke",
       status: "revise and resubmit",
-      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve.",
+      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve. But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate COP in the Global South.",
       links: {
         pdf: "https://osf.io/preprints/osf/wkrcm_v2",
         bibtex: `@unpublished{grossman2024community,
-  title={Can Community Policing Improve Relations},
-  author={Grossman, Guy and Blair, Robert A.},
+  title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
+  author={Grossman, Guy and Blair, Robert A. and Wilke, Anna M.},
+  note={Revise and resubmit},
+  year={2024}
+}`
+      }
+    },
+    {
+      id: 2,
+      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
+      authors: "Danús Lluís, William Dinneen, Carolina Torreblanca & Sandra González-Bailón",
+      status: "revise and resubmit",
+      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars.",
+      links: {
+        bibtex: `@unpublished{grossman2024informal,
+  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
+  author={Grossman, Guy and Danús, Lluís and Dinneen, William and Torreblanca, Carolina and González-Bailón, Sandra},
+  note={Revise and resubmit},
+  year={2024}
+}`
+      }
+    },
+    {
+      id: 3,
+      title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
+      authors: "Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour",
+      status: "revise and resubmit",
+      abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target's identity strongly influence support for disciplinary actions.",
+      links: {
+        pdf: "https://osf.io/preprints/osf/mc6u3_v2",
+        bibtex: `@unpublished{grossman2024expression,
+  title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
+  author={Grossman, Guy and Lelkes, Yphtach and Abramitzky, Ran and Mitts, Tamar and Mansour, Hani},
+  note={Revise and resubmit},
+  year={2024}
+}`
+      }
+    },
+    {
+      id: 4,
+      title: "Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities",
+      authors: "Apurav Bhatiya, William Dinneen, and Stephanie Zonszein",
+      status: "revise and resubmit",
+      abstract: "A vast body of work shows that minority legislators are more likely to represent their group's interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivations or electoral incentives. We use a regression discontinuity design (RDD) to analyze ethnic minority representation in the UK Parliament.",
+      links: {
+        pdf: "https://osf.io/preprints/osf/hfm35_v2",
+        bibtex: `@unpublished{grossman2024calculation,
+  title={Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities},
+  author={Grossman, Guy and Bhatiya, Apurav and Dinneen, William and Zonszein, Stephanie},
+  note={Revise and resubmit},
+  year={2024}
+}`
+      }
+    },
+    {
+      id: 5,
+      title: "The Credibility Revolution in Political Science",
+      authors: "Carolina Torreblanca, William Dinneen, and Yiqing Xu",
+      status: "under review",
+      abstract: "How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns.",
+      links: {
+        pdf: "https://osf.io/preprints/socarxiv/w2kmc_v1",
+        bibtex: `@unpublished{grossman2024credibility,
+  title={The Credibility Revolution in Political Science},
+  author={Grossman, Guy and Torreblanca, Carolina and Dinneen, William and Xu, Yiqing},
+  note={Under review},
+  year={2024}
+}`
+      }
+    },
+    {
+      id: 6,
+      title: "Liberalizing Refugee Hosting Policies without Losing the Vote",
+      authors: "Yang-Yang Zhou, Naijia Liu, and Shuning Ge",
+      status: "under review",
+      abstract: "Inclusive refugee policies -- granting refugees the right to work, use public services, and move freely -- benefit both refugees and host countries' economies. Yet many governments hesitate to liberalize such policies, fearing electoral backlash.",
+      links: {
+        pdf: "https://osf.io/preprints/osf/94tpy_v5",
+        bibtex: `@unpublished{grossman2024liberalizing,
+  title={Liberalizing Refugee Hosting Policies without Losing the Vote},
+  author={Grossman, Guy and Zhou, Yang-Yang and Liu, Naijia and Ge, Shuning},
+  note={Under review},
   year={2024}
 }`
       }
