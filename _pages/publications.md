@@ -66,201 +66,84 @@ const PapersWidget = () => {
   const [selectedYear, setSelectedYear] = useState('all');
   const [activeTab, setActiveTab] = useState('published');
   
+  // ADD YOUR PUBLISHED PAPERS HERE
   const publications = [
     {
-      id: 49,
+      id: 1,
       year: 2026,
-      title: "Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023",
+      title: "Political Science Under Pressure: Competition and Collaboration in a Growing Discipline",
       authors: "William Dinneen and Carolina Torreblanca",
       journal: "Perspective on Politics",
       status: "forthcoming",
-      abstract: "This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references.",
+      abstract: "This study analyzes the evolution of political science scholarship using 140,000+ articles from 174 journals (2003–2023).",
       links: {
-        pdf: "https://osf.io/preprints/osf/tmy37_v3",
+        pdf: "https://example.com/paper.pdf",
+        journal: "https://example.com/journal",
+        appendix: "https://example.com/appendix.pdf",
+        replication: "https://example.com/data",
         bibtex: `@article{grossman2026political,
-  title={Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023},
+  title={Political Science Under Pressure},
   author={Grossman, Guy and Dinneen, William and Torreblanca, Carolina},
   journal={Perspective on Politics},
-  year={2026},
-  status={forthcoming}
+  year={2026}
 }`
       }
     },
     {
-      id: 48,
-      year: 2026,
+      id: 2,
+      year: 2025,
       title: "The Politics of Climate Change in the Developing World",
       authors: "Audrey Sacks and Alice Xu",
       journal: "Annual Review of Political Science",
       status: "forthcoming",
-      abstract: "Climate change politics in the developing world remains understudied, despite the region's acute vulnerability and centrality to climate futures. This review synthesizes emerging research across three domains: public opinion and climate salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution.",
+      abstract: "Climate change politics in the developing world remains understudied, despite the region's acute vulnerability.",
       links: {
-        pdf: "/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf",
+        pdf: "https://example.com/climate.pdf",
         bibtex: `@article{grossman2026climate,
   title={The Politics of Climate Change in the Developing World},
   author={Grossman, Guy and Sacks, Audrey and Xu, Alice},
   journal={Annual Review of Political Science},
-  year={2026},
-  status={forthcoming}
+  year={2026}
 }`
       }
     },
     {
-      id: 47,
-      year: 2025,
-      title: "Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks",
-      authors: "Darin Christensen, Allison N. Grossman, Jon Kurtz, Jeremy Weinstein, and Jessica Wolff",
-      journal: "Proceedings of the National Academy of Sciences",
-      volume: "122(47): e2509773122",
-      abstract: "Social scientists not only conduct impact evaluations but also participate in the design and implementation of the programs being evaluated. While Institutional Review Boards (IRBs) oversee research activities, they do not assess risks posed by the interventions themselves. We propose establishing External Advisory Committees (EACs) to provide independent, expert oversight of programming risks.",
-      links: {
-        pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2509773122",
-        journal: "https://www.pnas.org/doi/10.1073/pnas.2509773122",
-        appendix: "https://www.pnas.org/doi/suppl/10.1073/pnas.2509773122/suppl_file/pnas.2509773122.sapp.pdf",
-        bibtex: `@article{grossman2025ethical,
-  title={Ethical Oversight in Impact Evaluations: External Advisory Committees to Assess Programming Risks},
-  author={Grossman, Guy and Christensen, Darin and Grossman, Allison N. and Kurtz, Jon and Weinstein, Jeremy and Wolff, Jessica},
-  journal={Proceedings of the National Academy of Sciences},
-  volume={122},
-  number={47},
-  pages={e2509773122},
-  year={2025}
-}`
-      }
-    },
-    {
-      id: 46,
-      year: 2025,
-      title: "Do More Disaggregated Electoral Results Deter Aggregation Fraud?",
-      authors: "Miguel Rueda and Shuning Ge",
-      journal: "British Journal of Political Science",
-      volume: "55 (e140): 1-11",
-      abstract: "It has been argued that the level at which electoral results are published can affect the election integrity. Publishing more granular results (e.g., at the polling station level) can allow citizens to verify the vote totals that determine election outcomes, thereby deterring voting aggregation fraud. While this logic undergirds the recommendations of international organizations monitoring elections to publish disaggregated electoral results, to date there have not been systematic assessments of how variation in aggregation is linked to electoral miscounting.",
-      links: {
-        pdf: "/assets/pdf/2025_do_more_disaggregated_electoral_results_deter_aggregation_fraud.pdf",
-        journal: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE",
-        appendix: "/assets/pdf/2025_deter_aggregation_S0007123425100665sup001.pdf",
-        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C",
-        bibtex: `@article{grossman2025disaggregated,
-  title={Do More Disaggregated Electoral Results Deter Aggregation Fraud?},
-  author={Grossman, Guy and Rueda, Miguel and Ge, Shuning},
-  journal={British Journal of Political Science},
-  volume={55},
-  number={e140},
-  pages={1--11},
-  year={2025}
-}`
-      }
-    },
-    {
-      id: 27,
+      id: 3,
       year: 2020,
-      title: "The Effect of Election Proximity on Government Responsiveness and Citizens' Participation: Evidence from English Local Elections",
-      authors: "Gemma Dipoppa",
-      journal: "Comparative Political Studies",
-      volume: "53(4): 2183-2212",
-      abstract: "Does political engagement depend on government responsiveness? Identifying the drivers of political action is challenging because it requires disentangling instrumental from expressive motives for engagement and because government responsiveness is likely endogenous.",
+      title: "Information Technology and Political Engagement",
+      authors: "Macartan Humphreys and Gabriella Sacramone-Lutz",
+      journal: "Journal of Politics",
+      volume: "82(4): 1321-1336",
+      abstract: "How does access to information communication technology affect political engagement?",
       links: {
-        pdf: "/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity.pdf",
-        journal: "https://journals.sagepub.com/eprint/GV3U7V9SCKVJJJJNZBHP/full",
-        appendix: "/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity_appendix.pdf",
-        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDAS7N",
-        bibtex: `@article{grossman2020election,
-  title={The Effect of Election Proximity on Government Responsiveness and Citizens' Participation},
-  author={Grossman, Guy and Dipoppa, Gemma},
-  journal={Comparative Political Studies},
-  volume={53},
+        pdf: "https://example.com/ict.pdf",
+        journal: "https://example.com/jop",
+        replication: "https://example.com/replication",
+        bibtex: `@article{grossman2020ict,
+  title={Information Technology and Political Engagement},
+  author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
+  journal={Journal of Politics},
+  volume={82},
   number={4},
-  pages={2183--2212},
+  pages={1321--1336},
   year={2020}
-}`
-      }
-    },
-    {
-      id: 26,
-      year: 2020,
-      title: "Political partisanship influences behavioral responses to governors' recommendations for COVID-19 prevention in the United States",
-      authors: "Soojong Kim, Jonah M. Rexer, and Harsha Thirumurthy",
-      journal: "Proceedings of the National Academy of Sciences",
-      volume: "117(39): 24144-24153",
-      abstract: "Voluntary physical distancing is essential for preventing the spread of COVID-19. We assessed the role of political partisanship in individuals' compliance with physical distancing recommendations of political leaders using data on mobility from a sample of mobile phones in 3,100 counties in the United States during March 2020.",
-      links: {
-        pdf: "/assets/pdf/2020_NAS_PE_political_partisanship.pdf",
-        journal: "https://www.pnas.org/content/early/2020/09/14/2007835117",
-        appendix: "/assets/pdf/political_partisanship_online_appendix.pdf",
-        replication: "https://dataverse.harvard.edu/dataverse/COVID19governors/",
-        bibtex: `@article{grossman2020partisanship,
-  title={Political partisanship influences behavioral responses to governors' recommendations for COVID-19 prevention in the United States},
-  author={Grossman, Guy and Kim, Soojong and Rexer, Jonah M. and Thirumurthy, Harsha},
-  journal={Proceedings of the National Academy of Sciences},
-  volume={117},
-  number={39},
-  pages={24144--24153},
-  year={2020}
-}`
-      }
-    },
-    {
-      id: 25,
-      year: 2019,
-      title: "It Takes a Village: Peer Effects and Externalities in Technology Adoption",
-      authors: "Romain Ferrali, Melina R. Platas, and Jonathan Rodden",
-      journal: "American Journal of Political Science",
-      volume: "64(3): 536-553",
-      abstract: "Do social networks matter for the adoption of new forms of political participation? We develop a formal model showing that the quality of communication that takes place in social networks is central to understanding whether a community will adopt forms of political participation where benefits are uncertain.",
-      links: {
-        pdf: "/assets/pdf/2019_AJPS_ICT_it_takes_a_village.pdf",
-        journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471",
-        appendix: "/assets/pdf/2019_AJPS_ICT_it_takes_a_village_appendix.pdf",
-        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NOYBCQ",
-        bibtex: `@article{grossman2019village,
-  title={It Takes a Village: Peer Effects and Externalities in Technology Adoption},
-  author={Grossman, Guy and Ferrali, Romain and Platas, Melina R. and Rodden, Jonathan},
-  journal={American Journal of Political Science},
-  volume={64},
-  number={3},
-  pages={536--553},
-  year={2019}
-}`
-      }
-    },
-    {
-      id: 24,
-      year: 2019,
-      title: "Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials",
-      authors: "Thad Dunning et al.",
-      journal: "Science Advances",
-      volume: "5(7): 1188-1192",
-      abstract: "Voters may be unable to hold politicians to account if they lack basic information about their representatives' performance. Civil society groups and international donors therefore advocate using voter information campaigns to improve democratic accountability.",
-      links: {
-        pdf: "/assets/pdf/2019_Science_PE_voter_information_campaigns.pdf",
-        journal: "https://www.science.org/doi/10.1126/sciadv.aaw2612",
-        appendix: "/assets/pdf/2019_Science_PE_voter_information_campaigns_appendix.pdf",
-        replication: "https://github.com/egap/metaketa-i",
-        bibtex: `@article{grossman2019voter,
-  title={Voter information campaigns and political accountability},
-  author={Dunning, Thad and others},
-  journal={Science Advances},
-  volume={5},
-  number={7},
-  pages={1188--1192},
-  year={2019}
 }`
       }
     }
   ];
 
+  // ADD YOUR WORKING PAPERS HERE
   const workingPapers = [
     {
       id: 1,
-      title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
+      title: "Can Community Policing Improve Police-Community Relations?",
       authors: "Robert A. Blair and Anna M. Wilke",
       status: "revise and resubmit",
-      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve. But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate COP in the Global South.",
+      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and communities.",
       links: {
-        pdf: "https://osf.io/preprints/osf/wkrcm_v2",
+        pdf: "https://example.com/policing.pdf",
         bibtex: `@unpublished{grossman2024community,
-  title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
+  title={Can Community Policing Improve Police-Community Relations?},
   author={Grossman, Guy and Blair, Robert A. and Wilke, Anna M.},
   note={Revise and resubmit},
   year={2024}
@@ -269,15 +152,15 @@ const PapersWidget = () => {
     },
     {
       id: 2,
-      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
-      authors: "Danús Lluís, William Dinneen, Carolina Torreblanca & Sandra González-Bailón",
-      status: "revise and resubmit",
-      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars.",
+      title: "Informal Connections in Academic Networks",
+      authors: "William Dinneen and Carolina Torreblanca",
+      status: "under review",
+      abstract: "We know much less about how informal collaborations relate to academic success compared to formal co-authorship.",
       links: {
         bibtex: `@unpublished{grossman2024informal,
-  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
-  author={Grossman, Guy and Danús, Lluís and Dinneen, William and Torreblanca, Carolina and González-Bailón, Sandra},
-  note={Revise and resubmit},
+  title={Informal Connections in Academic Networks},
+  author={Grossman, Guy and Dinneen, William and Torreblanca, Carolina},
+  note={Under review},
   year={2024}
 }`
       }
@@ -301,6 +184,18 @@ const PapersWidget = () => {
       counts[y] = (counts[y] || 0) + 1;
     });
     return counts;
+  }, []);
+
+  // Extract all unique co-authors
+  const allCoauthors = useMemo(() => {
+    const coauthorSet = new Set();
+    [...publications, ...workingPapers].forEach(paper => {
+      if (paper.authors) {
+        const authors = paper.authors.split(/,| and /).map(a => a.trim()).filter(a => a);
+        authors.forEach(author => coauthorSet.add(author));
+      }
+    });
+    return Array.from(coauthorSet).sort();
   }, []);
 
   const ActionButton = ({ icon: Icon, label, onClick, disabled }) => (
@@ -402,6 +297,22 @@ const PapersWidget = () => {
         <div className="text-center space-y-2">
           <h1 className="text-4xl font-bold text-gray-900">Research Publications</h1>
           <p className="text-gray-600">Guy Grossman • University of Pennsylvania</p>
+        </div>
+
+        <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+          <h2 className="text-lg font-semibold text-gray-900 mb-4">Co-authors ({allCoauthors.length})</h2>
+          <div className="max-h-40 overflow-y-auto">
+            <div className="flex flex-wrap gap-2">
+              {allCoauthors.map((author, index) => (
+                <span
+                  key={index}
+                  className="px-3 py-1.5 bg-blue-50 text-blue-700 rounded-full text-sm font-medium border border-blue-200"
+                >
+                  {author}
+                </span>
+              ))}
+            </div>
+          </div>
         </div>
 
         <div className="flex gap-2 border-b border-gray-200">
