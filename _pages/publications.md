@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-nav: false
+nav: true
 order: 2
 ---
 
@@ -925,15 +925,21 @@ root.render(<PapersWidget />);
 </script>
 
 <style>
-  /* Override Jekyll default styles for this page */
-  #react-publications-root {
-    margin-left: -2rem;
-    margin-right: -2rem;
-    margin-top: -2rem;
-  }
-  
-  /* Ensure Tailwind styles work properly */
+  /* Ensure the page banner/header remains visible */
   .page-content {
     max-width: none !important;
+    padding-top: 0 !important;
+  }
+  
+  /* Remove negative margins to preserve header */
+  #react-publications-root {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  
+  /* If you need full-width content, add this */
+  .container {
+    max-width: 100% !important;
   }
 </style>
