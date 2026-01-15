@@ -523,7 +523,7 @@ root.render(<PapersWidget />);
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
-    padding-top: 1rem;
+    padding-top: 3rem;
   }
   
   /* Ensure navigation is visible */
