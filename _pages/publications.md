@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 nav: true
-order: 2
+nav_order: 2
 ---
 
 <div id="react-publications-root"></div>
@@ -523,7 +523,7 @@ root.render(<PapersWidget />);
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
-    padding-top: 2rem;
+    padding-top: 1rem;
   }
   
   /* Ensure navigation is visible */
@@ -531,9 +531,14 @@ root.render(<PapersWidget />);
   .nav,
   nav,
   header,
-  .header {
+  .header,
+  .site-header,
+  .navbar-nav
+ {
     position: relative !important;
     z-index: 1000 !important;
+    display: block !important;
+    visibility: visible !important;
   }
   
   /* If you need full-width content, add this */
@@ -544,5 +549,11 @@ root.render(<PapersWidget />);
   /* Ensure wrapper doesn't hide content */
   .wrapper {
     overflow: visible !important;
+  }
+/* Force navigation links to be visible */
+  .nav-link,
+  .navbar-nav .nav-item {
+    display: inline-block !important;
+    visibility: visible !important;
   }
 </style>
