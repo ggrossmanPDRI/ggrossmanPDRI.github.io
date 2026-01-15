@@ -509,3 +509,51 @@ const PapersWidget = () => {
 const root = ReactDOM.createRoot(document.getElementById('react-publications-root'));
 root.render(<PapersWidget />);
 </script>
+
+<style>
+  /* Ensure the page banner/header and navigation remain visible */
+  .page-content {
+    max-width: none !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+  
+  /* Remove negative margins to preserve header and nav */
+  #react-publications-root {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 2rem;
+  }
+  
+  /* Ensure navigation is visible */
+  .navbar,
+  .nav,
+  nav,
+  header,
+  .header,
+  .site-header,
+  .navbar-nav
+ {
+    position: relative !important;
+    z-index: 1000 !important;
+    display: block !important;
+    visibility: visible !important;
+  }
+  
+  /* If you need full-width content, add this */
+  .container {
+    max-width: 100% !important;
+  }
+  
+  /* Ensure wrapper doesn't hide content */
+  .wrapper {
+    overflow: visible !important;
+  }
+/* Force navigation links to be visible */
+  .nav-link,
+  .navbar-nav .nav-item {
+    display: inline-block !important;
+    visibility: visible !important;
+  }
+</style>
