@@ -505,7 +505,7 @@ const PapersWidget = () => {
   );
 };
 
-/ Render the component
+// Render the component
 const root = ReactDOM.createRoot(document.getElementById('react-publications-root'));
 root.render(<PapersWidget />);
 </script>
