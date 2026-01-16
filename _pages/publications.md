@@ -522,7 +522,6 @@ root.render(<PapersWidget />);
     position: fixed !important;
     top: 0 !important;
     z-index: 1030 !important;
-    display: block !important;
     visibility: visible !important;
   }
   
@@ -545,16 +544,6 @@ root.render(<PapersWidget />);
   #react-publications-root > div {
     position: relative !important;
     z-index: 1 !important;
-  }
-  
-  /* Make sure all navbar components are visible */
-  .navbar-light,
-  .navbar-expand-sm,
-  .navbar-nav,
-  .nav-link,
-  .navbar-nav .nav-item {
-    display: flex !important;
-    visibility: visible !important;
   }
   
   /* Ensure container allows full width if needed */
