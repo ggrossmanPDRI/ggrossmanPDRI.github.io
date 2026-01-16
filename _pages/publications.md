@@ -505,20 +505,65 @@ const PapersWidget = () => {
   );
 };
 
-// Render the component
+/ Render the component
 const root = ReactDOM.createRoot(document.getElementById('react-publications-root'));
 root.render(<PapersWidget />);
 </script>
 
 <style>
-  /* Keep your React section BELOW the home banner */
-  #react-publications-root{
-    margin: 0;              /* remove negative margins */
-    padding-top: 2rem;      /* add breathing room under banner */
+  /* Preserve the fixed-top navigation with proper spacing */
+  body.fixed-top-nav {
+    padding-top: 56px !important;
   }
-
-  /* Optional: allow full-width content without breaking the header */
-  .page-content{
+  
+  /* Ensure fixed-top navbar stays visible and on top */
+  .navbar.fixed-top,
+  header.navbar.fixed-top {
+    position: fixed !important;
+    top: 0 !important;
+    z-index: 1030 !important;
+    display: block !important;
+    visibility: visible !important;
+  }
+  
+  /* Ensure the page content doesn't overlap with navbar */
+  .page-content {
     max-width: none !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+  
+  /* Remove negative margins from React root */
+  #react-publications-root {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 2rem;
+  }
+  
+  /* Ensure React content is below the fixed navbar */
+  #react-publications-root > div {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+  
+  /* Make sure all navbar components are visible */
+  .navbar-light,
+  .navbar-expand-sm,
+  .navbar-nav,
+  .nav-link,
+  .navbar-nav .nav-item {
+    display: flex !important;
+    visibility: visible !important;
+  }
+  
+  /* Ensure container allows full width if needed */
+  .container {
+    max-width: 100% !important;
+  }
+  
+  /* Ensure wrapper doesn't hide content */
+  .wrapper {
+    overflow: visible !important;
   }
 </style>
