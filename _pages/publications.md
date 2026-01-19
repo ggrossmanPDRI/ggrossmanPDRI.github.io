@@ -281,7 +281,7 @@ const PapersWidget = () => {
   year={2023},
   volume={11},
   number={4},
-  pages={903-912}
+  pages={903-912},
   status={published}
 }`
     }
@@ -320,7 +320,7 @@ const PapersWidget = () => {
     title: "Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy",
     authors: "Gemma Dipoppa, Stephanie Zonszein, Guy Grossman",
     journal: "Journal of Politics",
-    volume: "85(2): pp.389-404"
+    volume: "85(2): pp.389-404",
     status: "published",
     categories: ["Conflict", "Migration"],
     abstract: "Covid-19 caused a significant health and economic crisis, a condition identified as conducive to stigmatization and hateful behavior against minority groups. It is however unclear whether the threat of infection triggers violence in addition to stigmatization, and whether a violent reaction can happen at the onset of an unexpected economic shock before social hierarchies can be disrupted. Using a novel database of hate crimes across Italy, we show that (i) hate crimes against Asians increased substantially at the pandemic onset, and that (ii) the increase was concentrated in cities with higher expected unemployment, but not higher mortality. We then examine individual, local and national mobilization as mechanisms. We find that (iii) a xenophobic national discourse and local far-right institutions motivate hate crimes, while we find no support for the role of individual prejudice. Our study identifies new conditions triggering hateful behavior, advancing our understanding of factors hindering migrant integration. ",
@@ -1270,12 +1270,6 @@ year = {2006}
   // Main render
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
-      <div className="max-w-7xl mx-auto p-8">
-        {/* Header */}
-        <div className="text-center space-y-2 mb-8">
-          <h1 className="text-4xl font-bold text-gray-900">Research Publications</h1>
-          <p className="text-gray-600">Guy Grossman • University of Pennsylvania</p>
-        </div>
 
         {/* Tab Navigation */}
         <div className="flex gap-2 border-b border-gray-200 mb-6">
