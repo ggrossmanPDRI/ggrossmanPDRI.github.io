@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /publications/
 title: publications
 nav: true
@@ -179,7 +179,7 @@ const PapersWidget = () => {
       }
     },
 
-{
+  {
       id: 27,
       year: 2020,
       title: "The Effect of Election Proximity on Government Responsiveness and Citizens' Participation: Evidence from English Local Elections",
@@ -203,8 +203,8 @@ const PapersWidget = () => {
   year={2020}
 }`
       }
-    },
-    {
+  },
+  {
       id: 26,
       year: 2020,
       title: "Political partisanship influences behavioral responses to governors' recommendations for COVID-19 prevention in the United States",
@@ -253,7 +253,7 @@ const PapersWidget = () => {
   year={2019}
 }`
       }
-    },
+  },
 
   {
       id: 24,
@@ -280,7 +280,7 @@ const PapersWidget = () => {
 }`
       }
     },
-    {
+  {
       id: 23,
       year: 2019,
       title: "A Signaling Theory of Distributive Policy Choice: Evidence From Senegal",
@@ -304,7 +304,7 @@ const PapersWidget = () => {
 }`
       }
     },
-     {
+    {
       id: 22,
       year: 2019,
       title: "Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory",
@@ -761,7 +761,7 @@ const PapersWidget = () => {
       links: {
         pdf: "/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf",
         journal: "https://www.pnas.org/doi/abs/10.1073/pnas.1105456108",
-        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf"
+        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf",
         bibtex: `@article{doi:10.1073/pnas.1105456108,
   title={Centralized sanctioning and legitimate authority promote cooperation in humans},
   journal = {Proceedings of the National Academy of Sciences},
@@ -784,7 +784,7 @@ const PapersWidget = () => {
       links: {
         pdf: "/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf",
         journal: "https://www.pnas.org/doi/abs/10.1073/pnas.1105456108",
-        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf"
+        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf",
         bibtex: `@article{Grossman01072006,
 title = {Courage to Refuse},
 journal = {Peace Review},
