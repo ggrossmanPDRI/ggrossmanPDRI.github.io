@@ -6,12 +6,34 @@ nav: true
 nav_order: 2
 ---
 
-<div id="react-publications-root"></div>
+<!--
+  al-folio renders the Bootstrap fixed-top navbar via the layout.
+  This wrapper adds top padding so content is not hidden beneath the navbar,
+  and keeps styling scoped so we don't override the theme's default CSS.
+-->
+
+<style>
+  /* Scoped styles for this page only */
+  .publications-section { padding-top: 5rem; padding-bottom: 2rem; }
+  .publications-header { text-align: center; margin-bottom: 2rem; }
+  .publications-header .subtitle { color: var(--global-text-color-light); }
+</style>
+
+<section class="publications-section">
+  <div class="container">
+    <header class="publications-header">
+      <h1>Research Publications</h1>
+      <p class="subtitle">Guy Grossman • University of Pennsylvania</p>
+    </header>
+
+    <div id="react-publications-root"></div>
+  </div>
+</section>
 
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<script src="https://cdn.tailwindcss.com"></script>
+<!-- Tailwind disabled to avoid overriding al-folio (Bootstrap) default styling -->
 
 <script type="text/babel">
 const { useState, useMemo } = React;
@@ -1270,12 +1292,6 @@ year = {2006}
   // Main render
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
-      <div className="max-w-7xl mx-auto p-8">
-        {/* Header */}
-        <div className="text-center space-y-2 mb-8">
-          <h1 className="text-4xl font-bold text-gray-900">Research Publications</h1>
-          <p className="text-gray-600">Guy Grossman • University of Pennsylvania</p>
-        </div>
 
         {/* Tab Navigation */}
         <div className="flex gap-2 border-b border-gray-200 mb-6">
