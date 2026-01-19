@@ -31,7 +31,8 @@ nav_order: 2
 </section>
 
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<!-- React 18: createRoot lives in react-dom/client. Use the UMD client build. -->
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom-client.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 <!-- Tailwind disabled to avoid overriding al-folio (Bootstrap) default styling -->
 
@@ -1451,7 +1452,17 @@ year = {2006}
   );
 };
 
-// Render the component
-const root = ReactDOM.createRoot(document.getElementById('react-publications-root'));
-root.render(<PapersWidget />);
+// Render the component (React 18 UMD client build exposes ReactDOMClient)
+const mountNode = document.getElementById('react-publications-root');
+
+if (window.ReactDOMClient && typeof window.ReactDOMClient.createRoot === 'function') {
+  const root = window.ReactDOMClient.createRoot(mountNode);
+  root.render(<PapersWidget />);
+} else if (window.ReactDOM && typeof window.ReactDOM.render === 'function') {
+  // Fallback for older ReactDOM builds
+  window.ReactDOM.render(<PapersWidget />, mountNode);
+} else {
+  // Last-resort: show a helpful message if scripts failed to load
+  mountNode.innerHTML = '<p><em>Publications widget failed to load. Please check that React scripts are reachable.</em></p>';
+}
 </script>
