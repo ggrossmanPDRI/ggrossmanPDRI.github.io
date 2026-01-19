@@ -178,6 +178,169 @@ const PapersWidget = () => {
 }`
       }
     },
+    {
+    id: 45,
+    year: 2025,
+    title: "Voted In, Standing Out: Public Response to Immigrants’ Political Accession",
+    authors: "Stephanie Zonszein, Guy Grossman",
+    journal: "American Journal of Political Science",
+    volume: "69 (2): 718-733",
+    status: "published",
+    categories: ['Migration', 'Conflict'],
+    abstract: "How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.",
+    links: {
+      pdf: "/assets/pdf/Voted-in-standing-out-Public-response-to-immigrants-political-accession.pdf",
+      appendix: "/assets/pdf/ajps12877-sup-0001-suppmat.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJ2DW4",
+      bibtex: `@article{grossman2025votedin,
+  title={Voted In, Standing Out},
+  author={Zonszein, Stephanie and Grossman, Guy},
+  journal={American Journal of Political Science},
+  volume={69},
+  number={2},
+  pages={718-733},
+  year={2025},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 44,
+    year: 2024,
+    title: "Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters",
+    authors: "Stephanie Zonszein, Guy Grossman",
+    journal: "American Political Science Review",
+    volume: "118(3): 1556–1562",
+    status: "published",
+    categories: ["Migration"],
+    abstract: "In Western democracies, like the United States, the United Kingdom, and Germany, the number of ethnic minority representatives has been steadily increasing. How is this trend shaping electoral behavior? Past work has focused on the effects of minority representation on ethnic minorities’ political engagement, with less attention to the electoral behavior of majority-group members. We argue that increased minorities’ representation can be experienced as a threat to a historically white-dominant political context. This, in turn, politically activates white constituents. Using data from four U.K. general elections and a regression discontinuity design, we find that the next election’s turnout in constituencies narrowly won by an ethnic minority candidate is 4.3 percentage points larger than in constituencies narrowly won by a white candidate. Consistent with our argument, this turnout difference is driven by majority-white constituencies. Our findings have implications for intergroup relations and party politics and help explain recent political dynamics. ",
+    links: {
+      pdf: "/assets/pdf/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters.pdf",
+      journal : "https://doi.org/10.1017/S000305542300103X",
+      appendix : "/assets/pdf/PSR2300103_Supplementary_Materials.pdf",
+      replication : "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UKVOPE",
+      bibtex: `@article{grossman2024turnout,
+  title={Turnout Turnaround},
+  author={Zonszein, Stephanie and Grossman, Guy},
+  journal={American Political Science Review},
+  volume ={118},
+  number ={3},
+  pages ={1556-1562},
+  year={2024},
+  status={published}
+}`
+    }
+  },
+{
+    id: 43,
+    year: 2024,
+    title: "The Effect of Sustained Transparency on Electoral Accountability",
+    authors: "Kristin Michelitch, Carlo Prato, Guy Grossman",
+    journal: "American Journal of Political Science",
+    volume : " 68(3): 1022-1040",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Transparency is expected to strengthen electoral accountability. Yet, initiatives disseminating politician performance information directly prior to elections have reported disappointing results. We argue that to be effective transparency needs to be sustained: the dissemination of politician performance information needs to occur early, regularly, and predictably throughout the term. Using a formal model of electoral accountability under non-programmatic and uneven party competition, we study how sustained transparency impacts a string of decisions by various actors in advance of elections: incumbents' running choices, party nomination strategies, and potential challengers' entry decisions. We show how these effects shape the candidate slate and ultimately electoral outcomes, conditional on incumbent performance and the incumbent party's relative strength. We test our theory using a field experiment involving 354 subnational constituencies in Uganda, and find robust support to the idea that sustained transparency can improve electoral accountability even in weakly institutionalized electoral settings.",
+    links: {
+      pdf: "/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency.pdf",
+      journal: "https://onlinelibrary.wiley.com/doi/10.1111/ajps.12787",
+      appendix :"/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2E4MOZ",
+      bibtex: `@article{grossman2024transparency,
+  title={The Effect of Sustained Transparency on Electoral Accountability},
+  author={Michelitch, Kristin and Prato, Carlo and Grossman, Guy},
+  journal={American Journal of Political Science},
+  volume ={68},
+  number={3},
+  pages={1022-1040},
+  year={2024},
+  status={published}
+}`
+    }
+  },
+
+{
+    id: 42,
+    year: 2023,
+    title: "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda",
+    authors: "Laura Paler, Jeremy Springman, Jan Pierskalla, Guy Grossman",
+    journal: "Political Science Research and Methods",
+    volume : "11(4): 903-912",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Oil discoveries, paired with delays in production, have created a new phenomenon: sustained post-discovery, pre-production periods. While research on the resource curse has debated the effects of oil on governance and conflict, less is known about the political effects of oil discoveries absent production. Using comprehensive electoral data from Uganda and a difference-in-difference design with heterogeneous effects, we show that oil discoveries increased electoral support for the incumbent chief executive in localities proximate to discoveries, even prior to production. Moreover, the biggest effects occurred in localities that were historically most electorally competitive. Overall, we show that the political effects of oil discoveries vary subnationally depending on local political context and prior to production, with important implications for understanding the roots of the political and conflict curses. ",
+    links: {
+      pdf: "/assets/pdf/2023_PSRM_Oil_discoveries.pdf",
+      journal : "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265",
+      appendix : "/assets/pdf/2023_PSRM_Oil_discoveries.pdf",
+      replication :"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGNJ10",
+      bibtex: `@article{grossman2023oil,
+  title={Oil Discoveries and Political Windfalls},
+  author={Paler, Laura and Springman, Jeremy and Pierskalla, Jan and Grossman, Guy},
+  journal={Political Science Research and Methods},
+  year={2023},
+  volume={11},
+  number={4},
+  pages={903-912}
+  status={published}
+}`
+    }
+  },
+
+  {
+    id: 41,
+    year: 2023,
+    title: "Can Low-Cost, Scalable Online Interventions Increase Youth Informed Political Participation in Electoral Authoritarian Contexts?",
+    authors: "Romain Ferrali, Horacio Larreguy, Guy Grossman",
+    journal: "Science Advances",
+    volume: " 9(26): eadf1222",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Young citizens in many democracies, and more so in electoral autocracies, turn out to vote at relatively low rates. Low youth participation arguably contributes to political parties' tendency to de-prioritize the youth's policy preferences. We analyze the effect of three low-cost, scalable, theoretically-grounded, online interventions designed to encourage young Moroccans to turn out and cast an informed vote ahead of the 2021 parliamentary elections. Those interventions aimed at (1) lowering the cost of participation by providing information about the voting registration process, (2) increasing the expected benefit of voting by providing information about the stakes of the election, and about (3) the distance between respondents’ policy preferences and political parties' policy platforms. We find that while all three interventions failed to increase youth turnout on average, the two treatments designed to increase expected benefits increased turnout intentions for likely 'compliers' those who, prior to treatment assignment, were unsure about whether to vote. Moreover, providing information about parties' policy platforms durably increased their support for the party that best represented their preferences, ultimately leading to better-informed voting. Consistent with probabilistic voting models with voting costs, the effect of the party-platforms treatment is concentrated among those who rated the party that our treatment deemed most congruent from a policy perspective as one of their two favorite parties. Contributing to information processing theories, we also find that party updating followed a form of motivated reasoning even in a context with weak party institutionalization.",
+    links: {
+      pdf: "/assets/pdf/2023_SciAdv_Lowcost_online_interventions.pdf",
+      journal: "https://www.science.org/doi/10.1126/sciadv.adf1222",
+      appendix:"https://guygrossman.com/assets/pdf/41_SA-Supplementary-information.pdf",
+      replication:"https://osf.io/m5rwn/",
+      bibtex: `@article{grossman2023online,
+  title={Low-Cost Online Interventions and Youth Participation},
+  author={Ferrali, Romain and Larreguy, Horacio and Grossman, Guy},
+  journal={Science Advances},
+  volume={9},
+  number={26},
+  pages={eadf1222},
+  year={2023},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 40,
+    year: 2023,
+    title: "Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy",
+    authors: "Gemma Dipoppa, Stephanie Zonszein, Guy Grossman",
+    journal: "Journal of Politics",
+    volume: "85(2): pp.389-404"
+    status: "published",
+    categories: ["Conflict", "Migration"],
+    abstract: "Covid-19 caused a significant health and economic crisis, a condition identified as conducive to stigmatization and hateful behavior against minority groups. It is however unclear whether the threat of infection triggers violence in addition to stigmatization, and whether a violent reaction can happen at the onset of an unexpected economic shock before social hierarchies can be disrupted. Using a novel database of hate crimes across Italy, we show that (i) hate crimes against Asians increased substantially at the pandemic onset, and that (ii) the increase was concentrated in cities with higher expected unemployment, but not higher mortality. We then examine individual, local and national mobilization as mechanisms. We find that (iii) a xenophobic national discourse and local far-right institutions motivate hate crimes, while we find no support for the role of individual prejudice. Our study identifies new conditions triggering hateful behavior, advancing our understanding of factors hindering migrant integration. ",
+    links: {
+      pdf: "/assets/pdf/2023_JoP_Migration_locked_down_lashing_out.pdf",
+      journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/722346",
+      appendix:"/assets/pdf/2023_JoP_Migration_locked_down_lashing_out_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0DCWT7",
+      bibtex: `@article{grossman2023covid,
+  title={Locked Down, Lashing Out},
+  author={Dipoppa, Gemma and Zonszein, Stephanie and Grossman, Guy},
+  journal={Journal of Politics},
+  volume={85},
+  number={2},
+  pages={389-404},
+  year={2023},
+  status={published}
+}`
+    }
+  },
 
   {
       id: 27,
