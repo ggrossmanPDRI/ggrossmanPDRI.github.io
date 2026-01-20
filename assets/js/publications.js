@@ -875,7 +875,7 @@ year = {2006}
       }
     },
     // ... add more publications here
-];
+  ];
   const WORKING = [{
       id: 1,
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
@@ -979,7 +979,7 @@ year = {2006}
       }
     }
     // ... add more working papers here
-];
+  ];
 
   function uniq(arr){ return Array.from(new Set(arr)); }
   function byYearDesc(a,b){ return (b||0)-(a||0); }
@@ -1020,7 +1020,12 @@ year = {2006}
   }
 
   function btnLink(href, label, style='btn-outline-primary'){
-    return el('a', {class:`btn btn-sm ${style}`, href, target:'_blank', rel:'noopener noreferrer'}, label);
+    return el('a', {
+      class:`btn btn-sm ${style}`,
+      href,
+      target:'_blank',
+      rel:'noopener noreferrer'
+    }, label);
   }
 
   function render(app){
@@ -1088,34 +1093,34 @@ year = {2006}
         if(p.links.replication) actions.push(btnLink(p.links.replication, 'Data', 'btn-outline-secondary'));
       }
 
-      const badgeWrap = el('div', {class:'pubs-badges mb-2'});
-      (p.categories||[]).forEach(c=> badgeWrap.appendChild(el('span',{class:'badge badge-pill badge-light'}, c)));
+      const chipWrap = el('div', {class:'pubs-chips mt-2'});
+      (p.categories||[]).forEach(c=> chipWrap.appendChild(el('span',{class:'pubs-chip'}, c)));
 
       const details=[];
       if(p.abstract){
         details.push(
-          el('details', {class:'mt-2'}, [
-            el('summary', {class:'text-primary'}, 'Abstract'),
+          el('details', {class:'pubs-details mt-3'}, [
+            el('summary', {}, 'Abstract'),
             el('div', {class:'mt-2'}, p.abstract)
           ])
         );
       }
       if(p.links && p.links.bibtex){
         details.push(
-          el('details', {class:'mt-2'}, [
-            el('summary', {class:'text-primary'}, 'BibTeX'),
+          el('details', {class:'pubs-details mt-3'}, [
+            el('summary', {}, 'BibTeX'),
             el('pre', {class:'pubs-pre mt-2 p-2 bg-light'}, p.links.bibtex)
           ])
         );
       }
 
-      return el('div', {class:'card mb-3'}, [
+      return el('div', {class:'card pubs-card'}, [
         el('div', {class:'card-body'}, [
-          el('h5', {class:'card-title mb-1'}, p.title || ''),
-          el('div', {class:'text-muted mb-2'}, p.authors || ''),
-          el('div', {class:'small mb-2'}, formatVenue(p)),
-          badgeWrap,
-          el('div', {class:'pubs-actions'}, actions),
+          el('div', {class:'pubs-title'}, p.title || ''),
+          el('div', {class:'pubs-authors'}, p.authors || ''),
+          el('div', {class:'pubs-venue pubs-meta'}, formatVenue(p)),
+          chipWrap,
+          el('div', {class:'pubs-actions mt-3'}, actions),
           ...details
         ])
       ]);
@@ -1124,31 +1129,40 @@ year = {2006}
     function buildUI(){
       app.innerHTML='';
 
-      // Tabs
-      const tabRow = el('div', {class:'mb-3'}, [
+      const shell = el('div', {class:'pubs-shell'}, []);
+
+      // Tabs (pill buttons)
+      const tabs = el('div', {class:'pubs-tabs mb-3'}, [
         el('div', {class:'btn-group', role:'group', 'aria-label':'Publication tabs'}, [
-          el('button', {type:'button', class:`btn btn-sm ${state.tab==='published'?'btn-primary':'btn-outline-primary'}`, onclick:()=>{state.tab='published'; resetFilters(); rerender();}}, `Published Papers (${PUBLISHED.length})`),
-          el('button', {type:'button', class:`btn btn-sm ${state.tab==='working'?'btn-primary':'btn-outline-primary'}`, onclick:()=>{state.tab='working'; resetFilters(); rerender();}}, `Under Review (${WORKING.length})`)
+          el('button', {
+            type:'button',
+            class:`btn btn-sm ${state.tab==='published'?'btn-primary':'btn-outline-primary'}`,
+            onclick:()=>{state.tab='published'; resetFilters(); rerender();}
+          }, `Published (${PUBLISHED.length})`),
+          el('button', {
+            type:'button',
+            class:`btn btn-sm ${state.tab==='working'?'btn-primary':'btn-outline-primary'}`,
+            onclick:()=>{state.tab='working'; resetFilters(); rerender();}
+          }, `Under Review (${WORKING.length})`)
         ])
       ]);
 
-      const row = el('div', {class:'row'}, []);
-      const left = el('div', {class:'col-md-3 pubs-sidebar mb-4'}, []);
-      const right = el('div', {class:'col-md-9'}, []);
+      // Toolbar
+      const toolbar = el('div', {class:'pubs-toolbar'}, []);
+      const topRow = el('div', {class:'d-flex flex-wrap align-items-center', style:'gap:.6rem;'}, []);
 
-      // Sidebar card
-      const sidebarCard = el('div', {class:'card'}, []);
-      const sidebarBody = el('div', {class:'card-body'}, []);
-
-      // Search
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Search'));
-      const searchInput = el('input', {class:'form-control form-control-sm mb-3', type:'text', placeholder:'Search title, authors, journal, abstract'}, []);
+      const searchInput = el('input', {
+        class:'form-control form-control-sm',
+        style:'min-width: 260px; flex: 1 1 260px;',
+        type:'text',
+        placeholder:'Search title, authors, journal, abstract'
+      }, []);
       searchInput.addEventListener('input', ()=>{ state.q = searchInput.value; rerenderList(); });
-      sidebarBody.appendChild(searchInput);
 
-      // Year
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Year'));
-      const yearSelect = el('select', {class:'custom-select custom-select-sm mb-3'}, []);
+      const yearSelect = el('select', {
+        class:'custom-select custom-select-sm',
+        style:'max-width: 160px;'
+      }, []);
       function refreshYears(){
         yearSelect.innerHTML='';
         getYears(currentList()).forEach(y=>{
@@ -1157,49 +1171,49 @@ year = {2006}
         yearSelect.value = String(state.year);
       }
       yearSelect.addEventListener('change', ()=>{ state.year = yearSelect.value; rerenderList(); });
-      sidebarBody.appendChild(yearSelect);
 
-      // Categories
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Categories'));
-      const catWrap = el('div', {class:'mb-3'}, []);
+      const clearBtn = el('button', {type:'button', class:'btn btn-sm btn-outline-secondary'}, 'Reset');
+      clearBtn.addEventListener('click', ()=>{ resetFilters(); rerender(); });
+
+      topRow.appendChild(searchInput);
+      topRow.appendChild(yearSelect);
+      topRow.appendChild(clearBtn);
+      toolbar.appendChild(topRow);
+
+      // Categories chips
+      toolbar.appendChild(el('div', {class:'pubs-meta mt-3 mb-2'}, 'Topics'));
+      const catWrap = el('div', {class:'pubs-chips'}, []);
       function refreshCats(){
         catWrap.innerHTML='';
         const cats = collectCategories(currentList());
         cats.forEach(c=>{
-          const id = `cat_${state.tab}_${c.replace(/\s+/g,'_')}`;
-          const cb = el('input', {type:'checkbox', class:'form-check-input', id});
-          cb.checked = state.cats.has(c);
-          cb.addEventListener('change', ()=>{
-            if(cb.checked) state.cats.add(c); else state.cats.delete(c);
-            rerenderList();
-          });
-          const label = el('label', {class:'form-check-label', for:id}, c);
-          catWrap.appendChild(el('div', {class:'form-check'}, [cb, label]));
+          const chip = el('button', {
+            type:'button',
+            class:`pubs-chip ${state.cats.has(c)?'is-active':''}`,
+            onclick:()=>{
+              if(state.cats.has(c)) state.cats.delete(c); else state.cats.add(c);
+              refreshCats();
+              rerenderList();
+            }
+          }, c);
+          catWrap.appendChild(chip);
         });
       }
-      sidebarBody.appendChild(catWrap);
 
-      // Clear
-      const clearBtn = el('button', {type:'button', class:'btn btn-sm btn-outline-secondary'}, 'Clear filters');
-      clearBtn.addEventListener('click', ()=>{ resetFilters(); rerender(); });
-      sidebarBody.appendChild(clearBtn);
+      toolbar.appendChild(catWrap);
 
-      sidebarCard.appendChild(sidebarBody);
-      left.appendChild(sidebarCard);
-
-      // List container
-      const listHeader = el('div', {class:'d-flex justify-content-between align-items-center mb-2'}, [
-        el('div', {class:'small text-muted', id:'results-count'}, ''),
+      // Results header + list
+      const resultsHeader = el('div', {class:'pubs-results-header'}, [
+        el('div', {class:'pubs-meta', id:'results-count'}, ''),
       ]);
       const listWrap = el('div', {id:'pubs-list'}, []);
-      right.appendChild(listHeader);
-      right.appendChild(listWrap);
 
-      row.appendChild(left);
-      row.appendChild(right);
+      shell.appendChild(tabs);
+      shell.appendChild(toolbar);
+      shell.appendChild(resultsHeader);
+      shell.appendChild(listWrap);
 
-      app.appendChild(tabRow);
-      app.appendChild(row);
+      app.appendChild(shell);
 
       function resetFilters(){
         state.year='all';
@@ -1218,9 +1232,21 @@ year = {2006}
       function rerenderList(){
         const list = applyFilters(currentList());
         listWrap.innerHTML='';
-        const countEl = listHeader.querySelector('#results-count');
+        const countEl = resultsHeader.querySelector('#results-count');
         if(countEl) countEl.textContent = `${list.length} result${list.length===1?'':'s'}`;
-        list.forEach(p=> listWrap.appendChild(paperCard(p)));
+
+        // group by year
+        const byYear = new Map();
+        list.forEach(p=>{
+          const y = p.year || 'Other';
+          if(!byYear.has(y)) byYear.set(y, []);
+          byYear.get(y).push(p);
+        });
+        const years = Array.from(byYear.keys()).sort((a,b)=> (b||0)-(a||0));
+        years.forEach(y=>{
+          listWrap.appendChild(el('div', {class:'pubs-year-title'}, String(y)));
+          byYear.get(y).forEach(p=> listWrap.appendChild(paperCard(p)));
+        });
       }
 
       // expose to tab handlers
