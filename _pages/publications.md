@@ -144,36 +144,6 @@ nav: true
 }
 .pubs-yearbtn:hover { background: rgba(127,127,127,0.12); }
 .pubs-yearbtn.is-active { background: rgba(59,130,246,0.14); border-color: rgba(59,130,246,0.35); }
-/* BibTeX copy button */
-.pubs-iconbtn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.12));
-  background: rgba(127,127,127,0.06);
-  border-radius: 999px;
-  padding: 0.32rem 0.7rem;
-  font-size: 0.85rem;
-  color: var(--global-text-color);
-  text-decoration: none;
-}
-.pubs-iconbtn:hover { background: rgba(127,127,127,0.12); text-decoration: none; }
-.pubs-toast {
-  position: fixed;
-  left: 50%;
-  transform: translateX(-50%);
-  bottom: 1.25rem;
-  background: rgba(0,0,0,0.78);
-  color: #fff;
-  padding: 0.55rem 0.9rem;
-  border-radius: 999px;
-  font-size: 0.9rem;
-  z-index: 9999;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 160ms ease;
-}
-.pubs-toast.is-show { opacity: 1; }
 /* BibTeX panel inside card */
 .pubs-bibpanel {
   margin-top: 0.75rem;
