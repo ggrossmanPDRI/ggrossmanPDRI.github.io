@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: 
+title: publications
 nav: true
 ---
 
@@ -17,7 +17,7 @@ nav: true
 </section>
 
 <style>
-.pubs { padding-top: 5.25rem; padding-bottom: 2rem; }
+.pubs { padding-top: 2.25rem; padding-bottom: 2rem; }
 .pubs__header { text-align: center; margin-bottom: 1.75rem; }
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
