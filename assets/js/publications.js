@@ -172,15 +172,15 @@
             <div style="height:0.9rem"></div>
 
             <h3>Years</h3>
-            <ul class="pubs-list" id="pubs-years">
-              ${renderYearList(years, data)}
-            </ul>
+            <div class="pubs-yeargrid" id="pubs-years">
+              ${renderYearGrid(years, data)}
+            </div>
 
             <div style="height:0.9rem"></div>
 
             <h3>Categories</h3>
             <div class="pubs-chipwrap" id="pubs-cats">
-              ${cats.map((c) => renderChip(c)).join("") || `<span class="pubs-empty" style="padding:.5rem .75rem;">No categories</span>`}
+              ${renderCategoryChips(cats, data)}
             </div>
 
             <div style="height:0.9rem"></div>
@@ -198,32 +198,56 @@
     bindHandlers();
   }
 
-  function renderYearList(years, data) {
+  function renderYearGrid(years, data) {
     const total = data.length;
     const counts = new Map();
     data.forEach((p) => counts.set(p.year, (counts.get(p.year) || 0) + 1));
 
     const allActive = state.year == null ? "is-active" : "";
     const allBtn = `
-      <li>
-        <button class="pubs-linkbtn ${allActive}" data-year="">
+        <button class="pubs-yearbtn ${allActive}" data-year="">
           All (${total})
-        </button>
-      </li>`;
+        </button>`;
 
     const yearBtns = years
       .map((y) => {
         const active = state.year === y ? "is-active" : "";
         return `
-          <li>
-            <button class="pubs-linkbtn ${active}" data-year="${y}">
-              ${y} (${counts.get(y) || 0})
-            </button>
-          </li>`;
+        <button class="pubs-yearbtn ${active}" data-year="${y}">
+          ${y} (${counts.get(y) || 0})
+        </button>`;
       })
       .join("");
 
     return allBtn + yearBtns;
+  }
+
+
+  function matchesWithoutCats(p) {
+    // Apply search + year filters, ignore category selection (used for sidebar counts)
+    const q = state.q.trim().toLowerCase();
+    if (q) {
+      const hay = `${p.title} ${p.authors} ${p.journal}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    if (state.year != null && p.year !== state.year) return false;
+    return true;
+  }
+
+  function renderCategoryChips(cats, data) {
+    if (!cats.length) return `<span class="pubs-empty" style="padding:.5rem .75rem;">No categories</span>`;
+
+    const base = data.filter(matchesWithoutCats);
+    const counts = new Map();
+    base.forEach((p) => (p.categories || []).forEach((c) => counts.set(c, (counts.get(c) || 0) + 1)));
+
+    return cats
+      .map((c) => {
+        const active = state.cats.has(c) ? "is-active" : "";
+        const n = counts.get(c) || 0;
+        return `<button class="pubs-chip ${active}" type="button" data-cat="${escapeHtml(c)}">${escapeHtml(c)} (${n})</button>`;
+      })
+      .join("");
   }
 
   function renderChip(cat) {

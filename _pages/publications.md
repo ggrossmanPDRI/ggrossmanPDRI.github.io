@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: 
 nav: true
 ---
 
@@ -21,7 +21,7 @@ nav: true
 .pubs__header { text-align: center; margin-bottom: 1.75rem; }
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
-.pubs-ui { display: grid; grid-template-columns: 320px 1fr; gap: 1.25rem; align-items: start; }
+.pubs-ui { display: grid; grid-template-columns: 360px minmax(0, 1fr); gap: 1.5rem; align-items: start; }
 @media (max-width: 992px) { .pubs-ui { grid-template-columns: 1fr; } }
 
 .pubs-sidebar { position: sticky; top: 5.25rem; }
@@ -125,6 +125,25 @@ nav: true
 
 .pubs-yearhdr { margin: 1.25rem 0 0.5rem; font-size: 0.95rem; color: var(--global-text-color-light); }
 .pubs-empty { padding: 1rem; border-radius: 14px; border: 1px dashed var(--global-divider-color, rgba(0,0,0,0.18)); color: var(--global-text-color-light); }
+/* Make layout use page width nicely (scoped) */
+.pubs .container { max-width: 1200px; }
+.pubs-main { width: 100%; min-width: 0; }
+.pubs-card { width: 100%; }
+
+/* Years as a button matrix */
+.pubs-yeargrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(82px, 1fr)); gap: 0.45rem; }
+.pubs-yearbtn {
+  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.12));
+  background: rgba(127,127,127,0.06);
+  border-radius: 12px;
+  padding: 0.35rem 0.45rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color);
+  text-align: center;
+  width: 100%;
+}
+.pubs-yearbtn:hover { background: rgba(127,127,127,0.12); }
+.pubs-yearbtn.is-active { background: rgba(59,130,246,0.14); border-color: rgba(59,130,246,0.35); }
 </style>
 
 <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
