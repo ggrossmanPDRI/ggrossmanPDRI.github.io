@@ -874,7 +874,8 @@ year = {2006}
 }`
       }
     },
-    // ... add more publications here];
+    // ... add more publications here
+];
   const WORKING = [{
       id: 1,
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
@@ -977,7 +978,8 @@ year = {2006}
 }`
       }
     }
-    // ... add more working papers here];
+    // ... add more working papers here
+];
 
   function uniq(arr){ return Array.from(new Set(arr)); }
   function byYearDesc(a,b){ return (b||0)-(a||0); }
