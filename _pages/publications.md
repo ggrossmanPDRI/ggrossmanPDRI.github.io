@@ -29,4 +29,4 @@ nav_order: 2
 </style>
 
 <!-- Vanilla JS (no React/Babel). Place this file at: /assets/js/publications.js -->
-<script src="/assets/js/publications.js" defer></script>
+<script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
