@@ -22,10 +22,10 @@ nav: true
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
 .pubs-ui { display: grid; grid-template-columns: 360px minmax(0, 1fr); gap: 1.5rem; align-items: start; }
-@media (max-width: 992px) { .pubs-ui { grid-template-columns: 1fr; } }
+@media (max-width: 1488px) { .pubs-ui { grid-template-columns: 1fr; } }
 
-.pubs-sidebar { position: sticky; top: 5.25rem; }
-@media (max-width: 992px) { .pubs-sidebar { position: static; } }
+.pubs-sidebar { position: sticky; top: 2.25rem; }
+@media (max-width: 496px) { .pubs-sidebar { position: static; } }
 
 .pubs-panel {
   background: var(--global-card-bg-color, rgba(255,255,255,0.7));
