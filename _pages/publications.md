@@ -17,15 +17,15 @@ nav: true
 </section>
 
 <style>
-.pubs { padding-top: 2.25rem; padding-bottom: 2rem; }
+.pubs { padding-top: 1.5rem; padding-bottom: 2rem; }
 .pubs__header { text-align: center; margin-bottom: 1.75rem; }
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
-.pubs-ui { display: grid; grid-template-columns: 360px minmax(0, 1fr); gap: 1.5rem; align-items: start; }
-@media (max-width: 1488px) { .pubs-ui { grid-template-columns: 1fr; } }
+.pubs-ui { display: grid; grid-template-columns: 30% 65%; gap: 5%; align-items: start; }
+@media (max-width: 992px) { .pubs-ui { grid-template-columns: 1fr; } }
 
-.pubs-sidebar { position: sticky; top: 2.25rem; }
-@media (max-width: 496px) { .pubs-sidebar { position: static; } }
+.pubs-sidebar { position: sticky; top: 1rem; }
+@media (max-width: 992px) { .pubs-sidebar { position: static; } }
 
 .pubs-panel {
   background: var(--global-card-bg-color, rgba(255,255,255,0.7));
@@ -126,7 +126,7 @@ nav: true
 .pubs-yearhdr { margin: 1.25rem 0 0.5rem; font-size: 0.95rem; color: var(--global-text-color-light); }
 .pubs-empty { padding: 1rem; border-radius: 14px; border: 1px dashed var(--global-divider-color, rgba(0,0,0,0.18)); color: var(--global-text-color-light); }
 /* Make layout use page width nicely (scoped) */
-.pubs .container { max-width: 1200px; }
+.pubs .container { max-width: 1400px; }
 .pubs-main { width: 100%; min-width: 0; }
 .pubs-card { width: 100%; }
 
@@ -144,6 +144,36 @@ nav: true
 }
 .pubs-yearbtn:hover { background: rgba(127,127,127,0.12); }
 .pubs-yearbtn.is-active { background: rgba(59,130,246,0.14); border-color: rgba(59,130,246,0.35); }
+/* BibTeX copy button */
+.pubs-iconbtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.12));
+  background: rgba(127,127,127,0.06);
+  border-radius: 999px;
+  padding: 0.32rem 0.7rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+.pubs-iconbtn:hover { background: rgba(127,127,127,0.12); text-decoration: none; }
+.pubs-toast {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 1.25rem;
+  background: rgba(0,0,0,0.78);
+  color: #fff;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 160ms ease;
+}
+.pubs-toast.is-show { opacity: 1; }
 </style>
 
 <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>

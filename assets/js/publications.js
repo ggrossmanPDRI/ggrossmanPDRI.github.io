@@ -193,6 +193,7 @@
           ${filtered.length ? renderCards(grouped) : `<div class="pubs-empty">No results. Try clearing filters.</div>`}
         </main>
       </div>
+      <div class="pubs-toast" id="pubs-toast" role="status" aria-live="polite"></div>
     `;
 
     bindHandlers();
@@ -279,7 +280,7 @@
     (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
     btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
-    btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
+    if (p.links?.bibtex) btns.push(`<button class="pubs-iconbtn" type="button" data-bibcopy="${p.id}" aria-label="Copy BibTeX"><span>❝</span><span>BibTeX</span></button>`);
 
     const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 
@@ -310,7 +311,17 @@
     return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
   }
 
-  function bindHandlers() {
+  
+  function toast(msg) {
+    const el = document.getElementById("pubs-toast");
+    if (!el) return;
+    el.textContent = msg;
+    el.classList.add("is-show");
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => el.classList.remove("is-show"), 1200);
+  }
+
+function bindHandlers() {
     document.querySelectorAll(".pubs-tab").forEach((b) => {
       b.addEventListener("click", () => {
         const tab = b.getAttribute("data-tab");
@@ -331,7 +342,7 @@
       });
     }
 
-    document.querySelectorAll("#pubs-years .pubs-linkbtn").forEach((b) => {
+    document.querySelectorAll("#pubs-years button").forEach((b) => {
       b.addEventListener("click", () => {
         const y = b.getAttribute("data-year");
         state.year = y ? Number(y) : null;
@@ -365,6 +376,33 @@
         const panel = document.querySelector(`[data-bib="${CSS.escape(id)}"]`);
         if (!panel) return;
         panel.classList.toggle("is-open");
+      });
+    });
+
+    // BibTeX copy
+    document.querySelectorAll("[data-bibcopy]").forEach((b) => {
+      b.addEventListener("click", async () => {
+        const id = b.getAttribute("data-bibcopy");
+        if (!id) return;
+        const p = getActiveData().find((x) => String(x.id) === String(id));
+        const bib = p?.links?.bibtex || "";
+        if (!bib) return toast("No BibTeX available");
+
+        try {
+          await navigator.clipboard.writeText(bib);
+          toast("BibTeX copied");
+        } catch (e) {
+          const ta = document.createElement("textarea");
+          ta.value = bib;
+          ta.setAttribute("readonly", "");
+          ta.style.position = "fixed";
+          ta.style.top = "-1000px";
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand("copy"); toast("BibTeX copied"); }
+          catch (err) { toast("Copy failed"); }
+          document.body.removeChild(ta);
+        }
       });
     });
   }
