@@ -384,7 +384,9 @@ function bindHandlers() {
         if (!id) return;
         const p = getActiveData().find((x) => String(x.id) === String(id));
         const bib = p?.links?.bibtex || "";
-        if (!bib) return try {
+        if (!bib) return;
+
+        try {
           await navigator.clipboard.writeText(bib);
           } catch (e) {
           const ta = document.createElement("textarea");
