@@ -280,7 +280,7 @@
     (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
     btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
-    if (p.links?.bibtex) btns.push(`<button class="pubs-iconbtn" type="button" data-bibcopy="${p.id}" aria-label="Copy BibTeX"><span>❝</span><span>BibTeX</span></button>`);
+    if (p.links?.bibtex) btns.push(`<button class="pubs-iconbtn" type="button" data-bibbtn="${p.id}" aria-label="Show BibTeX"><span>⧉</span><span>BibTeX</span></button>`);
 
     const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 

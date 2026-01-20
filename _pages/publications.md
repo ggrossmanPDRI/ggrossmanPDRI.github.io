@@ -174,13 +174,6 @@ nav: true
   transition: opacity 160ms ease;
 }
 .pubs-toast.is-show { opacity: 1; }
-/* Hide the default al-folio page title so we only show the custom header below */
-.pubs .post-title,
-.pubs .page-title,
-.pubs h1.post-title,
-.pubs header.post-header h1 {
-  display: none !important;
-}
 /* BibTeX panel inside card */
 .pubs-bibpanel {
   margin-top: 0.75rem;
@@ -209,6 +202,10 @@ nav: true
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 0.82rem;
   color: var(--global-text-color);
+}
+/* Hide the default al-folio page title (this CSS is embedded on this page only) */
+.post-header, h1.post-title, h1.page-title, .post-title, .page-title {
+  display: none !important;
 }
 </style>
 
