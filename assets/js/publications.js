@@ -299,6 +299,16 @@
           ${btns.join("")}
         </div>
 
+        ${p.links?.bibtex ? `
+          <div class="pubs-bibpanel" data-bib="${p.id}">
+            <div class="pubs-bibhead">
+              <div class="pubs-bibtitle">BibTeX</div>
+              <button class="pubs-copybtn" type="button" data-bibcopy="${p.id}" aria-label="Copy BibTeX">Copy</button>
+            </div>
+            <pre class="pubs-bibpre">${escapeHtml(p.links.bibtex)}</pre>
+          </div>
+        ` : ""}
+
         <div class="pubs-bibtex" data-bib="${p.id}">
           <pre><code>${escapeHtml(p.links?.bibtex || "")}</code></pre>
         </div>

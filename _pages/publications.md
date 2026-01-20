@@ -21,7 +21,7 @@ nav: true
 .pubs__header { text-align: center; margin-bottom: 1.75rem; }
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
-.pubs-ui { display: grid; grid-template-columns: 30% 65%; gap: 5%; align-items: start; }
+.pubs-ui { display: grid; grid-template-columns: 30% 70%; gap: 2.5%; align-items: start; }
 @media (max-width: 992px) { .pubs-ui { grid-template-columns: 1fr; } }
 
 .pubs-sidebar { position: sticky; top: 1rem; }
@@ -126,7 +126,7 @@ nav: true
 .pubs-yearhdr { margin: 1.25rem 0 0.5rem; font-size: 0.95rem; color: var(--global-text-color-light); }
 .pubs-empty { padding: 1rem; border-radius: 14px; border: 1px dashed var(--global-divider-color, rgba(0,0,0,0.18)); color: var(--global-text-color-light); }
 /* Make layout use page width nicely (scoped) */
-.pubs .container { max-width: 1400px; }
+.pubs .container { max-width: 100%; padding-left: 2.5%; padding-right: 2.5%; }
 .pubs-main { width: 100%; min-width: 0; }
 .pubs-card { width: 100%; }
 
@@ -174,6 +174,42 @@ nav: true
   transition: opacity 160ms ease;
 }
 .pubs-toast.is-show { opacity: 1; }
+/* Hide the default al-folio page title so we only show the custom header below */
+.pubs .post-title,
+.pubs .page-title,
+.pubs h1.post-title,
+.pubs header.post-header h1 {
+  display: none !important;
+}
+/* BibTeX panel inside card */
+.pubs-bibpanel {
+  margin-top: 0.75rem;
+  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.12));
+  background: rgba(127,127,127,0.05);
+  border-radius: 14px;
+  padding: 0.75rem 0.75rem 0.6rem;
+  display: none;
+}
+.pubs-bibpanel.is-open { display: block; }
+.pubs-bibhead { display:flex; justify-content: space-between; align-items:center; gap: 0.75rem; margin-bottom: 0.5rem; }
+.pubs-bibtitle { font-size: 0.9rem; color: var(--global-text-color); margin: 0; font-weight: 600; }
+.pubs-copybtn {
+  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.12));
+  background: rgba(127,127,127,0.06);
+  border-radius: 999px;
+  padding: 0.25rem 0.55rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color);
+}
+.pubs-copybtn:hover { background: rgba(127,127,127,0.12); }
+.pubs-bibpre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.82rem;
+  color: var(--global-text-color);
+}
 </style>
 
 <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
