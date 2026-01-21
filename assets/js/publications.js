@@ -257,25 +257,28 @@
   {
     id: 39,
     year: 2023,
-    title: "Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash",
+    title: "Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash.",
     authors: "Yang-Yang Zhou, Shuning Ge, Guy Grossman",
     journal: "World Development",
-    volume: "166203",
     status: "published",
-    categories: ["Migration"],
-    abstract: "Large arrivals of refugees raise concerns about potential tensions with host communities, particularly if refugees are viewed as an out-group competing for limited material resources and crowding out public services. To address these concerns, calls have increased to allocate humanitarian aid in ways that also benefit host communities. This study tests whether the increased presence of refugees, when coupled with humanitarian aid, improves public service delivery for host communities and dampens potential social conflict. We study this question in Uganda, one of the largest and most inclusive refugee-hosting countries. The data combines geospatial information on refugee settlements with original longitudinal data on primary and secondary schools, road density, health clinics, and health utilization. We report two key findings. First, even after the 2014 arrival of over 1 million South Sudanese refugees, host communities with greater refugee presence experienced substantial improvements in local development. Second, using public opinion data, we find no evidence that refugee presence has been associated with more negative (or positive) attitudes towards migrants or migration policy.",
+    volume: "166",
+    issue: "",
+    pages: "106203",
+    categories: ["migration", "development"],
+    abstract: "Large arrivals of refugees raise concerns about tensions with host communities. This study tests whether refugee presence coupled with humanitarian aid improves local development and dampens backlash. Using geospatial settlement data and longitudinal measures of public services in Uganda, we find improvements in development outcomes and no evidence of more negative attitudes toward migrants or migration policy.",
     links: {
+      webpage: "https://www.sciencedirect.com/science/article/pii/S0305750X23000219",
       pdf: "/assets/pdf/2023_WD_Inclusive_refugee_hosting.pdf",
-      journal: "https://doi.org/10.1016/j.worlddev.2023.106203"
-      appendix: "/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf",
-      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TXSZDC",
-      bibtex: `ZHOU2023106203,
-title = {Inclusive refugee-hosting can improve local development and prevent public backlash},
-journal = {World Development},
-volume = {166},
-pages = {106203},
-year = {2023},
-  status={published}
+      appendix: ["/assets/pdf/2023_WD_Inclusive_refugee_hosting_appendix.pdf"],
+      replication: "https://doi.org/10.7910/DVN/TXSZDC",
+      scholar: "",
+      bibtex: `@article{zhou2023inclusive,
+  title={Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash},
+  author={Zhou, Yang-Yang and Ge, Shuning and Grossman, Guy},
+  journal={World Development},
+  year={2023},
+  volume={166},
+  pages={106203}
 }`
     }
   },
@@ -1489,7 +1492,7 @@ year = {2006}
     if (p.links?.pdf) btns.push(actionLink("PDF", p.links.pdf, true));
     (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
-    btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
+    btns.push(actionLink("Google Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
     if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
 const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 
@@ -1595,7 +1598,9 @@ function bindHandlers() {
         if (!id) return;
         const p = getActiveData().find((x) => String(x.id) === String(id));
         const bib = p?.links?.bibtex || "";
-        if (!bib) return try {
+        if (!bib) return;
+
+        try {
           await navigator.clipboard.writeText(bib);
           } catch (e) {
           const ta = document.createElement("textarea");
