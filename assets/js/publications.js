@@ -79,14 +79,14 @@
         journal: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE",
         appendix: "/assets/pdf/2025_deter_aggregation_S0007123425100665sup001.pdf",
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C",
-        bibtex: `@article{grossman2020ict,
-  title={Information Technology and Political Engagement: Mixed Evidence from Uganda},
-  author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
-  journal={Journal of Politics},
-  volume={82},
-  number={4},
-  pages={1321--1336},
-  year={2020}
+        bibtex: `@article{Rueda_Grossman_Ge_2025, 
+title={Do More Disaggregated Electoral Results Deter Aggregation Fraud?}, 
+volume={55}, 
+DOI={10.1017/S0007123425100665}, 
+journal={British Journal of Political Science}, 
+author={Rueda, Miguel R. and Grossman, Guy and Ge, Shuning},
+year={2025}, 
+pages={e140}
 }`
       }
     },
@@ -470,7 +470,9 @@
 
     const btns = [];
     if (p.links?.pdf) btns.push(actionLink("PDF", p.links.pdf, true));
-    (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
+    const app = p.links?.appendix;
+    const appArr = Array.isArray(app) ? app : (typeof app === "string" && app.trim() ? [app] : []);
+    appArr.forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
     btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
     if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
@@ -500,10 +502,6 @@ const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin
             <pre class="pubs-bibpre">${escapeHtml(p.links.bibtex)}</pre>
           </div>
         ` : ""}
-
-        <div class="pubs-bibtex" data-bib="${p.id}">
-          <pre><code>${escapeHtml(p.links?.bibtex || "")}</code></pre>
-        </div>
       </article>
     `;
   }
