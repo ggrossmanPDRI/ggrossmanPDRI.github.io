@@ -822,8 +822,350 @@ status={published}
   year={2018}
 }`
       }
-    }
+    },
 
+{
+      id: 16,
+      year: 2017,
+      title: "Texting Complaints to Politicians: Name Personalization and Politicians' Encouragement in Citizen Mobilization",
+      authors: "Kristin Michelitch and Marta Santamaria",
+      journal: "Comparative Political Studies",
+      volume: "50(10): 1325-1357",
+      categories: ['Governance'],
+      abstract: "Poor public service provision and government accountability is commonplace in low-income countries. Although mobile phone–based platforms have emerged to allow constituents to report service deficiencies to government officials, they have been plagued by low citizen participation. We question whether low participation may root in low political efficacy to politically participate. In the context of a text message–reporting platform in Uganda, we investigate the impact of adding efficacy-boosting language to mobilization texts—(a) citizen name personalization and (b) politician encouragement—on citizens’ willingness to report service deficiencies to politicians via text messages. Both treatments, designed to increase internal and external efficacy, respectively, have a large, positive effect on participation. The results are driven by traditionally less internally efficacious constituents (females) and less externally efficacious constituents (those represented by opposition party members), respectively.",
+      links: {
+        pdf: "/assets/pdf/2017_CPS_ICT_texting_commplaints.pdf",
+        journal: "https://journals.sagepub.com/doi/abs/10.1177/0010414016666862",
+        bibtex: `@article{grossman2017texting,
+  title={Texting Complaints to Politicians: Name Personalization and Politicians' Encouragement in Citizen Mobilization},
+  author={Grossman, Guy and Michelitch, Kristin and Santamaria, Marta},
+  journal={Comparative Political Studies},
+  volume={50},
+  number={10},
+  pages={1325--1357},
+  year={2017}
+}`
+      }
+    },
+    {
+      id: 15,
+      year: 2017,
+      title: "Government Fragmentation and Public Goods Provision",
+      authors: "Jan H. Pierskalla and Emma Boswell Dean",
+      journal: "Journal of Politics",
+      volume: "79(3): 823-840",
+      categories: ['Governance'],
+      abstract: "We investigate the effects of territorial government fragmentation on the quality of public services. We argue that an increase in the number of regional governments has two effects: (1) it redistributes fiscal and administrative resources to underserved regions and (2) encourages yardstick competition. Extreme government fragmentation, however, limits efficiency gains by reducing administrative capacity, economies of scale, and enabling capture. We test this argument using original data on the number of regional governments in sub-Saharan Africa (1960–2012). Consistent with our theoretical expectations, we find robust evidence for an initial increase in the quality of services provision following regional government splits, which levels off at high levels of regional fragmentation. Three distinct difference-in-difference analyses of microlevel, georeferenced data on health outcomes in Malawi, Nigeria, and Uganda further support our theoretical argument.",
+      links: {
+        pdf: "/assets/pdf/2017_JoP_Government_government_fragmentation.pdf",
+        journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/690305",
+        appendix: "/assets/pdf/2017_JoP_Government_government_fragmentation_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VS3CG6",
+        bibtex: `@article{grossman2017fragmentation,
+  title={Government Fragmentation and Public Goods Provision},
+  author={Grossman, Guy and Pierskalla, Jan H. and Dean, Emma Boswell},
+  journal={Journal of Politics},
+  volume={79},
+  number={3},
+  pages={823--840},
+  year={2017}
+}`
+      }
+    },
+     {
+      id: 14,
+      year: 2016,
+      title: "Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes",
+      authors: "Keven Croke, Horacio A. Larreguy, and John Marshall",
+      journal: "American Political Science Review",
+      volume: "110(3): 579-600",
+      categories: ['Governance'],
+      abstract: "A large literature examining advanced and consolidating democracies suggests that education increases political participation. However, in electoral authoritarian regimes, educated voters may instead deliberately disengage. If education increases critical capacities, political awareness, and support for democracy, educated citizens may believe that participation is futile or legitimizes autocrats. We test this argument in Zimbabwe—a paradigmatic electoral authoritarian regime—by exploiting cross-cohort variation in access to education following a major educational reform. We find that education decreases political participation, substantially reducing the likelihood that better-educated citizens vote, contact politicians, or attend community meetings. Consistent with deliberate disengagement, education’s negative effect on participation dissipated following 2008’s more competitive election, which (temporarily) initiated unprecedented power sharing. Supporting the mechanisms underpinning our hypothesis, educated citizens experience better economic outcomes, are more interested in politics, and are more supportive of democracy, but are also more likely to criticize the government and support opposition parties.",
+      links: {
+        pdf: "/assets/pdf/2016_APSR_PE_deliberate_disengagement.pdf",
+        journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218",
+        appendix: "/assets/pdf/2016_APSR_PE_deliberate_disengagement_appendix.pdf",
+        replication: "/assets/pdf/2016_APSR_PE_deliberate_disengagement_replication.zip",
+        bibtex: `@article{grossman2016deliberate,
+  title={Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes},
+  author={Grossman, Guy and Croke, Keven and Larreguy, Horacio A. and Marshall, John},
+  journal={American Political Science Review},
+  volume={110},
+  number={3},
+  pages={579--600},
+  year={2016}
+}`
+      }
+    },
+    {
+      id: 13,
+      year: 2016,
+      title: "Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies",
+      authors: "Oren Gazal-Ayal, Samuel D. Pimentel, and Jeremy M. Weinstein",
+      journal: "American Journal of Political Science",
+      volume: "60(1): 44–69",
+      categories: ['Israel Politics','Governance'],
+      abstract: "The extent to which judicial outcomes depend on judges' identities is a central question in multiethnic societies. Past work on the impact of the racial composition of appellate courts has narrowly focused on civil rights cases in the United States. We expand this literature by testing for ethnicity-based panel effects in criminal appeals in Israel. Using randomness in the assignment of cases to panels, we find that appeal outcomes for Jewish defendants are independent of panels' ethnic composition. By contrast, panel composition is highly consequential for Arab defendants, who receive more lenient punishments when their case is heard by a panel that includes at least one Arab judge, compared to all-Jewish panels. The magnitude of these effects is sizable: a 14–20% reduction in incarceration and a 15–26% reduction in prison sentencing. These findings contribute to recent debates on the relationship between descriptive representation and substantive outcomes in judicial bodies.",
+      links: {
+        pdf: "/assets/pdf/2016_AJPS_Identity_descriptive_representation.pdf",
+        journal: "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12187",
+        appendix: "/assets/pdf/2016_AJPS_Identity_descriptive_representation_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28870",
+        bibtex: `@article{grossman2016descriptive,
+  title={Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies},
+  author={Grossman, Guy and Gazal-Ayal, Oren and Pimentel, Samuel D. and Weinstein, Jeremy M.},
+  journal={American Journal of Political Science},
+  volume={60},
+  number={1},
+  pages={44--69},
+  year={2016}
+}`
+      }
+    },
+    {
+      id: 12,
+      year: 2015,
+      title: "Renewalist Christianity and the Political Saliency of LGBTs: Theory and Evidence from Sub-Saharan Africa",
+      authors: "",
+      journal: "Journal of Politics",
+      volume: "77(2): 337-351",
+      categories: ['Knowledge Production'],
+      abstract: "One key political development in the past decade in many, but not all, countries across Africa has been the growing saliency of morality politics in general, and of lesbian, gay, bisexual, and transgender (LGBT) politics in particular. I argue that the uneven upward trend in the political saliency of LGBTs is closely related to two recent political processes: (1) a rapid growth of Pentecostal, Evangelical, and related Renewalist or Spirit-filled churches (demand-side factor) and (2) a democratization process leading to heightened political competition (supply side). To evaluate the above proposition, I created an original, fine-grained longitudinal dataset of media coverage of LGBTs in Africa, which I use as a measure of issue saliency. Using a series of negative binomial regression models, I find robust evidence that the saliency of LGBTs increases with a country’s population share of Renewalist Christians and that this effect increases with rising levels of political competition.",
+      links: {
+        pdf: "/assets/pdf/2015_JoP_Identity_renewalist_christianity.pdf",
+        journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/679596",
+        appendix: "/assets/pdf/2015_JoP_Identity_renewalist_christianity_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I7KXPA",
+        bibtex: `@article{grossman2015renewalist,
+  title={Renewalist Christianity and the Political Saliency of LGBTs: Theory and Evidence from Sub-Saharan Africa},
+  author={Grossman, Guy},
+  journal={Journal of Politics},
+  volume={77},
+  number={2},
+  pages={337--351},
+  year={2015}
+}`
+      }
+    },
+    {
+      id: 11,
+      year: 2015,
+      title: "The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants",
+      authors: "Devorah Manekin and Dan Miodownik",
+      journal: "International Organization",
+      volume: "69(4): 981–1009",
+      categories: ['Israel Politics', "Conflict"],
+      abstract: "Recent research has highlighted combat's positive effects for political behavior, but it is unclear whether they extend to attitudes toward the conflict itself. We exploit the assignment of health rankings determining combat eligibility in the Israel Defense Forces to examine the effect of combat exposure on support for peaceful conflict resolution. Given the centrality of the Israeli-Palestinian conflict to global affairs, and its apparent intractability, the political consequences of combat become all the more pressing. We find that exposure to combat hardens attitudes toward the rival and reduces support for negotiation and compromise. Importantly, these attitudes translate into voting behavior: combatants are likely to vote for more hawkish parties. These findings call for caution in emphasizing the benign effects of combat and underscore the importance of reintegrating combatants during the transition from conflict to peace.",
+      links: {
+        pdf: "/assets/pdf/2015_IO_Conflict_the_political_legacies.pdf",
+        journal: "https://www.cambridge.org/core/journals/international-organization/article/abs/the-political-legacies-of-combat-attitudes-toward-war-and-peace-among-israeli-ex-combatants/88C560C9B90473AC1D7DFDFEF685AEE0",
+        replication: "/assets/pdf/2015_IO_Conflict_the_political_legacies_replication.zip",
+        bibtex: `@article{grossman2015political,
+  title={The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants},
+  author={Grossman, Guy and Manekin, Devorah and Miodownik, Dan},
+  journal={International Organization},
+  volume={69},
+  number={4},
+  pages={981--1009},
+  year={2015}
+}`
+      }
+    },
+  {
+      id: 10,
+      year: 2014,
+      title: "I would like u WMP to extend electricity 2 our village: On Information Technology and Interest Articulation",
+      authors: "Macartan Humphreys and Gabriella Sacramone-Lutz",
+      journal: "American Political Science Review",
+      volume: "108(3): 688-705",
+      categories: ['Knowledge Production'],
+      abstract: "How does access to information communication technology (ICT) affect who gets heard and what gets communicated to politicians? On the one hand, ICT can lower communication costs for poorer constituents; on the other, technological channels may be used disproportionately more by the already well connected. To assess the flattening effects of ICTs, we presented a representative sample of constituents in Uganda with an opportunity to send a text message to their representatives at one of three randomly assigned prices. Critically, and contrary to concerns that technological innovations benefit the privileged, we find evidence that ICT can lead to significant flattening: a greater share of marginalized populations use this channel compared to existing political communication channels. Price plays a more complex role. Subsidizing the full cost of messaging increases uptake by over 40%. Surprisingly however, subsidy-induced increases in uptake do not yield further flattening since free channels are not used at higher rates by more marginalized constituents.",
+      links: {
+        pdf: "/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP.pdf",
+        journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/i-wld-like-u-wmp-to-extend-electricity-2-our-village-on-information-technology-and-interest-articulation/2F7F012EED269B795DF642ECFC3830AC",
+        appendix: "/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27192",
+        bibtex: `@article{grossman2014ict,
+  title={I would like u WMP to extend electricity 2 our village: On Information Technology and Interest Articulation},
+  author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
+  journal={American Political Science Review},
+  volume={108},
+  number={3},
+  pages={688--705},
+  year={2014}
+}`
+      }
+    },
+    {
+      id: 9,
+      year: 2014,
+      title: "Do better monitoring institutions increase leadership quality in community organizations? Evidence from Uganda",
+      authors: "W. Walker Hanlon",
+      journal: "American Journal of Political Science",
+      volume: "58(3): 669–686",
+      categories: ['Governance'],
+      abstract: "We offer a framework for analyzing the impact of monitoring—a commonly recommended solution to poor leadership—on the quality of democratically elected leaders in community organizations in low-income countries. In our model, groups may face a trade-off between leader ability and effort. If the group's ability to monitor the leader is low, then the leader may exert too little effort. A higher level of monitoring increases leader effort, raising the value of the public good. However, more intense monitoring may also drive higher-ability members to opt out of candidacy, reducing public-goods value. The result is an inverted U-shaped relationship between the level of monitoring and the value of the public good. The trade-off between leader effort and ability, however, only exists in the presence of sufficient private-income opportunities. These predictions are assessed using original data gathered from Ugandan farmer associations.",
+      links: {
+        pdf: "/assets/pdf/2014_AJPS_PE_do_better_monitoring.pdf",
+        journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12071",
+        appendix: "/assets/pdf/2014_AJPS_PE_do_better_monitoring_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22124",
+        bibtex: `@article{grossman2014monitoring,
+  title={Do better monitoring institutions increase leadership quality in community organizations? Evidence from Uganda},
+  author={Grossman, Guy and Hanlon, W. Walker},
+  journal={American Journal of Political Science},
+  volume={58},
+  number={3},
+  pages={669--686},
+  year={2014}
+}`
+      }
+    },
+    {
+      id: 8,
+      year: 2014,
+      title: "Do Selection Rules Affect Leader Responsiveness? Evidence from Rural Uganda",
+      authors: "",
+      journal: "Quarterly Journal of Political Science",
+      volume: "9(1): 1-44",
+      categories: ['Governance'],
+      abstract: "Community organizations in developing countries often suffer from self-serving elites. This study examines whether the responsiveness and accountability of local leaders can be strengthened through the introduction of more inclusive and participatory leader selection rules. To address identification problems, I take advantage of natural conditions that resulted in exogenous variation in the rules for selecting leaders of farmer associations in Uganda. I find that compared to leaders appointed by the community elites, directly elected leaders are significantly more responsive to group members, leading to greater cooperative behavior. Analyzing possible mechanisms, I find that community organizations using appointments are less likely to develop monitoring institutions that are vital for constraining the behavior of local elites. Unique social network data provides evidence that close friendship ties between appointed and appointers substitute for formal monitoring institutions, leading to loss of confidence by community members and, subsequently, to a decline in public goods contributions.",
+      links: {
+        pdf: "/assets/pdf/2014_QJPS_PE_do_selection_rules.pdf",
+        journal: "https://www.nowpublishers.com/article/Details/QJPS-13012",
+        appendix: "/assets/pdf/2014_QJPS_PE_do_selection_rules_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22201",
+        bibtex: `@article{grossman2014selection,
+  title={Do Selection Rules Affect Leader Responsiveness? Evidence from Rural Uganda},
+  author={Grossman, Guy},
+  journal={Quarterly Journal of Political Science},
+  volume={9},
+  number={1},
+  pages={1--44},
+  year={2014}
+}`
+      }
+    },
+    {
+      id: 7,
+      year: 2014,
+      title: "Administrative Unit Proliferation",
+      authors: "Janet I. Lewis",
+      journal: "American Political Science Review",
+      volume: "108(1): 196-217",
+      categories: ['Governance'],
+      abstract: "Numerous developing countries have substantially increased their number of subnational administrative units in recent years. The literature on this phenomenon is, nonetheless, small and suffers from several theoretical and methodological shortcomings: in particular, a unit of analysis problem that causes past studies to mistakenly de-emphasize the importance of local actors. We posit that administrative unit proliferation occurs where and when there is a confluence of interests between the national executive and local citizens and elites from areas that are politically, economically, and ethnically marginalized. We argue further that although the proliferation of administrative units often accompanies or follows far-reaching decentralization reforms, it likely results in a recentralization of power; the proliferation of new local governments fragments existing units into smaller ones with lower relative intergovernmental bargaining power and administrative capacity. We find support for these arguments using original data from Uganda.",
+      links: {
+        pdf: "/assets/pdf/2014_APSR_Government_administrative_unit_proliferation.pdf",
+        journal: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/administrative-unit-proliferation/28FB2861D809344D840B245100151918",
+        appendix: "/assets/pdf/2014_APSR_Government_administrative_unit_proliferation_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26937",
+        bibtex: `@article{grossman2014administrative,
+  title={Administrative Unit Proliferation},
+  author={Grossman, Guy and Lewis, Janet I.},
+  journal={American Political Science Review},
+  volume={108},
+  number={1},
+  pages={196--217},
+  year={2014}
+}`
+      }
+    },
+    {
+      id: 6,
+      year: 2013,
+      title: "The Effect of Group Attachment and Social Position on Prosocial Behavior. Evidence from Lab-in-the-Field Experiments",
+      authors: "Delia Baldassarri",
+      journal: "PLoS ONE",
+      volume: "8(3): e58750",
+      categories: ['Knowledge Production'],
+      abstract: "Social life is regulated by norms of fairness that constrain selfish behavior. While a substantial body of scholarship on prosocial behavior has provided evidence of such norms, large inter- and intra-personal variation in prosocial behavior still needs to be explained. The article identifies two social-structural dimensions along which people's generosity varies systematically: group attachment and social position. We conducted lab-in-the-field experiments involving 2,597 members of producer organizations in rural Uganda. Using different variants of the dictator game, we demonstrate that group attachment positively affects prosocial behavior, and that this effect is not simply the by-product of the degree of proximity between individuals. Second, we show that occupying a formal position in an organization or community leads to greater generosity toward in-group members. Taken together, our findings show that prosocial behavior is not an invariant social trait; rather, it varies according to individuals' relative position in the social structure.",
+      links: {
+        pdf: "/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment.pdf",
+        journal: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058750",
+        appendix: "/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment_appendix.pdf",
+        bibtex: `@article{grossman2013group,
+  title={The Effect of Group Attachment and Social Position on Prosocial Behavior. Evidence from Lab-in-the-Field Experiments},
+  author={Grossman, Guy and Baldassarri, Delia},
+  journal={PLoS ONE},
+  volume={8},
+  number={3},
+  pages={e58750},
+  year={2013}
+}`
+      }
+    },
+    {
+      id: 5,
+      year: 2012,
+      title: "The Impact of Elections on Cooperation: Evidence from a Lab-in-the-Field Experiment in Uganda",
+      authors: "Delia Baldassarri",
+      journal: "American Journal of Political Science",
+      volume: "56(4): 964-985",
+      categories: ['Knowledge Production'],
+      abstract: "Communities often rely on sanctioning to induce public goods contributions. Past studies focus on how external agencies or peer sanctioning induce cooperation. In this article, we focus instead on the role played by centralized authorities, internal to the community. Combining “lab-in-the-field” experiments with observational data on 1,541 Ugandan farmers from 50 communities, we demonstrate the positive effect of internal centralized sanctioning authorities on cooperative behavior. We also show that the size of this effect depends on the political process by which authority is granted: subjects electing leaders contribute more to public goods than subjects who were assigned leaders through a lottery. To test the ecological validity of our findings, we relate farmers’ behavior in the experiment to their level of cooperation in their community organization. We show that deference to authority in the controlled setting predicts cooperative behavior in the farmers’ natural environment, in which they face a similar social dilemma.",
+      links: {
+        pdf: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections.pdf",
+        journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2012.00596.x",
+        appendix: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections_appendix.docx",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18334",
+        bibtex: `@article{grossman2012elections,
+  title={The Impact of Elections on Cooperation: Evidence from a Lab-in-the-Field Experiment in Uganda},
+  author={Grossman, Guy and Baldassarri, Delia},
+  journal={American Journal of Political Science},
+  volume={56},
+  number={4},
+  pages={964-985},
+  year={2012}
+}`
+      }
+    },
+     {
+      id: 4,
+      year: 2011,
+      title: "Centralized sanctioning and legitimate authority promote cooperation in humans",
+      authors: "Delia Baldassarri",
+      journal: "Proceedings of the National Academy of Sciences",
+      volume: "108(27) 11023-11027",
+      categories: ['Knowledge Production'],
+      abstract: "Social sanctioning is widely considered a successful strategy to promote cooperation among humans. In situations in which individual and collective interests are at odds, incentives to free-ride induce individuals to refrain from contributing to public goods provision. Experimental evidence from public goods games shows that when endowed with sanctioning powers, conditional cooperators can discipline defectors, thus leading to greater levels of cooperation. However, extant evidence is based on peer punishment institutions, whereas in complex societies, systems of control are often centralized: for instance, we do not sanction our neighbors for driving too fast, the police do. Here we show the effect of centralized sanctioning and legitimate authority on cooperation. We designed an adaptation of the public goods game in which sanctioning power is given to a single monitor, and we experimentally manipulated the process by which the monitor is chosen. To increase the external validity of the study, we conducted lab-in-the-field experiments involving 1,543 Ugandan farmers from 50 producer cooperatives. This research provides evidence of the effectiveness of centralized sanctioning and demonstrates the causal effect of legitimacy on cooperation: participants are more responsive to the authority of an elected monitor than a randomly chosen monitor. Our essay contributes to the literature on the evolution of cooperation by introducing the idea of role differentiation. In complex societies, cooperative behavior is not only sustained by mechanisms of selection and reciprocity among peers, but also by the legitimacy that certain actors derive from their position in the social hierarchy.",
+      links: {
+        pdf: "/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf",
+        journal: "https://www.pnas.org/doi/abs/10.1073/pnas.1105456108",
+        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf",
+        bibtex: `@article{doi:10.1073/pnas.1105456108,
+  title={Centralized sanctioning and legitimate authority promote cooperation in humans},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {108},
+  number = {27},
+  pages = {11023-11027},
+  year = {2011}
+}`
+      }
+    },
+    {
+      id: 3,
+      year: 2006,
+      title: "Courage to Refuse",
+      authors: "Rami Kaplan",
+      journal: "Peace Review",
+      volume: "18",
+      categories: ['Israel Politics'],
+      abstract: "Social sanctioning is widely considered a successful strategy to promote cooperation among humans. In situations in which individual and collective interests are at odds, incentives to free-ride induce individuals to refrain from contributing to public goods provision. Experimental evidence from public goods games shows that when endowed with sanctioning powers, conditional cooperators can discipline defectors, thus leading to greater levels of cooperation. However, extant evidence is based on peer punishment institutions, whereas in complex societies, systems of control are often centralized: for instance, we do not sanction our neighbors for driving too fast, the police do. Here we show the effect of centralized sanctioning and legitimate authority on cooperation. We designed an adaptation of the public goods game in which sanctioning power is given to a single monitor, and we experimentally manipulated the process by which the monitor is chosen. To increase the external validity of the study, we conducted lab-in-the-field experiments involving 1,543 Ugandan farmers from 50 producer cooperatives. This research provides evidence of the effectiveness of centralized sanctioning and demonstrates the causal effect of legitimacy on cooperation: participants are more responsive to the authority of an elected monitor than a randomly chosen monitor. Our essay contributes to the literature on the evolution of cooperation by introducing the idea of role differentiation. In complex societies, cooperative behavior is not only sustained by mechanisms of selection and reciprocity among peers, but also by the legitimacy that certain actors derive from their position in the social hierarchy.",
+      links: {
+        pdf: "/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf",
+        journal: "https://www.pnas.org/doi/abs/10.1073/pnas.1105456108",
+        appendix: "/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf",
+        bibtex: `@article{Grossman01072006,
+title = {Courage to Refuse},
+journal = {Peace Review},
+volume = {18},
+number = {2},
+pages = {189--197},
+year = {2006}
+}`
+      }
+    }
   ];
 
   const WORKING = [
