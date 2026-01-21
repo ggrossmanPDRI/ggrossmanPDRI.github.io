@@ -11,7 +11,7 @@
       volume: "118",
       issue: "3",
       pages: "1556–1562",
-      categories: ["Migration"],
+      categories: ["Governance"],
       abstract: "We show that constituencies narrowly won by an ethnic minority candidate experience higher turnout in the next election, driven by majority-white constituencies.",
       links: {
         webpage: "https://doi.org/10.1017/S000305542300103X",
@@ -70,7 +70,7 @@
       volume: "",
       issue: "",
       pages: "",
-      categories: ["climate Change"],
+      categories: ["Climate Change"],
       abstract: "A review of climate politics in the developing world, focusing on opinion, accountability, and institutional sources of vulnerability.",
       links: {
         pdf: "/assets/pdf/2025_The_Politics_Of_Climate_Change_In_The_Developing_World.pdf",
@@ -193,8 +193,7 @@
           ${filtered.length ? renderCards(grouped) : `<div class="pubs-empty">No results. Try clearing filters.</div>`}
         </main>
       </div>
-      <div class="pubs-toast" id="pubs-toast" role="status" aria-live="polite"></div>
-    `;
+          `;
 
     bindHandlers();
   }
@@ -280,9 +279,8 @@
     (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
     btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
-    if (p.links?.bibtex) btns.push(`<button class="pubs-iconbtn" type="button" data-bibbtn="${p.id}" aria-label="Show BibTeX"><span>⧉</span><span>BibTeX</span></button>`);
-
-    const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
+    if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
+const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 
     return `
       <article class="pubs-card" id="pub-${p.id}">
@@ -319,16 +317,6 @@
   function actionLink(label, url, primary = false) {
     const cls = `pubs-action${primary ? " pubs-action--primary" : ""}`;
     return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
-  }
-
-  
-  function toast(msg) {
-    const el = document.getElementById("pubs-toast");
-    if (!el) return;
-    el.textContent = msg;
-    el.classList.add("is-show");
-    clearTimeout(toast._t);
-    toast._t = setTimeout(() => el.classList.remove("is-show"), 1200);
   }
 
 function bindHandlers() {
@@ -396,12 +384,11 @@ function bindHandlers() {
         if (!id) return;
         const p = getActiveData().find((x) => String(x.id) === String(id));
         const bib = p?.links?.bibtex || "";
-        if (!bib) return toast("No BibTeX available");
+        if (!bib) return;
 
         try {
           await navigator.clipboard.writeText(bib);
-          toast("BibTeX copied");
-        } catch (e) {
+          } catch (e) {
           const ta = document.createElement("textarea");
           ta.value = bib;
           ta.setAttribute("readonly", "");
@@ -409,8 +396,8 @@ function bindHandlers() {
           ta.style.top = "-1000px";
           document.body.appendChild(ta);
           ta.select();
-          try { document.execCommand("copy"); toast("BibTeX copied"); }
-          catch (err) { toast("Copy failed"); }
+          try { document.execCommand("copy"); }
+          catch (err) { }
           document.body.removeChild(ta);
         }
       });
