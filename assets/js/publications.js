@@ -144,6 +144,301 @@ pages={e140}
 }`
       }
     },
+{
+    id: 42,
+    year: 2023,
+    title: "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda",
+    authors: "Laura Paler, Jeremy Springman, Jan Pierskalla, Guy Grossman",
+    journal: "Political Science Research and Methods",
+    volume : "11(4): 903-912",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Oil discoveries, paired with delays in production, have created a new phenomenon: sustained post-discovery, pre-production periods. While research on the resource curse has debated the effects of oil on governance and conflict, less is known about the political effects of oil discoveries absent production. Using comprehensive electoral data from Uganda and a difference-in-difference design with heterogeneous effects, we show that oil discoveries increased electoral support for the incumbent chief executive in localities proximate to discoveries, even prior to production. Moreover, the biggest effects occurred in localities that were historically most electorally competitive. Overall, we show that the political effects of oil discoveries vary subnationally depending on local political context and prior to production, with important implications for understanding the roots of the political and conflict curses. ",
+    links: {
+      pdf: "/assets/pdf/2023_PSRM_Oil_discoveries.pdf",
+      journal : "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265",
+      appendix : "/assets/pdf/2023_PSRM_Oil_discoveries.pdf",
+      replication :"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGNJ10",
+      bibtex: `@article{grossman2023oil,
+  title={Oil Discoveries and Political Windfalls},
+  author={Paler, Laura and Springman, Jeremy and Pierskalla, Jan and Grossman, Guy},
+  journal={Political Science Research and Methods},
+  year={2023},
+  volume={11},
+  number={4},
+  pages={903-912},
+  status={published}
+}`
+    }
+  },
+
+  {
+    id: 41,
+    year: 2023,
+    title: "Can Low-Cost, Scalable Online Interventions Increase Youth Informed Political Participation in Electoral Authoritarian Contexts?",
+    authors: "Romain Ferrali, Horacio Larreguy, Guy Grossman",
+    journal: "Science Advances",
+    volume: " 9(26): eadf1222",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Young citizens in many democracies, and more so in electoral autocracies, turn out to vote at relatively low rates. Low youth participation arguably contributes to political parties' tendency to de-prioritize the youth's policy preferences. We analyze the effect of three low-cost, scalable, theoretically-grounded, online interventions designed to encourage young Moroccans to turn out and cast an informed vote ahead of the 2021 parliamentary elections. Those interventions aimed at (1) lowering the cost of participation by providing information about the voting registration process, (2) increasing the expected benefit of voting by providing information about the stakes of the election, and about (3) the distance between respondents’ policy preferences and political parties' policy platforms. We find that while all three interventions failed to increase youth turnout on average, the two treatments designed to increase expected benefits increased turnout intentions for likely 'compliers' those who, prior to treatment assignment, were unsure about whether to vote. Moreover, providing information about parties' policy platforms durably increased their support for the party that best represented their preferences, ultimately leading to better-informed voting. Consistent with probabilistic voting models with voting costs, the effect of the party-platforms treatment is concentrated among those who rated the party that our treatment deemed most congruent from a policy perspective as one of their two favorite parties. Contributing to information processing theories, we also find that party updating followed a form of motivated reasoning even in a context with weak party institutionalization.",
+    links: {
+      pdf: "/assets/pdf/2023_SciAdv_Lowcost_online_interventions.pdf",
+      journal: "https://www.science.org/doi/10.1126/sciadv.adf1222",
+      appendix:"https://guygrossman.com/assets/pdf/41_SA-Supplementary-information.pdf",
+      replication:"https://osf.io/m5rwn/",
+      bibtex: `@article{grossman2023online,
+  title={Low-Cost Online Interventions and Youth Participation},
+  author={Ferrali, Romain and Larreguy, Horacio and Grossman, Guy},
+  journal={Science Advances},
+  volume={9},
+  number={26},
+  pages={eadf1222},
+  year={2023},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 40,
+    year: 2023,
+    title: "Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy",
+    authors: "Gemma Dipoppa, Stephanie Zonszein, Guy Grossman",
+    journal: "Journal of Politics",
+    volume: "85(2): pp.389-404",
+    status: "published",
+    categories: ["Conflict", "Migration"],
+    abstract: "Covid-19 caused a significant health and economic crisis, a condition identified as conducive to stigmatization and hateful behavior against minority groups. It is however unclear whether the threat of infection triggers violence in addition to stigmatization, and whether a violent reaction can happen at the onset of an unexpected economic shock before social hierarchies can be disrupted. Using a novel database of hate crimes across Italy, we show that (i) hate crimes against Asians increased substantially at the pandemic onset, and that (ii) the increase was concentrated in cities with higher expected unemployment, but not higher mortality. We then examine individual, local and national mobilization as mechanisms. We find that (iii) a xenophobic national discourse and local far-right institutions motivate hate crimes, while we find no support for the role of individual prejudice. Our study identifies new conditions triggering hateful behavior, advancing our understanding of factors hindering migrant integration. ",
+    links: {
+      pdf: "/assets/pdf/2023_JoP_Migration_locked_down_lashing_out.pdf",
+      journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/722346",
+      appendix:"/assets/pdf/2023_JoP_Migration_locked_down_lashing_out_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0DCWT7",
+      bibtex: `@article{grossman2023covid,
+  title={Locked Down, Lashing Out},
+  author={Dipoppa, Gemma and Zonszein, Stephanie and Grossman, Guy},
+  journal={Journal of Politics},
+  volume={85},
+  number={2},
+  pages={389-404},
+  year={2023},
+  status={published}
+}`
+    }
+  },
+
+  {
+    id: 39,
+    year: 2023,
+    title: "Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash",
+    authors: "Yang-Yang Zhou, Shuning Ge, Guy Grossman",
+    journal: "World Development",
+    volume: "166203",
+    status: "published",
+    categories: ["Migration"],
+    abstract: "Large arrivals of refugees raise concerns about potential tensions with host communities, particularly if refugees are viewed as an out-group competing for limited material resources and crowding out public services. To address these concerns, calls have increased to allocate humanitarian aid in ways that also benefit host communities. This study tests whether the increased presence of refugees, when coupled with humanitarian aid, improves public service delivery for host communities and dampens potential social conflict. We study this question in Uganda, one of the largest and most inclusive refugee-hosting countries. The data combines geospatial information on refugee settlements with original longitudinal data on primary and secondary schools, road density, health clinics, and health utilization. We report two key findings. First, even after the 2014 arrival of over 1 million South Sudanese refugees, host communities with greater refugee presence experienced substantial improvements in local development. Second, using public opinion data, we find no evidence that refugee presence has been associated with more negative (or positive) attitudes towards migrants or migration policy.",
+    links: {
+      pdf: "/assets/pdf/2023_WD_Inclusive_refugee_hosting.pdf",
+      journal: "https://doi.org/10.1016/j.worlddev.2023.106203"
+      appendix: "/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TXSZDC",
+      bibtex: `ZHOU2023106203,
+title = {Inclusive refugee-hosting can improve local development and prevent public backlash},
+journal = {World Development},
+volume = {166},
+pages = {106203},
+year = {2023},
+  status={published}
+}`
+    }
+  },
+
+ {
+    id: 38,
+    year: 2022,
+    title: "How the Ultra-Rich Use Media Ownership as a Political Investment.",
+    authors: "Guy Grossman (with Yotam Margalit and Tamar Mitts)",
+    journal: "Journal of Politics",
+    status: "published",
+    volume: "84(4) 1913-1931",
+    categories: ["Israel Politics", "Governance"],
+    abstract: "Can the ultrarich shape electoral results by controlling media outlets that openly propagate their political interests? Whether consumers discount slanted media coverage is a question gaining urgency as a growing number of billionaires mix ownership of major media outlets with business interests and political agendas. We study this question in the context of Israel, where billionaire Sheldon Adelson launched in 2007 Israel Hayom, a right-leaning newspaper. Handed out for free, it soon became the most widely read newspaper nationally. Using local media exposure data since the launch, our analysis indicates that the newspaper exerted significant electoral influence, primarily benefiting Netanyahu and his Likud party. This shift helped bring about a sea change in the right’s dominance of national politics. The findings highlight the immense impact the ultrarich can exert in shaping politics through media ownership.",
+    links: {
+      journal: "https://www.journals.uchicago.edu/doi/10.1086/719415",
+      pdf: "/assets/pdf/2022_JoP_PE_how_the_ultrarich.pdf",
+      appendix: "/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LJMNV9&faces-redirect=true",
+      bibtex: `@article{grossman2022ultrarich,
+  title={How the Ultra-Rich Use Media Ownership as a Political Investment},
+  author={Grossman, Guy and Margalit, Yotam and Mitts, Tamar},
+  journal={Journal of Politics},
+  year={2022},
+  volume={84},
+  number={4},
+  pages={1913-1931},
+  status={published}
+}`
+    }
+  },
+
+  {
+    id: 37,
+    year: 2022,
+    title: "Government Responsiveness in Developing Countries.",
+    authors: "Guy Grossman (with Tara Slough)",
+    journal: "Annual Review of Political Science",
+    status: "published",
+    volume: "25:131-153",
+    categories: ["Governance"],
+    abstract: "When and how do governments deliver public goods and services in response to citizen preferences? We review the current literature on government responsiveness, with a focus on public goods and service delivery in developing countries. We identify three types of actors that are commonly present in these accounts: politicians, bureaucrats, and citizens. Much of this literature examines interactions between dyads of these actors. The study of electoral accountability and constituency services emphasizes relationships between citizens (or voters) and politicians. Studies of bureaucratic incentives and political oversight of bureaucrats emphasize interactions between politicians and bureaucrats. Finally, studies of bureaucratic embeddedness and citizen oversight of bureaucrats elaborate the interactions between bureaucrats and citizens. We argue that an emerging literature that considers interactions between all three types of actors provides rich theoretical and empirical terrain for developing our understanding of responsiveness and accountability in low- and middle-income countries and beyond.",
+    links: {
+      journal: "https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501",
+      pdf: "/assets/pdf/2022_ARPS_PE_government_responsiveness.pdf",
+      bibtex: `@article{grossman2022responsiveness,
+  title={Government Responsiveness in Developing Countries},
+  author={Grossman, Guy and Slough, Tara},
+  journal={Annual Review of Political Science},
+  year={2022},
+  volume={25},
+  pages={131-153},
+  status={published}
+}`
+    }
+  },
+ {
+    id: 36,
+    year: 2022,
+    title: "Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.",
+    authors: "Guy Grossman (with Romain Ferrali, Melina R. Platas, and Jonathan Rodden)",
+    journal: "Comparative Political Studies",
+    status: "published",
+    volume: "55(6)-899-932",
+    categories: ["Governance"],
+    abstract: "Who registers to vote? Although extensive research has examined the question of who votes, our understanding of the determinants of political participation will be limited until we know who is missing from the voter register. Studying voter registration in lower-income settings is particularly challenging due to data constraints. We link the official voter register with a complete social network census of 16 villages to analyze the correlates of voter registration in rural Uganda, examining the role of individual-level attributes and social ties. We find evidence that social ties are important for explaining registration status within and across households. Village leaders—and through them, household heads—play an important role in explaining the registration status of others in the village, suggesting a diffuse process of social influence. Socioeconomic factors such as income and education do not explain registration in this setting. Together these findings suggest an alternate theory of participation is required.",
+    links: {
+      webpage: "https://journals.sagepub.com/doi/abs/10.1177/00104140211036048",
+      pdf: "/assets/pdf/2022_CPS_PE_who_registers.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YEFRPC",
+      bibtex: `@article{grossman2022whoregisters,
+  title={Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda},
+  author={Grossman, Guy and Ferrali, Romain and Platas, Melina R. and Rodden, Jonathan},
+  journal={Comparative Political Studies},
+  year={2022},
+  volume={55},
+  number={6},
+  pages={899--932},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 35,
+    year: 2022,
+    title: "Liberal Displacement Policies Attract Forced Migrants in the Global South.",
+    authors: "Guy Grossman (with Christopher W. Blair and Jeremy M. Weinstein)",
+    journal: "American Political Science Review",
+    status: "published",
+    volume: "116(1):351-358",
+    categories: ["Migration"],
+    abstract: "Most forced migrants around the world are displaced within the Global South. We study whether and how de jure policies on forced displacement affect where forced migrants flee in the developing world. Recent evidence from the Global North suggests migrants gravitate toward liberal policy environments. However, existing analyses expect de jure policies to have little effect in the developing world, given strong presumptions that policy enforcement is poor and policy knowledge is low. Using original data on de jure displacement policies for 92 developing countries and interviews with 126 refugees and policy makers, we document a robust association between liberal de jure policies and forced migrant flows. Gravitation toward liberal environments is conditional on factors that facilitate the diffusion of policy knowledge, such as transnational ethnic kin. Policies for free movement, services, and livelihoods are especially attractive. Utility-maximizing models of migrant decision making must take de jure policy provisions into account.",
+    links: {
+      webpage: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/liberal-displacement-policies-attract-forced-migrants-in-the-global-south/F6872E76FBB27F61B96B90193BDE9A1D",
+      pdf: "/assets/pdf/2022_JoP_Migration_liberal_displacement_policies.pdf",
+      appendix: "/assets/pdf/2022_JoP_Migration_liberal_displacement_policies_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AYBXMJ",
+      bibtex: `@article{grossman2022liberaldisplacement,
+  title={Liberal Displacement Policies Attract Forced Migrants in the Global South},
+  author={Grossman, Guy and Blair, Christopher W. and Weinstein, Jeremy M.},
+  journal={American Political Science Review},
+  year={2022},
+  volume={116},
+  number={1},
+  pages={351-358},
+  status={published}
+}`
+    }
+  },
+{
+    id: 34,
+    year: 2022,
+    title: "The Majoritarian Threat to Liberal Democracy.",
+    authors: "Guy Grossman (with Dorothy Kronick, Matthew Levendusky, and Marc Meredith)",
+    journal: "Journal of Experimental Political Science",
+    status: "published",
+    volume: "9(1) 36-45",
+    categories: ["Governance"],
+    abstract: "Incumbents often seek to wield power in ways that are formally legal but informally proscribed. Why do voters endorse these power grabs? Prior literature focuses on polarization. We propose instead that many voters are majoritarian, in that they view popularly elected leaders’ actions as inherently democratic – even when those actions undermine liberal democracy. We find support for this claim in two original survey experiments, arguing that majoritarians’ desire to give wide latitude to elected officials is an important but understudied threat to liberal democracy in the United States.",
+    links: {
+      journal: "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85",
+      pdf: "/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat.pdf",
+      appendix: "/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4ECFT",
+      bibtex: `@article{grossman2022majoritarian,
+  title={The Majoritarian Threat to Liberal Democracy},
+  author={Grossman, Guy and Kronick, Dorothy and Levendusky, Matthew and Meredith, Marc},
+  journal={Journal of Experimental Political Science},
+  year={2022},
+  volume={9},
+  number={1},
+  pages={36-45},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 33,
+    year: 2022,
+    title: "Forced Displacement and Asylum Policy in the Developing World.",
+    authors: "Guy Grossman (with Christopher W. Blair and Jeremy M. Weinstein)",
+    journal: "International Organization",
+    status: "published",
+    volume: "76(2) 337-378",
+    categories: ["Migration"],
+    abstract: "Little theoretical or empirical work examines migration policy in the developing world. We develop and test a theory that distinguishes the drivers of policy reform and factors influencing the direction of reform. We introduce an original data set of de jure asylum and refugee policies covering more than ninety developing countries that are presently excluded from existing indices of migration policy. Examining descriptive trends in the data, we find that unlike in the global North, forced displacement policies in the global South have become more liberal over time. Empirically, we test the determinants of asylum policymaking, bolstering our quantitative results with qualitative evidence from interviews in Uganda. A number of key findings emerge. Intense, proximate civil wars are the primary impetus for asylum policy change in the global South. Liberalizing changes are made by regimes led by political elites whose ethnic kin confront discrimination or violence in neighboring countries. There is no generalizable evidence that developing countries liberalize asylum policy in exchange for economic assistance from Western actors. Distinct frameworks are needed to understand migration policymaking in developing versus developed countries.",
+    links: {
+      journal: "https://www.cambridge.org/core/journals/international-organization/article/abs/forced-displacement-and-asylum-policy-in-the-developing-world/B89E49C17B0C96E9B9F5D234F190E77D",
+      pdf: "/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy.pdf",
+      appendix: "/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OB6FHX",
+      bibtex: `@article{grossman2022asylumpolicy,
+  title={Forced Displacement and Asylum Policy in the Developing World},
+  author={Grossman, Guy and Blair, Christopher W. and Weinstein, Jeremy M.},
+  journal={International Organization},
+  year={2022},
+  volume={76},
+  number={2},
+  pages={337-378},
+  status={published}
+}`
+    }
+  },
+
+{
+    id: 32,
+    year: 2022,
+    title: "Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime.",
+    authors: "Guy Grossman (with Rob Blair, Travis Curtice, and David Dow)",
+    journal: "Social Science and Medicine",
+    status: "published",
+    volume: "305 115045",
+    categories: ["Governance"],
+    abstract: "We examine how trust shapes compliance with public health restrictions during the COVID- 19 pandemic in Uganda. We use an endorsement experiment embedded in a mobile phone survey to show that messages from government officials generate more support for public health restrictions than messages from religious authorities, traditional leaders, or international NGOs. We further show that compliance with these restrictions is strongly positively correlated with trust in government, but only weakly correlated with trust in local authorities or other citizens. We use measures of trust from both before and during the pandemic to rule out the possibility that trust is a function of the pandemic itself. The relationship between trust and compliance is especially strong for the Ministry of Health and—more surprisingly—the police. We conclude that trust is crucial for encouraging compliance but note that it may be difficult to sustain, particularly in settings where governments and police forces have reputations for repression.",
+    links: {
+      webpage: "https://www.sciencedirect.com/science/article/pii/S0277953622003513?via%3Dihub",
+      pdf: "/assets/pdf/2022_SSM_Public_trust_policing.pdf",
+      appendix: "/assets/pdf/2022_SSM_Public_trust_policing_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCG2XH",
+      bibtex: `@article{grossman2022trustpolicing,
+  title={Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime},
+  author={Grossman, Guy and Blair, Rob and Curtice, Travis and Dow, David},
+  journal={Social Science and Medicine},
+  year={2022},
+  volume={305},
+  pages={115045},
+  status={published}
+}`
+    }
+  },
     {
       id: 26,
       year: 2020,
