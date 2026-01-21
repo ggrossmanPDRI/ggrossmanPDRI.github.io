@@ -1486,7 +1486,7 @@ year = {2006}
     const appArr = Array.isArray(app) ? app : (typeof app === "string" && app.trim() ? [app] : []);
     appArr.forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
-    btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
+    btns.push(actionLink("Google Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
     if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
 const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 
