@@ -1,11 +1,6 @@
-(function(){
-  const CATEGORIES = ['Governance',
-    'Migration',
-    'Knowledge Production',
-    'Conflict',
-    'Climate Change',
-    'Israel Politics'];
-  const PUBLISHED = [{
+(() => {
+  const PUBLISHED = [
+    {
       id: 49,
       year: 2026,
       title: "Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023",
@@ -258,6 +253,328 @@
     }
   },
 
+  {
+    id: 39,
+    year: 2023,
+    title: "Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash.",
+    authors: "Yang-Yang Zhou, Shuning Ge, Guy Grossman",
+    journal: "World Development",
+    status: "published",
+    volume: "166",
+    issue: "",
+    pages: "106203",
+    categories: ["migration", "development"],
+    abstract: "",
+    links: {
+      webpage: "https://www.sciencedirect.com/science/article/pii/S0305750X23000219",
+      pdf: "/assets/pdf/2023_WD_Inclusive_refugee_hosting.pdf",
+      appendix: ["/assets/pdf/2023_WD_Inclusive_refugee_hosting_appendix.pdf"],
+      replication: "https://doi.org/10.7910/DVN/TXSZDC",
+      scholar: "",
+      bibtex: `@article{zhou2023inclusive,
+  title={Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash},
+  author={Zhou, Yang-Yang and Ge, Shuning and Grossman, Guy},
+  journal={World Development},
+  year={2023},
+  volume={166},
+  pages={106203}
+}`
+    }
+  },
+
+  {
+    id: 38,
+    year: 2022,
+    title: "How the Ultra-Rich Use Media Ownership as a Political Investment.",
+    authors: "Guy Grossman (with Yotam Margalit and Tamar Mitts)",
+    journal: "Journal of Politics",
+    status: "published",
+    volume: "84(4) 1913-1931",
+    categories: ["Israel Politics", "Governance"],
+    abstract: "Can the ultrarich shape electoral results by controlling media outlets that openly propagate their political interests? Whether consumers discount slanted media coverage is a question gaining urgency as a growing number of billionaires mix ownership of major media outlets with business interests and political agendas. We study this question in the context of Israel, where billionaire Sheldon Adelson launched in 2007 Israel Hayom, a right-leaning newspaper. Handed out for free, it soon became the most widely read newspaper nationally. Using local media exposure data since the launch, our analysis indicates that the newspaper exerted significant electoral influence, primarily benefiting Netanyahu and his Likud party. This shift helped bring about a sea change in the right’s dominance of national politics. The findings highlight the immense impact the ultrarich can exert in shaping politics through media ownership.",
+    links: {
+      journal: "https://www.journals.uchicago.edu/doi/10.1086/719415",
+      pdf: "/assets/pdf/2022_JoP_PE_how_the_ultrarich.pdf",
+      appendix: "/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LJMNV9&faces-redirect=true",
+      bibtex: `@article{grossman2022ultrarich,
+  title={How the Ultra-Rich Use Media Ownership as a Political Investment},
+  author={Grossman, Guy and Margalit, Yotam and Mitts, Tamar},
+  journal={Journal of Politics},
+  year={2022},
+  volume={84},
+  number={4},
+  pages={1913-1931},
+  status={published}
+}`
+    }
+  },
+
+  {
+    id: 37,
+    year: 2022,
+    title: "Government Responsiveness in Developing Countries.",
+    authors: "Guy Grossman (with Tara Slough)",
+    journal: "Annual Review of Political Science",
+    status: "published",
+    volume: "25:131-153",
+    categories: ["Governance"],
+    abstract: "When and how do governments deliver public goods and services in response to citizen preferences? We review the current literature on government responsiveness, with a focus on public goods and service delivery in developing countries. We identify three types of actors that are commonly present in these accounts: politicians, bureaucrats, and citizens. Much of this literature examines interactions between dyads of these actors. The study of electoral accountability and constituency services emphasizes relationships between citizens (or voters) and politicians. Studies of bureaucratic incentives and political oversight of bureaucrats emphasize interactions between politicians and bureaucrats. Finally, studies of bureaucratic embeddedness and citizen oversight of bureaucrats elaborate the interactions between bureaucrats and citizens. We argue that an emerging literature that considers interactions between all three types of actors provides rich theoretical and empirical terrain for developing our understanding of responsiveness and accountability in low- and middle-income countries and beyond.",
+    links: {
+      journal: "https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501",
+      pdf: "/assets/pdf/2022_ARPS_PE_government_responsiveness.pdf",
+      bibtex: `@article{grossman2022responsiveness,
+  title={Government Responsiveness in Developing Countries},
+  author={Grossman, Guy and Slough, Tara},
+  journal={Annual Review of Political Science},
+  year={2022},
+  volume={25},
+  pages={131-153},
+  status={published}
+}`
+    }
+  },
+ {
+    id: 36,
+    year: 2022,
+    title: "Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.",
+    authors: "Guy Grossman (with Romain Ferrali, Melina R. Platas, and Jonathan Rodden)",
+    journal: "Comparative Political Studies",
+    status: "published",
+    volume: "55(6)-899-932",
+    categories: ["Governance"],
+    abstract: "Who registers to vote? Although extensive research has examined the question of who votes, our understanding of the determinants of political participation will be limited until we know who is missing from the voter register. Studying voter registration in lower-income settings is particularly challenging due to data constraints. We link the official voter register with a complete social network census of 16 villages to analyze the correlates of voter registration in rural Uganda, examining the role of individual-level attributes and social ties. We find evidence that social ties are important for explaining registration status within and across households. Village leaders—and through them, household heads—play an important role in explaining the registration status of others in the village, suggesting a diffuse process of social influence. Socioeconomic factors such as income and education do not explain registration in this setting. Together these findings suggest an alternate theory of participation is required.",
+    links: {
+      webpage: "https://journals.sagepub.com/doi/abs/10.1177/00104140211036048",
+      pdf: "/assets/pdf/2022_CPS_PE_who_registers.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YEFRPC",
+      bibtex: `@article{grossman2022whoregisters,
+  title={Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda},
+  author={Grossman, Guy and Ferrali, Romain and Platas, Melina R. and Rodden, Jonathan},
+  journal={Comparative Political Studies},
+  year={2022},
+  volume={55},
+  number={6},
+  pages={899--932},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 35,
+    year: 2022,
+    title: "Liberal Displacement Policies Attract Forced Migrants in the Global South.",
+    authors: "Guy Grossman (with Christopher W. Blair and Jeremy M. Weinstein)",
+    journal: "American Political Science Review",
+    status: "published",
+    volume: "116(1):351-358",
+    categories: ["Migration"],
+    abstract: "Most forced migrants around the world are displaced within the Global South. We study whether and how de jure policies on forced displacement affect where forced migrants flee in the developing world. Recent evidence from the Global North suggests migrants gravitate toward liberal policy environments. However, existing analyses expect de jure policies to have little effect in the developing world, given strong presumptions that policy enforcement is poor and policy knowledge is low. Using original data on de jure displacement policies for 92 developing countries and interviews with 126 refugees and policy makers, we document a robust association between liberal de jure policies and forced migrant flows. Gravitation toward liberal environments is conditional on factors that facilitate the diffusion of policy knowledge, such as transnational ethnic kin. Policies for free movement, services, and livelihoods are especially attractive. Utility-maximizing models of migrant decision making must take de jure policy provisions into account.",
+    links: {
+      webpage: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/liberal-displacement-policies-attract-forced-migrants-in-the-global-south/F6872E76FBB27F61B96B90193BDE9A1D",
+      pdf: "/assets/pdf/2022_JoP_Migration_liberal_displacement_policies.pdf",
+      appendix: "/assets/pdf/2022_JoP_Migration_liberal_displacement_policies_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AYBXMJ",
+      bibtex: `@article{grossman2022liberaldisplacement,
+  title={Liberal Displacement Policies Attract Forced Migrants in the Global South},
+  author={Grossman, Guy and Blair, Christopher W. and Weinstein, Jeremy M.},
+  journal={American Political Science Review},
+  year={2022},
+  volume={116},
+  number={1},
+  pages={351-358},
+  status={published}
+}`
+    }
+  },
+{
+    id: 34,
+    year: 2022,
+    title: "The Majoritarian Threat to Liberal Democracy.",
+    authors: "Guy Grossman (with Dorothy Kronick, Matthew Levendusky, and Marc Meredith)",
+    journal: "Journal of Experimental Political Science",
+    status: "published",
+    volume: "9(1) 36-45",
+    categories: ["Governance"],
+    abstract: "Incumbents often seek to wield power in ways that are formally legal but informally proscribed. Why do voters endorse these power grabs? Prior literature focuses on polarization. We propose instead that many voters are majoritarian, in that they view popularly elected leaders’ actions as inherently democratic – even when those actions undermine liberal democracy. We find support for this claim in two original survey experiments, arguing that majoritarians’ desire to give wide latitude to elected officials is an important but understudied threat to liberal democracy in the United States.",
+    links: {
+      journal: "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85",
+      pdf: "/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat.pdf",
+      appendix: "/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4ECFT",
+      bibtex: `@article{grossman2022majoritarian,
+  title={The Majoritarian Threat to Liberal Democracy},
+  author={Grossman, Guy and Kronick, Dorothy and Levendusky, Matthew and Meredith, Marc},
+  journal={Journal of Experimental Political Science},
+  year={2022},
+  volume={9},
+  number={1},
+  pages={36-45},
+  status={published}
+}`
+    }
+  },
+  {
+    id: 33,
+    year: 2022,
+    title: "Forced Displacement and Asylum Policy in the Developing World.",
+    authors: "Guy Grossman (with Christopher W. Blair and Jeremy M. Weinstein)",
+    journal: "International Organization",
+    status: "published",
+    volume: "76(2) 337-378",
+    categories: ["Migration"],
+    abstract: "Little theoretical or empirical work examines migration policy in the developing world. We develop and test a theory that distinguishes the drivers of policy reform and factors influencing the direction of reform. We introduce an original data set of de jure asylum and refugee policies covering more than ninety developing countries that are presently excluded from existing indices of migration policy. Examining descriptive trends in the data, we find that unlike in the global North, forced displacement policies in the global South have become more liberal over time. Empirically, we test the determinants of asylum policymaking, bolstering our quantitative results with qualitative evidence from interviews in Uganda. A number of key findings emerge. Intense, proximate civil wars are the primary impetus for asylum policy change in the global South. Liberalizing changes are made by regimes led by political elites whose ethnic kin confront discrimination or violence in neighboring countries. There is no generalizable evidence that developing countries liberalize asylum policy in exchange for economic assistance from Western actors. Distinct frameworks are needed to understand migration policymaking in developing versus developed countries.",
+    links: {
+      journal: "https://www.cambridge.org/core/journals/international-organization/article/abs/forced-displacement-and-asylum-policy-in-the-developing-world/B89E49C17B0C96E9B9F5D234F190E77D",
+      pdf: "/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy.pdf",
+      appendix: "/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OB6FHX",
+      bibtex: `@article{grossman2022asylumpolicy,
+  title={Forced Displacement and Asylum Policy in the Developing World},
+  author={Grossman, Guy and Blair, Christopher W. and Weinstein, Jeremy M.},
+  journal={International Organization},
+  year={2022},
+  volume={76},
+  number={2},
+  pages={337-378},
+  status={published}
+}`
+    }
+  },
+
+{
+    id: 32,
+    year: 2022,
+    title: "Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime.",
+    authors: "Guy Grossman (with Rob Blair, Travis Curtice, and David Dow)",
+    journal: "Social Science and Medicine",
+    status: "published",
+    volume: "305 115045",
+    categories: ["Governance"],
+    abstract: "We examine how trust shapes compliance with public health restrictions during the COVID- 19 pandemic in Uganda. We use an endorsement experiment embedded in a mobile phone survey to show that messages from government officials generate more support for public health restrictions than messages from religious authorities, traditional leaders, or international NGOs. We further show that compliance with these restrictions is strongly positively correlated with trust in government, but only weakly correlated with trust in local authorities or other citizens. We use measures of trust from both before and during the pandemic to rule out the possibility that trust is a function of the pandemic itself. The relationship between trust and compliance is especially strong for the Ministry of Health and—more surprisingly—the police. We conclude that trust is crucial for encouraging compliance but note that it may be difficult to sustain, particularly in settings where governments and police forces have reputations for repression.",
+    links: {
+      webpage: "https://www.sciencedirect.com/science/article/pii/S0277953622003513?via%3Dihub",
+      pdf: "/assets/pdf/2022_SSM_Public_trust_policing.pdf",
+      appendix: "/assets/pdf/2022_SSM_Public_trust_policing_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCG2XH",
+      bibtex: `@article{grossman2022trustpolicing,
+  title={Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime},
+  author={Grossman, Guy and Blair, Rob and Curtice, Travis and Dow, David},
+  journal={Social Science and Medicine},
+  year={2022},
+  volume={305},
+  pages={115045},
+  status={published}
+}`
+    }
+  },
+ {
+    id: 31,
+    year: 2021,
+    title: "Viral Voting: Social Networks and Political Participation.",
+    authors: "Guy Grossman (with Nicholas Eubank, Melina R. Platas, and Jonathan Rodden)",
+    journal: "Quarterly Journal of Political Science",
+    status: "published",
+    volume: "16(3) 265-284",
+    categories: ["Governance"],
+    abstract: "Social context theory suggests that an important driver of political participation is the behavior of family, friends, co-workers and neighbors. How do social ties between individuals shape equilibrium behavior in larger populations? Despite theoretical inroads into this question, direct empirical tests remain scarce due to data limitations. We fill this gap using full social network data from 15 villages in rural Uganda, where village-level turnout is the outcome of interest. We find that levels of participation predicted by structural features of village networks are strongly associated with actual village-level turnout in low-salience local elections, and weakly associated in high-salience presidential elections. We also find that these features predict other forms of political participation, including attending village meetings and contributing to village projects. In addition to demonstrating that networks help explain political participation, we provide evidence that the mechanism of influence is that proposed by social context theory rather than alternative mechanisms like the presence of central brokers or the ability of networks to diffuse information.",
+    links: {
+      journal: "https://www.nowpublishers.com/article/Details/QJPS-19092",
+      pdf: "/assets/pdf/2021_QJPS_PE_viral_voting.pdf",
+      replication: "https://github.com/nickeubank/EGPR_SocialNetworksAndPoliticalParticipation",
+      bibtex: `@article{grossman2021viralvoting,
+  title={Viral Voting: Social Networks and Political Participation},
+  author={Grossman, Guy and Eubank, Nicholas and Platas, Melina R. and Rodden, Jonathan},
+  journal={Quarterly Journal of Political Science},
+  year={2021},
+  volume={16},
+  number={3},
+  pages={265-284},
+  status={published}
+}`
+    }
+  },
+ {
+    id: 30,
+    year: 2021,
+    title: "The Americas: When Do Voters Support Power Grabs?",
+    authors: "Guy Grossman (with Michael Albertus)",
+    journal: "Journal of Democracy",
+    status: "published",
+    volume: "32(2) 116-131",
+    categories: ["Governance"],
+    abstract: "This article examines the nature of democratic fragilities in the Americas through survey experiments in Argentina, Brazil, Mexico, and the United States. Encouragingly, strong majorities of citizens recognize violations of democratic principles, laws, and norms. Moreover, how incumbents justify antidemocratic actions has little impact on how citizens view them. Yet there are minorities, ranging from 10 to 35 percent of the population, who support efforts to erode democracy. And partisanship matters: Many individuals are seemingly 'conditional democrats' who support antidemocratic actions if they voted for the incumbent. People are also reluctant to support impeachment for democratic violations, which creates an opening that would-be authoritarians can exploit.",
+    links: {
+      journal: "https://muse.jhu.edu/article/787840",
+      pdf: "/assets/pdf/2021_JoD_Democratic_the_americas.pdf",
+      appendix: "/assets/pdf/2021_JoD_Democratic_the_americas_appendix.pdf",
+      bibtex: `@article{grossman2021powergrabs,
+  title={The Americas: When Do Voters Support Power Grabs?},
+  author={Grossman, Guy and Albertus, Michael},
+  journal={Journal of Democracy},
+  year={2021},
+  volume={32},
+  number={2},
+  pages={116--131},
+  status={published}
+}`
+    }
+  },
+
+ {
+    id: 29,
+    year: 2021,
+    title: "Community policing does not build citizen trust in police or reduce crime in the Global South.",
+    authors: "Guy Grossman (with Graeme Blair, et al.)",
+    journal: "Science",
+    status: "published",
+    volume: "374(6571) 1046-1047",
+    categories: ["Conflict", "Governance"],
+    abstract: "Is it possible to reduce crime without exacerbating adversarial relationships between police and citizens? Community policing is a celebrated reform with that aim, which is now adopted on six continents. However, the evidence base is limited, studying reform components in isolation in a limited set of countries, and remaining largely silent on citizen-police trust. We designed six field experiments with Global South police agencies to study locally designed models of community policing using coordinated measures of crime and the attitudes and behaviors of citizens and police. In a preregistered meta-analysis, we found that these interventions led to mixed implementation, largely failed to improve citizen-police relations, and did not reduce crime. Societies may need to implement structural changes first for incremental police reforms such as community policing to succeed",
+    links: {
+      journal: "https://www.science.org/doi/10.1126/science.abd3446",
+      pdf: "/assets/pdf/2021_Science_Conflict_community_policing.pdf",
+      appendix: "/assets/pdf/2021_Science_Conflict_community_policing_appendix.pdf",
+      replication: "https://osf.io/2juyz/",
+      bibtex: `@article{grossman2021communitypolicing,
+  title={Community policing does not build citizen trust in police or reduce crime in the Global South},
+  author={Grossman, Guy and Blair, Graeme and others},
+  journal={Science},
+  year={2021},
+  volume={374},
+  number={6571},
+  pages={1046--1047},
+  status={published}
+}`
+    }
+  },
+   {
+    id: 28,
+    year: 2020,
+    title: "Information Technology and Political Engagement: Mixed Evidence from Uganda.",
+    authors: "Guy Grossman (with Macartan Humphreys and Gabriella Sacramone-Lutz)",
+    journal: "Journal of Politics",
+    status: "published",
+    volume: "82(4) 1321-1336 ",
+    categories: ["Governance"],
+    abstract: "This study integrates three related field experiments to learn about how information communications technology (ICT) innovations can affect who communicates with politicians. We implemented a nationwide experiment in Uganda following a smaller-scale framed field experiment that suggested that ICTs can lead to significant “flattening”: marginalized populations used short message service (SMS) based communication at relatively higher rates compared to existing political communication channels. We find no evidence for these effects in the national experiment. Instead, participation rates are extremely low, and marginalized populations engage at especially low rates. We examine possible reasons for these differences between the more controlled and the scaled-up experiments. The evidence suggests that even when citizens have issues they want to raise, technological fixes to communication deficits can be easily undercut by structural weaknesses in political systems.",
+    links: {
+      journal: "https://www.journals.uchicago.edu/doi/10.1086/708339",
+      pdf: "/assets/pdf/2020_JoP_ICT_information_technology.pdf",
+      appendix: "/assets/pdf/2020_JoP_ICT_information_technology_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C",
+      bibtex: `@article{grossman2020ictuganda,
+  title={Information Technology and Political Engagement: Mixed Evidence from Uganda},
+  author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
+  journal={Journal of Politics},
+  year={2020},
+  volume={82},
+  number={4},
+  pages={1321--1336},
+  status={published}
+}`
+    }
+  },
   {
       id: 27,
       year: 2020,
@@ -662,7 +979,7 @@
       authors: "Devorah Manekin and Dan Miodownik",
       journal: "International Organization",
       volume: "69(4): 981–1009",
-      categories: ['Israel Politics'],
+      categories: ['Israel Politics', "Conflict"],
       abstract: "Recent research has highlighted combat's positive effects for political behavior, but it is unclear whether they extend to attitudes toward the conflict itself. We exploit the assignment of health rankings determining combat eligibility in the Israel Defense Forces to examine the effect of combat exposure on support for peaceful conflict resolution. Given the centrality of the Israeli-Palestinian conflict to global affairs, and its apparent intractability, the political consequences of combat become all the more pressing. We find that exposure to combat hardens attitudes toward the rival and reduces support for negotiation and compromise. Importantly, these attitudes translate into voting behavior: combatants are likely to vote for more hawkish parties. These findings call for caution in emphasizing the benign effects of combat and underscore the importance of reintegrating combatants during the transition from conflict to peace.",
       links: {
         pdf: "/assets/pdf/2015_IO_Conflict_the_political_legacies.pdf",
@@ -873,11 +1190,11 @@ pages = {189--197},
 year = {2006}
 }`
       }
-	    },
-	    // ... add more publications here
-	  ];
+    }
+  ];
 
-	  const WORKING = [{
+  const WORKING = [
+    {
       id: 1,
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
       authors: "Robert A. Blair and Anna M. Wilke",
@@ -961,7 +1278,6 @@ year = {2006}
 }`
       }
     },
-
     {
       id: 6,
       title: "Liberalizing Refugee Hosting Policies without Losing the Vote",
@@ -978,270 +1294,327 @@ year = {2006}
   year={2024}
 }`
       }
-	    }
-	    // ... add more working papers here
-	  ];
-
-  function uniq(arr){ return Array.from(new Set(arr)); }
-  function byYearDesc(a,b){ return (b||0)-(a||0); }
-
-  function normalizeAppendix(val){
-    if(!val) return [];
-    if(Array.isArray(val)) return val.filter(Boolean);
-    if(typeof val === 'string') return [val];
-    return [];
-  }
-
-  function getYears(list){
-    const ys = list.map(p=>p.year).filter(y=>typeof y==='number');
-    return ['all', ...uniq(ys).sort(byYearDesc)];
-  }
-
-  function collectCategories(list){
-    const cats=[];
-    list.forEach(p=> (p.categories||[]).forEach(c=>cats.push(c)) );
-    const all = uniq((CATEGORIES||[]).concat(cats)).filter(Boolean).sort();
-    return all;
-  }
-
-  function el(tag, attrs={}, children=[]){
-    const node=document.createElement(tag);
-    for(const [k,v] of Object.entries(attrs||{})){
-      if(k==='class') node.className=v;
-      else if(k==='html') node.innerHTML=v;
-      else if(k.startsWith('on') && typeof v==='function') node.addEventListener(k.slice(2).toLowerCase(), v);
-      else if(v!==null && v!==undefined) node.setAttribute(k, v);
     }
-    (Array.isArray(children)?children:[children]).forEach(ch=>{
-      if(ch===null || ch===undefined) return;
-      if(typeof ch==='string') node.appendChild(document.createTextNode(ch));
-      else node.appendChild(ch);
+  ];
+
+  const normalize = (s) => (s || "").toString().toLowerCase();
+  const uniq = (arr) => Array.from(new Set(arr));
+  const escapeHtml = (s) =>
+    (s || "").replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+
+  const scholarUrlForTitle = (title) =>
+    `https://scholar.google.com/scholar?q=${encodeURIComponent(title || "")}`;
+
+  const state = { tab: "published", q: "", year: null, cats: new Set() };
+
+  const getActiveData = () => (state.tab === "published" ? PUBLISHED : WORKING);
+
+  const getAllYears = (data) => uniq(data.map((d) => d.year)).sort((a, b) => b - a);
+
+  const getAllCategories = (data) => {
+    const out = [];
+    data.forEach((d) => (d.categories || []).forEach((c) => out.push(c)));
+    return uniq(out).sort((a, b) => a.localeCompare(b));
+  };
+
+  const matches = (p) => {
+    const q = normalize(state.q).trim();
+    const inQ =
+      !q ||
+      normalize(p.title).includes(q) ||
+      normalize(p.authors).includes(q) ||
+      normalize(p.journal).includes(q);
+
+    const inYear = state.year == null || p.year === state.year;
+
+    const inCats =
+      state.cats.size === 0 || (p.categories || []).some((c) => state.cats.has(c));
+
+    return inQ && inYear && inCats;
+  };
+
+  const groupByYear = (items) => {
+    const map = new Map();
+    items.forEach((p) => {
+      if (!map.has(p.year)) map.set(p.year, []);
+      map.get(p.year).push(p);
     });
-    return node;
+    return Array.from(map.entries()).sort((a, b) => b[0] - a[0]);
+  };
+
+  const formatVenue = (p) => {
+    const bits = [];
+    if (p.journal) bits.push(p.journal);
+    const vol = (p.volume || "").trim();
+    const iss = (p.issue || "").trim();
+    const pag = (p.pages || "").trim();
+    let vip = "";
+    if (vol) vip += vol;
+    if (iss) vip += (vip ? `(${iss})` : `(${iss})`);
+    if (pag) vip += (vip ? `: ${pag}` : pag);
+    if (vip) bits.push(vip);
+    return bits.join(" • ");
+  };
+
+  function render() {
+    const mount = document.getElementById("pubs-app");
+    if (!mount) return;
+
+    const data = getActiveData();
+    const years = getAllYears(data);
+    const cats = getAllCategories(data);
+
+    const filtered = data.filter(matches);
+    const grouped = groupByYear(filtered);
+
+    mount.innerHTML = `
+      <div class="pubs-ui">
+        <aside class="pubs-sidebar">
+          <div class="pubs-panel">
+            <div style="display:flex; justify-content:center; margin-bottom:0.75rem;">
+              <div class="pubs-tabs" role="tablist" aria-label="Publications tabs">
+                <button class="pubs-tab ${state.tab === "published" ? "is-active" : ""}" data-tab="published" type="button">Published</button>
+                <button class="pubs-tab ${state.tab === "working" ? "is-active" : ""}" data-tab="working" type="button">Under review</button>
+              </div>
+            </div>
+
+            <h3>Search</h3>
+            <input class="pubs-field" id="pubs-search" type="search" placeholder="Search title, author, journal" value="${escapeHtml(state.q)}"/>
+
+            <div style="height:0.9rem"></div>
+
+            <h3>Years</h3>
+            <div class="pubs-yeargrid" id="pubs-years">
+              ${renderYearGrid(years, data)}
+            </div>
+
+            <div style="height:0.9rem"></div>
+
+            <h3>Categories</h3>
+            <div class="pubs-chipwrap" id="pubs-cats">
+              ${renderCategoryChips(cats, data)}
+            </div>
+
+            <div style="height:0.9rem"></div>
+
+            <button class="pubs-action pubs-action--primary" id="pubs-clear" type="button">Clear filters</button>
+          </div>
+        </aside>
+
+        <main class="pubs-main">
+          ${filtered.length ? renderCards(grouped) : `<div class="pubs-empty">No results. Try clearing filters.</div>`}
+        </main>
+      </div>
+          `;
+
+    bindHandlers();
   }
 
-  function btnLink(href, label, style='btn-outline-primary'){
-    return el('a', {class:`btn btn-sm ${style}`, href, target:'_blank', rel:'noopener noreferrer'}, label);
+  function renderYearGrid(years, data) {
+    const total = data.length;
+    const counts = new Map();
+    data.forEach((p) => counts.set(p.year, (counts.get(p.year) || 0) + 1));
+
+    const allActive = state.year == null ? "is-active" : "";
+    const allBtn = `
+        <button class="pubs-yearbtn ${allActive}" data-year="">
+          All (${total})
+        </button>`;
+
+    const yearBtns = years
+      .map((y) => {
+        const active = state.year === y ? "is-active" : "";
+        return `
+        <button class="pubs-yearbtn ${active}" data-year="${y}">
+          ${y} (${counts.get(y) || 0})
+        </button>`;
+      })
+      .join("");
+
+    return allBtn + yearBtns;
   }
 
-  function render(app){
-    const state = {
-      tab: 'published',
-      year: 'all',
-      q: '',
-      cats: new Set()
-    };
 
-    function currentList(){ return state.tab==='published' ? PUBLISHED : WORKING; }
+  function matchesWithoutCats(p) {
+    // Apply search + year filters, ignore category selection (used for sidebar counts)
+    const q = state.q.trim().toLowerCase();
+    if (q) {
+      const hay = `${p.title} ${p.authors} ${p.journal}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    if (state.year != null && p.year !== state.year) return false;
+    return true;
+  }
 
-    function applyFilters(list){
-      let out=list.slice();
-      if(state.year!=='all'){
-        const y = Number(state.year);
-        out = out.filter(p=>p.year===y);
-      }
-      if(state.cats.size>0){
-        out = out.filter(p=> (p.categories||[]).some(c=>state.cats.has(c)) );
-      }
-      const q = state.q.trim().toLowerCase();
-      if(q){
-        out = out.filter(p=>{
-          return (p.title||'').toLowerCase().includes(q)
-            || (p.authors||'').toLowerCase().includes(q)
-            || (p.journal||'').toLowerCase().includes(q)
-            || (p.abstract||'').toLowerCase().includes(q);
-        });
-      }
-      // sort
-      out.sort((a,b)=>{
-        const ya=(a.year||0), yb=(b.year||0);
-        if(yb!==ya) return yb-ya;
-        return (b.id||0)-(a.id||0);
+  function renderCategoryChips(cats, data) {
+    if (!cats.length) return `<span class="pubs-empty" style="padding:.5rem .75rem;">No categories</span>`;
+
+    const base = data.filter(matchesWithoutCats);
+    const counts = new Map();
+    base.forEach((p) => (p.categories || []).forEach((c) => counts.set(c, (counts.get(c) || 0) + 1)));
+
+    return cats
+      .map((c) => {
+        const active = state.cats.has(c) ? "is-active" : "";
+        const n = counts.get(c) || 0;
+        return `<button class="pubs-chip ${active}" type="button" data-cat="${escapeHtml(c)}">${escapeHtml(c)} (${n})</button>`;
+      })
+      .join("");
+  }
+
+  function renderChip(cat) {
+    const active = state.cats.has(cat) ? "is-active" : "";
+    return `<button class="pubs-chip ${active}" type="button" data-cat="${escapeHtml(cat)}">${escapeHtml(cat)}</button>`;
+  }
+
+  function renderCards(grouped) {
+    return grouped
+      .map(([year, items]) => {
+        return `
+          <div class="pubs-yearhdr">${year}</div>
+          ${items.map(renderCard).join("")}
+        `;
+      })
+      .join("");
+  }
+
+  function renderCard(p) {
+    const titleHtml = p.links?.webpage
+      ? `<a href="${p.links.webpage}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.title)}</a>`
+      : escapeHtml(p.title);
+
+    const venue = formatVenue(p);
+    const cats = (p.categories || []).map((c) => `<span class="pubs-badge">${escapeHtml(c)}</span>`).join("");
+
+    const btns = [];
+    if (p.links?.pdf) btns.push(actionLink("PDF", p.links.pdf, true));
+    (p.links?.appendix || []).forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
+    if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
+    btns.push(actionLink("Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
+    if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
+const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
+
+    return `
+      <article class="pubs-card" id="pub-${p.id}">
+        <h4>${titleHtml}</h4>
+        <div class="pubs-meta">
+          ${escapeHtml(p.authors)}${venue ? ` • ${escapeHtml(venue)}` : ""}${p.status ? ` • ${escapeHtml(p.status)}` : ""}
+        </div>
+
+        ${cats ? `<div class="pubs-badges">${cats}</div>` : ""}
+
+        ${abs}
+
+        <div class="pubs-actions">
+          ${btns.join("")}
+        </div>
+
+        ${p.links?.bibtex ? `
+          <div class="pubs-bibpanel" data-bib="${p.id}">
+            <div class="pubs-bibhead">
+              <div class="pubs-bibtitle">BibTeX</div>
+              <button class="pubs-copybtn" type="button" data-bibcopy="${p.id}" aria-label="Copy BibTeX">Copy</button>
+            </div>
+            <pre class="pubs-bibpre">${escapeHtml(p.links.bibtex)}</pre>
+          </div>
+        ` : ""}
+
+        <div class="pubs-bibtex" data-bib="${p.id}">
+          <pre><code>${escapeHtml(p.links?.bibtex || "")}</code></pre>
+        </div>
+      </article>
+    `;
+  }
+
+  function actionLink(label, url, primary = false) {
+    const cls = `pubs-action${primary ? " pubs-action--primary" : ""}`;
+    return `<a class="${cls}" href="${url}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
+  }
+
+function bindHandlers() {
+    document.querySelectorAll(".pubs-tab").forEach((b) => {
+      b.addEventListener("click", () => {
+        const tab = b.getAttribute("data-tab");
+        if (!tab || tab === state.tab) return;
+        state.tab = tab;
+        state.q = "";
+        state.year = null;
+        state.cats = new Set();
+        render();
       });
-      return out;
+    });
+
+    const search = document.getElementById("pubs-search");
+    if (search) {
+      search.addEventListener("input", () => {
+        state.q = search.value || "";
+        render();
+      });
     }
 
-    function formatVenue(p){
-      const parts=[];
-      if(p.journal) parts.push(p.journal);
-      // Some entries store full citation in volume field (e.g., "108(3): 688-705")
-      if(p.volume){
-        if(typeof p.volume==='string' && /\d/.test(p.volume)) parts.push(p.volume);
-        else parts.push(String(p.volume));
-      } else {
-        const v=[];
-        if(p.issue) v.push(`(${p.issue})`);
-        if(p.pages) v.push(p.pages);
-        if(v.length) parts.push(v.join(' '));
-      }
-      if(p.year) parts.push(String(p.year));
-      if(p.status && String(p.status).toLowerCase()!=='published') parts.push(p.status);
-      return parts.join(' • ');
+    document.querySelectorAll("#pubs-years button").forEach((b) => {
+      b.addEventListener("click", () => {
+        const y = b.getAttribute("data-year");
+        state.year = y ? Number(y) : null;
+        render();
+      });
+    });
+
+    document.querySelectorAll("#pubs-cats .pubs-chip").forEach((b) => {
+      b.addEventListener("click", () => {
+        const c = b.getAttribute("data-cat");
+        if (!c) return;
+        if (state.cats.has(c)) state.cats.delete(c);
+        else state.cats.add(c);
+        render();
+      });
+    });
+
+    const clear = document.getElementById("pubs-clear");
+    if (clear) {
+      clear.addEventListener("click", () => {
+        state.q = "";
+        state.year = null;
+        state.cats = new Set();
+        render();
+      });
     }
 
-    function paperCard(p){
-      const actions=[];
-      if(p.links){
-        if(p.links.pdf) actions.push(btnLink(p.links.pdf, 'PDF'));
-        if(p.links.journal) actions.push(btnLink(p.links.journal, 'Journal', 'btn-outline-secondary'));
-        const apps = normalizeAppendix(p.links.appendix);
-        apps.forEach((a,i)=> actions.push(btnLink(a, apps.length>1 ? `Appendix ${i+1}` : 'Appendix', 'btn-outline-secondary')));
-        if(p.links.replication) actions.push(btnLink(p.links.replication, 'Data', 'btn-outline-secondary'));
-      }
+    document.querySelectorAll("[data-bibbtn]").forEach((b) => {
+      b.addEventListener("click", () => {
+        const id = b.getAttribute("data-bibbtn");
+        const panel = document.querySelector(`[data-bib="${CSS.escape(id)}"]`);
+        if (!panel) return;
+        panel.classList.toggle("is-open");
+      });
+    });
 
-      const badgeWrap = el('div', {class:'pubs-badges mb-2'});
-      (p.categories||[]).forEach(c=> badgeWrap.appendChild(el('span',{class:'badge badge-pill badge-light'}, c)));
+    // BibTeX copy
+    document.querySelectorAll("[data-bibcopy]").forEach((b) => {
+      b.addEventListener("click", async () => {
+        const id = b.getAttribute("data-bibcopy");
+        if (!id) return;
+        const p = getActiveData().find((x) => String(x.id) === String(id));
+        const bib = p?.links?.bibtex || "";
+        if (!bib) return;
 
-      const details=[];
-      if(p.abstract){
-        details.push(
-          el('details', {class:'mt-2'}, [
-            el('summary', {class:'text-primary'}, 'Abstract'),
-            el('div', {class:'mt-2'}, p.abstract)
-          ])
-        );
-      }
-      if(p.links && p.links.bibtex){
-        details.push(
-          el('details', {class:'mt-2'}, [
-            el('summary', {class:'text-primary'}, 'BibTeX'),
-            el('pre', {class:'pubs-pre mt-2 p-2 bg-light'}, p.links.bibtex)
-          ])
-        );
-      }
-
-      return el('div', {class:'card mb-3'}, [
-        el('div', {class:'card-body'}, [
-          el('h5', {class:'card-title mb-1'}, p.title || ''),
-          el('div', {class:'text-muted mb-2'}, p.authors || ''),
-          el('div', {class:'small mb-2'}, formatVenue(p)),
-          badgeWrap,
-          el('div', {class:'pubs-actions'}, actions),
-          ...details
-        ])
-      ]);
-    }
-
-    function buildUI(){
-      app.innerHTML='';
-
-      // Tabs
-      const tabRow = el('div', {class:'mb-3'}, [
-        el('div', {class:'btn-group', role:'group', 'aria-label':'Publication tabs'}, [
-          el('button', {type:'button', class:`btn btn-sm ${state.tab==='published'?'btn-primary':'btn-outline-primary'}`, onclick:()=>{state.tab='published'; resetFilters(); rerender();}}, `Published Papers (${PUBLISHED.length})`),
-          el('button', {type:'button', class:`btn btn-sm ${state.tab==='working'?'btn-primary':'btn-outline-primary'}`, onclick:()=>{state.tab='working'; resetFilters(); rerender();}}, `Under Review (${WORKING.length})`)
-        ])
-      ]);
-
-      const row = el('div', {class:'row'}, []);
-      const left = el('div', {class:'col-md-3 pubs-sidebar mb-4'}, []);
-      const right = el('div', {class:'col-md-9'}, []);
-
-      // Sidebar card
-      const sidebarCard = el('div', {class:'card'}, []);
-      const sidebarBody = el('div', {class:'card-body'}, []);
-
-      // Search
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Search'));
-      const searchInput = el('input', {class:'form-control form-control-sm mb-3', type:'text', placeholder:'Search title, authors, journal, abstract'}, []);
-      searchInput.addEventListener('input', ()=>{ state.q = searchInput.value; rerenderList(); });
-      sidebarBody.appendChild(searchInput);
-
-      // Year
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Year'));
-      const yearSelect = el('select', {class:'custom-select custom-select-sm mb-3'}, []);
-      function refreshYears(){
-        yearSelect.innerHTML='';
-        getYears(currentList()).forEach(y=>{
-          yearSelect.appendChild(el('option', {value:String(y)}, y==='all'?'All years':String(y)));
-        });
-        yearSelect.value = String(state.year);
-      }
-      yearSelect.addEventListener('change', ()=>{ state.year = yearSelect.value; rerenderList(); });
-      sidebarBody.appendChild(yearSelect);
-
-      // Categories
-      sidebarBody.appendChild(el('h6', {class:'mb-2'}, 'Categories'));
-      const catWrap = el('div', {class:'mb-3'}, []);
-      function refreshCats(){
-        catWrap.innerHTML='';
-        const cats = collectCategories(currentList());
-        cats.forEach(c=>{
-          const id = `cat_${state.tab}_${c.replace(/\s+/g,'_')}`;
-          const cb = el('input', {type:'checkbox', class:'form-check-input', id});
-          cb.checked = state.cats.has(c);
-          cb.addEventListener('change', ()=>{
-            if(cb.checked) state.cats.add(c); else state.cats.delete(c);
-            rerenderList();
-          });
-          const label = el('label', {class:'form-check-label', for:id}, c);
-          catWrap.appendChild(el('div', {class:'form-check'}, [cb, label]));
-        });
-      }
-      sidebarBody.appendChild(catWrap);
-
-      // Clear
-      const clearBtn = el('button', {type:'button', class:'btn btn-sm btn-outline-secondary'}, 'Clear filters');
-      clearBtn.addEventListener('click', ()=>{ resetFilters(); rerender(); });
-      sidebarBody.appendChild(clearBtn);
-
-      sidebarCard.appendChild(sidebarBody);
-      left.appendChild(sidebarCard);
-
-      // List container
-      const listHeader = el('div', {class:'d-flex justify-content-between align-items-center mb-2'}, [
-        el('div', {class:'small text-muted', id:'results-count'}, ''),
-      ]);
-      const listWrap = el('div', {id:'pubs-list'}, []);
-      right.appendChild(listHeader);
-      right.appendChild(listWrap);
-
-      row.appendChild(left);
-      row.appendChild(right);
-
-      app.appendChild(tabRow);
-      app.appendChild(row);
-
-      function resetFilters(){
-        state.year='all';
-        state.q='';
-        state.cats=new Set();
-      }
-
-      function rerender(){
-        refreshYears();
-        refreshCats();
-        searchInput.value = state.q;
-        yearSelect.value = String(state.year);
-        rerenderList();
-      }
-
-      function rerenderList(){
-        const list = applyFilters(currentList());
-        listWrap.innerHTML='';
-        const countEl = listHeader.querySelector('#results-count');
-        if(countEl) countEl.textContent = `${list.length} result${list.length===1?'':'s'}`;
-        list.forEach(p=> listWrap.appendChild(paperCard(p)));
-      }
-
-      // expose to tab handlers
-      buildUI.resetFilters = resetFilters;
-      buildUI.rerender = rerender;
-      buildUI.rerenderList = rerenderList;
-
-      rerender();
-    }
-
-    function resetFilters(){ buildUI.resetFilters(); }
-    function rerender(){ buildUI.rerender(); }
-    function rerenderList(){ buildUI.rerenderList(); }
-
-    buildUI();
+        try {
+          await navigator.clipboard.writeText(bib);
+          } catch (e) {
+          const ta = document.createElement("textarea");
+          ta.value = bib;
+          ta.setAttribute("readonly", "");
+          ta.style.position = "fixed";
+          ta.style.top = "-1000px";
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand("copy"); }
+          catch (err) { }
+          document.body.removeChild(ta);
+        }
+      });
+    });
   }
 
-  document.addEventListener('DOMContentLoaded', function(){
-    const app = document.getElementById('pubs-app');
-    if(!app) return;
-    render(app);
-  });
+  document.addEventListener("DOMContentLoaded", render);
 })();
