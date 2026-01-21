@@ -192,13 +192,14 @@ nav: true
 
 .pubs-ui {
   display: grid;
-  grid-template-columns: minmax(260px, 30vw) 1fr;
+  grid-template-columns: minmax(260px, 30vw) minmax(0, 1fr);
   gap: 3vw;
   align-items: start;
 }
 
 .pubs-main {
   width: 100%;
+  max-width: none;
   min-width: 0;
 }
 
