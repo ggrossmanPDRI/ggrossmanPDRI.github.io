@@ -439,6 +439,138 @@ status={published}
 }`
     }
   },
+{
+    id: 31,
+    year: 2021,
+    title: "Viral Voting: Social Networks and Political Participation.",
+    authors: "Guy Grossman (with Nicholas Eubank, Melina R. Platas, and Jonathan Rodden)",
+    journal: "Quarterly Journal of Political Science",
+    status: "published",
+    volume: "16(3) 265-284",
+    categories: ["Governance"],
+    abstract: "Social context theory suggests that an important driver of political participation is the behavior of family, friends, co-workers and neighbors. How do social ties between individuals shape equilibrium behavior in larger populations? Despite theoretical inroads into this question, direct empirical tests remain scarce due to data limitations. We fill this gap using full social network data from 15 villages in rural Uganda, where village-level turnout is the outcome of interest. We find that levels of participation predicted by structural features of village networks are strongly associated with actual village-level turnout in low-salience local elections, and weakly associated in high-salience presidential elections. We also find that these features predict other forms of political participation, including attending village meetings and contributing to village projects. In addition to demonstrating that networks help explain political participation, we provide evidence that the mechanism of influence is that proposed by social context theory rather than alternative mechanisms like the presence of central brokers or the ability of networks to diffuse information.",
+    links: {
+      journal: "https://www.nowpublishers.com/article/Details/QJPS-19092",
+      pdf: "/assets/pdf/2021_QJPS_PE_viral_voting.pdf",
+      replication: "https://github.com/nickeubank/EGPR_SocialNetworksAndPoliticalParticipation",
+      bibtex: `@article{grossman2021viralvoting,
+  title={Viral Voting: Social Networks and Political Participation},
+  author={Grossman, Guy and Eubank, Nicholas and Platas, Melina R. and Rodden, Jonathan},
+  journal={Quarterly Journal of Political Science},
+  year={2021},
+  volume={16},
+  number={3},
+  pages={265-284},
+  status={published}
+}`
+    }
+  },
+ {
+    id: 30,
+    year: 2021,
+    title: "The Americas: When Do Voters Support Power Grabs?",
+    authors: "Guy Grossman (with Michael Albertus)",
+    journal: "Journal of Democracy",
+    status: "published",
+    volume: "32(2) 116-131",
+    categories: ["Governance"],
+    abstract: "This article examines the nature of democratic fragilities in the Americas through survey experiments in Argentina, Brazil, Mexico, and the United States. Encouragingly, strong majorities of citizens recognize violations of democratic principles, laws, and norms. Moreover, how incumbents justify antidemocratic actions has little impact on how citizens view them. Yet there are minorities, ranging from 10 to 35 percent of the population, who support efforts to erode democracy. And partisanship matters: Many individuals are seemingly 'conditional democrats' who support antidemocratic actions if they voted for the incumbent. People are also reluctant to support impeachment for democratic violations, which creates an opening that would-be authoritarians can exploit.",
+    links: {
+      journal: "https://muse.jhu.edu/article/787840",
+      pdf: "/assets/pdf/2021_JoD_Democratic_the_americas.pdf",
+      appendix: "/assets/pdf/2021_JoD_Democratic_the_americas_appendix.pdf",
+      bibtex: `@article{grossman2021powergrabs,
+  title={The Americas: When Do Voters Support Power Grabs?},
+  author={Grossman, Guy and Albertus, Michael},
+  journal={Journal of Democracy},
+  year={2021},
+  volume={32},
+  number={2},
+  pages={116--131},
+  status={published}
+}`
+    }
+  },
+
+ {
+    id: 29,
+    year: 2021,
+    title: "Community policing does not build citizen trust in police or reduce crime in the Global South.",
+    authors: "Guy Grossman (with Graeme Blair, et al.)",
+    journal: "Science",
+    status: "published",
+    volume: "374(6571) 1046-1047",
+    categories: ["Conflict", "Governance"],
+    abstract: "Is it possible to reduce crime without exacerbating adversarial relationships between police and citizens? Community policing is a celebrated reform with that aim, which is now adopted on six continents. However, the evidence base is limited, studying reform components in isolation in a limited set of countries, and remaining largely silent on citizen-police trust. We designed six field experiments with Global South police agencies to study locally designed models of community policing using coordinated measures of crime and the attitudes and behaviors of citizens and police. In a preregistered meta-analysis, we found that these interventions led to mixed implementation, largely failed to improve citizen-police relations, and did not reduce crime. Societies may need to implement structural changes first for incremental police reforms such as community policing to succeed",
+    links: {
+      journal: "https://www.science.org/doi/10.1126/science.abd3446",
+      pdf: "/assets/pdf/2021_Science_Conflict_community_policing.pdf",
+      appendix: "/assets/pdf/2021_Science_Conflict_community_policing_appendix.pdf",
+      replication: "https://osf.io/2juyz/",
+      bibtex: `@article{grossman2021communitypolicing,
+  title={Community policing does not build citizen trust in police or reduce crime in the Global South},
+  author={Grossman, Guy and Blair, Graeme and others},
+  journal={Science},
+  year={2021},
+  volume={374},
+  number={6571},
+  pages={1046--1047},
+  status={published}
+}`
+    }
+  },
+   {
+    id: 28,
+    year: 2020,
+    title: "Information Technology and Political Engagement: Mixed Evidence from Uganda.",
+    authors: "Guy Grossman (with Macartan Humphreys and Gabriella Sacramone-Lutz)",
+    journal: "Journal of Politics",
+    status: "published",
+    volume: "82(4) 1321-1336 ",
+    categories: ["Governance"],
+    abstract: "This study integrates three related field experiments to learn about how information communications technology (ICT) innovations can affect who communicates with politicians. We implemented a nationwide experiment in Uganda following a smaller-scale framed field experiment that suggested that ICTs can lead to significant “flattening”: marginalized populations used short message service (SMS) based communication at relatively higher rates compared to existing political communication channels. We find no evidence for these effects in the national experiment. Instead, participation rates are extremely low, and marginalized populations engage at especially low rates. We examine possible reasons for these differences between the more controlled and the scaled-up experiments. The evidence suggests that even when citizens have issues they want to raise, technological fixes to communication deficits can be easily undercut by structural weaknesses in political systems.",
+    links: {
+      journal: "https://www.journals.uchicago.edu/doi/10.1086/708339",
+      pdf: "/assets/pdf/2020_JoP_ICT_information_technology.pdf",
+      appendix: "/assets/pdf/2020_JoP_ICT_information_technology_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C",
+      bibtex: `@article{grossman2020ictuganda,
+  title={Information Technology and Political Engagement: Mixed Evidence from Uganda},
+  author={Grossman, Guy and Humphreys, Macartan and Sacramone-Lutz, Gabriella},
+  journal={Journal of Politics},
+  year={2020},
+  volume={82},
+  number={4},
+  pages={1321--1336},
+  status={published}
+}`
+    }
+  },
+  {
+      id: 27,
+      year: 2020,
+      title: "The Effect of Election Proximity on Government Responsiveness and Citizens' Participation: Evidence from English Local Elections",
+      authors: "Gemma Dipoppa",
+      journal: "Comparative Political Studies",
+      volume: "53(4): 2183-2212",
+      categories: ['Governance'],
+      abstract: "Does political engagement depend on government responsiveness? Identifying the drivers of political action is challenging because it requires disentangling instrumental from expressive motives for engagement and because government responsiveness is likely endogenous. We overcome the first challenge by studying citizens’ reporting of street-problems—a form of participation arguably driven by instrumental considerations. We overcome the second challenge by taking advantage of variation in local elections timing in England’s district authorities. We report three key results. First, local governments address requests faster in the months leading to elections. Second, street-problem reporting increases in (pre)electoral periods. Third, the increase in requests sent in preelection periods is driven by districts in which government responsiveness is higher. These findings show that, individuals consider expected benefits when choosing to undertake at least some instrumental forms of participation. Our results also underscore the importance of temporal factors that increase the perceived benefits of one’s political engagement.",
+      links: {
+        pdf: "/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity.pdf",
+        journal: "https://journals.sagepub.com/eprint/GV3U7V9SCKVJJJJNZBHP/full",
+        appendix: "/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDAS7N",
+        bibtex: `@article{grossman2020election,
+  title={The Effect of Election Proximity on Government Responsiveness and Citizens' Participation},
+  author={Grossman, Guy and Dipoppa, Gemma},
+  journal={Comparative Political Studies},
+  volume={53},
+  number={4},
+  pages={2183--2212},
+  year={2020}
+}`
+      }
+  },
     {
       id: 26,
       year: 2020,
@@ -586,7 +718,13 @@ status={published}
 
   const getActiveData = () => (state.tab === "published" ? PUBLISHED : WORKING);
 
-  const getAllYears = (data) => uniq(data.map((d) => d.year)).sort((a, b) => b - a);
+  const getAllYears = (data) =>
+  uniq(
+    data
+      .map((d) => d.year)
+      .filter((y) => typeof y === "number" && !Number.isNaN(y))
+  ).sort((a, b) => b - a);
+
 
   const getAllCategories = (data) => {
     const out = [];
@@ -611,13 +749,25 @@ status={published}
   };
 
   const groupByYear = (items) => {
-    const map = new Map();
-    items.forEach((p) => {
-      if (!map.has(p.year)) map.set(p.year, []);
-      map.get(p.year).push(p);
-    });
-    return Array.from(map.entries()).sort((a, b) => b[0] - a[0]);
-  };
+  const map = new Map();
+
+  items.forEach((p) => {
+    const y =
+      typeof p.year === "number" && !Number.isNaN(p.year)
+        ? p.year
+        : "Under review";
+
+    if (!map.has(y)) map.set(y, []);
+    map.get(y).push(p);
+  });
+
+  return Array.from(map.entries()).sort((a, b) => {
+    if (a[0] === "Under review") return 1;   // always last
+    if (b[0] === "Under review") return -1;
+    return b[0] - a[0];                      // numeric years desc
+  });
+};
+
 
   const formatVenue = (p) => {
     const bits = [];
