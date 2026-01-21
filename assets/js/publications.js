@@ -1539,9 +1539,24 @@ function bindHandlers() {
     const search = document.getElementById("pubs-search");
     if (search) {
       search.addEventListener("input", () => {
-        state.q = search.value || "";
-        render();
-      });
+  // Preserve focus and cursor position across re-renders
+  const pos =
+    typeof search.selectionStart === "number"
+      ? search.selectionStart
+      : (search.value || "").length;
+
+  state.q = search.value || "";
+  render();
+
+  const next = document.getElementById("pubs-search");
+  if (next) {
+    next.focus();
+    try {
+      next.setSelectionRange(pos, pos);
+    } catch (e) {}
+  }
+});
+
     }
 
     document.querySelectorAll("#pubs-years button").forEach((b) => {
