@@ -598,7 +598,232 @@ status={published}
   pages={24144--24153}
 }`
       }
+    },
+{
+      id: 25,
+      year: 2019,
+      title: "It Takes a Village: Peer Effects and Externalities in Technology Adoption",
+      authors: "Romain Ferrali, Melina R. Platas, and Jonathan Rodden",
+      journal: "American Journal of Political Science",
+      volume: "64(3): 536-553",
+      categories: ['Governance'],
+      abstract: "Do social networks matter for the adoption of new forms of political participation? We develop a formal model showing that the quality of communication that takes place in social networks is central to understanding whether a community will adopt forms of political participation where benefits are uncertain and where there are positive externalities associated with participation. Early adopters may exaggerate benefits, leading others to discount information about the technology's value. Thus, peer effects are likely to emerge only when informal institutions support truthful communication. We collect social network data for 16 Ugandan villages where an innovative mobile-based reporting platform was introduced. Consistent with our model, we find variation across villages in the extent of peer effects on technology adoption, as well as evidence supporting additional observable implications. Impediments to social diffusion may help explain the varied uptake of new and increasingly common political communication technologies around the world.",
+      links: {
+        pdf: "/assets/pdf/2019_AJPS_ICT_it_takes_a_village.pdf",
+        journal: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471",
+        appendix: "/assets/pdf/2019_AJPS_ICT_it_takes_a_village_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NOYBCQ",
+        bibtex: `@article{grossman2019village,
+  title={It Takes a Village: Peer Effects and Externalities in Technology Adoption},
+  author={Grossman, Guy and Ferrali, Romain and Platas, Melina R. and Rodden, Jonathan},
+  journal={American Journal of Political Science},
+  volume={64},
+  number={3},
+  pages={536--553},
+  year={2019}
+}`
+      }
+  },
+
+  {
+      id: 24,
+      year: 2019,
+      title: "Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials",
+      authors: "Thad Dunning et al.",
+      journal: "Science Advances",
+      volume: "5(7): 1188-1192",
+      categories: ['Governance'],
+      abstract: "Voters may be unable to hold politicians to account if they lack basic information about their representatives’ performance. Civil society groups and international donors therefore advocate using voter information campaigns to improve democratic accountability. Yet, are these campaigns effective? Limited replication, measurement heterogeneity, and publication biases may undermine the reliability of published research. We implemented a new approach to cumulative learning, coordinating the design of seven randomized controlled trials to be fielded in six countries by independent research teams. Uncommon for multisite trials in the social sciences, we jointly preregistered a meta-analysis of results in advance of seeing the data. We find no evidence overall that typical, nonpartisan voter information campaigns shape voter behavior, although exploratory and subgroup analyses suggest conditions under which informational campaigns could be more effective. Such null estimated effects are too seldom published, yet they can be critical for scientific progress and cumulative, policy-relevant learning.",
+      links: {
+        pdf: "/assets/pdf/2019_Science_PE_voter_information_campaigns.pdf",
+        journal: "https://www.science.org/doi/10.1126/sciadv.aaw2612",
+        appendix: "/assets/pdf/2019_Science_PE_voter_information_campaigns_appendix.pdf",
+        replication: "https://github.com/egap/metaketa-i",
+        bibtex: `@article{grossman2019voter,
+  title={Voter information campaigns and political accountability},
+  author={Dunning, Thad and others},
+  journal={Science Advances},
+  volume={5},
+  number={7},
+  pages={1188--1192},
+  year={2019}
+}`
+      }
+    },
+  {
+      id: 23,
+      year: 2019,
+      title: "A Signaling Theory of Distributive Policy Choice: Evidence From Senegal",
+      authors: "Jessica Gottlieb, Horacio Larreguy, and Benjamin Marx",
+      journal: "Journal of Politics",
+      volume: "81(2): 631-647",
+      categories: ['Governance'],
+      abstract: "A recent literature emphasizes political economy factors behind the wave of administrative splits across the developing world. While previous studies have focused on why some groups are more likely to obtain new administrative units, they do not explain why vote-maximizing incumbents use this arguably less efficient policy in the first place. We contribute to this literature by embedding administrative splits within incumbents’ broader electoral strategy of distributive policies. We develop a model in which incumbents target local public goods to groups for whom this is a credible signal of commitment, namely, those with a history of reciprocal relationship. When incumbents face increased electoral competition, however, other groups require a stronger signal, which is emitted by the costly creation of new units that reduces the cost of future transfers to those groups. We test our theory using electoral and public goods data from Senegal and find robust support for its predictions.",
+      links: {
+        pdf: "/assets/pdf/2019_JoP_Government_a_signaling_theory.pdf",
+        journal: "https://www.journals.uchicago.edu/doi/abs/10.1086/701833",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJ9E9M",
+        bibtex: `@article{grossman2019signaling,
+  title={A Signaling Theory of Distributive Policy Choice: Evidence From Senegal},
+  author={Grossman, Guy and Gottlieb, Jessica and Larreguy, Horacio and Marx, Benjamin},
+  journal={Journal of Politics},
+  volume={81},
+  number={2},
+  pages={631--647},
+  year={2019}
+}`
+      }
+    },
+    {
+      id: 22,
+      year: 2019,
+      title: "Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory",
+      authors: "Devorah Manekin and Tamar Mitts",
+      journal: "Political Science Research and Methods",
+      volume: "7(4): 679-697",
+      categories: ['Israel Politics', 'Conflict'],
+      abstract: "Territorial disputes are prone to conflict because of the value of territory to publics, whether due to its strategic and material worth, or to its intangible, symbolic value. Yet despite the implications of the distinction for both theory and policy, empirically disentangling the material from the symbolic has posed formidable methodological challenges. We propose a set of tools for assessing the nature of individual territorial attachment, drawing on a series of survey experiments in Israel. Using these tools, we find that a substantial segment of the Jewish population is attached to the disputed West Bank territory for intangible reasons, consisting not only of far-right voters but also of voters of moderate-right and centrist parties. This distribution considerably narrows the bargaining space of leaders regardless of coalitional configurations. Our empirical analysis thus illustrates how the distribution of territorial preferences in the domestic population can have powerful implications for conflict and its resolution.",
+      links: {
+        pdf: "/assets/pdf/2019_PSRM_Conflict_contested_ground.pdf",
+        journal: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/contested-ground-disentangling-material-and-symbolic-attachment-to-disputed-territory/51547A284177A0B4E84B76E1929A0C51",
+        appendix: "/assets/pdf/2019_PSRM_Conflict_contested_ground_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INCWQN",
+        bibtex: `@article{grossman2019contested,
+  title={Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory},
+  author={Grossman, Guy and Manekin, Devorah and Mitts, Tamar},
+  journal={Political Science Research and Methods},
+  volume={7},
+  number={4},
+  pages={679--697},
+  year={2019}
+}`
+      }
+    },
+    {
+      id: 21,
+      year: 2019,
+      title: "Border Walls and Smuggling Spillovers",
+      authors: "Anna Getmansky and Austin L. Wright",
+      journal: "Quarterly Journal of Political Science",
+      volume: "14(3): 329-347",
+      categories: ['Israel Politics', 'Conflict'],
+      abstract: "A growing number of states are erecting physical barriers along their borders to stem the illicit flow of goods and people. Though border fortification policies are both controversial and politically salient, their distributional consequences remain largely unexplored. We study the impact of a border wall project on smuggling in Israel. We use the initial phase of the wall construction to causally estimate spillover effects on cross-border smuggling, especially vehicle theft. We find a large decrease in smuggling of stolen vehicles in protected towns and a similar substantial increase in not-yet-protected towns. For some protected towns, fortification also arbitrarily increased the length of smuggling routes. These township-level shocks further deterred smuggling (6% per kilometer). Our findings suggest that border fortification may have uneven distributional consequences, creating unintended winners and losers.",
+      links: {
+        pdf: "/assets/pdf/2019_QJPS_Conflict_border_walls.pdf",
+        journal: "https://www.nowpublishers.com/article/Details/QJPS-18094",
+        appendix: "/assets/pdf/2019_QJPS_Conflict_border_walls_appendix.pdf",
+        replication: "https://www.nowpublishers.com/article/details/supplementary-info/100.00018094_supp.zip",
+        bibtex: `@article{grossman2019border,
+  title={Border Walls and Smuggling Spillovers},
+  author={Grossman, Guy and Getmansky, Anna and Wright, Austin L.},
+  journal={Quarterly Journal of Political Science},
+  volume={14},
+  number={3},
+  pages={329--347},
+  year={2019}
+}`
+      }
+    },
+    {
+      id: 20,
+      year: 2018,
+      title: "How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel",
+      authors: "Devorah Manekin and Yotam Margalit",
+      journal: "Comparative Political Studies",
+      volume: "51(14): 1823–1857",
+      categories: ['Israel Politics', 'Conflict'],
+      abstract: "How do economic sanctions affect the political attitudes of individuals in targeted countries? Do they reduce or increase support for policy change? Are targeted, “smart” sanctions more effective in generating public support? Despite the importance of these questions for understanding the effectiveness of sanctions, they have received little systematic attention. We address them drawing on original data from Israel, where the threat of economic sanctions has sparked a contentious policy debate. We first examine the political effects of the European Union’s (EU) 2015 decision to label goods produced in the West Bank, and then expand our analysis by employing a survey experiment that allows us to test the differential impact of sanction type and sender identity. We find that the EU’s decision produced a backlash effect, increasing support for hardline policies and raising hostility toward Europe. Our findings further reveal that individuals are likely to support concessions only in the most extreme and unlikely of circumstances—a comprehensive boycott imposed by a sender perceived as a key strategic ally. These results offer theoretical and policy implications for the study of the effects of economic sanctions.",
+      links: {
+        pdf: "/assets/pdf/2018_CPS_Conflict_how_sanctions.pdf",
+        journal: "https://journals.sagepub.com/eprint/FNVxKbKXwaPcIKUaPSnt/full",
+        replication: "https://journals.sagepub.com/doi/suppl/10.1177/0010414018774370/suppl_file/replication.zip",
+        bibtex: `@article{grossman2018sanctions,
+  title={How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel},
+  author={Grossman, Guy and Manekin, Devorah and Margalit, Yotam},
+  journal={Comparative Political Studies},
+  volume={51},
+  number={14},
+  pages={1823--1857},
+  year={2018}
+}`
+      }
+    },
+ {
+      id: 19,
+      year: 2018,
+      title: "Do Men and Women Have Different Policy Preferences in Africa? Determinants and Implications of Gender Gaps in Policy Prioritization",
+      authors: "Jessica Gottlieb and Amanda Lea Robinson",
+      journal: "British Journal of Political Science",
+      volume: "48(3): 611-638",
+      categories: ['Governance'],
+      abstract: "Policies designed to increase women’s representation in Africa are often motivated by the assumption that men and women have different policy preferences. This article finds that gender differences in policy priorities are actually quite small on average, but vary significantly across policy domains and countries. The study leverages this variation to show that the economic and social empowerment of women influences the size of gender gaps in the prioritization of two important domains. In particular, women’s participation in the labor force – an indicator of economic empowerment – narrows the gender gap in the prioritization of infrastructure investment and access to clean water, while social vulnerability widens the gap on prioritizing infrastructure investment. Finally, the article shows that the places where women and men have the most divergent policy preferences – and thus where formal representation is most important – are precisely the places where women are currently the most poorly represented and least active in formal politics.",
+      links: {
+        pdf: "/assets/pdf/2018_BJPS_Identity_do_men_and_women.pdf",
+        journal: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/do-men-and-women-have-different-policy-preferences-in-africa-determinants-and-implications-of-gender-gaps-in-policy-prioritization/CE824A46AE39D05FC79900C50DCEC0C4",
+        appendix: "/assets/pdf/2018_BJPS_Identity_do_men_and_women_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIWLCJ",
+        bibtex: `@article{grossman2018gender,
+  title={Do Men and Women Have Different Policy Preferences in Africa? Determinants and Implications of Gender Gaps in Policy Prioritization},
+  author={Grossman, Guy and Gottlieb, Jessica and Robinson, Amanda Lea},
+  journal={British Journal of Political Science},
+  volume={48},
+  number={3},
+  pages={611--638},
+  year={2018}
+}`
+      }
+    },
+{
+      id: 18,
+      year: 2018,
+      title: "Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda",
+      authors: "Kristin Michelitch",
+      journal: "American Political Science Review",
+      volume: "112(2): 280-301",
+      categories: ['Governance'],
+      abstract: "Politicians shirk when their performance is obscure to constituents. We theorize that when politician performance information is disseminated early in the electoral term, politicians will subsequently improve their performance in anticipation of changes in citizens’ evaluative criteria and possible challenger entry in the next election. However, politicians may only respond in constituencies where opposition has previously mounted. We test these predictions in partnership with a Ugandan civil society organization in a multiyear field experiment conducted in 20 district governments between the 2011 and 2016 elections. While the organization published yearly job duty performance scorecards for all incumbents, it disseminated the scorecards to constituents for randomly selected politicians. These dissemination efforts induced politicians to improve performance across a range of measures, but only in competitive constituencies. Service delivery was unaffected. We conclude that, conditional on electoral pressure, transparency can improve politicians’ performance between elections but not outcomes outside of their control.",
+      links: {
+        pdf: "/assets/pdf/2018_APSR_PE_information_dissemination.pdf",
+        journal: "http://bit.ly/2FTkhR6",
+        appendix: "/assets/pdf/2018_APSR_PE_information_dissemination_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AI3VM8",
+        bibtex: `@article{grossman2018information,
+  title={Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda},
+  author={Grossman, Guy and Michelitch, Kristin},
+  journal={American Political Science Review},
+  volume={112},
+  number={2},
+  pages={280--301},
+  year={2018}
+}`
+      }
+    },
+
+  {
+      id: 17,
+      year: 2018,
+      title: "Crowdsourcing Accountability: ICT for Service Delivery",
+      authors: "Melina R. Platas and Jonathan Rodden",
+      journal: "World Development",
+      volume: "112: 74-87",
+      categories: ['Governance'],
+      abstract: "We examine the effect on service delivery outcomes of a new information communication technology (ICT) platform that allows citizens to send free and anonymous messages to local government officials, thus reducing the cost and increasing the efficiency of communication about public services. In particular, we use a field experiment to assess the extent to which the introduction of this ICT platform improved monitoring by the district, effort by service providers, and inputs at service points in health, education and water in Arua District, Uganda. We find suggestive evidence of a short-term improvement in some education services, but these effects deteriorate by year two of the program, and we find little or no evidence of an effect on health and water services at any period. Despite relatively high levels of system uptake, enthusiasm of district officials, and anecdotal success stories, we find that relatively few messages from citizens provided specific, actionable information about service provision within the purview and resource constraints of district officials, and users were often discouraged by officials’ responses. Our findings suggest that for crowd-sourced ICT programs to move from isolated success stories to long-term accountability enhancement, the quality and specific content of reports and responses provided by users and officials is centrally important.",
+      links: {
+        pdf: "/assets/pdf/2018_WD_ICT_crowdsourcing_accountability.pdf",
+        journal: "https://www.sciencedirect.com/science/article/pii/S0305750X18302286",
+        appendix: "/assets/pdf/2018_WD_ICT_crowdsourcing_accountability_appendix.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FFBNBU",
+        bibtex: `@article{grossman2018crowdsourcing,
+  title={Crowdsourcing Accountability: ICT for Service Delivery},
+  author={Grossman, Guy and Platas, Melina R. and Rodden, Jonathan},
+  journal={World Development},
+  volume={112},
+  pages={74--87},
+  year={2018}
+}`
+      }
     }
+
   ];
 
   const WORKING = [
