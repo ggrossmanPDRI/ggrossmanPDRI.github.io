@@ -260,7 +260,7 @@
     title: "Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash",
     authors: "Yang-Yang Zhou, Shuning Ge, Guy Grossman",
     journal: "World Development",
-    volume: "166203"
+    volume: "166203",
     status: "published",
     categories: ["Migration"],
     abstract: "Large arrivals of refugees raise concerns about potential tensions with host communities, particularly if refugees are viewed as an out-group competing for limited material resources and crowding out public services. To address these concerns, calls have increased to allocate humanitarian aid in ways that also benefit host communities. This study tests whether the increased presence of refugees, when coupled with humanitarian aid, improves public service delivery for host communities and dampens potential social conflict. We study this question in Uganda, one of the largest and most inclusive refugee-hosting countries. The data combines geospatial information on refugee settlements with original longitudinal data on primary and secondary schools, road density, health clinics, and health utilization. We report two key findings. First, even after the 2014 arrival of over 1 million South Sudanese refugees, host communities with greater refugee presence experienced substantial improvements in local development. Second, using public opinion data, we find no evidence that refugee presence has been associated with more negative (or positive) attitudes towards migrants or migration policy.",
@@ -269,7 +269,7 @@
       journal: "https://doi.org/10.1016/j.worlddev.2023.106203"
       appendix: "/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf",
       replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TXSZDC",
-      bibtex: `ZHOU2023106203,
+      bibtex: `@article{ZHOU2023106203,
 title = {Inclusive refugee-hosting can improve local development and prevent public backlash},
 journal = {World Development},
 volume = {166},
