@@ -203,61 +203,7 @@ nav: true
   min-width: 0;
 }
 
-/* =========================================================
-   DENSE CARD STYLE (reduced vertical whitespace)
-   ========================================================= */
 
-.pubs-card {
-  width: 100%;
-  max-width: none;
-  padding: 0.75rem 0.9rem;
-  margin-bottom: 0.7rem;
-  border-radius: 10px;
-}
-
-.pubs-card h4 {
-  margin: 0 0 0.15rem 0;
-  font-size: 1.02rem;
-  line-height: 1.25;
-}
-
-.pubs-meta {
-  margin-bottom: 0.25rem;
-  font-size: 0.88rem;
-  line-height: 1.25;
-}
-
-.pubs-badges {
-  margin-bottom: 0.25rem;
-}
-
-.pubs-badge {
-  font-size: 0.72rem;
-  padding: 0.15rem 0.45rem;
-}
-
-/* Abstract toggle compact */
-.pubs-card details summary {
-  margin: 0.25rem 0;
-  font-size: 0.85rem;
-}
-
-/* =========================================================
-   ACTION BUTTON ROW — DENSE & INLINE
-   ========================================================= */
-
-.pubs-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-top: 0.35rem;
-}
-
-.pubs-action {
-  font-size: 0.78rem;
-  padding: 0.22rem 0.55rem;
-  border-radius: 999px;
-}
 
 /* =========================================================
    BIBTEX PANEL — DENSE
@@ -311,6 +257,49 @@ nav: true
   font-size: 0.72rem;
   padding: 0.25rem 0.3rem;
 }
+
+/* ==============================
+   FORCE FULL-WIDTH (al-folio)
+   ============================== */
+
+/* al-folio wraps pages in containers; remove the max-width on THIS page */
+.page-content .container,
+.post .container,
+.container {
+  max-width: none !important;
+}
+
+/* give the page some breathing room */
+.page-content .container,
+.post .container,
+.container {
+  width: 100% !important;
+  padding-left: 3vw !important;
+  padding-right: 3vw !important;
+}
+
+/* ==============================
+   LANDSCAPE GRID
+   ============================== */
+
+.pubs-ui {
+  display: grid !important;
+  grid-template-columns: minmax(280px, 30vw) minmax(0, 1fr) !important;
+  gap: 3vw !important;
+  align-items: start;
+}
+
+.pubs-main {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
+}
+
+.pubs-card {
+  width: 100% !important;
+  max-width: none !important;
+}
+
 
 
 </style>
