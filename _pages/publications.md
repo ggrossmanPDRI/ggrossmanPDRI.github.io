@@ -177,6 +177,141 @@ nav: true
 .post-header, h1.post-title, h1.page-title, .post-title, .page-title {
   display: none !important;
 }
+
+
+/* =========================================================
+   FULL-WIDTH LAYOUT (page-local, al-folio safe)
+   ========================================================= */
+
+.pubs .container {
+  max-width: none;
+  width: 100%;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+.pubs-ui {
+  display: grid;
+  grid-template-columns: minmax(260px, 30vw) 1fr;
+  gap: 3vw;
+  align-items: start;
+}
+
+.pubs-main {
+  width: 100%;
+  min-width: 0;
+}
+
+/* =========================================================
+   DENSE CARD STYLE (reduced vertical whitespace)
+   ========================================================= */
+
+.pubs-card {
+  width: 100%;
+  max-width: none;
+  padding: 0.75rem 0.9rem;
+  margin-bottom: 0.7rem;
+  border-radius: 10px;
+}
+
+.pubs-card h4 {
+  margin: 0 0 0.15rem 0;
+  font-size: 1.02rem;
+  line-height: 1.25;
+}
+
+.pubs-meta {
+  margin-bottom: 0.25rem;
+  font-size: 0.88rem;
+  line-height: 1.25;
+}
+
+.pubs-badges {
+  margin-bottom: 0.25rem;
+}
+
+.pubs-badge {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.45rem;
+}
+
+/* Abstract toggle compact */
+.pubs-card details summary {
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+}
+
+/* =========================================================
+   ACTION BUTTON ROW — DENSE & INLINE
+   ========================================================= */
+
+.pubs-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.35rem;
+}
+
+.pubs-action {
+  font-size: 0.78rem;
+  padding: 0.22rem 0.55rem;
+  border-radius: 999px;
+}
+
+/* =========================================================
+   BIBTEX PANEL — DENSE
+   ========================================================= */
+
+.pubs-bibpanel {
+  margin-top: 0.4rem;
+  padding: 0.45rem 0.55rem;
+  border-radius: 8px;
+}
+
+.pubs-bibhead {
+  margin-bottom: 0.25rem;
+}
+
+.pubs-bibpre {
+  font-size: 0.74rem;
+  line-height: 1.25;
+}
+
+/* =========================================================
+   YEAR HEADERS — COMPACT
+   ========================================================= */
+
+.pubs-yearhdr {
+  margin: 0.8rem 0 0.3rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* =========================================================
+   SIDEBAR — COMPACT
+   ========================================================= */
+
+.pubs-sidebar h3 {
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+}
+
+.pubs-field {
+  padding: 0.35rem 0.45rem;
+  font-size: 0.85rem;
+}
+
+.pubs-chip {
+  font-size: 0.72rem;
+  padding: 0.2rem 0.45rem;
+}
+
+.pubs-yearbtn {
+  font-size: 0.72rem;
+  padding: 0.25rem 0.3rem;
+}
+
+
 </style>
 
 <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
