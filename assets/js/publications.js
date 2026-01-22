@@ -12,6 +12,7 @@
       abstract: "This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes—shrinking job markets and increased reliance on publication metrics—affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological references.",
       links: {
         pdf: "https://osf.io/preprints/osf/tmy37_v3",
+        webpage: "https://osf.io/preprints/osf/tmy37_v3",
         bibtex: `@article{grossman2026political,
   title={Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023},
   author={Grossman, Guy and Dinneen, William and Torreblanca, Carolina},
@@ -102,6 +103,7 @@ pages={e140}
     abstract: "How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.",
     links: {
       pdf: "/assets/pdf/Voted-in-standing-out-Public-response-to-immigrants-political-accession.pdf",
+      webpage: "https://doi.org/10.1111/ajps.12877",
       appendix: "/assets/pdf/ajps12877-sup-0001-suppmat.pdf",
       replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJ2DW4",
       bibtex: `@article{grossman2025votedin,
@@ -116,6 +118,33 @@ pages={e140}
 }`
     }
   },
+  {
+    id: 43,
+    year: 2024,
+    title: "The Effect of Sustained Transparency on Electoral Accountability",
+    authors: "Kristin Michelitch, Carlo Prato, Guy Grossman",
+    journal: "American Journal of Political Science",
+    volume : " 68(3): 1022-1040",
+    status: "published",
+    categories: ["Governance"],
+    abstract: "Transparency is expected to strengthen electoral accountability. Yet, initiatives disseminating politician performance information directly prior to elections have reported disappointing results. We argue that to be effective transparency needs to be sustained: the dissemination of politician performance information needs to occur early, regularly, and predictably throughout the term. Using a formal model of electoral accountability under non-programmatic and uneven party competition, we study how sustained transparency impacts a string of decisions by various actors in advance of elections: incumbents' running choices, party nomination strategies, and potential challengers' entry decisions. We show how these effects shape the candidate slate and ultimately electoral outcomes, conditional on incumbent performance and the incumbent party's relative strength. We test our theory using a field experiment involving 354 subnational constituencies in Uganda, and find robust support to the idea that sustained transparency can improve electoral accountability even in weakly institutionalized electoral settings.",
+    links: {
+      pdf: "/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency.pdf",
+      webpage: "https://onlinelibrary.wiley.com/doi/10.1111/ajps.12787",
+      appendix :"/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency_appendix.pdf",
+      replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2E4MOZ",
+      bibtex: `@article{grossman2024transparency,
+  title={The Effect of Sustained Transparency on Electoral Accountability},
+  author={Michelitch, Kristin and Prato, Carlo and Grossman, Guy},
+  journal={American Journal of Political Science},
+  volume ={68},
+  number={3},
+  pages={1022-1040},
+  year={2024},
+  status={published}
+}`
+    }
+  }
     {
       id: 44,
       year: 2024,

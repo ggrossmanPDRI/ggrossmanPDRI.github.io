@@ -258,6 +258,11 @@ nav: true
   padding: 0.25rem 0.3rem;
 }
 
+.pubs-journal {
+  font-weight: 600;
+}
+
+
 /* ==============================
    FORCE FULL-WIDTH (al-folio)
    ============================== */
