@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Articles/
-title: Articles
+permalink: /articles/
+title: articles
 order: 3
 nav: true
 ---
