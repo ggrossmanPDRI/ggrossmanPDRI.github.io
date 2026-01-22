@@ -303,7 +303,7 @@ nav: true
 
 .pubs-journal,
 .pubs-meta em {
-  font-weight: 600;
+  font-weight: 500;
   font-style: italic;
 }
 
