@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policy Reports
+title: policy reports
 nav: true
 dropdown: true
 order: 4
