@@ -2,7 +2,7 @@
 layout: page
 title: policy reports
 nav: true
-dropdown: true
+dropdown: false
 order: 4
 children: 
     - title: books

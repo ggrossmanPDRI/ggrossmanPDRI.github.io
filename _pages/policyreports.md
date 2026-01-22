@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /pr/
+permalink: /policyreports/
 title: policy reports
+order: 4
 description: 
-nav: false
+nav: true
 ---
 
 
