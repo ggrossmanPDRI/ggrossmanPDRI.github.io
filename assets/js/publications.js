@@ -144,7 +144,7 @@ pages={e140}
   status={published}
 }`
     }
-  }
+  },
     {
       id: 44,
       year: 2024,
