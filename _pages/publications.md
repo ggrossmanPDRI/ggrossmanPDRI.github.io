@@ -258,10 +258,6 @@ nav: true
   padding: 0.25rem 0.3rem;
 }
 
-.pubs-journal {
-  font-weight: 600;
-}
-
 
 /* ==============================
    FORCE FULL-WIDTH (al-folio)
@@ -303,6 +299,12 @@ nav: true
 .pubs-card {
   width: 100% !important;
   max-width: none !important;
+}
+
+.pubs-journal,
+.pubs-meta em {
+  font-weight: 600;
+  font-style: italic;
 }
 
 
