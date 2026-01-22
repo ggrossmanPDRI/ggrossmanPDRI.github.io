@@ -1,14 +1,15 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /articles/
+title: articles
+nav_order: 3
 nav: true
 ---
 
 <section class="pubs">
   <div class="container">
     <header class="pubs__header">
-      <h1>Research Publications</h1>
+      <h1>Research Articles</h1>
       <p class="pubs__subtitle">Guy Grossman • University of Pennsylvania</p>
     </header>
 

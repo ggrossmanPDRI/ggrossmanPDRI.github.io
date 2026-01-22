@@ -155,8 +155,8 @@ pages={e140}
       volume: "118",
       issue: "3",
       pages: "1556–1562",
-      categories: ["Governance"],
-      abstract: "We show that constituencies narrowly won by an ethnic minority candidate experience higher turnout in the next election, driven by majority-white constituencies.",
+      categories: ["Governance", "Migration"],
+      abstract: "In Western democracies, like the United States, the United Kingdom, and Germany, the number of ethnic minority representatives has been steadily increasing. How is this trend shaping electoral behavior? Past work has focused on the effects of minority representation on ethnic minorities’ political engagement, with less attention to the electoral behavior of majority-group members. We argue that increased minorities’ representation can be experienced as a threat to a historically white-dominant political context. This, in turn, politically activates white constituents. Using data from four U.K. general elections and a regression discontinuity design, we find that the next election’s turnout in constituencies narrowly won by an ethnic minority candidate is 4.3 percentage points larger than in constituencies narrowly won by a white candidate. Consistent with our argument, this turnout difference is driven by majority-white constituencies. Our findings have implications for intergroup relations and party politics and help explain recent political dynamics.",
       links: {
         webpage: "https://doi.org/10.1017/S000305542300103X",
         pdf: "/assets/pdf/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters.pdf",
