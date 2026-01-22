@@ -1523,7 +1523,7 @@ const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin
       <article class="pubs-card" id="pub-${p.id}">
         <h4>${titleHtml}</h4>
         <div class="pubs-meta">
-          ${escapeHtml(p.authors)}${venue ? ` • ${escapeHtml(venue)}` : ""}${p.status ? ` • ${escapeHtml(p.status)}` : ""}
+          ${escapeHtml(p.authors)}${venue ? ` • ${venue}` : ""}${p.status ? ` • ${escapeHtml(p.status)}` : ""}
         </div>
 
         ${cats ? `<div class="pubs-badges">${cats}</div>` : ""}
