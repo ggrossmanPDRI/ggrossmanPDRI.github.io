@@ -1367,7 +1367,7 @@ year = {2006}
 
   const formatVenue = (p) => {
     const bits = [];
-    if (p.journal) bits.push(p.journal);
+    if (p.journal) bits.push(`<em>${p.journal}</em>`);
     const vol = (p.volume || "").trim();
     const iss = (p.issue || "").trim();
     const pag = (p.pages || "").trim();
