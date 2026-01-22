@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Articles/
-title: articles
+title: Articles
 order: 3
 nav: true
 ---
