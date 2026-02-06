@@ -959,7 +959,7 @@ status={published}
       authors: "Guy Grossman",
       journal: "Journal of Politics",
       volume: "77(2): 337-351",
-      categories: ['Knowledge Production'],
+      categories: ['Governance'],
       abstract: "One key political development in the past decade in many, but not all, countries across Africa has been the growing saliency of morality politics in general, and of lesbian, gay, bisexual, and transgender (LGBT) politics in particular. I argue that the uneven upward trend in the political saliency of LGBTs is closely related to two recent political processes: (1) a rapid growth of Pentecostal, Evangelical, and related Renewalist or Spirit-filled churches (demand-side factor) and (2) a democratization process leading to heightened political competition (supply side). To evaluate the above proposition, I created an original, fine-grained longitudinal dataset of media coverage of LGBTs in Africa, which I use as a measure of issue saliency. Using a series of negative binomial regression models, I find robust evidence that the saliency of LGBTs increases with a country’s population share of Renewalist Christians and that this effect increases with rising levels of political competition.",
       links: {
         pdf: "/assets/pdf/2015_JoP_Identity_renewalist_christianity.pdf",
@@ -1008,7 +1008,7 @@ status={published}
       authors: "Guy Grossman, Macartan Humphreys and Gabriella Sacramone-Lutz",
       journal: "American Political Science Review",
       volume: "108(3): 688-705",
-      categories: ['Knowledge Production'],
+      categories: ['Governance'],
       abstract: "How does access to information communication technology (ICT) affect who gets heard and what gets communicated to politicians? On the one hand, ICT can lower communication costs for poorer constituents; on the other, technological channels may be used disproportionately more by the already well connected. To assess the flattening effects of ICTs, we presented a representative sample of constituents in Uganda with an opportunity to send a text message to their representatives at one of three randomly assigned prices. Critically, and contrary to concerns that technological innovations benefit the privileged, we find evidence that ICT can lead to significant flattening: a greater share of marginalized populations use this channel compared to existing political communication channels. Price plays a more complex role. Subsidizing the full cost of messaging increases uptake by over 40%. Surprisingly however, subsidy-induced increases in uptake do not yield further flattening since free channels are not used at higher rates by more marginalized constituents.",
       links: {
         pdf: "/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP.pdf",
@@ -1108,7 +1108,7 @@ status={published}
       authors: "Guy Grossman and Delia Baldassarri",
       journal: "PLoS ONE",
       volume: "8(3): e58750",
-      categories: ['Knowledge Production'],
+      categories: ['Governance'],
       abstract: "Social life is regulated by norms of fairness that constrain selfish behavior. While a substantial body of scholarship on prosocial behavior has provided evidence of such norms, large inter- and intra-personal variation in prosocial behavior still needs to be explained. The article identifies two social-structural dimensions along which people's generosity varies systematically: group attachment and social position. We conducted lab-in-the-field experiments involving 2,597 members of producer organizations in rural Uganda. Using different variants of the dictator game, we demonstrate that group attachment positively affects prosocial behavior, and that this effect is not simply the by-product of the degree of proximity between individuals. Second, we show that occupying a formal position in an organization or community leads to greater generosity toward in-group members. Taken together, our findings show that prosocial behavior is not an invariant social trait; rather, it varies according to individuals' relative position in the social structure.",
       links: {
         pdf: "/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment.pdf",
@@ -1132,7 +1132,7 @@ status={published}
       authors: "Guy Grossman and Delia Baldassarri",
       journal: "American Journal of Political Science",
       volume: "56(4): 964-985",
-      categories: ['Knowledge Production'],
+      categories: ['Governance'],
       abstract: "Communities often rely on sanctioning to induce public goods contributions. Past studies focus on how external agencies or peer sanctioning induce cooperation. In this article, we focus instead on the role played by centralized authorities, internal to the community. Combining “lab-in-the-field” experiments with observational data on 1,541 Ugandan farmers from 50 communities, we demonstrate the positive effect of internal centralized sanctioning authorities on cooperative behavior. We also show that the size of this effect depends on the political process by which authority is granted: subjects electing leaders contribute more to public goods than subjects who were assigned leaders through a lottery. To test the ecological validity of our findings, we relate farmers’ behavior in the experiment to their level of cooperation in their community organization. We show that deference to authority in the controlled setting predicts cooperative behavior in the farmers’ natural environment, in which they face a similar social dilemma.",
       links: {
         pdf: "/assets/pdf/2012_AJPS_PE_the_impact_of_elections.pdf",
@@ -1157,7 +1157,7 @@ status={published}
       authors: "Delia Baldassarri and Guy Grossman",
       journal: "Proceedings of the National Academy of Sciences",
       volume: "108(27) 11023-11027",
-      categories: ['Knowledge Production'],
+      categories: ['Governance'],
       abstract: "Social sanctioning is widely considered a successful strategy to promote cooperation among humans. In situations in which individual and collective interests are at odds, incentives to free-ride induce individuals to refrain from contributing to public goods provision. Experimental evidence from public goods games shows that when endowed with sanctioning powers, conditional cooperators can discipline defectors, thus leading to greater levels of cooperation. However, extant evidence is based on peer punishment institutions, whereas in complex societies, systems of control are often centralized: for instance, we do not sanction our neighbors for driving too fast, the police do. Here we show the effect of centralized sanctioning and legitimate authority on cooperation. We designed an adaptation of the public goods game in which sanctioning power is given to a single monitor, and we experimentally manipulated the process by which the monitor is chosen. To increase the external validity of the study, we conducted lab-in-the-field experiments involving 1,543 Ugandan farmers from 50 producer cooperatives. This research provides evidence of the effectiveness of centralized sanctioning and demonstrates the causal effect of legitimacy on cooperation: participants are more responsive to the authority of an elected monitor than a randomly chosen monitor. Our essay contributes to the literature on the evolution of cooperation by introducing the idea of role differentiation. In complex societies, cooperative behavior is not only sustained by mechanisms of selection and reciprocity among peers, but also by the legitimacy that certain actors derive from their position in the social hierarchy.",
       links: {
         pdf: "/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf",
@@ -1181,7 +1181,7 @@ status={published}
       authors: "Guy Grossman and Rami Kaplan",
       journal: "Peace Review",
       volume: "18",
-      categories: ['Israel Politics'],
+      categories: ['Israel Politics', 'Conflict'],
       abstract: "In January 2002, a group of 51 Israeli reserve combat officers and soldiers published a 'combatant letter' to the Israeli public declaring, 'We shall not continue to fight beyond the 1967 borders in order to dominate, expel, starve, and humiliate an entire people.' This act, later known as the Courage to Refuse movement, was nothing less than a political and social earthquake, shaking up the dormant Israeli public and apathetic media, as well as bringing unprecedented public attention to the issue of the occupation. In a 2004 interview with Haaretz, Dov Weisglas, senior adviser to Prime Minister Ariel Sharon, pointed to the clamorous refusal movement as one of the main factors pushing Sharon toward determinate actions. According to Weisglas, the emergence of the refusal movement (together with the Geneva initiative and the economic recession) made Sharon understand the necessity of meaningful concessions in order to secure the unity of Israeli society",
       links: {
         pdf: "/assets/pdf/2006_PR_Conflict_courage_to_refuse.pdf",
