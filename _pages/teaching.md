@@ -33,6 +33,13 @@ display_categories: [work, fun]
     </div>
 
     <div class="teaching__card">
+      <div class="teaching__level teaching__level--undergrad">Undergraduate Lecture</div>
+      <h3 class="teaching__title">Introduction to Comparative Politics</h3>
+      <div class="teaching__meta">Last offered: Fall 2024</div>
+      <a class="teaching__syllabus" href="/assets/pdf/Syllabus_IntroCP_Fall_2024.pdf" target="_blank" rel="noopener noreferrer">Syllabus &rarr;</a>
+    </div>
+
+    <div class="teaching__card">
       <div class="teaching__level teaching__level--grad">Graduate Seminar</div>
       <h3 class="teaching__title">Political Economy of Developing Countries</h3>
       <div class="teaching__meta">Last offered: Spring 2024</div>
