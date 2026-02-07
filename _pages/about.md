@@ -24,6 +24,8 @@ My research is in applied political economy, with a substantive focus on governa
 
 I am the founder and co-director of Penn's Development Research Initiative ([PDRI-DevLab](https://pdri-devlab.upenn.edu/)). Launched in 2020, PDRI-DevLab brings together faculty and graduate students from across Penn whose research seeks to identify solutions to the challenges facing low- and middle-income countries. PDRI seeks to foster impactful international development research by harnessing the expertise of its affiliates from various disciplines and utilizing diverse methodological approaches.
 
+My work has appeared in *Science*, *Proceedings of the National Academy of Sciences*, *Science Advances*, the *American Political Science Review*, the *American Journal of Political Science*, *International Organization*, and the *Journal of Politics*, among other journals.
+
 <div class="home-section">
   <h4 class="home-section__title">Affiliations</h4>
   <div class="home-affiliations">
@@ -36,8 +38,6 @@ I am the founder and co-director of Penn's Development Research Initiative ([PDR
     <a class="home-affil" href="https://normsandbehavior.sas.upenn.edu/" target="_blank" rel="noopener noreferrer">Penn Norms & Behavioral Dynamics</a>
   </div>
 </div>
-
-My work has appeared in *Science*, *Proceedings of the National Academy of Sciences*, *Science Advances*, the *American Political Science Review*, the *American Journal of Political Science*, *International Organization*, and the *Journal of Politics*, among other journals.
 
 <div class="home-section">
   <h4 class="home-section__title">Education</h4>
