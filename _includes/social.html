@@ -2,59 +2,59 @@
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
             {%- if site.orcid_id -%}
-            <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+            <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid"></i></a>
             {% endif %}
             {%- if site.scholar_userid -%}
-            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
             {% endif %}
             {%- if site.publons_id -%}
-            <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
+            <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons" target="_blank" rel="noopener noreferrer"><i class="ai ai-publons"></i></a>
             {% endif %}
             {%- if site.research_gate_profile -%}
-            <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+            <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate"></i></a>
             {% endif %}
             {%- if site.github_username -%}
-            <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://github.com/{{ site.github_username }}" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
             {% endif %}
             {%- if site.linkedin_username -%}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
             {% endif %}
             {%- if site.twitter_username -%}
-            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
             {% endif %}
             {%- if site.bluesky_username -%}
-            <a href="https://bsky.app/profile/{{ site.bluesky_username }}" title="Bluesky"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 501" style="width:1em;height:1em;vertical-align:-0.125em;fill:currentColor;"><path d="M123.121 33.664C188.241 82.553 258.281 181.68 284 234.873c25.719-53.192 95.759-152.32 160.879-201.21C491.866-1.611 568-28.906 568 57.947c0 17.346-9.945 145.713-15.778 166.555-20.275 72.453-94.155 90.933-159.875 79.748C507.222 323.8 536.444 388.56 473.333 453.32c-119.86 122.992-172.272-30.859-185.702-70.281-2.462-7.227-3.614-10.608-3.631-7.733-.017-2.875-1.169.506-3.631 7.733-13.43 39.422-65.842 193.273-185.702 70.281-63.111-64.76-33.889-129.52 80.986-149.071-65.72 11.185-139.6-7.295-159.875-79.748C10.945 203.659 1 75.291 1 57.946 1-28.906 76.135-1.612 123.121 33.664Z"/></svg></a>
+            <a href="https://bsky.app/profile/{{ site.bluesky_username }}" title="Bluesky" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 501" style="width:1em;height:1em;vertical-align:-0.125em;fill:currentColor;"><path d="M123.121 33.664C188.241 82.553 258.281 181.68 284 234.873c25.719-53.192 95.759-152.32 160.879-201.21C491.866-1.611 568-28.906 568 57.947c0 17.346-9.945 145.713-15.778 166.555-20.275 72.453-94.155 90.933-159.875 79.748C507.222 323.8 536.444 388.56 473.333 453.32c-119.86 122.992-172.272-30.859-185.702-70.281-2.462-7.227-3.614-10.608-3.631-7.733-.017-2.875-1.169.506-3.631 7.733-13.43 39.422-65.842 193.273-185.702 70.281-63.111-64.76-33.889-129.52 80.986-149.071-65.72 11.185-139.6-7.295-159.875-79.748C10.945 203.659 1 75.291 1 57.946 1-28.906 76.135-1.612 123.121 33.664Z"/></svg></a>
             {% endif %}
             {%- if site.medium_username -%}
-            <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fab fa-medium"></i></a>
+            <a href="https://medium.com/@{{ site.medium_username }}" title="Medium" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium"></i></a>
             {% endif %}
             {%- if site.quora_username -%}
-            <a href="https://www.quora.com/profile/{{ site.quora_username }}" title="Quora"><i class="fab fa-quora"></i></a>
+            <a href="https://www.quora.com/profile/{{ site.quora_username }}" title="Quora" target="_blank" rel="noopener noreferrer"><i class="fab fa-quora"></i></a>
             {% endif %}
             {%- if site.blogger_url -%}
-            <a href="{{ site.blogger_url }}" title="Blogger"><i class="fab fa-blogger-b"></i></a>
+            <a href="{{ site.blogger_url }}" title="Blogger" target="_blank" rel="noopener noreferrer"><i class="fab fa-blogger-b"></i></a>
             {% endif %}
             {%- if site.work_url -%}
-            <a href="{{ site.work_url }}" title="Work"><i class="fas fa-briefcase"></i></a>
+            <a href="{{ site.work_url }}" title="Work" target="_blank" rel="noopener noreferrer"><i class="fas fa-briefcase"></i></a>
             {% endif %}
             {%- if site.wikidata_id -%}
-            <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fas fa-barcode"></i></a>
+            <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata" target="_blank" rel="noopener noreferrer"><i class="fas fa-barcode"></i></a>
             {% endif %}
             {%- if site.strava_userid -%}
-            <a href="https://www.strava.com/athletes/{{ site.strava_userid }}" title="Strava"><i class="fab fa-strava"></i></a>
+            <a href="https://www.strava.com/athletes/{{ site.strava_userid }}" title="Strava" target="_blank" rel="noopener noreferrer"><i class="fab fa-strava"></i></a>
             {% endif %}
             {%- if site.keybase_username -%}
-            <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase"><i class="fab fa-keybase"></i></a>
+            <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase" target="_blank" rel="noopener noreferrer"><i class="fab fa-keybase"></i></a>
             {% endif %}
             {%- if site.gitlab_username -%}
-            <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fab fa-gitlab"></i></a>
+            <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab" target="_blank" rel="noopener noreferrer"><i class="fab fa-gitlab"></i></a>
             {% endif %}
             {%- if site.dblp_url -%}
-            <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
+            <a href="{{ site.dblp_url }}" title="DBLP" target="_blank" rel="noopener noreferrer"><i class="ai ai-dblp"></i></a>
             {% endif %}
             {%- if site.stackoverflow_id -%}
-            <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
+            <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow" target="_blank" rel="noopener noreferrer"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
             {%- if site.rss_icon -%}
-            <a href="{{ site.baseurl  }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            <a href="{{ site.baseurl  }}/feed.xml" title="RSS Feed" target="_blank" rel="noopener noreferrer"><i class="fas fa-rss-square"></i></a>
             {% endif %}
