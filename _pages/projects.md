@@ -17,7 +17,7 @@ In collaboration with Mercy Corps and Stanford's Immigration Policy Lab (IPL), t
 <br />
 
 [2] **Evaluating scalable approaches to reducing sexual violence towards children in Liberia** 
-*With Alex Hartman (UCL) and Cecilia Mo (UC Berkeley)*   
+*With Alex Hartman (UCL), Cecilia Mo (UC Berkeley), and Carolina Torreblanca (UPenn)*   
 <details>
   <summary>Description</summary>
 Funded by the Fund for Innovation in Development (FID), this collaborative project seeks to develop and evaluate an innovative child protection program to minimize risks of transactional sex involving children and sexual violence towards children in Liberia. The intervention, implemented by World Hope International (WHI), consists of a child-friendly flipchart and associated curriculum delivered to middle school children, teachers, and staff, focusing on bodily autonomy, identifying inappropriate behavior, and how to report incidents. This curriculum is supplemented by activities to improve both schools' and communities' ability to prevent and respond to sexual violence towards children (including, but not limited to, transactional sex). Using an RCT study design, we are evaluating WHI's activities on children's awareness of sexual violence and victimization, as well as communities' norms regarding transactional sex with minors. 
@@ -35,7 +35,7 @@ In 2023, 1.5% of the world's population (117.3 million) was forcibly displaced, 
 <br /> -->
 
 [3] **Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts in Uganda** 
-*With Yang-Yang Zhou (Dartmouth) and Shelby Carvalho (Harvard)*   
+*With Yang-Yang Zhou (Dartmouth), Shelby Carvalho (Harvard), and Iman Dhar (PDRI-DevLab)*   
 <details>
   <summary>Description</summary>
 Funded by the Conrad N. Hilton Foundation, Innovations for Poverty Action’s Lab Displaced Livelihoods Initiative(DLI), Penn Global Research and Engagement Grant Program, and in collaboration with UNHCR, this project studies the effects of a dramatic drop in the level of support for refugees. In the summer of 2023, UNHCR and the World Food Programme (WFP) launched a new policy in Uganda that reduces unconditional cash and in-kind transfers for 1.5 million refugees. We are using an innovative regression discontinuity study design to evaluate the effects of these aid cuts on refugees’ welfare and livelihood adaptation strategies. As budgetary cuts are anticipated in multiple refugee-hosting contexts, this research will inform policymakers on the effects of funding withdrawal and contribute to the extensive literature on cash transfers.
