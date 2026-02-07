@@ -18,8 +18,8 @@ nav: true
 </section>
 
 <style>
-.pubs { padding-top: 1.5rem; padding-bottom: 2rem; }
-.pubs__header { text-align: center; margin-bottom: 1.75rem; }
+.pubs { padding-top: 1rem; padding-bottom: 1.5rem; background: var(--global-bg-color, #fafbfc); }
+.pubs__header { text-align: center; margin-bottom: 1rem; position: sticky; top: 0; z-index: 10; background: var(--global-bg-color, #fafbfc); padding: 0.6rem 0; border-bottom: 1px solid var(--global-divider-color, rgba(0,0,0,0.06)); }
 .pubs__subtitle { color: var(--global-text-color-light); margin: 0; }
 
 .pubs-ui { display: grid; grid-template-columns: 30% 70%; gap: 2.5%; align-items: start; }
@@ -31,8 +31,8 @@ nav: true
 .pubs-panel {
   background: var(--global-card-bg-color, rgba(255,255,255,0.7));
   border: 1px solid var(--global-divider-color, rgba(0,0,0,0.08));
-  border-radius: 16px;
-  padding: 1rem;
+  border-radius: 12px;
+  padding: 0.75rem;
 }
 
 .pubs-panel h3 { font-size: 0.95rem; margin: 0 0 0.5rem 0; }
@@ -78,25 +78,29 @@ nav: true
 .pubs-tab.is-active { background: rgba(59,130,246,0.14); }
 
 .pubs-main .pubs-card {
-  border: 1px solid var(--global-divider-color, rgba(0,0,0,0.08));
-  border-radius: 18px;
-  padding: 1rem 1rem 0.9rem;
-  margin-bottom: 0.85rem;
+  border: none;
+  border-left: 3px solid rgba(59,130,246,0.35);
+  border-radius: 0 10px 10px 0;
+  padding: 0.65rem 0.85rem;
+  margin-bottom: 0.5rem;
   background: var(--global-card-bg-color, rgba(255,255,255,0.7));
-  box-shadow: 0 8px 24px rgba(0,0,0,0.04);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: border-left-color 0.2s, box-shadow 0.2s;
 }
-.pubs-main .pubs-card h4 { margin: 0 0 0.35rem; font-size: 1.05rem; }
-.pubs-meta { color: var(--global-text-color-light); font-size: 0.92rem; margin-bottom: 0.55rem; }
-.pubs-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.65rem; }
+.pubs-main .pubs-card:hover { border-left-color: rgba(59,130,246,0.7); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.pubs-main .pubs-card h4 { margin: 0 0 0.2rem; font-size: 1rem; line-height: 1.35; }
+.pubs-meta { color: var(--global-text-color-light); font-size: 0.88rem; margin-bottom: 0.3rem; }
+.pubs-badges { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-bottom: 0.35rem; }
 .pubs-badge {
-  font-size: 0.78rem;
-  padding: 0.15rem 0.5rem;
+  font-size: 0.72rem;
+  padding: 0.1rem 0.4rem;
   border-radius: 999px;
-  background: rgba(127,127,127,0.10);
+  background: rgba(59,130,246,0.08);
   color: var(--global-text-color);
+  border: 1px solid rgba(59,130,246,0.15);
 }
 
-.pubs-actions { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center; margin-top: 0.55rem; }
+.pubs-actions { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; margin-top: 0.35rem; }
 .pubs-action {
   display: inline-flex;
   align-items: center;
@@ -124,7 +128,7 @@ nav: true
   font-size: 0.8rem;
 }
 
-.pubs-yearhdr { margin: 1.25rem 0 0.5rem; font-size: 0.95rem; color: var(--global-text-color-light); }
+.pubs-yearhdr { margin: 1rem 0 0.4rem; font-size: 0.85rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--global-text-color-light); border-bottom: 2px solid rgba(59,130,246,0.2); padding-bottom: 0.25rem; }
 .pubs-empty { padding: 1rem; border-radius: 14px; border: 1px dashed var(--global-divider-color, rgba(0,0,0,0.18)); color: var(--global-text-color-light); }
 /* Make layout use page width nicely (scoped) */
 .pubs .container { max-width: 100%; padding-left: 2.5%; padding-right: 2.5%; }
@@ -230,9 +234,9 @@ nav: true
    ========================================================= */
 
 .pubs-yearhdr {
-  margin: 0.8rem 0 0.3rem;
-  font-size: 0.9rem;
-  font-weight: 600;
+  margin: 0.75rem 0 0.3rem;
+  font-size: 0.82rem;
+  font-weight: 700;
 }
 
 /* =========================================================
@@ -286,8 +290,8 @@ nav: true
 
 .pubs-ui {
   display: grid !important;
-  grid-template-columns: minmax(280px, 30vw) minmax(0, 1fr) !important;
-  gap: 3vw !important;
+  grid-template-columns: minmax(240px, 22vw) minmax(0, 1fr) !important;
+  gap: 2vw !important;
   align-items: start;
 }
 
