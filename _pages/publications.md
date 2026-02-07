@@ -9,7 +9,7 @@ nav: true
 <section class="pubs">
   <div class="container">
     <header class="pubs__header">
-      <h1>Research Articles</h1>
+      <h1>Peer-Reviewed Articles</h1>
       <p class="pubs__subtitle">Guy Grossman • University of Pennsylvania</p>
     </header>
 

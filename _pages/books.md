@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: Books
+title: book
 order: 4
 description:
 nav: true
