@@ -1,0 +1,557 @@
+\documentclass[10pt,a4paper]{article}
+
+% Modern packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1.8cm, top=1.5cm, bottom=1.5cm]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{etaremune}
+\usepackage{calc}
+
+% Colors - elegant dark blue theme
+\definecolor{primary}{HTML}{2C3E50}
+\definecolor{secondary}{HTML}{7F8C8D}
+\definecolor{accent}{HTML}{3498DB}
+\definecolor{lightgray}{HTML}{ECF0F1}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accent,
+    urlcolor=accent,
+    pdfborder={0 0 0}
+}
+
+% Remove paragraph indentation
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+% Section formatting - clean lines
+\titleformat{\section}
+    {\Large\bfseries\color{primary}}
+    {}
+    {0em}
+    {}
+    [\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{6pt}
+
+% Subsection formatting
+\titleformat{\subsection}
+    {\normalsize\bfseries\color{primary}}
+    {}
+    {0em}
+    {}
+\titlespacing*{\subsection}{0pt}{6pt}{3pt}
+
+% Header/Footer
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\color{secondary}\small Guy Grossman --- Curriculum Vitae --- \thepage\ / \pageref{LastPage}}
+
+% Custom commands
+\newcommand{\cventry}[4]{%
+    \textbf{#1} \hfill \textcolor{secondary}{#2}\\
+    \textit{#3} \hfill \textcolor{secondary}{#4}
+    \vspace{3pt}
+}
+
+\newcommand{\affiliation}[3]{%
+    #1 (\href{#2}{#3})%
+}
+
+\newcommand{\pubitem}[2]{%
+    \item \textcolor{secondary}{#1}\quad #2%
+}
+
+% Reverse numbered list for publications
+\newlength{\bibhang}
+\setlength{\bibhang}{1em}
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\Huge\bfseries\color{primary} Guy Grossman}\\[6pt]
+    {\large\color{secondary} David M. Knott Professor of Global Politics}\\[3pt]
+    {\color{secondary} University of Pennsylvania $\cdot$ Department of Political Science}\\[10pt]
+
+    \begin{tabular}{c c c c}
+        \faPhone\ (917) 664-6946 &
+        \faEnvelope\ \href{mailto:ggros@upenn.edu}{ggros@upenn.edu} &
+        \faGlobe\ \href{https://guygrossman.com}{guygrossman.com} &
+        \faMapMarker\ Philadelphia, PA
+    \end{tabular}
+\end{center}
+
+\vspace{6pt}
+
+%===============================================================================
+\section{Academic Positions}
+%===============================================================================
+
+\textbf{University of Pennsylvania}, Department of Political Science
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt]
+    \item[] David M. Knott Professor of Global Politics \hfill \textcolor{secondary}{2024 --}
+    \item[] Professor \hfill \textcolor{secondary}{2020 --}
+    \item[] Associate Professor \hfill \textcolor{secondary}{2018 -- 2020}
+    \item[] Assistant Professor \hfill \textcolor{secondary}{2012 -- 2018}
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Princeton University}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt]
+    \item[] Visiting Associate Scholar \hfill \textcolor{secondary}{2015 -- 2016}
+    \item[] Postdoctoral Research Associate \hfill \textcolor{secondary}{2011 -- 2012}
+\end{itemize}
+
+%===============================================================================
+\section{Education}
+%===============================================================================
+
+\textbf{Columbia University}, New York
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt]
+    \item[] Ph.D., Political Science (\textit{with distinction}) \hfill \textcolor{secondary}{2011}
+    \item[] M.A., Political Science \hfill \textcolor{secondary}{2006}
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Tel Aviv University}, Israel
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt]
+    \item[] M.A., History and Philosophy of Science (\textit{Summa cum laude}) \hfill \textcolor{secondary}{2004}
+    \item[] L.L.B., Law (\textit{Magna cum laude}) \hfill \textcolor{secondary}{1999}
+\end{itemize}
+
+%===============================================================================
+\section{Affiliations}
+%===============================================================================
+
+\begin{itemize}[leftmargin=1em, itemsep=2pt, topsep=2pt]
+    \item[] Founder and co-Director, Penn's Development Research Initiative (\href{https://pdri-devlab.upenn.edu/}{PDRI-DevLab}) \hfill \textcolor{secondary}{2020 --}
+    \item[] Academic Lead, IPA's Human Trafficking Research Initiative (\href{https://poverty-action.org/human-trafficking}{HTRI}) \hfill \textcolor{secondary}{2020 --}
+    \item[] Steering Committee, Forced Displacement Working Group (\href{https://pdri-devlab.upenn.edu/forced-displacement-working-group/}{FDWG}) \hfill \textcolor{secondary}{2022 --}
+    \item[] Faculty Advisory Committee, UPenn's Perry World House (\href{https://global.upenn.edu/perryworldhouse}{PWH}) \hfill \textcolor{secondary}{2023 --}
+    \item[] Advisory Board Member, Center for Social Norms and Behavioral Dynamics (\href{https://normsandbehavior.sas.upenn.edu}{CSNBD}) \hfill \textcolor{secondary}{2020 --}
+    \item[] Faculty Affiliate, Center for the Study of Ethnicity, Race, and Immigration (\href{https://cseri.sas.upenn.edu/}{CSERI}) \hfill \textcolor{secondary}{2020 --}
+    \item[] Faculty Affiliate, Wharton's Lauder Graduate Group in International Studies \hfill \textcolor{secondary}{2020 --}
+    \item[] Faculty Associate, Princeton's Empirical Studies of Conflict (\href{https://esoc.princeton.edu}{ESOC}) \hfill \textcolor{secondary}{2019 --}
+    \item[] Faculty Affiliate, Stanford's Immigration Policy Lab (\href{https://immigrationlab.org}{IPL}) \hfill \textcolor{secondary}{2019 --}
+    \item[] Member, Evidence in Governance and Politics (\href{https://egap.org}{EGAP}) \hfill \textcolor{secondary}{2011 --}
+\end{itemize}
+
+%===============================================================================
+\section{Fellowships}
+%===============================================================================
+
+\begin{itemize}[leftmargin=1em, itemsep=2pt, topsep=2pt]
+    \item[] Fellow, Center for Advanced Study in the Behavioral Sciences (\href{https://casbs.stanford.edu}{CASBS}) \hfill \textcolor{secondary}{2019 -- 2020}
+    \item[] Committee Member, National Academies of Sciences, Engineering, and Medicine \hfill \textcolor{secondary}{2021 -- 2022}\\
+    \textcolor{secondary}{\small (Committee: Advance Reform in the Global Security and Justice Sectors)}
+\end{itemize}
+
+%===============================================================================
+\section{Book}
+%===============================================================================
+
+Dunning, T., \textbf{G. Grossman}, M. Humphreys, S. Hyde, C. McIntosh, and G. Nellis. (2019). \href{https://bit.ly/2FcrhKE}{\textit{Information, Accountability, and Cumulative Learning: Lessons from Metaketa I}}. \textbf{Cambridge University Press}.
+
+%===============================================================================
+\newpage
+\section{Articles}
+%===============================================================================
+
+
+\begin{etaremune}[leftmargin=2.5em, itemsep=3pt, topsep=4pt]
+
+\item \textcolor{secondary}{2026.} Grossman, Guy, William Dinneen, and Carolina Torreblanca. ``\href{https://osf.io/preprints/osf/tmy37_v2}{Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023}.'' \textbf{\textit{Perspective on Politics}} (forthcoming).
+
+\item \textcolor{secondary}{2026.} Grossman, Guy, Audrey Sacks, and Alice Xu. ``The Politics of Climate Change in the Developing World.'' \textbf{\textit{Annual Review of Political Science}} (forthcoming).
+
+\item \textcolor{secondary}{2025.} Rueda, Miguel, Guy Grossman, and Shuning Ge. \href{https://www.cambridge.org/core/journals/british-journal-of-political-science/article/do-more-disaggregated-electoral-results-deter-aggregation-fraud/08AFBE74047115114DBA17E841DEFDDE}{``Do More Disaggregated Electoral Results Deter Aggregation Fraud?''} \textbf{\textit{British Journal of Political Science}} 55(e140): 1--11.
+
+\item \textcolor{secondary}{2025.} Christensen, Darin, Allison Grossman, Guy Grossman, Jon Kurtz, Jeremy Weinstein, and Jessica Wolff. ``\href{https://www.pnas.org/doi/10.1073/pnas.2509773122}{Ethical Oversight in Impact Evaluations.}'' \textbf{\textit{PNAS}} 122(47): e2509773122.
+
+\item \textcolor{secondary}{2025.} Zonszein, Stephanie, and Guy Grossman. \href{https://onlinelibrary.wiley.com/doi/10.1111/ajps.12877}{``Voted In, Standing Out: Public Response to Immigrants' Political Accession.''} \textbf{\textit{American Journal of Political Science}} 69(2): 718--733.
+
+\item \textcolor{secondary}{2024.} Zonszein, Stephanie, and Guy Grossman. \href{https://doi.org/10.1017/S000305542300103X}{``Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters.''} \textbf{\textit{American Political Science Review}} 118(3): 1556--1562.
+
+\item \textcolor{secondary}{2024.} Grossman, Guy, Kristin Michelitch, and Carlo Prato. \href{http://dx.doi.org/10.1111/ajps.12787}{``The Effect of Sustained Transparency on Electoral Accountability.''} \textbf{\textit{American Journal of Political Science}} 68(3): 1022--1040.
+
+\item \textcolor{secondary}{2023.} Ferrali, Romain, Guy Grossman, and Horacio Larreguy. \href{https://www.science.org/doi/10.1126/sciadv.adf1222}{``Can low-cost, scalable, online intervention increase youth informed political participation in electoral authoritarian contexts?''} \textbf{\textit{Science Advances}} 9(26): eadf1222.
+
+\item \textcolor{secondary}{2023.} Dipoppa, Gemma, Guy Grossman, and Stephanie Zonszein. \href{https://www.journals.uchicago.edu/doi/abs/10.1086/722346}{``Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy.''} \textbf{\textit{Journal of Politics}} 85(2): 389--404.
+
+\item \textcolor{secondary}{2023.} Paler, Laura, Jeremy Springman, Guy Grossman, and Jan Pierskalla. \href{https://doi.org/10.1017/psrm.2023.14}{``Oil Discoveries and Political Windfalls.''} \textbf{\textit{Political Science Research and Methods}} 11(4): 903--912.
+
+\item \textcolor{secondary}{2023.} Zhou, Yang-Yang, Guy Grossman, and Shuning Ge. \href{https://authors.elsevier.com/sd/article/S0305750X23000219}{``Inclusive Refugee-Hosting in Uganda Improves Local Development.''} \textbf{\textit{World Development}} 166: 106203.
+
+\item \textcolor{secondary}{2022.} Grossman, Guy, Yotam Margalit, and Tamar Mitts. ``\href{https://bit.ly/3DIZeQA}{How the Ultra-Rich Use Media Ownership as a Political Investment}.'' \textbf{\textit{Journal of Politics}} 84(4): 1913--1931.
+
+\item \textcolor{secondary}{2022.} Blair, Robert, Travis Curtice, David Dow, and Guy Grossman. \href{https://doi.org/10.1016/j.socscimed.2022.115045}{``Public Trust, Policing, and the COVID-19 Pandemic.''} \textbf{\textit{Social Science and Medicine}} 305: 115045.
+
+\item \textcolor{secondary}{2022.} Blair, Christopher, Guy Grossman, and Jeremy Weinstein. ``\href{https://bit.ly/2ZfRc1z}{Forced Displacement and Asylum Policy in the Developing World}.'' \textbf{\textit{International Organization}} 76(2): 337-378.
+
+\item \textcolor{secondary}{2022.} Grossman, Guy and Tara Slough. ``\href{https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501}{Government Responsiveness in Developing Countries}.'' \textbf{\textit{Annual Review of Political Science}} 25: 131-153.
+
+\item \textcolor{secondary}{2022.} Ferrali, Romain, Guy Grossman, Melina Platas, and Jonathan Rodden. ``\href{https://journals.sagepub.com/doi/full/10.1177/00104140211036048}{Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda}.'' \textbf{\textit{Comparative Political Studies}} 55(6): 899-932.
+
+\item \textcolor{secondary}{2022.} Blair, Christopher, Guy Grossman, and Jeremy Weinstein. ``\href{https://bit.ly/3BUGLPb}{Liberal Displacement Policies Attract Forced Migrants in the Global South.}'' \textbf{\textit{American Political Science Review}} 116(1): 351-358.
+
+\item \textcolor{secondary}{2022.} Grossman, Guy, Dorothy Kronick, Matthew Levendusky, and Marc Meredith. ``\href{https://bit.ly/2ZnaKB4}{The Majoritarian Threat to Liberal Democracy}.'' \textbf{\textit{Journal of Experimental Political Science}} 9(1): 36--45.
+
+\item \textcolor{secondary}{2021.} Blair, Graeme et al. ``\href{https://www.science.org/doi/abs/10.1126/science.abd3446}{Community policing does not build citizen trust in police or reduce crime in the Global South}.'' \textbf{\textit{Science}} 374(6571): eabd3446.
+
+\item \textcolor{secondary}{2021.} Eubank, Nicolas, Guy Grossman, Melina Platas, and Jonathan Rodden. ``\href{https://www.nowpublishers.com/article/Details/QJPS-19092}{Viral Voting: Social Networks and Political Participation}.'' \textbf{\textit{Quarterly Journal of Political Science}} 16(3): 265--284.
+
+\item \textcolor{secondary}{2021.} Albertus, Michael, and Guy Grossman. \href{https://muse.jhu.edu/article/787840}{``The Americas: When Do Voters Support Power Grabs?''} \textbf{\textit{Journal of Democracy}} 32(2): 116--131.
+
+\item \textcolor{secondary}{2020.} Grossman, Guy, Soojon Kim, Jonah Rexer, and Harsha Thirumurthy. \href{https://www.pnas.org/content/early/2020/09/14/2007835117}{``Political partisanship influences behavioral responses to governors' recommendations for COVID-19 prevention.''} \textbf{\textit{PNAS}} 117(39): 24144--24153.
+
+\item \textcolor{secondary}{2020.} Grossman, Guy, Macartan Humphreys, and Gabriella Sacramone-Lutz. ``\href{https://www.journals.uchicago.edu/doi/abs/10.1086/708339}{Information Technology and Political Engagement: Mixed Evidence from Uganda}.'' \textbf{\textit{Journal of Politics}} 82(4): 1321--1336.
+
+\item \textcolor{secondary}{2020.} Dipoppa, Gemma and Guy Grossman. ``\href{https://journals.sagepub.com/doi/full/10.1177/0010414020912290}{The Effect of Election Proximity on Government Responsiveness and Citizens' Participation}.'' \textbf{\textit{Comparative Political Studies}} 53(4): 2183--2212.
+
+\item \textcolor{secondary}{2019.} Ferrali, Romain, Guy Grossman, Melina Platas, and Jonathan Rodden. ``\href{https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471}{It Takes a Village: Peer Effects and Externalities in Technology Adoption}.'' \textbf{\textit{American Journal of Political Science}} 64(3): 536--553.
+
+\item \textcolor{secondary}{2019.} Dunning, Thad, et al. \href{https://advances.sciencemag.org/content/5/7/eaaw2612}{``Voter information campaigns and political accountability: Cumulative findings.''} \textbf{\textit{Science Advances}} 5(7): 1188--1192.
+
+\item \textcolor{secondary}{2019.} Getmansky, Anna, Guy Grossman, and Austin Wright. ``\href{https://www.nowpublishers.com/article/Details/QJPS-18094}{Border Walls and Crime Spillovers}.'' \textbf{\textit{Quarterly Journal of Political Science}} 14(3): 329--347.
+
+\item \textcolor{secondary}{2019.} Manekin, Devorah, Guy Grossman, and Tamar Mitts. \href{https://bit.ly/2HPdZT3}{``Contested Ground: Disentangling Material and Symbolic Attachment to Territory.''} \textbf{\textit{Political Science Research and Methods}} 7(4): 679--697.
+
+\item \textcolor{secondary}{2019.} Gottlieb, Jessica, Guy Grossman, Horacio Larreguy, and Benjamin Marx. ``\href{https://bit.ly/2OUL9WP}{A Signaling Theory of Distributive Policy Choice}.'' \textbf{\textit{Journal of Politics}} 81(2): 631--647.
+
+\item \textcolor{secondary}{2018.} Grossman, Guy, Melina Platas, and Jonathan Rodden. \href{https://bit.ly/2NkW1LT}{``Crowdsourcing Accountability: ICT for Service Delivery.''} \textbf{\textit{World Development}} 112: 74--87.
+
+\item \textcolor{secondary}{2018.} Grossman, Guy, and Kristin Michelitch. \href{https://bit.ly/2FTkhR6}{``Information Dissemination, Competitive Pressure, and Politician Performance between Elections.''} \textbf{\textit{American Political Science Review}} 112(2): 280--301.
+
+\item \textcolor{secondary}{2018.} Grossman, Guy, Devorah Manekin, and Yotam Margalit. \href{https://doi.org/10.1177/0010414018774370}{``How Sanctions Affect Public Opinion in Target Countries.''} \textbf{\textit{Comparative Political Studies}} 51(14): 1823--1857.
+
+\item \textcolor{secondary}{2018.} Gottlieb, Jessica, Guy Grossman, and Amanda Robinson. \href{https://bit.ly/2Wo3hvc}{``Do Men and Women Have Different Policy Preferences in Africa?''} \textbf{\textit{British Journal of Political Science}} 48(3): 611--638.
+
+\item \textcolor{secondary}{2017.} Grossman, Guy, Jan Pierskalla, and Emma Dean. ``\href{https://bit.ly/2shkmKo}{Government Fragmentation and Public Goods Provision.''} \textbf{\textit{Journal of Politics}} 79(3): 823-840.
+
+\item \textcolor{secondary}{2017.} Grossman, Guy, Kristin Michelitch, and Marta Santamaria. \href{https://journals.sagepub.com/doi/abs/10.1177/0010414016666862}{``Texting Complaints to Politicians.''} \textbf{\textit{Comparative Political Studies}} 50(10): 1325--1357.
+
+\item \textcolor{secondary}{2016.} Croke, Kevin, Guy Grossman, Horacio Larreguy, and John Marshall. \href{https://bit.ly/2MwSQVg}{``Deliberate disengagement: How education decreases political participation in electoral authoritarian regimes.''} \textbf{\textit{American Political Science Review}} 110(3): 579--600.
+
+\item \textcolor{secondary}{2016.} Grossman, Guy, Oren Gazal, Sam Pimentel, and Jeremy Weinstein. \href{https://bit.ly/1kP3547}{``Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies.''} \textbf{\textit{American Journal of Political Science}} 60(1): 44--69.
+
+\item \textcolor{secondary}{2015.} Grossman, Guy, Devorah Manekin, and Dan Miodownik. \href{https://bit.ly/2IXe7Fq}{``The Political Legacies Of Combat.''} \textbf{\textit{International Organization}} 69(4): 981--1009.
+
+\item \textcolor{secondary}{2015.} Grossman, Guy. \href{https://bit.ly/2Va3mpE}{``Renewalist Christianity and the Political Saliency of LGBTs.''} \textbf{\textit{Journal of Politics}} 77(2): 337--351.
+
+\item \textcolor{secondary}{2014.} Grossman, Guy, and Walker Hanlon. \href{https://bit.ly/2vBDgMY}{``Do better monitoring institutions increase leadership quality in community organizations?''} \textbf{\textit{American Journal of Political Science}} 58(3): 669--686.
+
+\item \textcolor{secondary}{2014.} Grossman, Guy, Macartan Humphreys, and Gabriella Sacramone-Lutz. \href{https://bit.ly/2IX0jdV}{``On Information Technology and Interest Articulation.''} \textbf{\textit{American Political Science Review}} 108(3): 688--705.
+
+\item \textcolor{secondary}{2014.} Grossman, Guy, and Janet Lewis. \href{https://bit.ly/2GYCBvI}{``Administrative Unit Proliferation.''} \textbf{\textit{American Political Science Review}} 108(1): 196--207.
+
+\item \textcolor{secondary}{2014.} Grossman, Guy. \href{https://bit.ly/2odzSo0}{``Do Selection Rules Affect Leader Responsiveness?''} \textbf{\textit{Quarterly Journal of Political Science}} 9(1): 1--44.
+
+\item \textcolor{secondary}{2013.} Baldassarri, Delia, and Guy Grossman. \href{https://bit.ly/2whorQt}{``The Effect of Group Attachment and Social Position on Prosocial Behavior.''} \textbf{\textit{PLoS ONE}} 8(3): e58750.
+
+\item \textcolor{secondary}{2012.} Grossman, Guy, and Delia Baldassarri. \href{https://bit.ly/2Y8EuvB}{``The Impact of Elections on Cooperation.''} \textbf{\textit{American Journal of Political Science}} 56(4): 964--985.
+
+\item \textcolor{secondary}{2011.} Baldassarri, Delia, and Guy Grossman. \href{http://www.pnas.org/content/108/27/11023.short}{``Centralized-sanctioning and legitimate authority promote cooperation in humans.''} \textbf{\textit{PNAS}} 108(27): 11023--11027.
+
+\item \textcolor{secondary}{2006.} Grossman, Guy, and Rami Kaplan. \href{https://www.tandfonline.com/doi/full/10.1080/10402650600692391}{``Courage to Refuse.''} \textbf{\textit{Peace Review}} 18(2): 189--197.
+
+\end{etaremune}
+
+%===============================================================================
+\section{Under Review}
+%===============================================================================
+
+\begin{enumerate}[leftmargin=2em, itemsep=3pt, topsep=4pt]
+\item Blair, Robert, Anna Wilke, and Guy Grossman. (2025) \href{https://osf.io/preprints/osf/wkrcm_v2}{``Can Community Policing Improve Police-Community Relations in an Authoritarian Regime?''} (\textit{R\&R})
+\item Dan\'{u}s Llu\'{i}s, William Dinneen, Guy Grossman, Carolina Torreblanca, and Sandra Gonz\'{a}lez-Bail\'{o}n. (2025) ``Informal Connections Outweigh Co-authorship Ties in Academic Impact.'' (\textit{R\&R})
+\item Abramitzky, Ran, Guy Grossman, Yphtach Lelkes, Hani Mansour, and Tamar Mitts. (2025) ``\href{https://osf.io/preprints/osf/mc6u3_v1}{Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis}.'' (\textit{R\&R})
+\item Bhatiya, Apurav Yash, William Dinneen, Guy Grossman, and Stephanie Zonszein. (2025) ``\href{https://osf.io/preprints/osf/hfm35_v3}{Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities}.'' (\textit{R\&R})
+\item Zhou, Yang-Yang, Guy Grossman, Naijia Liu, and Shuning Ge. (2025) ``\href{https://osf.io/preprints/osf/94tpy_v2}{Liberalizing Refugee Hosting Policies without Losing the Vote}.''
+\item Grossman, Guy, Yang-Yang Zhou,  Shelby Carvalho and Iman Dahr. (2026) ``Aid cuts for refugees reduce welfare without increasing self-reliance.''
+
+\end{enumerate}
+
+%===============================================================================
+\section{Book Chapters}
+%===============================================================================
+
+\begin{enumerate}[leftmargin=2em, itemsep=3pt, topsep=4pt]
+\item \textcolor{secondary}{2025.} Blair, Robert, Guy Grossman, and Anna Wilke. ``Restoring Police-Community Relations in Uganda,'' in \textit{Crime, Insecurity, and Community Policing Experiments on Building Trust}, eds. Blair, Christia, Weinstein, ch. 12, pp. 439--483.
+\item \textcolor{secondary}{2019.} Grossman, Guy. ``Leadership Selection Rules and Decentralized Governance,'' in \textit{Decentralized Governance and Accountability}, eds. Wibbles and Rodden, ch. 3, pp. 40--60.
+\item \textcolor{secondary}{2015.} Grossman, Guy and Laura Paler. ``Using Field Experiments to Study Political Institutions,'' in \textit{Routledge Handbook of Comparative Political Institutions}, eds. Gandhi and Ruiz-Rufino, pp. 84--97.
+\end{enumerate}
+
+%===============================================================================
+\section{Reports and Policy Briefs}
+%===============================================================================
+
+\begin{enumerate}[leftmargin=2em, itemsep=2pt, topsep=4pt]
+\item \textcolor{secondary}{2025.} Sandra Rozo and Guy Grossman. ``\href{https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099301105192515441}{Refugees and Other Forcibly Displaced Populations}.'' World Bank Policy Research Working Paper.
+\item \textcolor{secondary}{2023.} Grossman, Guy, Cecilia Mo, Denis Feehan, Elizabeth Herman. ``A Prevalence Study of Adolescent Child Trafficking in Jamaica.''
+\item \textcolor{secondary}{2022.} \href{https://openknowledge.worldbank.org/handle/10986/37261}{``Economic Shocks and Human Trafficking Risks.''} World Bank and IOM. [Contributing author]
+\item \textcolor{secondary}{2022.} ``\href{https://bit.ly/3TrDlvQ}{Developing Policing Practices that Build Legitimacy}.'' National Academies Press. [Committee member]
+\item \textcolor{secondary}{2022.} ``\href{https://bit.ly/3QLAtsn}{Policies and Practices to Minimize Police Use of Force Internationally}.'' National Academies Press. [Committee member]
+\item \textcolor{secondary}{2022.} ``\href{https://bit.ly/3K3XeEh}{Police Training to Promote the Rule of Law}.'' National Academies Press. [Committee member]
+\item \textcolor{secondary}{2021.} ``\href{https://bit.ly/3FXuX0W}{Policing to Promote the Rule of Law and Protect the Population}.'' National Academies Press. [Committee member]
+\end{enumerate}
+
+%===============================================================================
+\section{Awards}
+%===============================================================================
+
+\begin{tabular}{@{}p{0.08\textwidth} p{0.90\textwidth}@{}}
+\textcolor{secondary}{2023} & Luebbert Best Article Prize (Hon. Mention), APSA Comparative Politics \\
+\textcolor{secondary}{2022} & Political Ties Award for Best Article, APSA Political Networks \\
+\textcolor{secondary}{2021} & Best Article Award, APSA Information Technology and Politics \\
+\textcolor{secondary}{2020} & Best Conference Paper Award, APSA Political Networks \\
+\textcolor{secondary}{2019} & Best Book Award in Experimental Research, APSA \\
+\textcolor{secondary}{2019} & Extraordinary Reviewer Award, \textit{Comparative Political Studies} \\
+\textcolor{secondary}{2018} & Experimental Political Science Best Paper Award, APSA \\
+\textcolor{secondary}{2016} & NEPS Medal for Best Publication in Peace Science \\
+\textcolor{secondary}{2016} & Lawrence Longley Award for Best Article on Representation \\
+\textcolor{secondary}{2014} & APSA Information Technology and Politics Best Paper Award \\
+\textcolor{secondary}{2014} & Kellogg/Notre Dame Award for Best Paper in Comparative Politics, MPSA \\
+\textcolor{secondary}{2013} & Best Political Sociology Article (Hon. Mention), ASA \\
+\textcolor{secondary}{2012} & Sage Paper Award (Hon. Mention), APSA Comparative Politics \\
+\textcolor{secondary}{2012} & Rationality and Society Best Paper (Hon. Mention), ASA \\
+\end{tabular}
+
+%===============================================================================
+\section{Grants (Past 10 Years)}
+%===============================================================================
+
+\subsection*{2025}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Fund for Innovation in Development: Reducing Sexual Violence in Liberia (\$360,000)
+\item IPA Peace and Recovery: Edutainment and Refugee Integration in Kenya (\$315,208)
+\item PDRI-DevLab Grant from Penn SAS (\$450,000)
+\item ReCIPE: Disrupted Aid, Displaced Lives Round 3 (\$134,000)
+\item IPA DLI: Disrupted Aid, Displaced Lives Round 3 (\$75,000)
+\item Perry World House (\$25,000)
+\item IPA-HTRI seed grant: Artisanal mining in Sierra Leone (\$14,447)
+\end{itemize}
+
+\subsection*{2024}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Penn Global: Disrupted Aid, Displaced Lives (\$125,000)
+\item Penn SAS: Making a Difference in Global Communities (\$20,515)
+\item EGAP: Return Migration in South Sudan (\$15,000)
+\item UPenn: Political Economy of Climate Change conference (\$15,000)
+\item IPA DLI: Return Migration in South Sudan (\$10,000)
+\item Browne Center: Refugee Perceptions in Uganda (\$3,500)
+\end{itemize}
+
+\subsection*{2023}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item IPA and J-PAL DLI: Disrupted Aid, Displaced Lives (\$299,220)
+\item UNHCR-World Bank: DWRAP Online Data Platform (\$204,725)
+\item Hilton Foundation: Improving refugee integration in Uganda (\$100,000)
+\item Penn URF: Broadcasting Tolerance in Uganda (\$60,000)
+\item UPenn: PECE-2 Pre-APSA conference (\$7,500)
+\end{itemize}
+
+\subsection*{2022}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Program to End Modern Slavery: Climate change and trafficking in Bangladesh (\$1,390,000)
+\item Fund for Innovation in Development: Planning for Productive Migration (\$1,026,564)
+\item Open Philanthropy: Planning for Productive Migration (\$650,000)
+\item Global Innovation Fund: Planning for Productive Migration (\$230,000)
+\item PDRI Fellowship for African scholars (\$75,000)
+\item J-PAL Jobs and Opportunity: Pilot Migration (\$69,110)
+\end{itemize}
+
+\subsection*{2021}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item USAID DIV: Planning for Productive Migration (\$200,000)
+\item Innovation for Poverty Action: Human Trafficking Research (\$125,000)
+\item Penn SAS: Diverse Global Communities (\$50,000)
+\item Browne Center: Civic education in authoritarian contexts (\$5,000)
+\end{itemize}
+
+\subsection*{2020}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Penn SAS: Core funding to establish PDRI (\$1,250,000)
+\item Open Philanthropy: Planning for Productive Migration (\$1,000,000)
+\item UNHCR-World Bank: DWRAP Data Platform (\$461,942)
+\item J-PAL CVI: COVID-19 and migration in Uganda (\$39,909)
+\item World Bank: Social cohesion in forced displacement (\$25,000)
+\end{itemize}
+
+\subsection*{2019}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item IOM: Child Trafficking in Jamaica (\$162,000)
+\item Chicago CISSR: Support for Elected Leaders that Erode Democracy (\$24,000)
+\item UPenn SAS: Penn Development Research Initiative (\$5,000)
+\item Browne Center: Voting Aggregation and Fraud (\$4,800)
+\end{itemize}
+
+\subsection*{2018}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item UPenn SAS: Dean's Global Inquiries grant (\$75,000)
+\item Browne Center: Civic Counterculture (\$5,000)
+\end{itemize}
+
+\subsection*{2017}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item EDI consortium: Community Policing in Uganda endline (\$292,000)
+\item EGAP/DFID: Community Policing in Uganda baseline (\$190,863)
+\item IPA Peace and Recovery: Community Policing in Uganda (\$114,687)
+\item UPenn SAS Seed Grant: Cross-Border Migration Study (\$10,000)
+\item UPenn Fels: DWRAP Dataset (\$9,957)
+\item Browne Center: Community Policing seed grant (\$4,960)
+\end{itemize}
+
+\subsection*{2016}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item CEGA: Community Policing in Uganda seed grant (\$10,265)
+\item UPenn SAS: Refugees integration in Uganda (\$5,000)
+\end{itemize}
+
+\subsection*{2015}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Private foundation: Political Accountability in Uganda (\$115,405)
+\item USAID via Social Impact: SMS for Better Service in Uganda (\$84,562)
+\item World Bank: Public Service Reform in Guinea (\$25,000)
+\item Democratic Governance Facility: Political Accountability in Uganda (\$24,671)
+\item Browne Center: Economic Sanctions (\$4,500)
+\end{itemize}
+
+%===============================================================================
+\section{Talks (Past 5 Years)}
+%===============================================================================
+
+\textbf{2026}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Invited}: UC Merced (deferred); UC Davis (deferred).
+\end{itemize}
+
+\textbf{2025}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Invited}: Rutgers Economics; Stanford CP Seminar; Tel Aviv University; Hebrew University.
+\item \textit{Conferences}: EGAP (Zurich); FDWG (NYC); World Bank Law Week (DC); WB-UNHCR (Italy); NEPEC (Brown).
+\end{itemize}
+
+\textbf{2024}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Keynotes}: Brown Political Economy; WB-UNHCR (Cote d'Ivoire); IMEBESS (Latvia).
+\item \textit{Invited}: State Dept; IPA Board; Columbia; Swarthmore; Penn seminars; Penn State.
+\item \textit{Conferences}: EGAP (DC, Paris); FDWG (DC); NEWEPS (Columbia); WZB (Berlin); Migration and Development (Bologna).
+\end{itemize}
+
+\textbf{2023}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Invited}: UNHCR; Purdue; USAID; Rochester; LSE; World Bank WDR; Georgetown; Princeton CISS; Columbia.
+\item \textit{Conferences}: ESOC (DC); NEWEPS (Boston); APSA (LA); EGAP (London).
+\end{itemize}
+
+\textbf{2022}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Invited}: UC Irvine; UC Santa Barbara; UC Berkeley; UVA Batten; American University; Harvard; Michigan ISR; ITAM; Texas A\&M; Houston.
+\item \textit{Conferences}: Petralia (Sicily); NAS (DC); SITE (Stanford); APSA (Montreal).
+\end{itemize}
+
+\textbf{2021}
+\begin{itemize}[leftmargin=1em, itemsep=0pt, topsep=2pt, label={}]
+\item \textit{Invited}: Stanford IPL; Penn PDRI; Oxford; Hebrew University; Tel Aviv University.
+\end{itemize}
+
+%===============================================================================
+\section{Service}
+%===============================================================================
+
+\subsection*{Discipline-wide}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item EGAP Executive Board Member \hfill \textcolor{secondary}{2015--2018}
+\item NEWEPS Convener \hfill \textcolor{secondary}{2013--present}
+\item ESOC Mentor \hfill \textcolor{secondary}{2018--present}
+\end{itemize}
+
+\subsection*{Editorial Boards}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item \textit{Comparative Political Studies} \hfill \textcolor{secondary}{2020--present}
+\item \textit{Political Science Research and Methods} \hfill \textcolor{secondary}{2019--present}
+\item \textit{Journal of Experimental Political Science} \hfill \textcolor{secondary}{2017--present}
+\item \textit{American Journal of Political Science} \hfill \textcolor{secondary}{2014--2019}
+\end{itemize}
+
+\subsection*{Award Committees}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item CASBS Fellowship Selection \hfill \textcolor{secondary}{2026}
+\item APSA Experimental Research Public Service Award \hfill \textcolor{secondary}{2026, 2021}
+\item APSA Political Networks Best Article \hfill \textcolor{secondary}{2023}
+\item APSA IT\&P Best Article \hfill \textcolor{secondary}{2022}
+\item APSA Migration Best Article \hfill \textcolor{secondary}{2021}
+\item APSA Political Networks Career Achievement \hfill \textcolor{secondary}{2021}
+\item APSA Lawrence Longley Award \hfill \textcolor{secondary}{2016}
+\item APSA Experimental Best Paper \hfill \textcolor{secondary}{2016}
+\item APSA IT\&P Best Dissertation \hfill \textcolor{secondary}{2015}
+\end{itemize}
+
+\subsection*{Program Chair}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Forced Displacement: Research to Inform Policy \hfill \textcolor{secondary}{2023}
+\item ESOC Annual Conference \hfill \textcolor{secondary}{2023}
+\end{itemize}
+
+%===============================================================================
+\section{University Service}
+%===============================================================================
+
+\subsection*{School of Arts and Sciences}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item SAS Planning and Priorities Committee \hfill \textcolor{secondary}{2021--present}
+\item SAS Academic Freedom and Responsibility \hfill \textcolor{secondary}{2024--2025}
+\item SAS Misconduct Investigative Committee \hfill \textcolor{secondary}{2022--2023}
+\item SAS Africa Working Group \hfill \textcolor{secondary}{2013--present}
+\item Dean's Council on Innovation \hfill \textcolor{secondary}{2014--2015}
+\end{itemize}
+
+\subsection*{Political Science Department}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item Hiring Committee \hfill \textcolor{secondary}{2019, 2021--2024}
+\item Promotion Committee \hfill \textcolor{secondary}{2021, 2022, 2024, 2025}
+\item Comparative Politics Seminar organizer \hfill \textcolor{secondary}{2013--15, 2020, 2025}
+\item Graduate Admission Committee \hfill \textcolor{secondary}{2013, 2015, 2019, 2020}
+\end{itemize}
+
+%===============================================================================
+\section{Mentees}
+%===============================================================================
+
+\subsection*{Current}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item \href{https://carolina-torreblanca.github.io/}{Carolina Torreblanca} (postdoc mentee)
+\item Griffin Brewer (Committee chair)
+\item Daniela Valerio (Committee chair)
+\item Rashi Sabherwal, Tanya Vaidya, Shanze Fatima Rauf, Kyilah Terry, Marian (Ify) Okpali (Committee member)
+\end{itemize}
+
+\subsection*{Past (Placement)}
+\begin{itemize}[leftmargin=1em, itemsep=1pt, topsep=2pt, label=\textcolor{secondary}{$\bullet$}]
+\item \href{https://idrobo.github.io}{Nicol\'{a}s Idrobo} $\rightarrow$ Princeton (Postdoc), Committee chair
+\item \href{https://www.apurvabamezai.com}{Apurva Bamezai} $\rightarrow$ Kellogg Institute (Postdoc)
+\item \href{https://cschmidtpadilla.github.io/}{Carlos Schmidt-Padilla} $\rightarrow$ UC Berkeley (TT), postdoc mentee
+\item \href{https://stephaniezonszein.com/}{Stephanie Zonszein} $\rightarrow$ UC Berkeley (TT), postdoc mentee
+\item \href{http://lianaeustacia.com/}{Liana Eustacia Reyes} $\rightarrow$ Purdue (TT), postdoc mentee
+\item \href{https://www.scottdaewonkim.com/}{Scott Daewon Kim} $\rightarrow$ JPMorgan Chase Institute
+\item \href{https://www.gemmadipoppa.com}{Gemma Dipoppa} $\rightarrow$ Columbia (TT), Committee chair
+\item \href{https://sumitrabadrinathan.github.io/}{Sumitra Badrinathan} $\rightarrow$ American University (TT), Committee chair
+\item \href{https://www.santiagocunial.com}{Santiago Cunial} $\rightarrow$ UNDP, Committee co-chair
+\item \href{https://www.linkedin.com/in/jiayihuang2016/}{Jiayi Huang} $\rightarrow$ BYD, Committee chair
+\item \href{https://jrspringman.github.io}{Jeremy Springman} $\rightarrow$ Meta, Committee chair
+\item \href{https://www.jonahrexer.com/}{Jonah Rexer} $\rightarrow$ World Bank
+\item \href{http://mfreedman.mit.edu}{Michael Freedman} $\rightarrow$ Haifa University (TT)
+\item \href{https://www.emmerichdavies.com}{Emmerich Davies} $\rightarrow$ Harvard (TT)
+\end{itemize}
+
+\end{document}
