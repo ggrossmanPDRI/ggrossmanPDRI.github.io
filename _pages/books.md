@@ -2,7 +2,7 @@
 layout: page
 permalink: /books/
 title: Books
-order: 5
+order: 4
 description:
 nav: true
 ---
