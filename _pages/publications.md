@@ -83,11 +83,11 @@ nav: true
   border-radius: 0 10px 10px 0;
   padding: 0.65rem 0.85rem;
   margin-bottom: 0.5rem;
-  background: var(--global-card-bg-color, rgba(255,255,255,0.7));
+  background: rgba(0,0,0,0.025);
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  transition: border-left-color 0.2s, box-shadow 0.2s;
+  transition: border-left-color 0.2s, box-shadow 0.2s, background 0.2s;
 }
-.pubs-main .pubs-card:hover { border-left-color: rgba(59,130,246,0.7); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.pubs-main .pubs-card:hover { border-left-color: rgba(59,130,246,0.7); box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: rgba(0,0,0,0.035); }
 .pubs-main .pubs-card h4 { margin: 0 0 0.2rem; font-size: 1rem; line-height: 1.35; }
 .pubs-meta { color: var(--global-text-color-light); font-size: 0.88rem; margin-bottom: 0.3rem; }
 .pubs-badges { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-top: 0.15rem; margin-bottom: 0.35rem; }
