@@ -30,6 +30,7 @@ My work has appeared in *Science*, *Proceedings of the National Academy of Scien
   <h4 class="home-section__title">Affiliations</h4>
   <div class="home-affiliations">
     <a class="home-affil" href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener noreferrer">PDRI-DevLab</a>
+    <a class="home-affil" href="https://pdri-devlab.upenn.edu/forced-displacement-working-group/" target="_blank" rel="noopener noreferrer">FDWG</a>
     <a class="home-affil" href="https://egap.org/" target="_blank" rel="noopener noreferrer">EGAP</a>
     <a class="home-affil" href="https://immigrationlab.org/" target="_blank" rel="noopener noreferrer">Stanford IPL</a>
     <a class="home-affil" href="https://esoc.princeton.edu/" target="_blank" rel="noopener noreferrer">Princeton ESOC</a>
