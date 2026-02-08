@@ -90,7 +90,7 @@ nav: true
 .pubs-main .pubs-card:hover { border-left-color: rgba(59,130,246,0.7); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
 .pubs-main .pubs-card h4 { margin: 0 0 0.2rem; font-size: 1rem; line-height: 1.35; }
 .pubs-meta { color: var(--global-text-color-light); font-size: 0.88rem; margin-bottom: 0.3rem; }
-.pubs-badges { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-bottom: 0.35rem; }
+.pubs-badges { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-top: 0.15rem; margin-bottom: 0.35rem; }
 .pubs-badge {
   font-size: 0.72rem;
   padding: 0.1rem 0.4rem;
@@ -115,6 +115,16 @@ nav: true
 }
 .pubs-action:hover { background: rgba(127,127,127,0.10); text-decoration: none; }
 .pubs-action--primary { border-color: rgba(59,130,246,0.35); }
+/* Normalize button weight (BibTeX is a <button>, browsers default to bold) */
+button.pubs-action { font-weight: normal; }
+
+/* Abstract <details> summary — match action-button size */
+.pubs-card details summary {
+  font-size: 0.82rem;
+  font-weight: normal;
+  cursor: pointer;
+  color: var(--global-text-color);
+}
 
 .pubs-bibtex { margin-top: 0.55rem; display: none; }
 .pubs-bibtex.is-open { display: block; }
