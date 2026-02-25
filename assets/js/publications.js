@@ -1,6 +1,26 @@
 (() => {
   // Minimal sample data (add the rest yourself)
   const PUBLISHED = [
+    {
+      id: 50,
+      year: 2026,
+      title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
+      authors: "Guy Grossman, Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour",
+      journal: "Science Advances",
+      status: "forthcoming",
+      categories: ['Conflict', 'Governance'],
+      abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target's identity strongly influence support for disciplinary actions in response to objectionable speech. Students generally oppose punishing objectionable speech unless it is deemed highly harmful. Hateful rhetoric targeting minority groups, such as Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive responses than identical statements directed at White students. While students, on average, afford greater protections to minority groups, there is notable variation. Exploratory analysis reveals that students' responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target's identity. These principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.",
+      links: {
+        pdf: "https://osf.io/preprints/osf/mc6u3_v2",
+        bibtex: `@article{grossman2026expression,
+  title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
+  author={Grossman, Guy and Lelkes, Yphtach and Abramitzky, Ran and Mitts, Tamar and Mansour, Hani},
+  journal={Science Advances},
+  year={2026},
+  status={forthcoming}
+}`
+      }
+    },
 	{
       id: 49,
       year: 2026,
@@ -1232,23 +1252,6 @@ year = {2006}
   year={2024}
 }`
       }
-    },
-    {
-      id: 3,
-      title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
-      authors: "Guy Grossman, Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour",
-      status: "revise and resubmit",
-      categories: ['Conflict', 'Governance'],
-      abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target’s identity strongly influence support for disciplinary actions in response to objectionable speech. Students generally oppose punishing objectionable speech unless it is deemed highly harmful. Hateful rhetoric targeting minority groups, such as Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive responses than identical statements directed at White students. While students, on average, afford greater protections to minority groups, there is notable variation. Exploratory analysis reveals that students’ responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target’s identity. These principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.",
-      links: {
-        pdf: "https://osf.io/preprints/osf/mc6u3_v2",
-        bibtex: `@unpublished{grossman2024expression,
-  title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
-  author={Grossman, Guy and Lelkes, Yphtach and Abramitzky, Ran and Mitts, Tamar and Mansour, Hani},
-  note={Revise and resubmit},
-  year={2024}
-}`
-  }
     },
   {
       id: 4,
