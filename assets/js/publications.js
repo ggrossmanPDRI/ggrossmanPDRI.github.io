@@ -5,7 +5,7 @@
       id: 51,
       year: 2026,
       title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
-      authors: "Guy Grossman, Danús Lluís, William Dinneen, Carolina Torreblanca & Sandra González-Bailón",
+      authors: "Danús Lluís, William Dinneen, Guy Grossman, Carolina Torreblanca, and Sandra González-Bailón",
       journal: "Proceedings of the National Academy of Sciences",
       status: "forthcoming",
       categories: ['Knowledge Production'],
