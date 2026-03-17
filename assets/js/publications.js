@@ -2,6 +2,26 @@
   // Minimal sample data (add the rest yourself)
   const PUBLISHED = [
     {
+      id: 51,
+      year: 2026,
+      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
+      authors: "Guy Grossman, Danús Lluís, William Dinneen, Carolina Torreblanca & Sandra González-Bailón",
+      journal: "Proceedings of the National Academy of Sciences",
+      status: "forthcoming",
+      categories: ['Knowledge Production'],
+      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars' embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.",
+      links: {
+        pdf: "",
+        bibtex: `@article{grossman2026informal,
+  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
+  author={Grossman, Guy and Dan{\'u}s, Llu{\'i}s and Dinneen, William and Torreblanca, Carolina and Gonz{\'a}lez-Bail{\'o}n, Sandra},
+  journal={Proceedings of the National Academy of Sciences},
+  year={2026},
+  status={forthcoming}
+}`
+      }
+    },
+    {
       id: 50,
       year: 2026,
       title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
@@ -1232,22 +1252,6 @@ year = {2006}
         bibtex: `@unpublished{grossman2024community,
   title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
   author={Blair, Robert A., Grossman, Guy and Wilke, Anna M.},
-  note={Revise and resubmit},
-  year={2024}
-}`
-      }
-    },
-   {
-      id: 2,
-      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
-      authors: "Guy Grossman, Danús Lluís, William Dinneen, Carolina Torreblanca & Sandra González-Bailón",
-      status: "revise and resubmit",
-      categories: ['Knowledge Production'],
-      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars’ embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections. ",
-      links: {
-        bibtex: `@unpublished{grossman2024informal,
-  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
-  author={Grossman, Guy and Danús, Lluís and Dinneen, William and Torreblanca, Carolina and González-Bailón, Sandra},
   note={Revise and resubmit},
   year={2024}
 }`
