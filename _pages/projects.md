@@ -43,30 +43,29 @@ Funded by the Conrad N. Hilton Foundation, Innovations for Poverty Action’s La
 
 <br />
 
-[4] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
-*With Darin Christensen (UCLA), Cecilia Mo (UC Berkeley), and Kevin Grieco (Institute for Advanced Study in Toulouse)*  
+[4] **Edutainment and Refugee Integration: An Experiment on Radio Popularity in Kenya**
+*With Erik Wibbels (UPenn), Carolina Torreblanca (UPenn), and Yotam Margalit (Tel Aviv University)*
 <details>
   <summary>Description</summary>
-This pilot study, funded by IPA's HTRI, addresses the need for formal finance for artisanal and small-scale gold miners in Sierra Leone. In partnership with the local microfinance institution Munafa, we are developing an intervention using conditional credit to tackle livelihood vulnerabilities in this sector. The pilot assesses whether providing artisan miners with low-interest loans can reduce exploitation (including debt bondage) and promote ethical labor practices. Insights gained will inform a more extensive study involving rolling out the credit product and rigorously evaluating its impact on trafficking, miners' and mine workers' socio-economic conditions, and environmental hazards.
+Funded by IPA’s Peace and Recovery Initiative, this project tests whether a serialized radio drama can shift attitudes toward refugee integration in non-hosting regions of Kenya — areas where support is lowest yet attitudes are politically consequential for the prospects of national integration. The study exploits the fact that mass media interventions combine individual exposure with social processes that may shape second-order beliefs. Our design explicitly seeks to unbundle these individual and social effects of edutainment by asking: does persuasion operate primarily through direct information transmission, or does it also depend on social reinforcement and norm coordination? To answer this, we combine four sources of exogenous variation: (1) natural variation in radio signal coverage; (2) randomized encouragement to listen; (3) randomized saturation levels across villages (varying the share of villagers encouraged to listen from 20% to 80%); and (4) cross-randomized salience of popularity (informing encouraged individuals how many others in their village will be listening). Outcomes include attitudes toward refugee integration and pro-refugee behavioral tasks. The study will be implemented across 120 villages (9,600 respondents) in the Rift Valley or Western Kenya, regions with the lowest recorded support for Kenya’s 2021 Refugee Act and Shirika Plan.
 </details>
 
 <br />
 
-[5] **The Discipline of Political Science: Structural Changes, Informal Networks, and Methodological Revolution**
+[5] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector**
+*With Darin Christensen (UCLA), Cecilia Mo (UC Berkeley), and Kevin Grieco (Institute for Advanced Study in Toulouse)*
+<details>
+  <summary>Description</summary>
+This pilot study, funded by IPA’s HTRI, addresses the need for formal finance for artisanal and small-scale gold miners in Sierra Leone. In partnership with the local microfinance institution Munafa, we are developing an intervention using conditional credit to tackle livelihood vulnerabilities in this sector. The pilot assesses whether providing artisan miners with low-interest loans can reduce exploitation (including debt bondage) and promote ethical labor practices. Insights gained will inform a more extensive study involving rolling out the credit product and rigorously evaluating its impact on trafficking, miners’ and mine workers’ socio-economic conditions, and environmental hazards.
+</details>
+
+<br />
+
+[6] **The Discipline of Political Science: Structural Changes, Informal Networks, and Methodological Revolution**
 *With Sandra González-Bailón (UPenn), William Dinneen (UPenn), Yiqing Xu (Stanford), Lluís Danús (UPenn), and Carolina Torreblanca (UPenn)*
 <details>
   <summary>Description</summary>
 Leveraging a corpus of 140,000+ articles from 174 political science journals published between 2003 and 2023, this project charts the discipline’s evolution, examining how informal collaboration, methodological credibility, and structural changes shape scholarly impact. Using text-as-data analysis, network science, and bibliometric approaches, the project measures publication growth and shifting productivity norms, maps the "hidden college" of informal collaboration to gauge its influence on scholarly reach, tracks the rise of credibility-oriented research designs and evolving causal rhetoric, and examines how structural pressures—tight job markets and metric-driven evaluation—shape collaboration patterns, topic selection, and career trajectories.
-</details>
-
-<br />
-
-
-[6] **Edutainment and Refugee Integration: An Experiment on Radio Popularity in Kenya**
-*With Erik Wibbels (UPenn), Carolina Torreblanca (UPenn), and Yotam Margalit (Tel Aviv University)*
-<details>
-  <summary>Description</summary>
-Funded by IPA's Peace and Recovery Initiative, this project tests whether a serialized radio drama can shift attitudes toward refugee integration in non-hosting regions of Kenya — areas where support is lowest yet attitudes are politically consequential for the prospects of national integration. The study exploits the fact that mass media interventions combine individual exposure with social processes that may shape second-order beliefs. Our design explicitly seeks to unbundle these individual and social effects of edutainment by asking: does persuasion operate primarily through direct information transmission, or does it also depend on social reinforcement and norm coordination? To answer this, we combine four sources of exogenous variation: (1) natural variation in radio signal coverage; (2) randomized encouragement to listen; (3) randomized saturation levels across villages (varying the share of villagers encouraged to listen from 20% to 80%); and (4) cross-randomized salience of popularity (informing encouraged individuals how many others in their village will be listening). Outcomes include attitudes toward refugee integration and pro-refugee behavioral tasks. The study will be implemented across 120 villages (9,600 respondents) in the Rift Valley or Western Kenya, regions with the lowest recorded support for Kenya's 2021 Refugee Act and Shirika Plan.
 </details>
 
 <br />
