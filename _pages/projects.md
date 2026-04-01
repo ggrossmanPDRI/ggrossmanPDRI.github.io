@@ -43,16 +43,7 @@ Funded by the Conrad N. Hilton Foundation, Innovations for Poverty Action’s La
 
 <br />
 
-[4] **Return Migration: Reducing Barriers and Risks for Social Cohesion in South Sudan** 
-*With Erik Wibbels (UPenn), Kyilah Terry (UPenn)*   
-<details>
-  <summary>Description</summary>
-Funded by Evidence in Governance and Politics (EGAP) and Penn's <i>Making a Difference in Global Communities</i> grant, and in collaboration with the Sudd Institute and UNHCR, this exploratory study examines the social cohesion implications of South Sudanese refugees returning from Uganda and Sudan. It also addresses the additional challenges of hosting refugees from Sudan and proposes potential interventions to reduce tensions within and between communities. The study aims to provide actionable insights tailored to the local context for policymakers, humanitarian organizations, and community leaders, along with a menu of possible interventions to promote peaceful coexistence amidst displacement challenges.
-</details>
-
-<br />
-
-[5] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
+[4] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
 *With Darin Christensen (UCLA), Cecilia Mo (UC Berkeley), and Kevin Grieco (Institute for Advanced Study in Toulouse)*  
 <details>
   <summary>Description</summary>
@@ -61,7 +52,7 @@ This pilot study, funded by IPA's HTRI, addresses the need for formal finance fo
 
 <br />
 
-[6] **The Discipline of Political Science: Structural Changes, Informal Networks, and Methodological Revolution**
+[5] **The Discipline of Political Science: Structural Changes, Informal Networks, and Methodological Revolution**
 *With Sandra González-Bailón (UPenn), William Dinneen (UPenn), Yiqing Xu (Stanford), Lluís Danús (UPenn), and Carolina Torreblanca (UPenn)*
 <details>
   <summary>Description</summary>
@@ -71,7 +62,7 @@ Leveraging a corpus of 140,000+ articles from 174 political science journals pub
 <br />
 
 
-[7] **Program to End Modern Slavery (PEMS) Bangladesh** 
+[6] **Program to End Modern Slavery (PEMS) Bangladesh** 
 
 <span style="color:red;">Funding by DoS has been terminated midway through the project's lifecycle.</span>
 
