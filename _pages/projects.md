@@ -53,7 +53,7 @@ Funded by Evidence in Governance and Politics (EGAP) and Penn's <i>Making a Diff
 <br />
 
 [5] **Credit Access for Responsible Extraction: Providing Incentives to Address Exploitation and Externalities in Sierra Leone’s Artisanal Mining Sector** 
-*With Darin Christensen (UCLA) and Cecilia Mo (UC Berkeley)*  
+*With Darin Christensen (UCLA), Cecilia Mo (UC Berkeley), and Kevin Grieco (Institute for Advanced Study in Toulouse)*  
 <details>
   <summary>Description</summary>
 This pilot study, funded by IPA's HTRI, addresses the need for formal finance for artisanal and small-scale gold miners in Sierra Leone. In partnership with the local microfinance institution Munafa, we are developing an intervention using conditional credit to tackle livelihood vulnerabilities in this sector. The pilot assesses whether providing artisan miners with low-interest loans can reduce exploitation (including debt bondage) and promote ethical labor practices. Insights gained will inform a more extensive study involving rolling out the credit product and rigorously evaluating its impact on trafficking, miners' and mine workers' socio-economic conditions, and environmental hazards.
