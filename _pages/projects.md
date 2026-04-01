@@ -62,7 +62,16 @@ Leveraging a corpus of 140,000+ articles from 174 political science journals pub
 <br />
 
 
-[6] **Program to End Modern Slavery (PEMS) Bangladesh** 
+[6] **Edutainment and Refugee Integration: An Experiment on Radio Popularity in Kenya**
+*With Erik Wibbels (UPenn), Carolina Torreblanca (UPenn), and Yotam Margalit (Tel Aviv University)*
+<details>
+  <summary>Description</summary>
+Funded by IPA's Peace and Recovery Initiative, this project tests whether a serialized radio drama can shift attitudes toward refugee integration in non-hosting regions of Kenya — areas where support is lowest yet attitudes are politically consequential for the prospects of national integration. The study exploits the fact that mass media interventions combine individual exposure with social processes that may shape second-order beliefs. Our design explicitly seeks to unbundle these individual and social effects of edutainment by asking: does persuasion operate primarily through direct information transmission, or does it also depend on social reinforcement and norm coordination? To answer this, we combine four sources of exogenous variation: (1) natural variation in radio signal coverage; (2) randomized encouragement to listen; (3) randomized saturation levels across villages (varying the share of villagers encouraged to listen from 20% to 80%); and (4) cross-randomized salience of popularity (informing encouraged individuals how many others in their village will be listening). Outcomes include attitudes toward refugee integration and pro-refugee behavioral tasks. The study will be implemented across 120 villages (9,600 respondents) in the Rift Valley or Western Kenya, regions with the lowest recorded support for Kenya's 2021 Refugee Act and Shirika Plan.
+</details>
+
+<br />
+
+[7] **Program to End Modern Slavery (PEMS) Bangladesh** 
 
 <span style="color:red;">Funding by DoS has been terminated midway through the project's lifecycle.</span>
 
