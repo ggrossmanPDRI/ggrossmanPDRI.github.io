@@ -35,7 +35,7 @@ In 2023, 1.5% of the world's population (117.3 million) was forcibly displaced, 
 <br /> -->
 
 [3] **Disrupted Aid, Displaced Lives: Unraveling the Impact of Refugee Funding Cuts in Uganda** 
-*With Yang-Yang Zhou (Dartmouth), Shelby Carvalho (Harvard), and Iman Dhar (PDRI-DevLab)*   
+*With Yang-Yang Zhou (Dartmouth), Shelby Carvalho (Stanford), and Iman Dhar (PDRI-DevLab)*   
 <details>
   <summary>Description</summary>
 Funded by the Conrad N. Hilton Foundation, Innovations for Poverty Action’s Lab Displaced Livelihoods Initiative(DLI), Penn Global Research and Engagement Grant Program, and in collaboration with UNHCR, this project studies the effects of a dramatic drop in the level of support for refugees. In the summer of 2023, UNHCR and the World Food Programme (WFP) launched a new policy in Uganda that reduces unconditional cash and in-kind transfers for 1.5 million refugees. We are using an innovative regression discontinuity study design to evaluate the effects of these aid cuts on refugees’ welfare and livelihood adaptation strategies. As budgetary cuts are anticipated in multiple refugee-hosting contexts, this research will inform policymakers on the effects of funding withdrawal and contribute to the extensive literature on cash transfers.
