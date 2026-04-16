@@ -35,6 +35,7 @@
         webpage: "https://www.science.org/doi/10.1126/sciadv.aea5427",
         pdf: "/assets/pdf/Abramitzky_SA_2026.pdf",
         appendix: "/assets/pdf/Abramitzky_SA_appendix.pdf",
+        replication: "https://osf.io/85hfq/?view_only=c0ed52334dee4f8895c35fa7e53cb5d6",
         bibtex: `@article{abramitzky2026expression,
   title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
   author={Abramitzky, Ran and Grossman, Guy and Lelkes, Yphtach and Mansour, Hani and Mitts, Tamar},
