@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  17 APR 2026 10:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  19 APR 2026 06:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -463,7 +463,7 @@ File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 al/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/202
 6/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2026/texmf-di
 st/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3]
-Overfull \hbox (2.09631pt too wide) in paragraph at lines 315--331
+Overfull \hbox (2.09631pt too wide) in paragraph at lines 316--332
 [] 
  []
 
@@ -478,8 +478,8 @@ Package rerunfilecheck Info: File `Grossman_cv_CURRENT.out' has not changed.
 (rerunfilecheck)             Checksum: F3D81B451F90DCA8C832DB33B5B469B7;1668.
  ) 
 Here is how much of TeX's memory you used:
- 12417 strings out of 467525
- 192032 string characters out of 5418982
+ 12418 strings out of 467525
+ 192039 string characters out of 5418982
  635437 words of memory out of 5000000
  41134 multiletter control sequences out of 15000+600000
  672335 words of font info for 62 fonts, out of 8000000 for 9000
@@ -494,10 +494,10 @@ t/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/typ
 e1/public/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm
 /lmri10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on Grossman_cv_CURRENT.pdf (7 pages, 235512 bytes).
+Output written on Grossman_cv_CURRENT.pdf (7 pages, 235730 bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 277 compressed objects within 3 object streams
- 38 named destinations out of 1000 (max. 500000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
