@@ -208,6 +208,7 @@ pages={e140}
         pdf: "/assets/pdf/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters.pdf",
         appendix: ["/assets/pdf/PSR2300103_Supplementary_Materials.pdf"],
         replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UKVOPE",
+        brief: "https://www.acume.org/r/when-minorities-win-elections-how-dominant-group-voters-respond-to-ethnic-minority-political-victories/",
         bibtex: `@article{grossman2024turnoutturnaround,
   title={Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters},
   author={Grossman, Guy and Zonszein, Stephanie},
@@ -1547,6 +1548,7 @@ year = {2006}
     const appArr = Array.isArray(app) ? app : (typeof app === "string" && app.trim() ? [app] : []);
     appArr.forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
+    if (p.links?.brief) btns.push(`<a class="pubs-action" href="${p.links.brief}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Brief</a>`);
     btns.push(actionLink("Google Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
     if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
 const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
