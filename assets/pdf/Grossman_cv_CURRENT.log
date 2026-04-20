@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  19 APR 2026 07:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  20 APR 2026 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -494,10 +494,10 @@ t/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/typ
 e1/public/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm
 /lmri10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on Grossman_cv_CURRENT.pdf (7 pages, 235795 bytes).
+Output written on Grossman_cv_CURRENT.pdf (7 pages, 235850 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 280 compressed objects within 3 object streams
+ 312 PDF objects out of 1000 (max. 8388607)
+ 282 compressed objects within 3 object streams
  39 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
