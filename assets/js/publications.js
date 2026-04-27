@@ -1,52 +1,6 @@
 (() => {
   // Minimal sample data (add the rest yourself)
   const PUBLISHED = [
-    {
-      id: 51,
-      year: 2026,
-      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
-      authors: "Danús Lluís, William Dinneen, Guy Grossman, Carolina Torreblanca, and Sandra González-Bailón",
-      journal: "Proceedings of the National Academy of Sciences",
-      status: "forthcoming",
-      categories: ['Knowledge Production'],
-      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars' embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.",
-      links: {
-        pdf: "",
-        bibtex: `@article{grossman2026informal,
-  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
-  author={Grossman, Guy and Dan{\'u}s, Llu{\'i}s and Dinneen, William and Torreblanca, Carolina and Gonz{\'a}lez-Bail{\'o}n, Sandra},
-  journal={Proceedings of the National Academy of Sciences},
-  year={2026},
-  status={forthcoming}
-}`
-      }
-    },
-    {
-      id: 50,
-      year: 2026,
-      title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
-      authors: "Guy Grossman, Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour",
-      journal: "Science Advances",
-      volume: "12(16): eaea5427",
-      status: "",
-      categories: ['Conflict', 'Governance'],
-      abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target's identity strongly influence support for disciplinary actions in response to objectionable speech. Students generally oppose punishing objectionable speech unless it is deemed highly harmful. Hateful rhetoric targeting minority groups, such as Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive responses than identical statements directed at White students. While students, on average, afford greater protections to minority groups, there is notable variation. Exploratory analysis reveals that students' responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target's identity. These principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.",
-      links: {
-        webpage: "https://www.science.org/doi/10.1126/sciadv.aea5427",
-        pdf: "/assets/pdf/Abramitzky_SA_2026.pdf",
-        appendix: "/assets/pdf/Abramitzky_SA_appendix.pdf",
-        replication: "https://osf.io/85hfq/?view_only=c0ed52334dee4f8895c35fa7e53cb5d6",
-        bibtex: `@article{abramitzky2026expression,
-  title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
-  author={Abramitzky, Ran and Grossman, Guy and Lelkes, Yphtach and Mansour, Hani and Mitts, Tamar},
-  journal={Science Advances},
-  volume={12},
-  number={16},
-  pages={eaea5427},
-  year={2026}
-}`
-      }
-    },
 	{
       id: 49,
       year: 2026,
@@ -86,6 +40,54 @@
   journal={Annual Review of Political Science},
   year={2026},
   status={forthcoming}
+}`
+      }
+    },
+    {
+      id: 51,
+      year: 2026,
+      title: "Informal Connections Outweigh Co-authorship Ties in Academic Impact",
+      authors: "Danús Lluís, William Dinneen, Guy Grossman, Carolina Torreblanca, and Sandra González-Bailón",
+      journal: "Proceedings of the National Academy of Sciences",
+      volume: "123(18): e2511050123",
+      status: "",
+      categories: ['Knowledge Production'],
+      abstract: "Research has documented the importance of teamwork in the form of co-authorship for research productivity and innovation, but we know much less about how informal collaborations relate to academic success. Informal ties allow intangible exchanges like mentoring, guidance, and feedback to flow among scholars: these interactions weave a support structure that improves ideas and encourages project growth. However, these informal exchanges are more difficult to measure because they do not leave as clear a trail as co-authorship ties. Here, we uncover this layer of informal communication around scholarly outputs by parsing the information contained in the acknowledgment sections of published articles. Our data include 130,000 articles authored by 86,000 scholars from the period 2003-2023. We analyze scholars' embeddedness in this informal structure of collaboration and reveal that (1) informal ties create a larger and denser network of support than co-authorship ties; (2) disconnection from informal networks is associated with gaps in productivity and impact; and (3) informal ties are a more relevant predictor of academic success than formal collaborations, even after matching for gender, seniority, methodology, and geographical location. Using coarsened exact matching and random forest regressions we show that informal structures of support are significantly associated with academic impact, creating gaps in who benefits from those connections.",
+      links: {
+        webpage: "https://www.pnas.org/doi/10.1073/pnas.2511050123",
+        pdf: "/assets/pdf/2026_PNAS.pdf",
+        bibtex: `@article{grossman2026informal,
+  title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
+  author={Grossman, Guy and Dan{\'u}s, Llu{\'i}s and Dinneen, William and Torreblanca, Carolina and Gonz{\'a}lez-Bail{\'o}n, Sandra},
+  journal={Proceedings of the National Academy of Sciences},
+  year={2026},
+  status={forthcoming}
+}`
+      }
+    },
+    {
+      id: 50,
+      year: 2026,
+      title: "Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis",
+      authors: "Guy Grossman, Yphtach Lelkes, Ran Abramitzky, Tamar Mitts, and Hani Mansour",
+      journal: "Science Advances",
+      volume: "12(16): eaea5427",
+      status: "",
+      categories: ['Conflict', 'Governance'],
+      abstract: "This study examines how college students navigate the tension between free speech and harm prevention, highlighted by recent campus protests around the war in Gaza. Using online survey experiments with 3,065 college students nationwide, we find that the severity of speech and the target's identity strongly influence support for disciplinary actions in response to objectionable speech. Students generally oppose punishing objectionable speech unless it is deemed highly harmful. Hateful rhetoric targeting minority groups, such as Black, Jewish, Muslim, and transgender individuals, elicits stronger punitive responses than identical statements directed at White students. While students, on average, afford greater protections to minority groups, there is notable variation. Exploratory analysis reveals that students' responses are shaped by normative principles: about two-thirds believe minority groups should receive greater protection from harmful speech, while one-third advocate universal, equal treatment regardless of the target's identity. These principles predict responses to speech scenarios, beyond ideology, stance on the Israeli-Palestinian conflict, and other personal characteristics. However, commitment to these principles weakens when individuals have a strong stance on the topic. These findings shed light on how college students balance competing principles of fairness and harm prevention in polarized contexts, offering insights into contemporary campus debates about free speech and inclusion.",
+      links: {
+        webpage: "https://www.science.org/doi/10.1126/sciadv.aea5427",
+        pdf: "/assets/pdf/Abramitzky_SA_2026.pdf",
+        appendix: "/assets/pdf/Abramitzky_SA_appendix.pdf",
+        replication: "https://osf.io/85hfq/?view_only=c0ed52334dee4f8895c35fa7e53cb5d6",
+        bibtex: `@article{abramitzky2026expression,
+  title={Expression at the Edge: Free Speech Boundaries Amidst the Gaza Crisis},
+  author={Abramitzky, Ran and Grossman, Guy and Lelkes, Yphtach and Mansour, Hani and Mitts, Tamar},
+  journal={Science Advances},
+  volume={12},
+  number={16},
+  pages={eaea5427},
+  year={2026}
 }`
       }
     },
