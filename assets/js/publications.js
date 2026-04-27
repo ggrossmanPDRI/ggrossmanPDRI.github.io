@@ -56,12 +56,15 @@
       links: {
         webpage: "https://www.pnas.org/doi/10.1073/pnas.2511050123",
         pdf: "/assets/pdf/2026_PNAS.pdf",
-        bibtex: `@article{grossman2026informal,
+        scholar: "",
+        bibtex: `@article{danus2026informal,
   title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
-  author={Grossman, Guy and Dan{\'u}s, Llu{\'i}s and Dinneen, William and Torreblanca, Carolina and Gonz{\'a}lez-Bail{\'o}n, Sandra},
+  author={Dan{\'u}s, Llu{\'i}s and Dinneen, William and Grossman, Guy and Torreblanca, Carolina and Gonz{\'a}lez-Bail{\'o}n, Sandra},
   journal={Proceedings of the National Academy of Sciences},
-  year={2026},
-  status={forthcoming}
+  volume={123},
+  number={18},
+  pages={e2511050123},
+  year={2026}
 }`
       }
     },
@@ -1552,7 +1555,8 @@ year = {2006}
     appArr.forEach((u, i) => btns.push(actionLink(i === 0 ? "Appendix" : `App ${i+1}`, u)));
     if (p.links?.replication) btns.push(actionLink("Replication", p.links.replication));
     if (p.links?.brief) btns.push(`<a class="pubs-action" href="${p.links.brief}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Brief</a>`);
-    btns.push(actionLink("Google Scholar", p.links?.scholar || scholarUrlForTitle(p.title)));
+    const scholarUrl = p.links && "scholar" in p.links ? p.links.scholar : scholarUrlForTitle(p.title);
+    if (scholarUrl) btns.push(actionLink("Google Scholar", scholarUrl));
     if (p.links?.bibtex) btns.push(`<button class="pubs-action" type="button" data-bibbtn="${p.id}">BibTeX</button>`);
 const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin-top:.35rem">${escapeHtml(p.abstract)}</div></details>` : "";
 
