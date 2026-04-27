@@ -56,6 +56,7 @@
       links: {
         webpage: "https://www.pnas.org/doi/10.1073/pnas.2511050123",
         pdf: "/assets/pdf/2026_PNAS.pdf",
+        replication: "https://github.com/lluisdanus/informal-connections/",
         scholar: "",
         bibtex: `@article{danus2026informal,
   title={Informal Connections Outweigh Co-authorship Ties in Academic Impact},
