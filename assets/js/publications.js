@@ -6,19 +6,20 @@
       year: 2026,
       title: "Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023",
       authors: "Guy Grossman, William Dinneen and Carolina Torreblanca",
-      journal: "Perspective on Politics",
-      status: "forthcoming",
+      journal: "Perspectives on Politics",
+      status: "FirstView",
       categories: ['Knowledge Production'],
       abstract: "This study analyzes the evolution of political science (PS) scholarship using 140,000+ articles from 174 journals (2003–2023). We examine how structural changes ---shrinking job markets and increased reliance on publication metrics--- affect what gets studied and how. Growing publication pressures push younger scholars to publish more, yet the tripling of PS publication volume stems from a larger contributor base, not individual output. On a positive note, structural shifts have made PS more collaborative, with efficiency gains from team research outweighing credit diffusion. Contrary to fears of topical narrowing, our text-as-data analysis shows consistent topical diversity, though higher-ranked journals form a distinct ecosystem with unique methodological preferences. We also identify a key tradeoff: topically novel work tends to earn more citations over time but faces hurdles in prestigious journal publication. These findings enhance our understanding of how academic production systems shape the nature of intellectual progress in the discipline.",
       links: {
-        pdf: "https://osf.io/preprints/osf/tmy37_v3",
-        webpage: "https://osf.io/preprints/osf/tmy37_v3",
+        webpage: "https://doi.org/10.1017/S1537592725104179",
+        pdf: "/assets/pdf/2026_PoP_ms.pdf",
+        appendix: "/assets/pdf/2026_PoP_appendix.pdf",
+        replication: "https://doi.org/10.7910/DVN/O9SUR0",
         bibtex: `@article{grossman2026political,
   title={Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003-2023},
   author={Grossman, Guy and Dinneen, William and Torreblanca, Carolina},
-  journal={Perspective on Politics},
-  year={2026},
-  status={forthcoming}
+  journal={Perspectives on Politics},
+  year={2026}
 }`
       }
     },
@@ -28,7 +29,7 @@
       title: "The Politics of Climate Change in the Developing World",
       authors: "Guy Grossman, Audrey Sacks and Alice Xu",
       journal: "Annual Review of Political Science",
-      status: "early view",
+      status: "FirstView",
       categories: ['Climate Change'],
       abstract: "Climate change politics in the developing world remains understudied, despite the region's acute vulnerability and centrality to climate futures. This review synthesizes emerging research across three domains: public opinion and climate salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution.",
       links: {
@@ -56,6 +57,7 @@
       links: {
         webpage: "https://www.pnas.org/doi/10.1073/pnas.2511050123",
         pdf: "/assets/pdf/2026_PNAS.pdf",
+        appendix: "/assets/pdf/2026_PNAS_appendix.pdf",
         replication: "https://github.com/lluisdanus/informal-connections/",
         scholar: "",
         bibtex: `@article{danus2026informal,
