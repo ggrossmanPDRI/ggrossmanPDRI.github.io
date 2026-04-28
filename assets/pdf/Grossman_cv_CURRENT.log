@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  28 APR 2026 05:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  28 APR 2026 08:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,12 +462,12 @@ File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/202
 6/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2026/texmf-di
-st/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3]
-Overfull \hbox (2.09631pt too wide) in paragraph at lines 316--332
+st/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] [4]
+Overfull \hbox (2.09631pt too wide) in paragraph at lines 317--333
 [] 
  []
 
-[4] [5] [6] [7] 
+[5] [6] [7] [8] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./Grossman_cv_CURRENT.aux)
  ***********
@@ -479,12 +479,12 @@ Package rerunfilecheck Info: File `Grossman_cv_CURRENT.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  12418 strings out of 467525
- 192039 string characters out of 5418982
+ 192038 string characters out of 5418982
  635437 words of memory out of 5000000
  41134 multiletter control sequences out of 15000+600000
  672335 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1208b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1208b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></us
 r/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/te
@@ -494,10 +494,10 @@ t/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/typ
 e1/public/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm
 /lmri10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on Grossman_cv_CURRENT.pdf (7 pages, 235939 bytes).
+Output written on Grossman_cv_CURRENT.pdf (8 pages, 236994 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
+ 317 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
  39 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
