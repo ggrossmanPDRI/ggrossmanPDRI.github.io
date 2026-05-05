@@ -82,7 +82,7 @@ nav: true
   border-left: 3px solid rgba(59,130,246,0.35);
   border-radius: 0 10px 10px 0;
   padding: 0.65rem 0.85rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   background: rgba(0,0,0,0.025);
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   transition: border-left-color 0.2s, box-shadow 0.2s, background 0.2s;
