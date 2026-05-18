@@ -1296,7 +1296,7 @@ year = {2006}
       id: 5,
       title: "The Credibility Revolution in Political Science",
       authors: "Carolina Torreblanca, William Dinneen, Guy Grossman and Yiqing Xu",
-      status: "under review",
+      status: "revise and resubmit",
       categories: ['Knowledge Production'],
       abstract: "How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns. Design-based studies—research strategies that explicitly a research design and the assumptions required for causal identification—have become increasingly common, displacing regression-based analyses that rely primarily on modeling assumptions. Yet as of 2023, studies without an explicit identification strategy still constitute nearly 40% of empirical quantitative work. Within design-based research, survey experiments dominate, while field experiments and quasi-experimental approaches have grown more modestly. Transparency practices such as placebo tests and power analysis remain rare. Design-based studies are concentrated in top journals and among authors at highly ranked institutions, and enjoy a persistent citation premium. The credibility revolution has meaningfully reshaped the discipline, though unevenly and incompletely",
       links: {
