@@ -889,6 +889,7 @@ status={published}
       authors: "Guy Grossman and Kristin Michelitch",
       journal: "American Political Science Review",
       volume: "112(2): 280-301",
+      award: "Best Paper — APSA Experimental Research",
       categories: ['Governance'],
       abstract: "Politicians shirk when their performance is obscure to constituents. We theorize that when politician performance information is disseminated early in the electoral term, politicians will subsequently improve their performance in anticipation of changes in citizens’ evaluative criteria and possible challenger entry in the next election. However, politicians may only respond in constituencies where opposition has previously mounted. We test these predictions in partnership with a Ugandan civil society organization in a multiyear field experiment conducted in 20 district governments between the 2011 and 2016 elections. While the organization published yearly job duty performance scorecards for all incumbents, it disseminated the scorecards to constituents for randomly selected politicians. These dissemination efforts induced politicians to improve performance across a range of measures, but only in competitive constituencies. Service delivery was unaffected. We conclude that, conditional on electoral pressure, transparency can improve politicians’ performance between elections but not outcomes outside of their control.",
       links: {
@@ -1137,6 +1138,7 @@ status={published}
       authors: "Guy Grossman",
       journal: "Quarterly Journal of Political Science",
       volume: "9(1): 1-44",
+      award: "Lawrence Longley Best Article — APSA Representation & Electoral Systems",
       categories: ['Governance'],
       abstract: "Community organizations in developing countries often suffer from self-serving elites. This study examines whether the responsiveness and accountability of local leaders can be strengthened through the introduction of more inclusive and participatory leader selection rules. To address identification problems, I take advantage of natural conditions that resulted in exogenous variation in the rules for selecting leaders of farmer associations in Uganda. I find that compared to leaders appointed by the community elites, directly elected leaders are significantly more responsive to group members, leading to greater cooperative behavior. Analyzing possible mechanisms, I find that community organizations using appointments are less likely to develop monitoring institutions that are vital for constraining the behavior of local elites. Unique social network data provides evidence that close friendship ties between appointed and appointers substitute for formal monitoring institutions, leading to loss of confidence by community members and, subsequently, to a decline in public goods contributions.",
       links: {
