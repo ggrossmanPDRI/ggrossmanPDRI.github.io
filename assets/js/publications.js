@@ -173,7 +173,7 @@ pages={e140}
     journal: "American Journal of Political Science",
     volume: "69 (2): 718-733",
     status: "",
-    award: "Best Article Award — APSA European Politics & Society",
+    award: "Best Article — APSA European Politics & Society",
     categories: ['Migration', 'Conflict'],
     abstract: "How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.",
     links: {
@@ -553,6 +553,7 @@ status={published}
     journal: "Quarterly Journal of Political Science",
     status: "",
     volume: "16(3) 265-284",
+    award: "Political Ties Best Article — APSA Political Networks",
     categories: ["Governance"],
     abstract: "Social context theory suggests that an important driver of political participation is the behavior of family, friends, co-workers and neighbors. How do social ties between individuals shape equilibrium behavior in larger populations? Despite theoretical inroads into this question, direct empirical tests remain scarce due to data limitations. We fill this gap using full social network data from 15 villages in rural Uganda, where village-level turnout is the outcome of interest. We find that levels of participation predicted by structural features of village networks are strongly associated with actual village-level turnout in low-salience local elections, and weakly associated in high-salience presidential elections. We also find that these features predict other forms of political participation, including attending village meetings and contributing to village projects. In addition to demonstrating that networks help explain political participation, we provide evidence that the mechanism of influence is that proposed by social context theory rather than alternative mechanisms like the presence of central brokers or the ability of networks to diffuse information.",
     links: {
@@ -606,6 +607,7 @@ status={published}
     journal: "Science",
     status: "",
     volume: "374(6571) 1046-1047",
+    award: "Luebbert Best Article (Hon. Mention) — APSA Comparative Politics",
     categories: ["Conflict", "Governance"],
     abstract: "More than one-fourth of the world’s population lives in conditions of insecurity because of high levels of crime and violence, especially in the Global South. Although the police are central to reducing crime and violence, they are also often perpetrators of unjust harm against citizens. We investigated the effects of community policing, a set of practices designed to build trust between citizens and police, increase the co-production of public safety, and reduce crime. Community policing is meant to improve outcomes by increasing engagement between citizens and police through increased foot patrols, community meetings, and the adoption of problem-oriented policing strategies that address concerns raised by citizens. When cooperation leads to effective police responses, this approach reinforces citizen trust and facilitates further cooperation, creating a virtuous cycle. Community policing has been implemented around the world on every continent. However, although there is evidence for its positive effects in rich countries, there is no systematic evidence about whether community policing effectively generates trust and reduces crime in the Global South",
     links: {
@@ -633,6 +635,7 @@ status={published}
     journal: "Journal of Politics",
     status: "",
     volume: "82(4) 1321-1336 ",
+    award: "Best Article — APSA Information Technology & Politics",
     categories: ["Governance"],
     abstract: "This study integrates three related field experiments to learn about how information communications technology (ICT) innovations can affect who communicates with politicians. We implemented a nationwide experiment in Uganda following a smaller-scale framed field experiment that suggested that ICTs can lead to significant “flattening”: marginalized populations used short message service (SMS) based communication at relatively higher rates compared to existing political communication channels. We find no evidence for these effects in the national experiment. Instead, participation rates are extremely low, and marginalized populations engage at especially low rates. We examine possible reasons for these differences between the more controlled and the scaled-up experiments. The evidence suggests that even when citizens have issues they want to raise, technological fixes to communication deficits can be easily undercut by structural weaknesses in political systems.",
     links: {
