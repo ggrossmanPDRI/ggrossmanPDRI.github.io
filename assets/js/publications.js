@@ -1166,6 +1166,7 @@ status={published}
       authors: "Guy Grossman and Janet I. Lewis",
       journal: "American Political Science Review",
       volume: "108(1): 196-217",
+      award: "Kellogg/Notre Dame Best Paper in Comparative Politics — MPSA",
       categories: ['Governance'],
       abstract: "Numerous developing countries have substantially increased their number of subnational administrative units in recent years. The literature on this phenomenon is, nonetheless, small and suffers from several theoretical and methodological shortcomings: in particular, a unit of analysis problem that causes past studies to mistakenly de-emphasize the importance of local actors. We posit that administrative unit proliferation occurs where and when there is a confluence of interests between the national executive and local citizens and elites from areas that are politically, economically, and ethnically marginalized. We argue further that although the proliferation of administrative units often accompanies or follows far-reaching decentralization reforms, it likely results in a recentralization of power; the proliferation of new local governments fragments existing units into smaller ones with lower relative intergovernmental bargaining power and administrative capacity. We find support for these arguments using original data from Uganda.",
       links: {
