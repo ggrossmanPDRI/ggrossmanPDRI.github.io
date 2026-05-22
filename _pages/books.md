@@ -21,6 +21,7 @@ nav: true
         <h3 class="books__title">Information, Accountability, and Cumulative Learning: Lessons from Metaketa I</h3>
         <div class="books__authors">With Thad Dunning, Macartan Humphreys, Susan D. Hyde, Craig McIntosh, and Gareth Nellis</div>
         <div class="books__venue">2019, Cambridge University Press</div>
+        <div class="books__award"><i class="fas fa-trophy" aria-hidden="true"></i> Best Book in Experimental Research — APSA Experimental Research</div>
         <div class="books__actions">
           <a class="books__btn" href="https://www.cambridge.org/core/books/information-accountability-and-cumulative-learning/45DD58C16ED29DFFA9D69F0CF740EFB4" target="_blank" rel="noopener noreferrer">Cambridge UP &rarr;</a>
         </div>
@@ -108,6 +109,20 @@ nav: true
   font-style: italic;
   margin-bottom: 0.5rem;
 }
+
+.books__award {
+  display: inline-block;
+  width: fit-content;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  margin-bottom: 0.5rem;
+  background: rgba(217,164,6,0.12);
+  border: 1px solid rgba(217,164,6,0.35);
+  color: var(--global-text-color);
+}
+.books__award .fa-trophy { color: rgb(217,164,6); margin-right: 0.2rem; }
 
 .books__actions {
   display: flex;
