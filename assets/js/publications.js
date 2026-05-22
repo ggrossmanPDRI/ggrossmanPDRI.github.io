@@ -1064,6 +1064,7 @@ status={published}
       authors: "Guy Grossman, Devorah Manekin and Dan Miodownik",
       journal: "International Organization",
       volume: "69(4): 981–1009",
+      award: "NEPS Medal — Best Publication in Peace Science",
       categories: ['Israel Politics', "Conflict"],
       abstract: "Recent research has highlighted combat's positive effects for political behavior, but it is unclear whether they extend to attitudes toward the conflict itself. We exploit the assignment of health rankings determining combat eligibility in the Israel Defense Forces to examine the effect of combat exposure on support for peaceful conflict resolution. Given the centrality of the Israeli-Palestinian conflict to global affairs, and its apparent intractability, the political consequences of combat become all the more pressing. We find that exposure to combat hardens attitudes toward the rival and reduces support for negotiation and compromise. Importantly, these attitudes translate into voting behavior: combatants are likely to vote for more hawkish parties. These findings call for caution in emphasizing the benign effects of combat and underscore the importance of reintegrating combatants during the transition from conflict to peace.",
       links: {
@@ -1088,6 +1089,7 @@ status={published}
       authors: "Guy Grossman, Macartan Humphreys and Gabriella Sacramone-Lutz",
       journal: "American Political Science Review",
       volume: "108(3): 688-705",
+      award: "Best Paper — APSA Information Technology & Politics",
       categories: ['Governance'],
       abstract: "How does access to information communication technology (ICT) affect who gets heard and what gets communicated to politicians? On the one hand, ICT can lower communication costs for poorer constituents; on the other, technological channels may be used disproportionately more by the already well connected. To assess the flattening effects of ICTs, we presented a representative sample of constituents in Uganda with an opportunity to send a text message to their representatives at one of three randomly assigned prices. Critically, and contrary to concerns that technological innovations benefit the privileged, we find evidence that ICT can lead to significant flattening: a greater share of marginalized populations use this channel compared to existing political communication channels. Price plays a more complex role. Subsidizing the full cost of messaging increases uptake by over 40%. Surprisingly however, subsidy-induced increases in uptake do not yield further flattening since free channels are not used at higher rates by more marginalized constituents.",
       links: {
