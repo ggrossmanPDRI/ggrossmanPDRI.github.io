@@ -173,6 +173,7 @@ pages={e140}
     journal: "American Journal of Political Science",
     volume: "69 (2): 718-733",
     status: "",
+    award: "Best Article Award — APSA European Politics & Society",
     categories: ['Migration', 'Conflict'],
     abstract: "How do dominant-group natives react to immigrants' political integration? We argue that ethnic minority immigrants winning political office makes natives feel threatened, triggering animosity. We test this dynamic across the 2010–2019 UK general elections, using hate crime police records, public opinion data, and text data from over 500,000 regional and local newspaper articles. While past work has not established a causal relationship between minorities' political power gains and dominant-group animosity, we identify natives' hostile reactions with a regression discontinuity design that leverages close election results between immigrant-origin ethnic minority and dominant-group candidates. We find that minority victories increase hate crimes by 67%, exclusionary attitudes by 66%, and negative media coverage of immigrant groups by 110%. Consistent with power threat and social identity theories, these findings demonstrate a strong and widespread negative reaction—encompassing a violence-prone fringe and the mass public—against ethnic minority immigrants' integration into majority settings.",
     links: {
@@ -1552,6 +1553,7 @@ year = {2006}
 
     const venue = formatVenue(p);
     const cats = (p.categories || []).map((c) => `<span class="pubs-badge">${escapeHtml(c)}</span>`).join("");
+    const awardBadge = p.award ? `<span class="pubs-badge pubs-award"><i class="fas fa-trophy" aria-hidden="true"></i> ${escapeHtml(p.award)}</span>` : "";
 
     const btns = [];
     if (p.links?.pdf) btns.push(actionLink("PDF", p.links.pdf, true));
@@ -1569,10 +1571,10 @@ const abs = p.abstract ? `<details><summary>Abstract</summary><div style="margin
       <article class="pubs-card" id="pub-${p.id}">
         <h4>${titleHtml}</h4>
         <div class="pubs-meta">
-          ${escapeHtml(p.authors)}${venue ? ` • ${venue}` : ""}${p.status ? ` • ${escapeHtml(p.status)}` : ""}
+          ${escapeHtml(p.authors)}${venue ? ` • ${venue}` : ""}${p.status ? ` • <span class="pubs-status">${escapeHtml(p.status)}</span>` : ""}
         </div>
 
-        ${cats ? `<div class="pubs-badges">${cats}</div>` : ""}
+        ${cats || awardBadge ? `<div class="pubs-badges">${cats}${awardBadge}</div>` : ""}
 
         ${abs}
 

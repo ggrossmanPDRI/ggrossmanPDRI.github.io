@@ -90,6 +90,7 @@ nav: true
 .pubs-main .pubs-card:hover { border-left-color: rgba(59,130,246,0.7); box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: rgba(0,0,0,0.035); }
 .pubs-main .pubs-card h4 { margin: 0 0 0.2rem; font-size: 1rem; line-height: 1.35; }
 .pubs-meta { color: var(--global-text-color-light); font-size: 0.88rem; margin-bottom: 0.3rem; }
+.pubs-status { color: rgb(59,130,246); font-weight: 700; }
 .pubs-badges { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-top: 0.15rem; margin-bottom: 0.35rem; }
 .pubs-badge {
   font-size: 0.72rem;
@@ -99,6 +100,13 @@ nav: true
   color: var(--global-text-color);
   border: 1px solid rgba(59,130,246,0.15);
 }
+.pubs-award {
+  background: rgba(217,164,6,0.12);
+  border-color: rgba(217,164,6,0.35);
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+.pubs-award .fa-trophy { color: rgb(217,164,6); margin-right: 0.2rem; }
 
 .pubs-actions { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; margin-top: 0.35rem; }
 .pubs-action {
