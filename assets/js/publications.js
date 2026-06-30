@@ -5,7 +5,7 @@
       id: 53,
       year: 2026,
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
-      authors: "Robert A. Blair, Anna M. Wilke, and Guy Grossman",
+      authors: "Robert A. Blair, Guy Grossman, and Anna M. Wilke",
       journal: "World Development",
       status: "forthcoming",
       categories: ['Governance', 'Conflict'],
@@ -14,7 +14,7 @@
         pdf: "https://osf.io/preprints/osf/wkrcm_v2",
         bibtex: `@article{blair2026community,
   title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
-  author={Blair, Robert A. and Wilke, Anna M. and Grossman, Guy},
+  author={Blair, Robert A. and Grossman, Guy and Wilke, Anna M.},
   journal={World Development},
   year={2026}
 }`
