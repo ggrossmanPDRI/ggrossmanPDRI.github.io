@@ -2,6 +2,25 @@
   // Minimal sample data (add the rest yourself)
   const PUBLISHED = [
     {
+      id: 53,
+      year: 2026,
+      title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
+      authors: "Robert A. Blair, Anna M. Wilke, and Guy Grossman",
+      journal: "World Development",
+      status: "forthcoming",
+      categories: ['Governance', 'Conflict'],
+      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve.  But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate the impact of COP in the Global South. The COP initiative we study was locally designed and funded by the Ugandan government. Contrary to our expectations, we find no evidence that the program reduced crime, enhanced citizens’ perceptions of safety, improved their attitudes towards the police, increased crime reporting, or strengthened other norms of citizen cooperation with the police.   Nor do we find evidence that the program generated greater empathy or accountability among participating police officers themselves. We explore a variety of potential explanations for these null results, including both supply-side factors (e.g., resource constraints within the Ugandan police force) and demand-side factors (e.g., citizens’ fear of engaging with the police). We find no evidence that overcoming these obstacles would make COP more effective.  Taken together, our findings point to potential limitations of COP in low-income countries.",
+      links: {
+        pdf: "https://osf.io/preprints/osf/wkrcm_v2",
+        bibtex: `@article{blair2026community,
+  title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
+  author={Blair, Robert A. and Wilke, Anna M. and Grossman, Guy},
+  journal={World Development},
+  year={2026}
+}`
+      }
+    },
+    {
       id: 52,
       year: 2026,
       title: "Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities",
@@ -1285,23 +1304,6 @@ year = {2006}
   ];
 
   const WORKING = [
-    {
-      id: 1,
-      title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
-      authors: "Robert A. Blair, Guy Grossman and Anna M. Wilke",
-      status: "revise and resubmit",
-      categories: ['Governance', 'Conflict'],
-      abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve.  But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate the impact of COP in the Global South. The COP initiative we study was locally designed and funded by the Ugandan government. Contrary to our expectations, we find no evidence that the program reduced crime, enhanced citizens’ perceptions of safety, improved their attitudes towards the police, increased crime reporting, or strengthened other norms of citizen cooperation with the police.   Nor do we find evidence that the program generated greater empathy or accountability among participating police officers themselves. We explore a variety of potential explanations for these null results, including both supply-side factors (e.g., resource constraints within the Ugandan police force) and demand-side factors (e.g., citizens’ fear of engaging with the police). We find no evidence that overcoming these obstacles would make COP more effective.  Taken together, our findings point to potential limitations of COP in low-income countries.",
-      links: {
-        pdf: "https://osf.io/preprints/osf/wkrcm_v2",
-        bibtex: `@unpublished{grossman2024community,
-  title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
-  author={Blair, Robert A., Grossman, Guy and Wilke, Anna M.},
-  note={Revise and resubmit},
-  year={2024}
-}`
-      }
-    },
     {
       id: 5,
       title: "The Credibility Revolution in Political Science",
