@@ -73,7 +73,7 @@
       abstract: "Climate change politics in the developing world remains understudied, despite the region's acute vulnerability and centrality to climate futures. This review synthesizes emerging research across three domains: public opinion and climate salience, the effects of climate exposure on political accountability, and the institutional production of climate risk. We highlight a core paradox widespread public concern often coexists with limited climate literacy—suggesting that political salience stems from lived experience with environmental disruption rather than scientific attribution.",
       links: {
         webpage: "https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-032624-014810",
-        pdf: "/assets/pdf/2026_annurev-polisci_final.pdf",
+        pdf: "/assets/pdf/2026_ARPS_final.pdf",
         bibtex: `@article{grossman2026climate,
   title={The Politics of Climate Change in the Developing World},
   author={Grossman, Guy and Sacks, Audrey and Xu, Alice},
