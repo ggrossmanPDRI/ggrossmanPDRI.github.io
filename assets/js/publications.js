@@ -1341,16 +1341,16 @@ year = {2006}
     },
  {
       id: 7,
-      title: "Aid cuts for refugees reduce welfare without increasing self-reliance",
-      authors: "Guy Grossman, Yang-Yang Zhou, Shelby Carvalho, and Iman Dahr",
+      title: "Cutting humanitarian aid raises debt and lowers schooling without building refugees' self-reliance",
+      authors: "Shelby Carvalho, Yang-Yang Zhou, Iman Dahr, and Guy Grossman",
       status: "under review",
       categories: ['Migration'],
       abstract: "The contraction of humanitarian assistance is reshaping how aid agencies respond to crises. For refugees who live in developing countries, aid cuts raise urgent questions about whether reduced cash and food assistance can be offset through work, entrepreneurship, or relocation to areas with greater economic opportunity. We study an aid prioritization policy in Uganda, a country frequently cited as a favorable setting for refugee self-reliance due to its inclusive legal framework. In 2023, funding shortfalls led to a reduction of cash and food assistance by 50\% for most refugee households while preserving pre-existing support for those classified as most vulnerable. Using two rounds of panel data from 5,400 refugee households whose vulnerability scores placed them closest to the eligibility cutoff, we leverage a regression discontinuity design to estimate the causal effects of reduced assistance approximately one and two years after implementation. We find little evidence that assistance reductions induce productive adjustment. Households experiencing reduced assistance do not increase employment, earnings, or mobility relative to otherwise similar households that retained pre-existing support. Instead, households accumulate debt, while physical and mental health deteriorate as economic and social conditions worsen. Over the same period, conditions deteriorated broadly across refugee settlements, limiting opportunities even for households that retained full support. These effects intensify over time, suggesting that short-run responses understate the longer-run costs of aid retrenchment. Together, the results indicate that legal rights to work and move freely are necessary but not sufficient for self-reliance when labor demand is weak, and liquidity is scarce.",
       links: {
         pdf: "",
         bibtex: `@unpublished{grossman2025aidcut,
-  title={Aid cuts for refugees reduce welfare without increasing self-reliance},
-  author={Guy Grossman, Yang-Yang Zhou, Shelby Carvalho, and Iman Dahr},
+  title={Cutting humanitarian aid raises debt and lowers schooling without building refugees' self-reliance},
+  author={Carvalho, Shelby and Zhou, Yang-Yang and Dahr, Iman and Grossman, Guy},
   note={Under review},
   year={2026}
 }`
