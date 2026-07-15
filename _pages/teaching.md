@@ -12,6 +12,13 @@ display_categories: [work, fun]
   <div class="teaching__courses">
 
     <div class="teaching__card">
+      <div class="teaching__level teaching__level--undergrad">Undergraduate Seminar</div>
+      <h3 class="teaching__title">Frontline States: The Political Economy of Refugee Hosting</h3>
+      <div class="teaching__meta">Upcoming: Fall 2026</div>
+      <a class="teaching__syllabus" href="/assets/pdf/Syllabus_RefugeeHosting_Fall2026.pdf" target="_blank" rel="noopener noreferrer">Syllabus &rarr;</a>
+    </div>
+
+    <div class="teaching__card">
       <div class="teaching__level teaching__level--undergrad">Undergraduate Lecture</div>
       <h3 class="teaching__title">Migration and Forced Displacement</h3>
       <div class="teaching__meta">Last offered: Spring 2026</div>
