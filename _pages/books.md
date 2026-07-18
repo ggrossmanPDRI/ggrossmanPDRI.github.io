@@ -11,6 +11,17 @@ nav: true
 
   <div class="books__card">
     <div class="books__layout">
+      <div class="books__details books__details--nocover">
+        <div class="books__series">Cambridge Elements in Political Economy</div>
+        <h3 class="books__title">Liberalizing Refugee Hosting Without Losing the Vote: Compensated Inclusion in the Global South</h3>
+        <div class="books__authors">With Shuning Ge and Yang-Yang Zhou</div>
+        <div class="books__venue">Under contract, Cambridge University Press</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="books__card">
+    <div class="books__layout">
       <div class="books__cover">
         <a href="https://www.cambridge.org/core/books/information-accountability-and-cumulative-learning/45DD58C16ED29DFFA9D69F0CF740EFB4" target="_blank" rel="noopener noreferrer">
           <img src="/assets/img/metaketa_cover.jpg" alt="Information, Accountability, and Cumulative Learning book cover" />
@@ -61,6 +72,10 @@ nav: true
     grid-template-columns: 1fr;
     justify-items: center;
   }
+}
+
+.books__details--nocover {
+  grid-column: 1 / -1;
 }
 
 .books__cover img {
