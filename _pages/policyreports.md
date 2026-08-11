@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policyreports/
-title: policy reports
+title: reports
 order: 5
 description:
 nav: true
@@ -11,7 +11,7 @@ nav: true
   <div class="reports__list">
 
     <div class="reports__card">
-      <div class="reports__type reports__type--report">World Bank Working Paper</div>
+      <div class="reports__type reports__type--report">World Bank Report</div>
       <h3 class="reports__title">Refugees and Other Forcibly Displaced Populations</h3>
       <div class="reports__authors">Sandra Rozo and Guy Grossman</div>
       <div class="reports__venue">World Bank Policy Research Working Paper, 2025</div>
@@ -56,17 +56,7 @@ nav: true
     </div>
 
     <div class="reports__card">
-      <div class="reports__type reports__type--book">Book</div>
-      <h3 class="reports__title">Crime, Insecurity, and Community Policing: Experiments on Building Trust</h3>
-      <div class="reports__authors">Graeme Blair, Fotini Christia, Jeremy M. Weinstein, et al.</div>
-      <div class="reports__venue">2022, Under advance contract, Cambridge University Press.</div>
-      <div class="reports__actions">
-        <a class="reports__btn" href="https://egap.org/our-work-0/the-metaketa-initiative/round4-community-policing/" target="_blank" rel="noopener noreferrer">Webpage &rarr;</a>
-      </div>
-    </div>
-
-    <div class="reports__card">
-      <div class="reports__type reports__type--report">World Bank &amp; IOM Report</div>
+      <div class="reports__type reports__type--report">World Bank Report</div>
       <h3 class="reports__title">Economic Shocks and Human Trafficking Risks: Evidence from IOM's Victims of Human Trafficking Database</h3>
       <div class="reports__authors">Contributing author</div>
       <div class="reports__venue">World Bank and IOM, 2022. Washington, DC: World Bank.</div>
@@ -118,7 +108,7 @@ nav: true
     </div>
 
     <div class="reports__card">
-      <div class="reports__type reports__type--report">Working Paper</div>
+      <div class="reports__type reports__type--report">Policy Report</div>
       <h3 class="reports__title">Does Greater Public Transit Access Increase Employment for the Israeli-Arab Population?</h3>
       <div class="reports__authors">Guy Grossman, Diana B. Greenwald, and Amir Levi</div>
       <div class="reports__venue">Harvard Kennedy School, 2018</div>
