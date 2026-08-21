@@ -160,17 +160,18 @@ nav: true
 }
 
 .reports__card {
-  background: var(--global-card-bg-color, rgba(255,255,255,0.7));
+  background: rgba(0,0,0,0.06);
   border: none;
   border-left: 3px solid rgba(59,130,246,0.35);
   border-radius: 0 10px 10px 0;
   padding: 0.75rem 1rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  transition: border-left-color 0.2s, box-shadow 0.2s;
+  transition: border-left-color 0.2s, box-shadow 0.2s, background 0.2s;
 }
 .reports__card:hover {
   border-left-color: rgba(59,130,246,0.7);
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  background: rgba(0,0,0,0.08);
 }
 
 .reports__type {
