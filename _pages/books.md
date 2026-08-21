@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: book
+title: books
 order: 4
 description:
 nav: true
@@ -12,8 +12,8 @@ nav: true
   <div class="books__card">
     <div class="books__layout">
       <div class="books__details books__details--nocover">
-        <div class="books__series">Cambridge Elements in Political Economy</div>
         <h3 class="books__title">Liberalizing Refugee Hosting Without Losing the Vote: Compensated Inclusion in the Global South</h3>
+        <div class="books__series">Cambridge Elements in Political Economy</div>
         <div class="books__authors">With Shuning Ge and Yang-Yang Zhou</div>
         <div class="books__venue">Under contract, Cambridge University Press</div>
       </div>
@@ -28,8 +28,8 @@ nav: true
         </a>
       </div>
       <div class="books__details">
-        <div class="books__series">Cambridge Studies in Comparative Politics</div>
         <h3 class="books__title">Information, Accountability, and Cumulative Learning: Lessons from Metaketa I</h3>
+        <div class="books__series">Cambridge Studies in Comparative Politics</div>
         <div class="books__authors">With Thad Dunning, Macartan Humphreys, Susan D. Hyde, Craig McIntosh, and Gareth Nellis</div>
         <div class="books__venue">2019, Cambridge University Press</div>
         <div class="books__award"><i class="fas fa-trophy" aria-hidden="true"></i> Best Book in Experimental Research — APSA Experimental Research</div>
