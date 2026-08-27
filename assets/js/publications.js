@@ -13,6 +13,7 @@
       links: {
         webpage: "https://www.sciencedirect.com/science/article/pii/S0305750X26001920",
         pdf: "/assets/pdf/2026_BGW_WD.pdf",
+        appendix: "https://ars.els-cdn.com/content/image/1-s2.0-S0305750X26001920-mmc1.pdf",
         bibtex: `@article{blair2026community,
   title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
   author={Blair, Robert A. and Grossman, Guy and Wilke, Anna M.},
