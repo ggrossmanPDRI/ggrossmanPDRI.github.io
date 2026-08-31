@@ -7,7 +7,8 @@
       title: "Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?",
       authors: "Robert A. Blair, Guy Grossman, and Anna M. Wilke",
       journal: "World Development",
-      status: "online first",
+      volume: "208: 107502",
+      status: "",
       categories: ['Governance', 'Conflict'],
       abstract: "Community-oriented policing (COP) is one of the most widely touted mechanisms for building bridges between police forces and the communities they serve.  But evidence on the effectiveness of COP is surprisingly scant. We present results from one of the first randomized controlled trials to evaluate the impact of COP in the Global South. The COP initiative we study was locally designed and funded by the Ugandan government. Contrary to our expectations, we find no evidence that the program reduced crime, enhanced citizens’ perceptions of safety, improved their attitudes towards the police, increased crime reporting, or strengthened other norms of citizen cooperation with the police.   Nor do we find evidence that the program generated greater empathy or accountability among participating police officers themselves. We explore a variety of potential explanations for these null results, including both supply-side factors (e.g., resource constraints within the Ugandan police force) and demand-side factors (e.g., citizens’ fear of engaging with the police). We find no evidence that overcoming these obstacles would make COP more effective.  Taken together, our findings point to potential limitations of COP in low-income countries.",
       links: {
@@ -19,6 +20,8 @@
   title={Can Community Policing Improve Police-Community Relations in a Low-Income Country Setting?},
   author={Blair, Robert A. and Grossman, Guy and Wilke, Anna M.},
   journal={World Development},
+  volume={208},
+  pages={107502},
   year={2026}
 }`
       }
