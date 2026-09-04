@@ -30,7 +30,7 @@
       id: 52,
       year: 2026,
       title: "Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities",
-      authors: "Apurav Yash Bhatiya, William Dinneen, Guy Grossman, and Stephanie Zonszein",
+      authors: "Stephanie Zonszein, Apurav Yash Bhatiya, William Dinneen, and Guy Grossman",
       journal: "British Journal of Political Science",
       status: "FirstView",
       categories: ['Migration'],
@@ -38,9 +38,9 @@
       links: {
         webpage: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/calculation-and-conscience-motivations-for-the-substantive-representation-of-ethnic-minorities/EF97E64A97BAF7702E5C6308CAAF0CBF",
         pdf: "/assets/pdf/2026_ZBDG_BJoPS.pdf",
-        bibtex: `@article{bhatiya2026calculation,
+        bibtex: `@article{zonszein2026calculation,
   title={Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities},
-  author={Bhatiya, Apurav Yash and Dinneen, William and Grossman, Guy and Zonszein, Stephanie},
+  author={Zonszein, Stephanie and Bhatiya, Apurav Yash and Dinneen, William and Grossman, Guy},
   journal={British Journal of Political Science},
   year={2026}
 }`
