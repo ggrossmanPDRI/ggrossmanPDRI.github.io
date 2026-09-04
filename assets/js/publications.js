@@ -37,7 +37,7 @@
       abstract: "A vast body of work shows that minority legislators are more likely to represent their group's interests compared to dominant group legislators. However, it is unclear whether this is due to intrinsic motivations or electoral incentives. We use a regression discontinuity design (RDD) to analyze ethnic minority representation in the UK Parliament. By comparing white MPs who narrowly beat minority candidates to minority MPs who narrowly beat white candidates, the RDD controls for electoral incentives since it holds constant constituency factors correlated with a minority parliamentary win. Analyzing over 1 million parliamentary questions and speeches, we find that minority MPs are more likely than white MPs to discuss issues important to ethnic minorities. Additional evidence supports that narrowly elected MPs face similar electoral incentives, and that minority MPs representing minorities face reelection penalties. Our findings suggest that minority substantive representation is driven at least in part by intrinsic motivations.",
       links: {
         webpage: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/calculation-and-conscience-motivations-for-the-substantive-representation-of-ethnic-minorities/EF97E64A97BAF7702E5C6308CAAF0CBF",
-        pdf: "https://osf.io/preprints/osf/hfm35_v3",
+        pdf: "/assets/pdf/2026_ZBDG_BJoPS.pdf",
         bibtex: `@article{bhatiya2026calculation,
   title={Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities},
   author={Bhatiya, Apurav Yash and Dinneen, William and Grossman, Guy and Zonszein, Stephanie},
