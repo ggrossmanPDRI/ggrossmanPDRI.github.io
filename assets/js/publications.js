@@ -38,6 +38,7 @@
       links: {
         webpage: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/calculation-and-conscience-motivations-for-the-substantive-representation-of-ethnic-minorities/EF97E64A97BAF7702E5C6308CAAF0CBF",
         pdf: "/assets/pdf/2026_ZBDG_BJoPS.pdf",
+        replication: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCMRZM",
         bibtex: `@article{zonszein2026calculation,
   title={Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities},
   author={Zonszein, Stephanie and Bhatiya, Apurav Yash and Dinneen, William and Grossman, Guy},
