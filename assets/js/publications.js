@@ -1331,23 +1331,6 @@ year = {2006}
     },
 
     {
-      id: 6,
-      title: "Liberalizing Refugee Hosting Policies without Losing the Vote",
-      authors: "Yang-Yang Zhou, Naijia Liu, Shuning Ge and Guy Grossman",
-      status: "under review",
-      categories: ['Migration'],
-      abstract: "Inclusive refugee policies -- granting refugees the right to work, use public services, and move freely -- benefit both refugees and host countries' economies. Yet many governments hesitate to liberalize such policies, fearing electoral backlash. Can governments minimize backlash by pairing expansions of refugee rights with policies that reduce burdens on host communities? We examine this question in Uganda, Africa's largest refugee hosting country. Alongside refugee policy liberalization, Uganda mandated reallocating a share of refugee aid to communities near refugee centers. Combining refugee settlement data with election returns (2001--2021) and a generalized difference-in-differences design, we show first that the vote share of the incumbent president was significantly lower in areas with high refugee presence before the 2010 reforms. Afterwards, a one standard deviation increase in refugee presence was associated with a four percentage point increase in the vote share of the incumbent government. Using public goods data, public opinion surveys, newspaper data, and parliamentary speech records, we find that infrastructure investments in hosting communities and the reluctance of opposition parties to rally against popular policies account for our findings.",
-      links: {
-        pdf: "https://osf.io/preprints/osf/94tpy_v5",
-        bibtex: `@unpublished{grossman2024liberalizing,
-  title={Liberalizing Refugee Hosting Policies without Losing the Vote},
-  author={Zhou, Yang-Yang and Liu, Naijia and  Ge, Shuning and Grossman, Guy},
-  note={Under review},
-  year={2025}
-}`
-      }
-    },
- {
       id: 7,
       title: "Cutting humanitarian aid raises debt and lowers schooling without building refugees' self-reliance",
       authors: "Shelby Carvalho, Yang-Yang Zhou, Iman Dahr, and Guy Grossman",
@@ -1359,6 +1342,23 @@ year = {2006}
         bibtex: `@unpublished{grossman2025aidcut,
   title={Cutting humanitarian aid raises debt and lowers schooling without building refugees' self-reliance},
   author={Carvalho, Shelby and Zhou, Yang-Yang and Dahr, Iman and Grossman, Guy},
+  note={Under review},
+  year={2026}
+}`
+      }
+    },
+    {
+      id: 8,
+      title: "The Dataset of World Refugee and Asylum Policies (DWRAP): de jure asylum policy for 205 countries, 1951-2022",
+      authors: "Christopher W. Blair, Guy Grossman, and Jeremy M. Weinstein",
+      status: "under review",
+      categories: ['Migration'],
+      abstract: "More than two-thirds of the world's refugees and asylum-seekers are hosted in the developing world, yet the national laws governing their reception have never been measured comprehensively across countries or over time. We introduce the Dataset of World Refugee and Asylum Policies (DWRAP), the most expansive coding of de jure asylum and refugee policy assembled to date. DWRAP records every national law pertinent to forcibly displaced populations in 205 countries from 1951 to 2022—951 legal instruments in all. From the text of each law, we hand-code 54 policy provisions, which we aggregate into 14 strands, five fields—access, services, livelihoods, movement, and participation—and a single index of policy liberality, released in three aggregation forms. The result is a country-year panel of 11,484 observations measuring displacement-policy liberality within and across countries over seven decades. Together, these data open the causes and consequences of refugee-policy change to global, historical analysis. They measure law rather than its enforcement—and so make the distance between the two visible and measurable.",
+      links: {
+        pdf: "https://osf.io/preprints/socarxiv/6uqkt_v1",
+        bibtex: `@unpublished{blair2026dwrap,
+  title={The Dataset of World Refugee and Asylum Policies (DWRAP): de jure asylum policy for 205 countries, 1951-2022},
+  author={Blair, Christopher W. and Grossman, Guy and Weinstein, Jeremy M.},
   note={Under review},
   year={2026}
 }`
