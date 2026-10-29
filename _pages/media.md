@@ -11,6 +11,13 @@ nav: true
   <div class="media__items">
 
     <div class="media__card">
+      <div class="media__type media__type--article">Blog post</div>
+      <h3 class="media__title">Israel's October 27 Election: Early Results and Coalition Scenarios</h3>
+      <div class="media__meta">October 2026</div>
+      <a class="media__link" href="/assets/pdf/Israel_Election_Oct27_clean.pdf" target="_blank" rel="noopener noreferrer">Read &rarr;</a>
+    </div>
+
+    <div class="media__card">
       <div class="media__type media__type--talk">Talk</div>
       <h3 class="media__title">Legal Briefs: Short Talks on Legal Innovations</h3>
       <div class="media__meta">World Bank LJD Week &middot; November 2025</div>
